@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "question": "After hosting Trump, what did China's leader Xi Jinping call for in the Middle East?",
+    "options": ["A halt to fighting", "Increased military presence", "New economic sanctions", "Closer trade ties"],
+    "correctAnswer": "A halt to fighting"
+  },
+  {
+    "id": 2,
+    "question": "What was Xi Jinping's stated stance on Russia's war in Ukraine, according to the headline?",
+    "options": ["He condemned it", "He ignored it", "He offered mediation", "He expressed support for it"],
+    "correctAnswer": "He ignored it"
+  },
+  {
+    "id": 3,
+    "question": "Which country did China's leader Xi Jinping take a veiled swipe at during his recent diplomatic engagements?",
+    "options": ["Russia", "Iran", "The United States", "South Korea"],
+    "correctAnswer": "The United States"
+  },
+  {
+    "id": 4,
+    "question": "According to the headline, what method did Iran use to gain leverage in the war?",
+    "options": ["Economic diplomacy", "Direct military confrontation", "Triangular coercion", "International sanctions"],
+    "correctAnswer": "Triangular coercion"
+  },
+  {
+    "id": 5,
+    "question": "Which body of water did Iran attack Gulf states and close as part of its strategy to gain leverage?",
+    "options": ["Suez Canal", "Persian Gulf", "Strait of Hormuz", "Red Sea"],
+    "correctAnswer": "Strait of Hormuz"
+  },
+  {
+    "id": 6,
+    "question": "Who stated that the Ebola outbreak in central Africa was 'not a pandemic emergency'?",
+    "options": ["Tedros Adhanom Ghebreyesus", "Anthony Fauci", "Angela Merkel", "Emmanuel Macron"],
+    "correctAnswer": "Tedros Adhanom Ghebreyesus"
+  },
+  {
+    "id": 7,
+    "question": "Where did the Ebola outbreak, assessed by the W.H.O. head, occur?",
+    "options": ["West Africa", "Southeast Asia", "Central Africa", "South America"],
+    "correctAnswer": "Central Africa"
+  },
+  {
+    "id": 8,
+    "question": "What did the W.H.O. head say the Ebola outbreak was unlikely to become?",
+    "options": ["A regional crisis", "A global threat", "A localized epidemic", "A minor health concern"],
+    "correctAnswer": "A global threat"
+  },
+  {
+    "id": 9,
+    "question": "In Japan, what type of transient criminal network is suspected of directing the killing of a woman?",
+    "options": ["Yakuza", "Triad", "Tokuryu", "Mafia"],
+    "correctAnswer": "Tokuryu"
+  },
+  {
+    "id": 10,
+    "question": "How many teenage boys were arrested in connection with the killing of a woman in Japan?",
+    "options": ["Two", "Three", "Four", "Five"],
+    "correctAnswer": "Four"
+  },
+  {
+    "id": 11,
+    "question": "What was Christian Nègre's profession, as described in the headline?",
+    "options": ["Journalist", "Civil Servant", "Police Officer", "Doctor"],
+    "correctAnswer": "Civil Servant"
+  },
+  {
+    "id": 12,
+    "question": "What substance is Christian Nègre accused of slipping into women’s drinks?",
+    "options": ["Sedatives", "Diuretics", "Stimulants", "Alcohol"],
+    "correctAnswer": "Diuretics"
+  },
+  {
+    "id": 13,
+    "question": "Despite admitting some accusations in an interview, what is Christian Nègre yet to do?",
+    "options": ["Be sentenced", "Appear in court", "Stand trial", "Pay reparations"],
+    "correctAnswer": "Stand trial"
+  },
+  {
+    "id": 14,
+    "question": "What did Iran threaten to do if the U.S. resumes attacks?",
+    "options": ["Increase oil production", "Withdraw from nuclear talks", "Strike beyond the Middle East", "Seek assistance from Russia"],
+    "correctAnswer": "Strike beyond the Middle East"
+  },
+  {
+    "id": 15,
+    "question": "Which U.S. President was mentioned in talks with China where tariffs were discussed?",
+    "options": ["President Biden", "President Trump", "President Obama", "President Bush"],
+    "correctAnswer": "President Trump"
+  },
+  {
+    "id": 16,
+    "question": "What type of planes did China confirm it would buy?",
+    "options": ["Airbus planes", "Boeing planes", "Fighter jets", "Cargo planes"],
+    "correctAnswer": "Boeing planes"
+  },
+  {
+    "id": 17,
+    "question": "How many planes did China confirm it would buy from Boeing?",
+    "options": ["100", "150", "200", "250"],
+    "correctAnswer": "200"
+  },
+  {
+    "id": 18,
+    "question": "What event triggered intense emotions in some older South Koreans, despite low diplomatic relations?",
+    "options": ["A cultural festival", "A trade negotiation", "A soccer game between North and South Korean teams", "A joint military exercise"],
+    "correctAnswer": "A soccer game between North and South Korean teams"
+  },
+  {
+    "id": 19,
+    "question": "How are diplomatic relations between North and South Korea described in the headline?",
+    "options": ["Thriving", "Improving", "Near a historic low", "Stable"],
+    "correctAnswer": "Near a historic low"
+  },
+  {
+    "id": 20,
+    "question": "Who abruptly left his job as Deputy British Ambassador to the U.S.?",
+    "options": ["John Smith", "James Roscoe", "David Cameron", "Boris Johnson"],
+    "correctAnswer": "James Roscoe"
+  },
+  {
+    "id": 21,
+    "question": "Where did James Roscoe previously work, besides for the royal family?",
+    "options": ["European Union", "United Nations", "World Bank", "NATO"],
+    "correctAnswer": "United Nations"
+  },
+  {
+    "id": 22,
+    "question": "What was the nature of James Roscoe's departure from his role as Deputy British Ambassador?",
+    "options": ["For a promotion", "Due to health reasons", "Without an immediate explanation", "To retire"],
+    "correctAnswer": "Without an immediate explanation"
+  },
+  {
+    "id": 23,
+    "question": "The bodies of the last two missing Italian divers were recovered in which country?",
+    "options": ["Indonesia", "Thailand", "The Maldives", "Philippines"],
+    "correctAnswer": "The Maldives"
+  },
+  {
+    "id": 24,
+    "question": "What nationality were the divers who died exploring deep underwater caves?",
+    "options": ["French", "British", "American", "Italian"],
+    "correctAnswer": "Italian"
+  },
+  {
+    "id": 25,
+    "question": "How many divers, in total, died on the trip to explore deep underwater caves in the Indian Ocean?",
+    "options": ["Two", "Three", "Five", "Ten"],
+    "correctAnswer": "Five"
+  }
+]
