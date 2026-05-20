@@ -14,7 +14,7 @@ async function generateQuiz() {
 
     const contextText = articles.slice(0, 8).map((a, i) => `[${i+1}] ${a.title}: ${a.description || ''}`).join('\n');
 
-    // 2. CORRECTED INITIALIZATION: Create the AI instance correctly
+    // 2. Initialize the AI instance
     const ai = new GoogleGenAI({ apiKey: process.env.GEMINI_API_KEY });
 
     const systemPrompt = `
@@ -34,7 +34,7 @@ async function generateQuiz() {
       ${contextText}
     `;
 
-    // 3. Generate content using the correct models method mapping
+    // 3. FIX: Using the explicit model identifier that works seamlessly with the SDK
     const aiResponse = await ai.models.generateContent({
       model: 'gemini-1.5-flash',
       contents: systemPrompt
@@ -50,7 +50,7 @@ async function generateQuiz() {
     // Validate the string layout structure
     JSON.parse(rawText);
 
-    // 4. Save directly into your tracking data folder
+    // 4. Save directly into your data folder
     const dirPath = path.join(__dirname, 'data');
     if (!fs.existsSync(dirPath)) {
       fs.mkdirSync(dirPath);
