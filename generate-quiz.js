@@ -11,11 +11,13 @@ async function generateQuiz() {
     const articles = newsResponse.data.items || [];
     if (articles.length === 0) throw new Error("No news articles found today.");
 
-    const contextText = articles.slice(0, 8).map((a, i) => `[${i+1}] ${a.title}: ${a.description || ''}`).join('\n');
+    // UPGRADE: Increased intake from 8 to 30 articles to provide a richer news pool for 25 questions
+    const contextText = articles.slice(0, 30).map((a, i) => `[${i+1}] ${a.title}: ${a.description || ''}`).join('\n');
 
     // 2. Build the structural quizmaster layout prompt
+    // UPGRADE: Instructing the model to scale cleanly to exactly 25 questions
     const systemPrompt = `
-      You are an expert quiz master. Based strictly on the news headlines provided below, generate exactly 5 multiple-choice questions.
+      You are an expert quiz master. Based strictly on the news headlines provided below, generate exactly 25 distinct multiple-choice questions. Ensure a balanced distribution across the various headlines provided.
       
       Return ONLY a valid, raw JSON array matching this exact schema layout with no code blocks, no markdown formatting, and no conversational text:
       [
@@ -31,7 +33,7 @@ async function generateQuiz() {
       ${contextText}
     `;
 
-    // 3. ZERO-ERROR RE-MAPPED URL: Points to the fully active gemini-2.5-flash API tier
+    // 3. Native Request Endpoint
     const apiKey = process.env.GEMINI_API_KEY;
     const apiUrl = `https://generativelanguage.googleapis.com/v1/models/gemini-2.5-flash:generateContent?key=${apiKey}`;
 
@@ -47,7 +49,6 @@ async function generateQuiz() {
       ]
     });
 
-    // Validate backend object parsing tree
     if (!aiResponse.data.candidates || !aiResponse.data.candidates[0].content) {
       throw new Error("Empty or invalid object branch structure returned from Gemini API.");
     }
@@ -69,7 +70,7 @@ async function generateQuiz() {
     }
     
     fs.writeFileSync(path.join(dirPath, 'today.json'), rawText, 'utf8');
-    console.log("Daily quiz data successfully saved to data/today.json!");
+    console.log("Daily quiz data successfully saved to data/today.json with 25 questions!");
 
   } catch (error) {
     console.error("Quiz Generator Error:", error.message);
