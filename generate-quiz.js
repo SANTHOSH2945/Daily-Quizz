@@ -13,7 +13,7 @@ async function generateQuiz() {
 
     const contextText = articles.slice(0, 8).map((a, i) => `[${i+1}] ${a.title}: ${a.description || ''}`).join('\n');
 
-    // 2. Build the system prompt
+    // 2. Build the master prompt
     const systemPrompt = `
       You are an expert quiz master. Based strictly on the news headlines provided below, generate exactly 5 multiple-choice questions.
       
@@ -31,25 +31,30 @@ async function generateQuiz() {
       ${contextText}
     `;
 
-    // 3. UPDATED ENDPOINT URL: Using the stable v1 path structure
+    // 3. UNIVERSAL STABLE ENDPOINT: This layout bypasses versioning glitches entirely
     const apiKey = process.env.GEMINI_API_KEY;
-    const apiUrl = `https://generativelanguage.googleapis.com/v1/models/gemini-1.5-flash:generateContent?key=${apiKey}`;
+    const apiUrl = `https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=${apiKey}`;
 
     const aiResponse = await axios.post(apiUrl, {
-      contents: [{ parts: [{ text: systemPrompt }] }]
+      contents: [{
+        parts: [{
+          text: systemPrompt
+        }]
+      }]
     });
 
+    // Extract text safely using the core JSON tree format
     let rawText = aiResponse.data.candidates[0].content.parts[0].text.trim();
 
-    // Clean up rogue markdown code blocks if the model returns them
+    // Clean up rogue markdown code blocks if the model appends them
     if (rawText.includes('```')) {
       rawText = rawText.replace(/```json/g, '').replace(/```/g, '').trim();
     }
 
-    // Validate structural alignment sanity check
+    // Validate structural integrity sanity check
     JSON.parse(rawText);
 
-    // 4. Save directly into your data folder
+    // 4. Save directly into your tracking folder
     const dirPath = path.join(__dirname, 'data');
     if (!fs.existsSync(dirPath)) {
       fs.mkdirSync(dirPath);
