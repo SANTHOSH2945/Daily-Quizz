@@ -31,19 +31,27 @@ async function generateQuiz() {
       ${contextText}
     `;
 
-    // 3. UNIVERSAL STABLE ENDPOINT: This layout bypasses versioning glitches entirely
+    // 3. CORRECTED PAYLOAD STRUCTURE: Passing the exact object mapping the API requires
     const apiKey = process.env.GEMINI_API_KEY;
     const apiUrl = `https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=${apiKey}`;
 
     const aiResponse = await axios.post(apiUrl, {
-      contents: [{
-        parts: [{
-          text: systemPrompt
-        }]
-      }]
+      contents: [
+        {
+          parts: [
+            {
+              text: systemPrompt
+            }
+          ]
+        }
+      ]
     });
 
-    // Extract text safely using the core JSON tree format
+    // Handle structural layout checks
+    if (!aiResponse.data.candidates || !aiResponse.data.candidates[0].content) {
+      throw new Error("Invalid response structural format returned from Gemini API");
+    }
+
     let rawText = aiResponse.data.candidates[0].content.parts[0].text.trim();
 
     // Clean up rogue markdown code blocks if the model appends them
@@ -65,6 +73,9 @@ async function generateQuiz() {
 
   } catch (error) {
     console.error("Quiz Generator Error:", error.message);
+    if (error.response && error.response.data) {
+      console.error("API Detailed Error:", JSON.stringify(error.response.data));
+    }
     process.exit(1); 
   }
 }
