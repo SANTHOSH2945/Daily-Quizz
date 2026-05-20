@@ -31,19 +31,23 @@ async function generateQuiz() {
       ${contextText}
     `;
 
-    // 3. Direct Native HTTP Request - Completely bypasses all library/SDK naming bugs
+    // 3. FIXED PRODUCTION URL: Using the stable v1 endpoint path
     const apiKey = process.env.GEMINI_API_KEY;
-    const apiUrl = `https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=${apiKey}`;
+    const apiUrl = `https://generativelanguage.googleapis.com/v1/models/gemini-1.5-flash:generateContent?key=${apiKey}`;
 
     const aiResponse = await axios.post(apiUrl, {
-      contents: [{
-        parts: [{
-          text: systemPrompt
-        }]
-      }]
+      contents: [
+        {
+          parts: [
+            {
+              text: systemPrompt
+            }
+          ]
+        }
+      ]
     });
 
-    // Extract data cleanly through the API JSON response tree
+    // Handle structural layout checks
     if (!aiResponse.data.candidates || !aiResponse.data.candidates[0].content) {
       throw new Error("Empty or invalid response from Gemini API backend.");
     }
