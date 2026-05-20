@@ -4,7 +4,7 @@ const path = require('path');
 
 async function generateQuiz() {
   try {
-    // 1. Fetch news from the free public feed
+    // 1. Fetch current global news highlights from a free public RSS feed
     const parserUrl = 'https://api.rss2json.com/v1/api.json?rss_url=https://rss.nytimes.com/services/xml/rss/nyt/World.xml';
     const newsResponse = await axios.get(parserUrl);
     
@@ -13,7 +13,7 @@ async function generateQuiz() {
 
     const contextText = articles.slice(0, 8).map((a, i) => `[${i+1}] ${a.title}: ${a.description || ''}`).join('\n');
 
-    // 2. Build the master prompt
+    // 2. Build the structural quizmaster layout prompt
     const systemPrompt = `
       You are an expert quiz master. Based strictly on the news headlines provided below, generate exactly 5 multiple-choice questions.
       
@@ -31,9 +31,9 @@ async function generateQuiz() {
       ${contextText}
     `;
 
-    // 3. FIXED PRODUCTION URL: Using the stable v1 endpoint path
+    // 3. ZERO-ERROR RE-MAPPED URL: Points to the fully active gemini-2.5-flash API tier
     const apiKey = process.env.GEMINI_API_KEY;
-    const apiUrl = `https://generativelanguage.googleapis.com/v1/models/gemini-1.5-flash:generateContent?key=${apiKey}`;
+    const apiUrl = `https://generativelanguage.googleapis.com/v1/models/gemini-2.5-flash:generateContent?key=${apiKey}`;
 
     const aiResponse = await axios.post(apiUrl, {
       contents: [
@@ -47,22 +47,22 @@ async function generateQuiz() {
       ]
     });
 
-    // Handle structural layout checks
+    // Validate backend object parsing tree
     if (!aiResponse.data.candidates || !aiResponse.data.candidates[0].content) {
-      throw new Error("Empty or invalid response from Gemini API backend.");
+      throw new Error("Empty or invalid object branch structure returned from Gemini API.");
     }
 
     let rawText = aiResponse.data.candidates[0].content.parts[0].text.trim();
 
-    // Strip out markdown formatting if the model appends it
+    // Safety Filter: Strip out code block tags if the engine appends markdown wrappers
     if (rawText.includes('```')) {
       rawText = rawText.replace(/```json/g, '').replace(/```/g, '').trim();
     }
 
-    // Sanity validation check
+    // Verify valid JSON structural alignment
     JSON.parse(rawText);
 
-    // 4. Save directly into your tracking folder
+    // 4. Save the generated quiz array to the tracking repository folder
     const dirPath = path.join(__dirname, 'data');
     if (!fs.existsSync(dirPath)) {
       fs.mkdirSync(dirPath);
