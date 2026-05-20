@@ -1,4 +1,5 @@
 const axios = require('axios');
+const { GoogleGenAI } = require('@google/genai');
 const fs = require('fs');
 const path = require('path');
 
@@ -13,7 +14,9 @@ async function generateQuiz() {
 
     const contextText = articles.slice(0, 8).map((a, i) => `[${i+1}] ${a.title}: ${a.description || ''}`).join('\n');
 
-    // 2. Build the master prompt
+    // 2. Initialize official updated client
+    const ai = new GoogleGenAI({ apiKey: process.env.GEMINI_API_KEY });
+
     const systemPrompt = `
       You are an expert quiz master. Based strictly on the news headlines provided below, generate exactly 5 multiple-choice questions.
       
@@ -31,38 +34,23 @@ async function generateQuiz() {
       ${contextText}
     `;
 
-    // 3. CORRECTED PAYLOAD STRUCTURE: Passing the exact object mapping the API requires
-    const apiKey = process.env.GEMINI_API_KEY;
-    const apiUrl = `https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=${apiKey}`;
-
-    const aiResponse = await axios.post(apiUrl, {
-      contents: [
-        {
-          parts: [
-            {
-              text: systemPrompt
-            }
-          ]
-        }
-      ]
+    // 3. Request Content via the official modern models mapping
+    const aiResponse = await ai.models.generateContent({
+      model: 'gemini-1.5-flash',
+      contents: systemPrompt
     });
 
-    // Handle structural layout checks
-    if (!aiResponse.data.candidates || !aiResponse.data.candidates[0].content) {
-      throw new Error("Invalid response structural format returned from Gemini API");
-    }
+    let rawText = aiResponse.text.trim();
 
-    let rawText = aiResponse.data.candidates[0].content.parts[0].text.trim();
-
-    // Clean up rogue markdown code blocks if the model appends them
+    // Clean up rogue markdown wrappers if the model forces them
     if (rawText.includes('```')) {
       rawText = rawText.replace(/```json/g, '').replace(/```/g, '').trim();
     }
 
-    // Validate structural integrity sanity check
+    // Validate structure sanity check
     JSON.parse(rawText);
 
-    // 4. Save directly into your tracking folder
+    // 4. Save directly into the active tracking folder
     const dirPath = path.join(__dirname, 'data');
     if (!fs.existsSync(dirPath)) {
       fs.mkdirSync(dirPath);
@@ -73,9 +61,6 @@ async function generateQuiz() {
 
   } catch (error) {
     console.error("Quiz Generator Error:", error.message);
-    if (error.response && error.response.data) {
-      console.error("API Detailed Error:", JSON.stringify(error.response.data));
-    }
     process.exit(1); 
   }
 }
