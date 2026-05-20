@@ -1,11 +1,11 @@
 const axios = require('axios');
-const { GoogleGenAI } = require('@google/generative-ai');
+const { GoogleGenAI } = require('@google/genai');
 const fs = require('fs');
 const path = require('path');
 
 async function generateQuiz() {
   try {
-    // Fetch global news summaries via a free public RSS feed
+    // 1. Fetch news from free public feed
     const parserUrl = 'https://api.rss2json.com/v1/api.json?rss_url=https://rss.nytimes.com/services/xml/rss/nyt/World.xml';
     const newsResponse = await axios.get(parserUrl);
     
@@ -14,20 +14,19 @@ async function generateQuiz() {
 
     const contextText = articles.slice(0, 8).map((a, i) => `[${i+1}] ${a.title}: ${a.description || ''}`).join('\n');
 
-    // Initialize Gemini API
+    // 2. Initialize official updated client
     const ai = new GoogleGenAI({ apiKey: process.env.GEMINI_API_KEY });
-    const model = ai.getGenerativeModel({ model: 'gemini-2.5-flash' });
 
     const systemPrompt = `
       You are an expert quiz master. Based strictly on the news headlines provided below, generate exactly 5 multiple-choice questions.
       
-      Return ONLY a valid, raw JSON array matching this exact schema layout, with no markdown formatting, no code blocks, and no extra text:
+      Return ONLY a valid, raw JSON array matching this exact schema layout with no code blocks, no markdown formatting, and no conversational text:
       [
         {
           "id": 1,
-          "question": "Question string based on the news",
+          "question": "Clear question text based on recent news",
           "options": ["Option A", "Option B", "Option C", "Option D"],
-          "correctAnswer": "The exact string matching the correct option"
+          "correctAnswer": "The exact option string that is correct"
         }
       ]
 
@@ -35,28 +34,33 @@ async function generateQuiz() {
       ${contextText}
     `;
 
-    const aiResponse = await model.generateContent(systemPrompt);
-    let rawText = aiResponse.response.text().trim();
+    // 3. Request Content via the official modern models object schema
+    const aiResponse = await ai.models.generateContent({
+      model: 'gemini-2.5-flash',
+      contents: systemPrompt
+    });
 
-    // SAFETY FILTER: Strip out rogue markdown formatting backticks if Gemini adds them
+    let rawText = aiResponse.text.trim();
+
+    // Clean up rogue markdown wrappers if the model forces them
     if (rawText.includes('```')) {
       rawText = rawText.replace(/```json/g, '').replace(/```/g, '').trim();
     }
 
-    // Double-check alignment formatting to make it clean
+    // Validate structure sanity check
     JSON.parse(rawText);
 
-    // Save the file cleanly into your data folder
+    // 4. Save directly into the active tracking folder
     const dirPath = path.join(__dirname, 'data');
     if (!fs.existsSync(dirPath)) {
       fs.mkdirSync(dirPath);
     }
     
     fs.writeFileSync(path.join(dirPath, 'today.json'), rawText, 'utf8');
-    console.log("Daily quiz successfully updated in data/today.json!");
+    console.log("Daily quiz data successfully saved!");
 
   } catch (error) {
-    console.error("Critical Generation Failure:", error.message);
+    console.error("Quiz Generator Error:", error.message);
     process.exit(1); 
   }
 }
