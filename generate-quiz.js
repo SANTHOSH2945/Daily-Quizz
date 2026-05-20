@@ -31,9 +31,9 @@ async function generateQuiz() {
       ${contextText}
     `;
 
-    // 3. Direct API call bypassing the SDK structure entirely
+    // 3. UPDATED ENDPOINT URL: Using the stable v1 path structure
     const apiKey = process.env.GEMINI_API_KEY;
-    const apiUrl = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${apiKey}`;
+    const apiUrl = `https://generativelanguage.googleapis.com/v1/models/gemini-1.5-flash:generateContent?key=${apiKey}`;
 
     const aiResponse = await axios.post(apiUrl, {
       contents: [{ parts: [{ text: systemPrompt }] }]
