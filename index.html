@@ -1,0 +1,328 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>Daily Current Affairs Quiz</title>
+  <style>
+    :root {
+      --bg-color: #0f172a;
+      --card-bg: #1e293b;
+      --text-main: #f8fafc;
+      --text-muted: #94a3b8;
+      --primary: #3b82f6;
+      --success: #10b981;
+      --error: #ef4444;
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      -webkit-tap-highlight-color: transparent;
+    }
+
+    body {
+      background-color: var(--bg-color);
+      color: var(--text-main);
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+      padding: 16px;
+    }
+
+    .quiz-container {
+      width: 100%;
+      max-width: 500px;
+      background: var(--card-bg);
+      border-radius: 16px;
+      padding: 24px;
+      box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.3);
+    }
+
+    /* Header & Progress Stats */
+    .quiz-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 16px;
+    }
+
+    .status-text {
+      font-size: 14px;
+      font-weight: 600;
+      color: var(--text-muted);
+    }
+
+    .timer-badge {
+      background: rgba(239, 68, 68, 0.15);
+      color: var(--error);
+      padding: 6px 12px;
+      border-radius: 20px;
+      font-weight: 700;
+      font-variant-numeric: tabular-nums;
+    }
+
+    /* Track bar */
+    .progress-bar-container {
+      width: 100%;
+      height: 6px;
+      background: #334155;
+      border-radius: 3px;
+      margin-bottom: 24px;
+      overflow: hidden;
+    }
+
+    .progress-fill {
+      height: 100%;
+      width: 0%;
+      background: var(--primary);
+      transition: width 0.4s ease;
+    }
+
+    /* Main Question Typography */
+    .question-text {
+      font-size: 18px;
+      line-height: 1.5;
+      font-weight: 600;
+      margin-bottom: 24px;
+    }
+
+    /* Interactive Options List Layout */
+    .options-list {
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+
+    .option-btn {
+      width: 100%;
+      background: #334155;
+      color: var(--text-main);
+      border: 2px solid transparent;
+      padding: 16px;
+      border-radius: 12px;
+      text-align: left;
+      font-size: 15px;
+      font-weight: 500;
+      cursor: pointer;
+      transition: all 0.2s ease;
+    }
+
+    /* State modifications applied dynamically via JavaScript */
+    .option-btn.selected-correct {
+      background: rgba(16, 185, 129, 0.2) !important;
+      border-color: var(--success) !important;
+      color: #34d399;
+    }
+
+    .option-btn.selected-incorrect {
+      background: rgba(239, 64, 64, 0.2) !important;
+      border-color: var(--error) !important;
+      color: #f87171;
+    }
+
+    .option-btn:disabled {
+      cursor: not-allowed;
+      opacity: 0.6;
+    }
+
+    /* Results and Error Views */
+    .hidden {
+      display: none !important;
+    }
+
+    .center-view {
+      text-align: center;
+      padding: 16px 0;
+    }
+
+    .score-display {
+      font-size: 48px;
+      font-weight: 800;
+      color: var(--primary);
+      margin: 16px 0;
+    }
+
+    .retry-btn {
+      margin-top: 24px;
+      background: var(--primary);
+      color: white;
+      border: none;
+      padding: 12px 28px;
+      border-radius: 8px;
+      font-weight: 600;
+      font-size: 16px;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="quiz-container">
+    <!-- 1. LOADING SCREEN -->
+    <div id="loading-view" class="center-view">
+      <p class="status-text">Fetching latest current affairs...</p>
+    </div>
+
+    <!-- 2. LIVE QUIZ INTERFACE -->
+    <div id="quiz-view" class="hidden">
+      <div class="quiz-header">
+        <span id="progress-text" class="status-text">Question 1/5</span>
+        <span id="timer" class="timer-badge">30s</span>
+      </div>
+      <div class="progress-bar-container">
+        <div id="progress-fill" class="progress-fill"></div>
+      </div>
+      <div id="question" class="question-text">Loading question content...</div>
+      <div id="options" class="options-list"></div>
+    </div>
+
+    <!-- 3. FINAL SUMMARY VIEW -->
+    <div id="results-view" class="center-view hidden">
+      <h2>Quiz Complete!</h2>
+      <p class="status-text" style="margin-top: 8px;">Your Performance Summary</p>
+      <div id="score" class="score-display">0 / 0</div>
+      <p id="feedback-msg">Good effort!</p>
+      <button class="retry-btn" onclick="location.reload()">Try Again</button>
+    </div>
+  </div>
+
+  <script>
+    // State Tracking
+    let questions = [];
+    let currentIndex = 0;
+    let score = 0;
+    let timerInterval = null;
+    let timeLeft = 30;
+
+    // DOM Selectors
+    const loadingView = document.getElementById('loading-view');
+    const quizView = document.getElementById('quiz-view');
+    const resultsView = document.getElementById('results-view');
+    const questionEl = document.getElementById('question');
+    const optionsContainer = document.getElementById('options');
+    const progressText = document.getElementById('progress-text');
+    const progressFill = document.getElementById('progress-fill');
+    const timerEl = document.getElementById('timer');
+    const scoreEl = document.getElementById('score');
+    const feedbackMsg = document.getElementById('feedback-msg');
+
+    // Fetch static data/today.json updated automatically via GitHub actions workflow
+    async function initQuiz() {
+      try {
+        const response = await fetch('./data/today.json');
+        if (!response.ok) throw new Error('Data file not found');
+        questions = await response.json();
+        
+        loadingView.classList.add('hidden');
+        quizView.classList.remove('hidden');
+        renderQuestion();
+      } catch (err) {
+        loadingView.innerHTML = `<p class="status-text" style="color:var(--error)">Failed to load today's quiz. Please check back shortly.</p>`;
+        console.error(err);
+      }
+    }
+
+    function renderQuestion() {
+      // Reset variables per question
+      clearInterval(timerInterval);
+      timeLeft = 30;
+      timerEl.textContent = `${timeLeft}s`;
+      
+      const currentQuestion = questions[currentIndex];
+      
+      // Update Progress Bars and Labels
+      progressText.textContent = `Question ${currentIndex + 1}/${questions.length}`;
+      progressFill.style.width = `${((currentIndex + 1) / questions.length) * 100}%`;
+      
+      // Render text content safely
+      questionEl.textContent = currentQuestion.question;
+      optionsContainer.innerHTML = '';
+
+      // Map through multiple choice configurations
+      currentQuestion.options.forEach(option => {
+        const button = document.createElement('button');
+        button.className = 'option-btn';
+        button.textContent = option;
+        // Listen directly to tap events natively on touch displays
+        button.addEventListener('click', () => handleSelection(button, option, currentQuestion.correctAnswer));
+        optionsContainer.appendChild(button);
+      });
+
+      startTimer();
+    }
+
+    function startTimer() {
+      timerInterval = setInterval(() => {
+        timeLeft--;
+        timerEl.textContent = `${timeLeft}s`;
+        
+        if (timeLeft <= 0) {
+          clearInterval(timerInterval);
+          handleTimeout();
+        }
+      }, 1000);
+    }
+
+    function handleSelection(selectedButton, selectedValue, correctValue) {
+      clearInterval(timerInterval);
+      
+      // Lock touch interaction targets immediately
+      const allButtons = document.querySelectorAll('.option-btn');
+      allButtons.forEach(btn => btn.disabled = true);
+
+      // Evaluate score emulsion rules and apply targeted visual states
+      if (selectedValue === correctValue) {
+        selectedButton.classList.add('selected-correct');
+        score++;
+      } else {
+        selectedButton.classList.add('selected-incorrect');
+        // Assist user visually by flashing the true missed answer target green
+        allButtons.forEach(btn => {
+          if (btn.textContent === correctValue) btn.classList.add('selected-correct');
+        });
+      }
+
+      advanceSequence();
+    }
+
+    function handleTimeout() {
+      const allButtons = document.querySelectorAll('.option-btn');
+      allButtons.forEach(btn => {
+        btn.disabled = true;
+        if (btn.textContent === questions[currentIndex].correctAnswer) {
+          btn.classList.add('selected-correct');
+        }
+      });
+      advanceSequence();
+    }
+
+    function advanceSequence() {
+      setTimeout(() => {
+        currentIndex++;
+        if (currentIndex < questions.length) {
+          renderQuestion();
+        } else {
+          showResults();
+        }
+      }, 1500); // 1.5 second pacing buffer delay
+    }
+
+    function showResults() {
+      quizView.classList.add('hidden');
+      resultsView.classList.remove('hidden');
+      scoreEl.textContent = `${score} / ${questions.length}`;
+      
+      const ratio = score / questions.length;
+      if (ratio === 1) feedbackMsg.textContent = "Flawless Performance! Absolute mastery.";
+      else if (ratio >= 0.7) feedbackMsg.textContent = "Great job! Excellent grasp of recent current events.";
+      else feedbackMsg.textContent = "Keep reading the news! Try again tomorrow.";
+    }
+
+    // Trigger on startup
+    initQuiz();
+  </script>
+</body>
+</html>
