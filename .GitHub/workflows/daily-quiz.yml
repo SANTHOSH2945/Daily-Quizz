@@ -1,18 +1,16 @@
-
 yaml
+
 
 name: Generate Daily Current Affairs Quiz
 
 on:
   schedule:
-    # Runs automatically every day at 00:00 UTC (5:30 AM IST)
     - cron: '0 0 * * *'
-  workflow_dispatch: # Allows you to manually trigger the quiz generation from the GitHub app/website anytime
+  workflow_dispatch:
 
 jobs:
   build-and-generate:
     runs-on: ubuntu-latest
-
     steps:
     - name: Checkout repository code
       uses: actions/checkout@v4
@@ -20,7 +18,6 @@ jobs:
     - name: Set up Node.js environment
       uses: actions/setup-node@v4
       with:
-        node-cache: 'npm'
         node-version: '20'
 
     - name: Install dependencies
@@ -39,6 +36,5 @@ jobs:
         git config --global user.name "github-actions[bot]"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
         git add data/today.json
-        # Only commit if the file actually changed to avoid empty build loops
         git diff-index --quiet HEAD || git commit -m "Automated update: Today's Quiz [Skip CI]"
         git push
