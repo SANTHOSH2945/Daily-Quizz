@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "question": "According to the news, what did China's leader Xi Jinping call for regarding the Middle East?",
+    "options": ["Increased military intervention", "A halt to fighting", "New trade agreements", "Support for specific factions"],
+    "correctAnswer": "A halt to fighting"
+  },
+  {
+    "id": 2,
+    "question": "Who is identified as the Director-General of the World Health Organization (W.H.O.) in the provided news?",
+    "options": ["Anthony Fauci", "Tedros Adhanom Ghebreyesus", "Christian Nègre", "James Roscoe"],
+    "correctAnswer": "Tedros Adhanom Ghebreyesus"
+  },
+  {
+    "id": 3,
+    "question": "In which country did a killing occur that stirred fears of 'tokuryu' crime rings, leading to the arrest of four teenage boys?",
+    "options": ["China", "France", "Japan", "United States"],
+    "correctAnswer": "Japan"
+  },
+  {
+    "id": 4,
+    "question": "What substance was Christian Nègre, a French civil servant, accused of slipping into women's drinks?",
+    "options": ["Sedatives", "Diuretics", "Alcohol", "Poisons"],
+    "correctAnswer": "Diuretics"
+  },
+  {
+    "id": 5,
+    "question": "How many Boeing planes did China confirm it would buy, according to the news?",
+    "options": ["100", "150", "200", "250"],
+    "correctAnswer": "200"
+  }
+]
