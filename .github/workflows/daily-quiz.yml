@@ -20,7 +20,7 @@ jobs:
       - name: Install dependencies
         run: |
           npm init -y
-          npm install axios @google/generative-ai
+          npm install axios @google/genai
 
       - name: Run Quiz Generation Script
         env:
