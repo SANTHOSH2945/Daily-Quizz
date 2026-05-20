@@ -1,5 +1,4 @@
 const axios = require('axios');
-const { GoogleGenAI } = require('@google/genai');
 const fs = require('fs');
 const path = require('path');
 
@@ -14,9 +13,7 @@ async function generateQuiz() {
 
     const contextText = articles.slice(0, 8).map((a, i) => `[${i+1}] ${a.title}: ${a.description || ''}`).join('\n');
 
-    // 2. Initialize the AI instance
-    const ai = new GoogleGenAI({ apiKey: process.env.GEMINI_API_KEY });
-
+    // 2. Build the system prompt
     const systemPrompt = `
       You are an expert quiz master. Based strictly on the news headlines provided below, generate exactly 5 multiple-choice questions.
       
@@ -34,20 +31,22 @@ async function generateQuiz() {
       ${contextText}
     `;
 
-    // 3. FIX: Using the explicit model identifier that works seamlessly with the SDK
-    const aiResponse = await ai.models.generateContent({
-      model: 'gemini-1.5-flash',
-      contents: systemPrompt
+    // 3. Direct API call bypassing the SDK structure entirely
+    const apiKey = process.env.GEMINI_API_KEY;
+    const apiUrl = `https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=${apiKey}`;
+
+    const aiResponse = await axios.post(apiUrl, {
+      contents: [{ parts: [{ text: systemPrompt }] }]
     });
 
-    let rawText = aiResponse.text.trim();
+    let rawText = aiResponse.data.candidates[0].content.parts[0].text.trim();
 
-    // Clean up rogue markdown code block wrappers if they appear
+    // Clean up rogue markdown code blocks if the model returns them
     if (rawText.includes('```')) {
       rawText = rawText.replace(/```json/g, '').replace(/```/g, '').trim();
     }
 
-    // Validate the string layout structure
+    // Validate structural alignment sanity check
     JSON.parse(rawText);
 
     // 4. Save directly into your data folder
