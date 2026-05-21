@@ -34,11 +34,15 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # Clean fallback sync: grab latest changes, ignore local working branch conflicts
+          git fetch origin main
+          git reset --mixed origin/main
+          
           git add data/today.json
           if ! git diff-index --quiet HEAD; then
             git commit -m "Automated update: Today's Quiz [Skip CI]"
-            git pull --rebase origin main
-            git push origin main
+            git push origin main --force
           else
             echo "No data changes detected. Skipping push."
           fi
