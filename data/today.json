@@ -1,0 +1,277 @@
+[
+  {
+    "id": 1,
+    "question": "Who guides decision-making in Iran, according to the headline?",
+    "options": [
+      "A democratic parliament",
+      "A small group of economists",
+      "A hard-line military fraternity",
+      "A civilian government council"
+    ],
+    "correctAnswer": "A hard-line military fraternity"
+  },
+  {
+    "id": 2,
+    "question": "Decision-making in Iran is guided by men associated with which organization?",
+    "options": [
+      "The Iranian National Guard",
+      "The Islamic Revolutionary Guards Corps",
+      "The Iranian Foreign Ministry",
+      "The Persian Military Brotherhood"
+    ],
+    "correctAnswer": "The Islamic Revolutionary Guards Corps"
+  },
+  {
+    "id": 3,
+    "question": "Which country is restricting travel with Congo due to an Ebola outbreak?",
+    "options": [
+      "Rwanda",
+      "Uganda",
+      "Kenya",
+      "Tanzania"
+    ],
+    "correctAnswer": "Uganda"
+  },
+  {
+    "id": 4,
+    "question": "Why did Uganda restrict travel with the Democratic Republic of Congo?",
+    "options": [
+      "Political instability",
+      "Economic disputes",
+      "An Ebola outbreak",
+      "Border conflicts"
+    ],
+    "correctAnswer": "An Ebola outbreak"
+  },
+  {
+    "id": 5,
+    "question": "To which part of Congo has the Ebola outbreak apparently spread, according to the headline?",
+    "options": [
+      "A major urban center",
+      "A coastal region",
+      "A rebel-controlled province",
+      "A mining district"
+    ],
+    "correctAnswer": "A rebel-controlled province"
+  },
+  {
+    "id": 6,
+    "question": "Which U.S. oil giant is negotiating a deal to pump oil in Venezuela?",
+    "options": [
+      "Chevron",
+      "BP",
+      "Exxon",
+      "Shell"
+    ],
+    "correctAnswer": "Exxon"
+  },
+  {
+    "id": 7,
+    "question": "How are Venezuela's rulers described in the headline regarding the Exxon deal?",
+    "options": [
+      "Democratic leaders",
+      "Socialist rulers",
+      "Military commanders",
+      "Nationalist party officials"
+    ],
+    "correctAnswer": "Socialist rulers"
+  },
+  {
+    "id": 8,
+    "question": "The potential Exxon deal in Venezuela is described as a victory for whom?",
+    "options": [
+      "The Venezuelan President",
+      "President Trump",
+      "The CEO of Exxon",
+      "The Venezuelan people"
+    ],
+    "correctAnswer": "President Trump"
+  },
+  {
+    "id": 9,
+    "question": "What was destroyed by fire in Japan that housed an 'eternal flame'?",
+    "options": [
+      "A historic temple bell",
+      "A sacred Buddhist hall",
+      "An ancient library",
+      "A Zen garden"
+    ],
+    "correctAnswer": "A sacred Buddhist hall"
+  },
+  {
+    "id": 10,
+    "question": "What unique item housed in the destroyed Buddhist hall was salvaged?",
+    "options": [
+      "A rare scripture",
+      "An ancient statue",
+      "An ‘eternal flame’",
+      "A precious relic"
+    ],
+    "correctAnswer": "An ‘eternal flame’"
+  },
+  {
+    "id": 11,
+    "question": "For how long was the 'eternal flame' said to have been continuously lit before the fire?",
+    "options": [
+      "More than 100 years",
+      "More than 500 years",
+      "More than 1,200 years",
+      "More than 2,000 years"
+    ],
+    "correctAnswer": "More than 1,200 years"
+  },
+  {
+    "id": 12,
+    "question": "What is identified as a 'culture war flashpoint' in Berlin?",
+    "options": [
+      "Public transportation",
+      "Cycling lanes",
+      "Cars",
+      "Pedestrian zones"
+    ],
+    "correctAnswer": "Cars"
+  },
+  {
+    "id": 13,
+    "question": "What issue are conservatives and progressives in Berlin sparring over?",
+    "options": [
+      "Housing development",
+      "Congestion in the city center",
+      "Tourist attractions",
+      "Public safety"
+    ],
+    "correctAnswer": "Congestion in the city center"
+  },
+  {
+    "id": 14,
+    "question": "Who is Mira Nair the mother of, according to the headline?",
+    "options": [
+      "An Indian artist",
+      "Zohran Mamdani",
+      "A New York Times reporter",
+      "A spiritual leader"
+    ],
+    "correctAnswer": "Zohran Mamdani"
+  },
+  {
+    "id": 15,
+    "question": "What is Mira Nair's next movie about?",
+    "options": [
+      "Her family life",
+      "The life of Zohran Mamdani",
+      "One of India’s greatest artists",
+      "An Ebola outbreak"
+    ],
+    "correctAnswer": "One of India’s greatest artists"
+  },
+  {
+    "id": 16,
+    "question": "What profession is Mira Nair associated with, based on the headline context?",
+    "options": [
+      "Journalist",
+      "Politician",
+      "Filmmaker",
+      "Musician"
+    ],
+    "correctAnswer": "Filmmaker"
+  },
+  {
+    "id": 17,
+    "question": "An Air France flight to the U.S. was diverted to which city?",
+    "options": [
+      "Toronto",
+      "Vancouver",
+      "Montreal",
+      "Quebec City"
+    ],
+    "correctAnswer": "Montreal"
+  },
+  {
+    "id": 18,
+    "question": "Why was the Air France flight diverted?",
+    "options": [
+      "Mechanical issues",
+      "A security threat",
+      "A Congolese passenger amid Ebola fears",
+      "Bad weather"
+    ],
+    "correctAnswer": "A Congolese passenger amid Ebola fears"
+  },
+  {
+    "id": 19,
+    "question": "Which country has closed its borders to recent visitors to the African country mentioned (Democratic Republic of Congo)?",
+    "options": [
+      "Canada",
+      "The U.S.",
+      "France",
+      "Uganda"
+    ],
+    "correctAnswer": "The U.S."
+  },
+  {
+    "id": 20,
+    "question": "Who pushed for Ex-Prince Andrew to get an envoy position?",
+    "options": [
+      "Jeffrey Epstein",
+      "The British Prime Minister",
+      "Queen Elizabeth",
+      "The House of Lords"
+    ],
+    "correctAnswer": "Queen Elizabeth"
+  },
+  {
+    "id": 21,
+    "question": "What is Ex-Prince Andrew accused of sharing with Jeffrey Epstein?",
+    "options": [
+      "Financial investments",
+      "Business plans",
+      "State secrets",
+      "Secrets"
+    ],
+    "correctAnswer": "Secrets"
+  },
+  {
+    "id": 22,
+    "question": "In which country were two men charged with plotting to kill Jewish leaders?",
+    "options": [
+      "France",
+      "Germany",
+      "United States",
+      "Israel"
+    ],
+    "correctAnswer": "Germany"
+  },
+  {
+    "id": 23,
+    "question": "The men charged in Germany were plotting on whose behalf?",
+    "options": [
+      "A rebel group",
+      "An extremist organization",
+      "Iran",
+      "A rival government"
+    ],
+    "correctAnswer": "Iran"
+  },
+  {
+    "id": 24,
+    "question": "What kind of animal is Timmy, who got stranded off the German Coast?",
+    "options": [
+      "A dolphin",
+      "A seal",
+      "A humpback whale",
+      "A shark"
+    ],
+    "correctAnswer": "A humpback whale"
+  },
+  {
+    "id": 25,
+    "question": "Where did Timmy the whale get stranded?",
+    "options": [
+      "Off the British coast",
+      "Off the German coast",
+      "In the Atlantic Ocean",
+      "In a river"
+    ],
+    "correctAnswer": "Off the German coast"
+  }
+]
