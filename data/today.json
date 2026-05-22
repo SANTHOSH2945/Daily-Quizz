@@ -1,174 +1,163 @@
 [
   {
     "id": 1,
-    "question": "Who guides decision-making in Iran, according to the headline?",
+    "question": "Which specific group is associated with the hard-line military fraternity guiding decision-making in Iran?",
     "options": [
-      "A democratic parliament",
-      "A small group of economists",
-      "A hard-line military fraternity",
-      "A civilian government council"
+      "The Revolutionary Guard Cadets",
+      "The Islamic Revolutionary Guards Corps",
+      "The Iranian National Army",
+      "The Basij Militia"
     ],
-    "correctAnswer": "A hard-line military fraternity"
+    "correctAnswer": "The Islamic Revolutionary Guards Corps"
   },
   {
     "id": 2,
-    "question": "Decision-making in Iran is guided by men associated with which organization?",
+    "question": "Decision-making in Iran is guided by a small group of men associated with which military fraternity?",
     "options": [
-      "The Iranian National Guard",
+      "The Army of the Guardians of the Revolution",
+      "The Quds Force",
       "The Islamic Revolutionary Guards Corps",
-      "The Iranian Foreign Ministry",
-      "The Persian Military Brotherhood"
+      "The Iran Armed Forces General Staff"
     ],
     "correctAnswer": "The Islamic Revolutionary Guards Corps"
   },
   {
     "id": 3,
-    "question": "Which country is restricting travel with Congo due to an Ebola outbreak?",
+    "question": "Which country restricted travel with Congo over an Ebola outbreak?",
     "options": [
-      "Rwanda",
-      "Uganda",
       "Kenya",
+      "Uganda",
+      "Rwanda",
       "Tanzania"
     ],
     "correctAnswer": "Uganda"
   },
   {
     "id": 4,
-    "question": "Why did Uganda restrict travel with the Democratic Republic of Congo?",
+    "question": "Uganda temporarily suspended flights to and from which country due to an Ebola outbreak?",
     "options": [
-      "Political instability",
-      "Economic disputes",
-      "An Ebola outbreak",
-      "Border conflicts"
+      "Democratic Republic of Congo",
+      "Republic of the Congo",
+      "Angola",
+      "South Sudan"
     ],
-    "correctAnswer": "An Ebola outbreak"
+    "correctAnswer": "Democratic Republic of Congo"
   },
   {
     "id": 5,
-    "question": "To which part of Congo has the Ebola outbreak apparently spread, according to the headline?",
+    "question": "The Ebola outbreak that led to Uganda's travel restrictions appeared to spread to which region in Congo?",
     "options": [
-      "A major urban center",
-      "A coastal region",
+      "A coastal city",
+      "The capital province",
       "A rebel-controlled province",
-      "A mining district"
+      "A southern mining region"
     ],
     "correctAnswer": "A rebel-controlled province"
   },
   {
     "id": 6,
-    "question": "Which U.S. oil giant is negotiating a deal to pump oil in Venezuela?",
+    "question": "Which U.S. oil giant is nearing a deal to pump oil in Venezuela?",
     "options": [
       "Chevron",
-      "BP",
+      "Shell",
       "Exxon",
-      "Shell"
+      "BP"
     ],
     "correctAnswer": "Exxon"
   },
   {
     "id": 7,
-    "question": "How are Venezuela's rulers described in the headline regarding the Exxon deal?",
+    "question": "Exxon is negotiating a deal to pump oil in which country, ending a standoff with its socialist rulers?",
     "options": [
-      "Democratic leaders",
-      "Socialist rulers",
-      "Military commanders",
-      "Nationalist party officials"
+      "Cuba",
+      "Venezuela",
+      "Bolivia",
+      "Nicaragua"
     ],
-    "correctAnswer": "Socialist rulers"
+    "correctAnswer": "Venezuela"
   },
   {
     "id": 8,
-    "question": "The potential Exxon deal in Venezuela is described as a victory for whom?",
+    "question": "The potential deal for Exxon to pump oil in Venezuela is described as a victory for which U.S. President?",
     "options": [
-      "The Venezuelan President",
-      "President Trump",
-      "The CEO of Exxon",
-      "The Venezuelan people"
+      "George W. Bush",
+      "Barack Obama",
+      "Donald Trump",
+      "Joe Biden"
     ],
-    "correctAnswer": "President Trump"
+    "correctAnswer": "Donald Trump"
   },
   {
     "id": 9,
-    "question": "What was destroyed by fire in Japan that housed an 'eternal flame'?",
+    "question": "A fire destroyed a sacred Buddhist hall in which country?",
     "options": [
-      "A historic temple bell",
-      "A sacred Buddhist hall",
-      "An ancient library",
-      "A Zen garden"
+      "China",
+      "South Korea",
+      "Japan",
+      "Thailand"
     ],
-    "correctAnswer": "A sacred Buddhist hall"
+    "correctAnswer": "Japan"
   },
   {
     "id": 10,
-    "question": "What unique item housed in the destroyed Buddhist hall was salvaged?",
+    "question": "What sacred item, reportedly lit for over 1,200 years, was salvaged after a fire destroyed a Buddhist hall in Japan?",
     "options": [
-      "A rare scripture",
-      "An ancient statue",
-      "An ‘eternal flame’",
-      "A precious relic"
+      "An ancient bell",
+      "An 'eternal flame'",
+      "A precious Buddha statue",
+      "A collection of sacred scrolls"
     ],
-    "correctAnswer": "An ‘eternal flame’"
+    "correctAnswer": "An 'eternal flame'"
   },
   {
     "id": 11,
-    "question": "For how long was the 'eternal flame' said to have been continuously lit before the fire?",
+    "question": "According to spiritual leaders, how long had the 'eternal flame' in the Japanese Buddhist hall been continuously lit before the fire?",
     "options": [
-      "More than 100 years",
       "More than 500 years",
+      "More than 800 years",
       "More than 1,200 years",
-      "More than 2,000 years"
+      "More than 1,500 years"
     ],
     "correctAnswer": "More than 1,200 years"
   },
   {
     "id": 12,
-    "question": "What is identified as a 'culture war flashpoint' in Berlin?",
+    "question": "In which European city are cars a culture war flashpoint ahead of municipal elections?",
     "options": [
-      "Public transportation",
-      "Cycling lanes",
-      "Cars",
-      "Pedestrian zones"
+      "Paris",
+      "London",
+      "Berlin",
+      "Rome"
     ],
-    "correctAnswer": "Cars"
+    "correctAnswer": "Berlin"
   },
   {
     "id": 13,
-    "question": "What issue are conservatives and progressives in Berlin sparring over?",
+    "question": "Conservatives and progressives in Berlin are sparring over which specific issue in the city center?",
     "options": [
-      "Housing development",
-      "Congestion in the city center",
-      "Tourist attractions",
-      "Public safety"
+      "Public transport expansion",
+      "Congestion",
+      "Bicycle lane funding",
+      "Parking regulations"
     ],
-    "correctAnswer": "Congestion in the city center"
+    "correctAnswer": "Congestion"
   },
   {
     "id": 14,
-    "question": "Who is Mira Nair the mother of, according to the headline?",
+    "question": "Who is Zohran Mamdani in relation to filmmaker Mira Nair?",
     "options": [
-      "An Indian artist",
-      "Zohran Mamdani",
-      "A New York Times reporter",
-      "A spiritual leader"
+      "Her husband",
+      "Her brother",
+      "Her son",
+      "Her film collaborator"
     ],
-    "correctAnswer": "Zohran Mamdani"
+    "correctAnswer": "Her son"
   },
   {
     "id": 15,
-    "question": "What is Mira Nair's next movie about?",
+    "question": "Mira Nair, mentioned in a conversation with The New York Times, is known for her profession as a:",
     "options": [
-      "Her family life",
-      "The life of Zohran Mamdani",
-      "One of India’s greatest artists",
-      "An Ebola outbreak"
-    ],
-    "correctAnswer": "One of India’s greatest artists"
-  },
-  {
-    "id": 16,
-    "question": "What profession is Mira Nair associated with, based on the headline context?",
-    "options": [
-      "Journalist",
+      "Novelist",
       "Politician",
       "Filmmaker",
       "Musician"
@@ -176,102 +165,113 @@
     "correctAnswer": "Filmmaker"
   },
   {
-    "id": 17,
-    "question": "An Air France flight to the U.S. was diverted to which city?",
+    "id": 16,
+    "question": "Mira Nair's next movie is reported to be about one of India’s greatest what?",
     "options": [
-      "Toronto",
-      "Vancouver",
-      "Montreal",
-      "Quebec City"
+      "Scientists",
+      "Philosophers",
+      "Artists",
+      "Entrepreneurs"
     ],
-    "correctAnswer": "Montreal"
+    "correctAnswer": "Artists"
+  },
+  {
+    "id": 17,
+    "question": "Which airline's flight to the U.S. was diverted to Montreal due to a Congolese passenger amid Ebola fears?",
+    "options": [
+      "Lufthansa",
+      "British Airways",
+      "Air France",
+      "United Airlines"
+    ],
+    "correctAnswer": "Air France"
   },
   {
     "id": 18,
-    "question": "Why was the Air France flight diverted?",
+    "question": "A passenger from which country caused an Air France flight diversion to Montreal over Ebola fears?",
     "options": [
-      "Mechanical issues",
-      "A security threat",
-      "A Congolese passenger amid Ebola fears",
-      "Bad weather"
+      "Republic of Congo",
+      "Democratic Republic of Congo",
+      "Nigeria",
+      "Cameroon"
     ],
-    "correctAnswer": "A Congolese passenger amid Ebola fears"
+    "correctAnswer": "Democratic Republic of Congo"
   },
   {
     "id": 19,
-    "question": "Which country has closed its borders to recent visitors to the African country mentioned (Democratic Republic of Congo)?",
+    "question": "What U.S. policy regarding visitors to the Democratic Republic of Congo contributed to the Air France flight diversion?",
     "options": [
-      "Canada",
-      "The U.S.",
-      "France",
-      "Uganda"
+      "Closing its borders to recent visitors",
+      "Requiring mandatory quarantine for all visitors",
+      "Imposing a travel ban on all flights from Congo",
+      "Mandating health screenings for all travelers from Africa"
     ],
-    "correctAnswer": "The U.S."
+    "correctAnswer": "Closing its borders to recent visitors to the African country"
   },
   {
     "id": 20,
-    "question": "Who pushed for Ex-Prince Andrew to get an envoy position?",
+    "question": "Newly released documents show that who pushed for Ex-Prince Andrew to get an envoy position?",
     "options": [
-      "Jeffrey Epstein",
-      "The British Prime Minister",
+      "The Prime Minister",
       "Queen Elizabeth",
-      "The House of Lords"
+      "The Foreign Secretary",
+      "The Parliament"
     ],
     "correctAnswer": "Queen Elizabeth"
   },
   {
     "id": 21,
-    "question": "What is Ex-Prince Andrew accused of sharing with Jeffrey Epstein?",
+    "question": "Prince Andrew Mountbatten-Windsor is accused of sharing secrets with whom when he was a British trade envoy?",
     "options": [
-      "Financial investments",
-      "Business plans",
-      "State secrets",
-      "Secrets"
+      "A foreign intelligence agent",
+      "A rival country's diplomat",
+      "Jeffrey Epstein",
+      "A tabloid journalist"
     ],
-    "correctAnswer": "Secrets"
+    "correctAnswer": "Jeffrey Epstein"
   },
   {
     "id": 22,
-    "question": "In which country were two men charged with plotting to kill Jewish leaders?",
+    "question": "What was Prince Andrew's specific role when he was accused of sharing secrets with Jeffrey Epstein?",
+    "options": [
+      "British Ambassador",
+      "British trade envoy",
+      "Royal Emissary",
+      "Special Diplomatic Representative"
+    ],
+    "correctAnswer": "British trade envoy"
+  },
+  {
+    "id": 23,
+    "question": "In which European country were two men charged with plotting to kill Jewish leaders?",
     "options": [
       "France",
       "Germany",
-      "United States",
-      "Israel"
+      "Belgium",
+      "Austria"
     ],
     "correctAnswer": "Germany"
   },
   {
-    "id": 23,
-    "question": "The men charged in Germany were plotting on whose behalf?",
+    "id": 24,
+    "question": "The two men charged in Germany were plotting to kill Jewish leaders on behalf of which country?",
     "options": [
-      "A rebel group",
-      "An extremist organization",
+      "Syria",
+      "Russia",
       "Iran",
-      "A rival government"
+      "North Korea"
     ],
     "correctAnswer": "Iran"
   },
   {
-    "id": 24,
-    "question": "What kind of animal is Timmy, who got stranded off the German Coast?",
-    "options": [
-      "A dolphin",
-      "A seal",
-      "A humpback whale",
-      "A shark"
-    ],
-    "correctAnswer": "A humpback whale"
-  },
-  {
     "id": 25,
-    "question": "Where did Timmy the whale get stranded?",
+    "question": "What was the name of the humpback whale that got stranded off the German coast?",
     "options": [
-      "Off the British coast",
-      "Off the German coast",
-      "In the Atlantic Ocean",
-      "In a river"
+      "Willy",
+      "Timmy",
+      "Moby",
+      "Flipper"
     ],
-    "correctAnswer": "Off the German coast"
+    "correctAnswer": "Timmy"
   }
 ]
