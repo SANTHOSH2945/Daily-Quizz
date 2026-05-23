@@ -1,277 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Which specific group is associated with the hard-line military fraternity guiding decision-making in Iran?",
-    "options": [
-      "The Revolutionary Guard Cadets",
-      "The Islamic Revolutionary Guards Corps",
-      "The Iranian National Army",
-      "The Basij Militia"
-    ],
-    "correctAnswer": "The Islamic Revolutionary Guards Corps"
+    "question": "Which two countries have dispatched teams to Iran as regional mediators to save a U.S.-Iran cease-fire?",
+    "options": ["China and Russia", "Pakistan and Qatar", "Turkey and Saudi Arabia", "India and UAE"],
+    "correctAnswer": "Pakistan and Qatar"
   },
   {
     "id": 2,
-    "question": "Decision-making in Iran is guided by a small group of men associated with which military fraternity?",
-    "options": [
-      "The Army of the Guardians of the Revolution",
-      "The Quds Force",
-      "The Islamic Revolutionary Guards Corps",
-      "The Iran Armed Forces General Staff"
-    ],
-    "correctAnswer": "The Islamic Revolutionary Guards Corps"
+    "question": "What is the primary threat looming if diplomacy fails to produce an agreement between the U.S. and Iran?",
+    "options": ["Economic sanctions", "Cyber attacks", "Resumed war", "Diplomatic isolation"],
+    "correctAnswer": "Resumed war"
   },
   {
     "id": 3,
-    "question": "Which country restricted travel with Congo over an Ebola outbreak?",
-    "options": [
-      "Kenya",
-      "Uganda",
-      "Rwanda",
-      "Tanzania"
-    ],
-    "correctAnswer": "Uganda"
+    "question": "What was the latest victim of Israeli settler violence in the West Bank that shocked in a new way?",
+    "options": ["A Palestinian farmer's crop", "A Palestinian child's toy", "A Palestinian family’s dog", "A Palestinian medical clinic"],
+    "correctAnswer": "A Palestinian family’s dog"
   },
   {
     "id": 4,
-    "question": "Uganda temporarily suspended flights to and from which country due to an Ebola outbreak?",
-    "options": [
-      "Democratic Republic of Congo",
-      "Republic of the Congo",
-      "Angola",
-      "South Sudan"
-    ],
-    "correctAnswer": "Democratic Republic of Congo"
+    "question": "How did the incident of settler violence in the West Bank spread widely?",
+    "options": ["Through official news reports", "Via a widely circulated video", "Through a U.N. investigation", "By eyewitness testimonies"],
+    "correctAnswer": "Via a widely circulated video"
   },
   {
     "id": 5,
-    "question": "The Ebola outbreak that led to Uganda's travel restrictions appeared to spread to which region in Congo?",
-    "options": [
-      "A coastal city",
-      "The capital province",
-      "A rebel-controlled province",
-      "A southern mining region"
-    ],
-    "correctAnswer": "A rebel-controlled province"
+    "question": "What are Europeans considering appointing to Ukraine peace talks with Russia?",
+    "options": ["A military general", "An economic advisor", "A cultural attaché", "An envoy"],
+    "correctAnswer": "An envoy"
   },
   {
     "id": 6,
-    "question": "Which U.S. oil giant is nearing a deal to pump oil in Venezuela?",
-    "options": [
-      "Chevron",
-      "Shell",
-      "Exxon",
-      "BP"
-    ],
-    "correctAnswer": "Exxon"
+    "question": "Before appointing someone to talk to Putin, what do many Europeans warn they need to decide first?",
+    "options": ["Where to hold the talks", "Who will fund the talks", "What to ask", "Which language to use"],
+    "correctAnswer": "What to ask"
   },
   {
     "id": 7,
-    "question": "Exxon is negotiating a deal to pump oil in which country, ending a standoff with its socialist rulers?",
-    "options": [
-      "Cuba",
-      "Venezuela",
-      "Bolivia",
-      "Nicaragua"
-    ],
-    "correctAnswer": "Venezuela"
+    "question": "Which city in South Sudan faces an Ebola risk due to hunger and conflict?",
+    "options": ["Juba", "Malakal", "Akobo", "Bor"],
+    "correctAnswer": "Akobo"
   },
   {
     "id": 8,
-    "question": "The potential deal for Exxon to pump oil in Venezuela is described as a victory for which U.S. President?",
-    "options": [
-      "George W. Bush",
-      "Barack Obama",
-      "Donald Trump",
-      "Joe Biden"
-    ],
-    "correctAnswer": "Donald Trump"
+    "question": "According to the news, what two factors are on the minds of residents in Akobo, South Sudan, contributing to the Ebola risk?",
+    "options": ["Flooding and drought", "Corruption and crime", "Hunger and conflict", "Lack of education and healthcare"],
+    "correctAnswer": "Hunger and conflict"
   },
   {
     "id": 9,
-    "question": "A fire destroyed a sacred Buddhist hall in which country?",
-    "options": [
-      "China",
-      "South Korea",
-      "Japan",
-      "Thailand"
-    ],
-    "correctAnswer": "Japan"
+    "question": "Which types of crimes are reported to be rising in the UK?",
+    "options": ["Financial fraud, cybercrime, and theft", "Islamophobic, antisemitic, and racist crimes", "Drug trafficking, gang violence, and vandalism", "Environmental offenses, hate speech, and assault"],
+    "correctAnswer": "Islamophobic, antisemitic, and racist crimes"
   },
   {
     "id": 10,
-    "question": "What sacred item, reportedly lit for over 1,200 years, was salvaged after a fire destroyed a Buddhist hall in Japan?",
-    "options": [
-      "An ancient bell",
-      "An 'eternal flame'",
-      "A precious Buddha statue",
-      "A collection of sacred scrolls"
-    ],
-    "correctAnswer": "An 'eternal flame'"
+    "question": "What is identified as one of the factors fueling the rise of certain crimes in the UK?",
+    "options": ["Increased police presence", "Economic boom", "Online disinformation", "Strict immigration policies"],
+    "correctAnswer": "Online disinformation"
   },
   {
     "id": 11,
-    "question": "According to spiritual leaders, how long had the 'eternal flame' in the Japanese Buddhist hall been continuously lit before the fire?",
-    "options": [
-      "More than 500 years",
-      "More than 800 years",
-      "More than 1,200 years",
-      "More than 1,500 years"
-    ],
-    "correctAnswer": "More than 1,200 years"
+    "question": "Who stated that Islamophobic, antisemitic, and racist crimes are being fueled by online disinformation, global instability, and divisive political rhetoric?",
+    "options": ["Government officials", "Local journalists", "Experts", "Police authorities"],
+    "correctAnswer": "Experts"
   },
   {
     "id": 12,
-    "question": "In which European city are cars a culture war flashpoint ahead of municipal elections?",
-    "options": [
-      "Paris",
-      "London",
-      "Berlin",
-      "Rome"
-    ],
-    "correctAnswer": "Berlin"
+    "question": "How many troops did President Trump promise to send to Poland, leaving European leaders wary?",
+    "options": ["1,000", "2,500", "5,000", "10,000"],
+    "correctAnswer": "5,000"
   },
   {
     "id": 13,
-    "question": "Conservatives and progressives in Berlin are sparring over which specific issue in the city center?",
-    "options": [
-      "Public transport expansion",
-      "Congestion",
-      "Bicycle lane funding",
-      "Parking regulations"
-    ],
-    "correctAnswer": "Congestion"
+    "question": "What was the reaction of European leaders after President Trump promised to send troops to Poland?",
+    "options": ["Relieved", "Enthusiastic", "Reeling", "Indifferent"],
+    "correctAnswer": "Reeling"
   },
   {
     "id": 14,
-    "question": "Who is Zohran Mamdani in relation to filmmaker Mira Nair?",
-    "options": [
-      "Her husband",
-      "Her brother",
-      "Her son",
-      "Her film collaborator"
-    ],
-    "correctAnswer": "Her son"
+    "question": "What does the new Taliban decree on divorce formalize in Afghanistan?",
+    "options": ["Women's right to property", "Mandatory education for girls", "Child marriage", "Freedom of speech"],
+    "correctAnswer": "Child marriage"
   },
   {
     "id": 15,
-    "question": "Mira Nair, mentioned in a conversation with The New York Times, is known for her profession as a:",
-    "options": [
-      "Novelist",
-      "Politician",
-      "Filmmaker",
-      "Musician"
-    ],
-    "correctAnswer": "Filmmaker"
+    "question": "According to the new Afghan law, what must girls wait for before seeking to get out of a marriage?",
+    "options": ["Parental consent", "Legal representation", "Puberty", "Financial independence"],
+    "correctAnswer": "Puberty"
   },
   {
     "id": 16,
-    "question": "Mira Nair's next movie is reported to be about one of India’s greatest what?",
-    "options": [
-      "Scientists",
-      "Philosophers",
-      "Artists",
-      "Entrepreneurs"
-    ],
-    "correctAnswer": "Artists"
+    "question": "What is required for women seeking to escape an abusive husband under the new Taliban decree?",
+    "options": ["A written appeal to the court", "Mediation", "Permission from male relatives", "A public declaration"],
+    "correctAnswer": "Mediation"
   },
   {
     "id": 17,
-    "question": "Which airline's flight to the U.S. was diverted to Montreal due to a Congolese passenger amid Ebola fears?",
-    "options": [
-      "Lufthansa",
-      "British Airways",
-      "Air France",
-      "United Airlines"
-    ],
-    "correctAnswer": "Air France"
+    "question": "Who is President Vladimir V. Putin pushing into a 'new elite' of war veterans?",
+    "options": ["Business tycoons", "Cultural figures", "Military commanders", "Academic scholars"],
+    "correctAnswer": "Military commanders"
   },
   {
     "id": 18,
-    "question": "A passenger from which country caused an Air France flight diversion to Montreal over Ebola fears?",
-    "options": [
-      "Republic of Congo",
-      "Democratic Republic of Congo",
-      "Nigeria",
-      "Cameroon"
-    ],
-    "correctAnswer": "Democratic Republic of Congo"
+    "question": "What kind of leader was replaced by a military commander in a region bordering Ukraine, as part of Putin's 'new elite' push?",
+    "options": ["A popular religious leader", "A popular local governor", "A popular opposition figure", "A popular business magnate"],
+    "correctAnswer": "A popular local governor"
   },
   {
     "id": 19,
-    "question": "What U.S. policy regarding visitors to the Democratic Republic of Congo contributed to the Air France flight diversion?",
-    "options": [
-      "Closing its borders to recent visitors",
-      "Requiring mandatory quarantine for all visitors",
-      "Imposing a travel ban on all flights from Congo",
-      "Mandating health screenings for all travelers from Africa"
-    ],
-    "correctAnswer": "Closing its borders to recent visitors to the African country"
+    "question": "What is President Putin looking to reward by pushing a 'new elite' of war veterans?",
+    "options": ["Those who supported his political campaigns", "Those who excelled in economic development", "Those who fought in his war", "Those who advanced scientific research"],
+    "correctAnswer": "Those who fought in his war"
   },
   {
     "id": 20,
-    "question": "Newly released documents show that who pushed for Ex-Prince Andrew to get an envoy position?",
-    "options": [
-      "The Prime Minister",
-      "Queen Elizabeth",
-      "The Foreign Secretary",
-      "The Parliament"
-    ],
-    "correctAnswer": "Queen Elizabeth"
+    "question": "Who is the subject of a manhunt in the Philippines for evading an I.C.C. warrant?",
+    "options": ["President Duterte", "Senator Ronald dela Rosa", "Chief Justice Sereno", "Former President Aquino"],
+    "correctAnswer": "Senator Ronald dela Rosa"
   },
   {
     "id": 21,
-    "question": "Prince Andrew Mountbatten-Windsor is accused of sharing secrets with whom when he was a British trade envoy?",
-    "options": [
-      "A foreign intelligence agent",
-      "A rival country's diplomat",
-      "Jeffrey Epstein",
-      "A tabloid journalist"
-    ],
-    "correctAnswer": "Jeffrey Epstein"
+    "question": "What is Senator Ronald dela Rosa, a Duterte ally, evading in the Philippines?",
+    "options": ["A tax evasion charge", "A defamation lawsuit", "An I.C.C. warrant", "A corruption investigation"],
+    "correctAnswer": "An I.C.C. warrant"
   },
   {
     "id": 22,
-    "question": "What was Prince Andrew's specific role when he was accused of sharing secrets with Jeffrey Epstein?",
-    "options": [
-      "British Ambassador",
-      "British trade envoy",
-      "Royal Emissary",
-      "Special Diplomatic Representative"
-    ],
-    "correctAnswer": "British trade envoy"
+    "question": "Where did Senator Ronald dela Rosa seek refuge last week before giving government agents the slip?",
+    "options": ["A foreign embassy", "A remote island", "The country’s Senate", "A private residence"],
+    "correctAnswer": "The country’s Senate"
   },
   {
     "id": 23,
-    "question": "In which European country were two men charged with plotting to kill Jewish leaders?",
-    "options": [
-      "France",
-      "Germany",
-      "Belgium",
-      "Austria"
-    ],
-    "correctAnswer": "Germany"
+    "question": "Which former royal is currently under police investigation for reports of sexual misconduct?",
+    "options": ["Prince Harry", "Prince William", "Prince Andrew", "King Charles III"],
+    "correctAnswer": "Prince Andrew"
   },
   {
     "id": 24,
-    "question": "The two men charged in Germany were plotting to kill Jewish leaders on behalf of which country?",
-    "options": [
-      "Syria",
-      "Russia",
-      "Iran",
-      "North Korea"
-    ],
-    "correctAnswer": "Iran"
+    "question": "What year is associated with the report of a woman being taken to an address in Windsor for sexual purposes, which is part of the police investigation?",
+    "options": ["2005", "2010", "2015", "2020"],
+    "correctAnswer": "2010"
   },
   {
     "id": 25,
-    "question": "What was the name of the humpback whale that got stranded off the German coast?",
-    "options": [
-      "Willy",
-      "Timmy",
-      "Moby",
-      "Flipper"
-    ],
-    "correctAnswer": "Timmy"
+    "question": "What is the current status regarding charges against Prince Andrew in the police investigation of sexual misconduct reports?",
+    "options": ["He has been charged and is awaiting trial.", "He has been cleared of all charges.", "No charges have been filed.", "An arrest warrant has been issued."],
+    "correctAnswer": "No charges have been filed."
   }
 ]
