@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Which pharmaceutical drug's control has been tightened by the Centre due to rising abuse among youth in India?",
-    "options": ["Paracetamol", "Ibuprofen", "Pregabalin", "Aspirin"],
+    "question": "The Centre recently tightened control on which drug due to rising abuse among youth across India?",
+    "options": ["Paracetamol", "Ibuprofen", "Pregabalin", "Amoxicillin"],
     "correctAnswer": "Pregabalin"
   },
   {
     "id": 2,
-    "question": "What is the primary reason cited for the Centre's decision to tighten control on Pregabalin across India?",
-    "options": ["Adverse side effects for adults", "Rising abuse among youth", "High manufacturing costs", "International trade disputes"],
+    "question": "What is the primary reason stated for the Centre's decision to tighten control on Pregabalin?",
+    "options": ["Manufacturing defects", "International trade disputes", "Rising abuse among youth", "Lack of effectiveness"],
     "correctAnswer": "Rising abuse among youth"
   },
   {
     "id": 3,
-    "question": "The Centre's recent action on Pregabalin primarily aims to curb its:",
-    "options": ["Over-the-counter sales", "Illegal trafficking and recreational use", "Use in medical research", "Export to other countries"],
-    "correctAnswer": "Illegal trafficking and recreational use"
-  },
-  {
-    "id": 4,
-    "question": "Which governmental body is typically responsible for tightening control on pharmaceutical substances like Pregabalin in India?",
-    "options": ["Ministry of Finance", "Ministry of External Affairs", "Ministry of Home Affairs", "Ministry of Health and Family Welfare (or related drug regulatory bodies)"],
-    "correctAnswer": "Ministry of Health and Family Welfare (or related drug regulatory bodies)"
-  },
-  {
-    "id": 5,
-    "question": "The issue of drug abuse, as highlighted by the Pregabalin control, is a concern across which demographic in India?",
-    "options": ["Senior citizens", "Toddlers", "Youth", "Middle-aged professionals"],
-    "correctAnswer": "Youth"
-  },
-  {
-    "id": 6,
-    "question": "What is the name of India’s indigenous Light Combat Helicopter (LCH) designed for high-altitude operations?",
-    "options": ["Tejas", "Dhruv", "Prachand", "Chetak"],
+    "question": "What is the name of India's indigenous Light Combat Helicopter mentioned in recent news for bolstering defense capabilities?",
+    "options": ["Dhruv", "Rudra", "Prachand", "Chetak"],
     "correctAnswer": "Prachand"
   },
   {
-    "id": 7,
-    "question": "Which country recently approved a USD 198.2 million deal for Boeing AH-64E Apache attack helicopter support to India?",
-    "options": ["Russia", "France", "United States", "Israel"],
-    "correctAnswer": "United States"
+    "id": 4,
+    "question": "The Light Combat Helicopter 'Prachand' is specifically designed for operations in which type of environment?",
+    "options": ["Desert", "Maritime", "High-altitude", "Urban"],
+    "correctAnswer": "High-altitude"
   },
   {
-    "id": 8,
-    "question": "The indigenous Light Combat Helicopter 'Prachand' is specifically designed for operations in what type of challenging environment?",
-    "options": ["Urban warfare zones", "Naval deployments", "High-altitude regions", "Desert terrains"],
-    "correctAnswer": "High-altitude regions"
+    "id": 5,
+    "question": "India is bolstering its defense capabilities with support for which US-made attack helicopter?",
+    "options": ["Chinook", "Black Hawk", "Apache", "Cobra"],
+    "correctAnswer": "Apache"
   },
   {
-    "id": 9,
-    "question": "What is the primary role of attack helicopters like the 'Prachand' and 'Apache' in India's defense strategy?",
-    "options": ["VIP transport", "Search and rescue operations", "Combat and reconnaissance missions", "Logistics and supply delivery"],
-    "correctAnswer": "Combat and reconnaissance missions"
-  },
-  {
-    "id": 10,
-    "question": "What is the estimated value of the US deal for Boeing AH-64E Apache attack helicopter support to India?",
-    "options": ["USD 1.98 million", "USD 19.82 million", "USD 198.2 million", "USD 1.98 billion"],
+    "id": 6,
+    "question": "The US recently approved a deal for support for Boeing AH-64E Apache attack helicopters for India, valued at approximately how much?",
+    "options": ["USD 98.2 million", "USD 198.2 million", "USD 298.2 million", "USD 398.2 million"],
     "correctAnswer": "USD 198.2 million"
   },
   {
-    "id": 11,
-    "question": "According to Chief of Defence Staff Anil Chauhan, future wars in India's context will span beyond traditional domains to include which new areas?",
-    "options": ["Economic and diplomatic domains", "Cyber and cognitive domains", "Space and oceanic domains", "Cultural and social domains"],
-    "correctAnswer": "Cyber and cognitive domains"
-  },
-  {
-    "id": 12,
-    "question": "Who is the current Chief of Defence Staff (CDS) of India, who recently spoke about the evolving nature of warfare?",
-    "options": ["Manoj Pande", "R. Hari Kumar", "Anil Chauhan", "V. R. Chaudhari"],
-    "correctAnswer": "Anil Chauhan"
-  },
-  {
-    "id": 13,
-    "question": "CDS Anil Chauhan highlighted that technological advancements like AI and drones are doing what to battlefields?",
-    "options": ["Simplifying logistics", "Reducing troop requirements", "Reshaping and extending their limits", "Decreasing defense budgets"],
-    "correctAnswer": "Reshaping and extending their limits"
-  },
-  {
-    "id": 14,
-    "question": "What strategic concept did CDS Anil Chauhan emphasize regarding future conflicts, stating they will extend beyond geographical limits into digital realms?",
-    "options": ["Conventional warfare", "Limited engagements", "Multi-domain warfare", "Proxy conflicts"],
-    "correctAnswer": "Multi-domain warfare"
-  },
-  {
-    "id": 15,
-    "question": "The acquisition of support for Apache helicopters by India complements which indigenous Indian defense asset?",
-    "options": ["Arjun Main Battle Tank", "INS Vikrant aircraft carrier", "Light Combat Aircraft Tejas", "Light Combat Helicopter 'Prachand'"],
+    "id": 7,
+    "question": "India's acquisition of US Apache support complements which indigenous defense asset?",
+    "options": ["Tejas fighter jet", "INS Vikrant", "Light Combat Helicopter 'Prachand'", "Arjun Main Battle Tank"],
     "correctAnswer": "Light Combat Helicopter 'Prachand'"
   },
   {
-    "id": 16,
-    "question": "How does India's acquisition of both indigenous 'Prachand' and support for US 'Apache' helicopters bolster its defense capabilities?",
-    "options": ["By increasing training exercises", "By solely focusing on air defense", "By enhancing air force modernization and strategic roles", "By reducing the need for ground forces"],
-    "correctAnswer": "By enhancing air force modernization and strategic roles"
+    "id": 8,
+    "question": "According to recent news, the acquisition of advanced attack helicopters is aimed at modernizing which branch of India's armed forces?",
+    "options": ["Indian Army", "Indian Navy", "Indian Air Force", "Indian Coast Guard"],
+    "correctAnswer": "Indian Air Force"
   },
   {
-    "id": 17,
-    "question": "Which two entities recently published a report on the 'future of jobs' in the age of AI in India?",
-    "options": ["NITI Aayog and Google India", "Center of Policy Research and Governance and AI4India", "FICCI and Microsoft India", "CII and IBM India"],
-    "correctAnswer": "Center of Policy Research and Governance and AI4India"
+    "id": 9,
+    "question": "Which two entities published a report on the 'future of jobs' in the age of AI in India?",
+    "options": ["NITI Aayog and Google India", "Center of Policy Research and Governance (CPRG) and AI4India", "ISRO and IBM", "Ministry of Finance and Microsoft"],
+    "correctAnswer": "Center of Policy Research and Governance (CPRG) and AI4India"
   },
   {
-    "id": 18,
-    "question": "The report by Center of Policy Research and Governance and AI4India primarily focuses on the impact of which technology on the future of employment?",
-    "options": ["Biotechnology", "Renewable Energy", "Artificial Intelligence", "Nanotechnology"],
-    "correctAnswer": "Artificial Intelligence"
+    "id": 10,
+    "question": "The report on the 'future of jobs' focuses on the impact of which technology?",
+    "options": ["Blockchain", "Quantum Computing", "Artificial Intelligence (AI)", "Virtual Reality"],
+    "correctAnswer": "Artificial Intelligence (AI)"
   },
   {
-    "id": 19,
-    "question": "In 2024, the work of the Center of Policy Research and Governance (CPRG) was recognized at which international summit?",
-    "options": ["Davos World Economic Forum", "Belgrade GPAI Summit", "G20 Summit in Brazil", "COP29 Climate Summit"],
-    "correctAnswer": "Belgrade GPAI Summit"
-  },
-  {
-    "id": 20,
-    "question": "Which Indian non-governmental organization was mentioned as hosting an official side event at the Paris AI Action Summit 2025?",
-    "options": ["Pratham", "Goonj", "Center of Policy Research and Governance (CPRG)", "Teach For India"],
+    "id": 11,
+    "question": "Which Indian non-governmental organisation was the only one to host an official side event at the Paris AI Action Summit 2025?",
+    "options": ["AI4India", "NITI Aayog", "Center of Policy Research and Governance (CPRG)", "Tech Mahindra Foundation"],
     "correctAnswer": "Center of Policy Research and Governance (CPRG)"
   },
   {
+    "id": 12,
+    "question": "At which international summit in 2024 was the work of the Center of Policy Research and Governance (CPRG) recognized?",
+    "options": ["Davos World Economic Forum", "Belgrade GPAI Summit", "G7 Summit", "BRICS Summit"],
+    "correctAnswer": "Belgrade GPAI Summit"
+  },
+  {
+    "id": 13,
+    "question": "Who recently stated that future wars in India's context will span cyber and cognitive domains, in addition to traditional ones?",
+    "options": ["Defence Minister", "Prime Minister", "Chief of Defence Staff (CDS) Anil Chauhan", "National Security Advisor"],
+    "correctAnswer": "Chief of Defence Staff (CDS) Anil Chauhan"
+  },
+  {
+    "id": 14,
+    "question": "According to the Chief of Defence Staff, what new domains will future conflicts extend into beyond geographical limits?",
+    "options": ["Atmospheric and Oceanic", "Digital and Cognitive", "Space and Subterranean", "Electromagnetic and Acoustic"],
+    "correctAnswer": "Digital and Cognitive"
+  },
+  {
+    "id": 15,
+    "question": "Which technological advancements were emphasized by the CDS as reshaping battlefields?",
+    "options": ["Nuclear fusion and genetic engineering", "AI and drones", "High-speed rail and satellite internet", "Biotechnology and sustainable energy"],
+    "correctAnswer": "AI and drones"
+  },
+  {
+    "id": 16,
+    "question": "The Chief of Defence Staff recently spoke about establishing defense manufacturing hubs in India. Which Indian state, known for its aerospace and defense industry in cities like Hyderabad, would significantly benefit from such initiatives?",
+    "options": ["Rajasthan", "Karnataka", "Telangana", "West Bengal"],
+    "correctAnswer": "Telangana"
+  },
+  {
+    "id": 17,
+    "question": "The Chief of Defence Staff recently highlighted the importance of indigenous defense production in India. What is the broader national goal for India's defense sector?",
+    "options": ["Increased imports", "Outsourcing production", "Self-reliance", "Reducing military size"],
+    "correctAnswer": "Self-reliance"
+  },
+  {
+    "id": 18,
+    "question": "Which prominent US leader, identified as 'US state secretary' in the news, recently held talks with PM Modi in India?",
+    "options": ["Antony Blinken", "Marco Rubio", "Kamala Harris", "Joe Biden"],
+    "correctAnswer": "Marco Rubio"
+  },
+  {
+    "id": 19,
+    "question": "During his visit, Marco Rubio invited PM Modi to the White House on behalf of which former US President?",
+    "options": ["Joe Biden", "Donald Trump", "Barack Obama", "George W. Bush"],
+    "correctAnswer": "Donald Trump"
+  },
+  {
+    "id": 20,
+    "question": "India's defense capabilities are being bolstered to enhance its response against what, as stated in the context of new helicopter acquisitions?",
+    "options": ["Economic instability", "Environmental disasters", "Evolving regional threats", "Global pandemics"],
+    "correctAnswer": "Evolving regional threats"
+  },
+  {
     "id": 21,
-    "question": "What is the central theme of the report published by CPRG and AI4India, highly relevant to India's burgeoning tech sector, including in Telangana and Andhra Pradesh?",
-    "options": ["Impact of climate change on agriculture", "Future of jobs in the age of AI", "Urban planning and infrastructure development", "Healthcare reforms and accessibility"],
-    "correctAnswer": "Future of jobs in the age of AI"
+    "question": "The Centre's tightening of control on Pregabalin due to abuse falls under which broader category of national policy?",
+    "options": ["Economic development", "Environmental protection", "Public health and safety", "Agricultural reform"],
+    "correctAnswer": "Public health and safety"
   },
   {
     "id": 22,
-    "question": "Which US state secretary recently held talks with Prime Minister Modi, indicating strengthening bilateral ties?",
-    "options": ["Antony Blinken", "Janet Yellen", "Marco Rubio", "Lloyd Austin"],
-    "correctAnswer": "Marco Rubio"
+    "question": "The report by CPRG and AI4India on the 'future of jobs' in the age of AI suggests significant changes in the employment landscape. Which major Indian city, a prominent IT hub in Telangana, would be particularly impacted by these AI trends?",
+    "options": ["Kolkata", "Ahmedabad", "Hyderabad", "Jaipur"],
+    "correctAnswer": "Hyderabad"
   },
   {
     "id": 23,
-    "question": "The visit of US State Secretary Marco Rubio and his talks with PM Modi highlight the strengthening of bilateral ties between which two countries?",
-    "options": ["India and Russia", "India and China", "India and United States", "India and Japan"],
-    "correctAnswer": "India and United States"
+    "question": "The ongoing modernization of India's air force with new assets like the Apache helicopters aligns with the national goal of strengthening which aspect of its security?",
+    "options": ["Border tourism", "Cultural exchange", "Internal security", "Strategic defense"],
+    "correctAnswer": "Strategic defense"
   },
   {
     "id": 24,
-    "question": "Who invited PM Modi to visit the White House on behalf of Donald Trump, signaling strong personal relations?",
-    "options": ["Joe Biden", "Mike Pence", "Marco Rubio", "Kamala Harris"],
-    "correctAnswer": "Marco Rubio"
+    "question": "The Chief of Defence Staff's emphasis on defense manufacturing hubs and technological advancements in warfare aligns with which major Indian government initiative promoting domestic production?",
+    "options": ["Swachh Bharat Abhiyan", "Beti Bachao Beti Padhao", "Make in India", "Digital India"],
+    "correctAnswer": "Make in India"
   },
   {
     "id": 25,
-    "question": "What key aspect of foreign policy is underscored by the recent high-level interactions between US and Indian officials, including discussions with PM Modi?",
-    "options": ["Multilateral trade negotiations", "Military disarmament treaties", "Strengthening strategic partnerships", "Cultural exchange programs"],
-    "correctAnswer": "Strengthening strategic partnerships"
+    "question": "Beyond land, sea, and air, what other critical domains did CDS Anil Chauhan mention future wars would span?",
+    "options": ["Outer Space and Deep Sea", "Economic and Cultural", "Cyber and Cognitive", "Social and Political"],
+    "correctAnswer": "Cyber and Cognitive"
   }
 ]
