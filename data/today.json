@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "The Centre recently tightened control on which drug due to rising abuse among youth across India?",
-    "options": ["Paracetamol", "Ibuprofen", "Pregabalin", "Amoxicillin"],
-    "correctAnswer": "Pregabalin"
-  },
-  {
-    "id": 2,
-    "question": "What is the primary reason stated for the Centre's decision to tighten control on Pregabalin?",
-    "options": ["Manufacturing defects", "International trade disputes", "Rising abuse among youth", "Lack of effectiveness"],
-    "correctAnswer": "Rising abuse among youth"
-  },
-  {
-    "id": 3,
-    "question": "What is the name of India's indigenous Light Combat Helicopter mentioned in recent news for bolstering defense capabilities?",
-    "options": ["Dhruv", "Rudra", "Prachand", "Chetak"],
-    "correctAnswer": "Prachand"
-  },
-  {
-    "id": 4,
-    "question": "The Light Combat Helicopter 'Prachand' is specifically designed for operations in which type of environment?",
-    "options": ["Desert", "Maritime", "High-altitude", "Urban"],
-    "correctAnswer": "High-altitude"
-  },
-  {
-    "id": 5,
-    "question": "India is bolstering its defense capabilities with support for which US-made attack helicopter?",
-    "options": ["Chinook", "Black Hawk", "Apache", "Cobra"],
-    "correctAnswer": "Apache"
-  },
-  {
-    "id": 6,
-    "question": "The US recently approved a deal for support for Boeing AH-64E Apache attack helicopters for India, valued at approximately how much?",
-    "options": ["USD 98.2 million", "USD 198.2 million", "USD 298.2 million", "USD 398.2 million"],
-    "correctAnswer": "USD 198.2 million"
-  },
-  {
-    "id": 7,
-    "question": "India's acquisition of US Apache support complements which indigenous defense asset?",
-    "options": ["Tejas fighter jet", "INS Vikrant", "Light Combat Helicopter 'Prachand'", "Arjun Main Battle Tank"],
-    "correctAnswer": "Light Combat Helicopter 'Prachand'"
-  },
-  {
-    "id": 8,
-    "question": "According to recent news, the acquisition of advanced attack helicopters is aimed at modernizing which branch of India's armed forces?",
-    "options": ["Indian Army", "Indian Navy", "Indian Air Force", "Indian Coast Guard"],
-    "correctAnswer": "Indian Air Force"
-  },
-  {
-    "id": 9,
-    "question": "Which two entities published a report on the 'future of jobs' in the age of AI in India?",
-    "options": ["NITI Aayog and Google India", "Center of Policy Research and Governance (CPRG) and AI4India", "ISRO and IBM", "Ministry of Finance and Microsoft"],
-    "correctAnswer": "Center of Policy Research and Governance (CPRG) and AI4India"
-  },
-  {
-    "id": 10,
-    "question": "The report on the 'future of jobs' focuses on the impact of which technology?",
-    "options": ["Blockchain", "Quantum Computing", "Artificial Intelligence (AI)", "Virtual Reality"],
-    "correctAnswer": "Artificial Intelligence (AI)"
-  },
-  {
-    "id": 11,
-    "question": "Which Indian non-governmental organisation was the only one to host an official side event at the Paris AI Action Summit 2025?",
-    "options": ["AI4India", "NITI Aayog", "Center of Policy Research and Governance (CPRG)", "Tech Mahindra Foundation"],
-    "correctAnswer": "Center of Policy Research and Governance (CPRG)"
-  },
-  {
-    "id": 12,
-    "question": "At which international summit in 2024 was the work of the Center of Policy Research and Governance (CPRG) recognized?",
-    "options": ["Davos World Economic Forum", "Belgrade GPAI Summit", "G7 Summit", "BRICS Summit"],
-    "correctAnswer": "Belgrade GPAI Summit"
-  },
-  {
-    "id": 13,
-    "question": "Who recently stated that future wars in India's context will span cyber and cognitive domains, in addition to traditional ones?",
-    "options": ["Defence Minister", "Prime Minister", "Chief of Defence Staff (CDS) Anil Chauhan", "National Security Advisor"],
-    "correctAnswer": "Chief of Defence Staff (CDS) Anil Chauhan"
-  },
-  {
-    "id": 14,
-    "question": "According to the Chief of Defence Staff, what new domains will future conflicts extend into beyond geographical limits?",
-    "options": ["Atmospheric and Oceanic", "Digital and Cognitive", "Space and Subterranean", "Electromagnetic and Acoustic"],
-    "correctAnswer": "Digital and Cognitive"
-  },
-  {
-    "id": 15,
-    "question": "Which technological advancements were emphasized by the CDS as reshaping battlefields?",
-    "options": ["Nuclear fusion and genetic engineering", "AI and drones", "High-speed rail and satellite internet", "Biotechnology and sustainable energy"],
-    "correctAnswer": "AI and drones"
-  },
-  {
-    "id": 16,
-    "question": "The Chief of Defence Staff recently spoke about establishing defense manufacturing hubs in India. Which Indian state, known for its aerospace and defense industry in cities like Hyderabad, would significantly benefit from such initiatives?",
-    "options": ["Rajasthan", "Karnataka", "Telangana", "West Bengal"],
-    "correctAnswer": "Telangana"
-  },
-  {
-    "id": 17,
-    "question": "The Chief of Defence Staff recently highlighted the importance of indigenous defense production in India. What is the broader national goal for India's defense sector?",
-    "options": ["Increased imports", "Outsourcing production", "Self-reliance", "Reducing military size"],
-    "correctAnswer": "Self-reliance"
-  },
-  {
-    "id": 18,
-    "question": "Which prominent US leader, identified as 'US state secretary' in the news, recently held talks with PM Modi in India?",
-    "options": ["Antony Blinken", "Marco Rubio", "Kamala Harris", "Joe Biden"],
+    "question": "Which US official recently delivered an invitation from Donald Trump to PM Modi to visit the US?",
+    "options": ["Marco Rubio", "Mike Pompeo", "Antony Blinken", "Jake Sullivan"],
     "correctAnswer": "Marco Rubio"
   },
   {
-    "id": 19,
-    "question": "During his visit, Marco Rubio invited PM Modi to the White House on behalf of which former US President?",
-    "options": ["Joe Biden", "Donald Trump", "Barack Obama", "George W. Bush"],
+    "id": 2,
+    "question": "The US representative stated that the US would not allow which country to hold the energy market hostage, a concern that impacts India's energy security, including states like Telangana and Andhra Pradesh?",
+    "options": ["Russia", "China", "Iran", "Venezuela"],
+    "correctAnswer": "Iran"
+  },
+  {
+    "id": 3,
+    "question": "Who extended the invitation for PM Modi to visit the US, as reported in the news context?",
+    "options": ["Joe Biden", "Donald Trump", "Kamala Harris", "Marco Rubio"],
     "correctAnswer": "Donald Trump"
   },
   {
-    "id": 20,
-    "question": "India's defense capabilities are being bolstered to enhance its response against what, as stated in the context of new helicopter acquisitions?",
-    "options": ["Economic instability", "Environmental disasters", "Evolving regional threats", "Global pandemics"],
+    "id": 4,
+    "question": "What was a key concern regarding the global energy market expressed by the US representative during his visit to India, a factor that influences national economic stability affecting states like Telangana and Andhra Pradesh?",
+    "options": ["Fluctuating oil prices", "Dependence on renewable energy", "Hostage-taking by a specific nation", "Oversupply of natural gas"],
+    "correctAnswer": "Hostage-taking by a specific nation"
+  },
+  {
+    "id": 5,
+    "question": "The US representative's discussions with PM Modi on geopolitical issues, including energy security, indirectly influence the economic landscape of Indian states like Telangana and Andhra Pradesh primarily through their impact on:",
+    "options": ["Direct foreign investments in state projects", "Global energy market stability", "State-specific defense contracts", "Bilateral trade agreements exclusive to these states"],
+    "correctAnswer": "Global energy market stability"
+  },
+  {
+    "id": 6,
+    "question": "The Supreme Court of India recently took suo motu cognisance of which specific case?",
+    "options": ["Gyanvapi Mosque case", "Electoral Bonds case", "Twisha Sharma death case", "NEET paper leak case"],
+    "correctAnswer": "Twisha Sharma death case"
+  },
+  {
+    "id": 7,
+    "question": "What legal action did the CJI-led bench of the Supreme Court initiate in the Twisha Sharma death case?",
+    "options": ["Adjudicated the case", "Issued an arrest warrant", "Took suo motu cognisance", "Dismissed the petition"],
+    "correctAnswer": "Took suo motu cognisance"
+  },
+  {
+    "id": 8,
+    "question": "The term 'suo motu cognisance' refers to the Supreme Court's power to:",
+    "options": ["Accept cases only on appeal", "Initiate proceedings on its own", "Request opinions from lower courts", "Delegate cases to High Courts"],
+    "correctAnswer": "Initiate proceedings on its own"
+  },
+  {
+    "id": 9,
+    "question": "Supreme Court decisions, including instances of suo motu cognisance, are binding across all Indian states, ensuring a uniform application of justice in regions like:",
+    "options": ["Kerala and Karnataka", "Tamil Nadu and Odisha", "Telangana and Andhra Pradesh", "Maharashtra and Gujarat"],
+    "correctAnswer": "Telangana and Andhra Pradesh"
+  },
+  {
+    "id": 10,
+    "question": "A CJI-led bench was formed to hear the Twisha Sharma death case. What does 'CJI' stand for in this context?",
+    "options": ["Chief Judicial Inspector", "Central Justice Initiative", "Chief Justice of India", "Criminal Justice Investigator"],
+    "correctAnswer": "Chief Justice of India"
+  },
+  {
+    "id": 11,
+    "question": "Which drug has the Indian Centre tightened control over due to rising abuse among youth, impacting public health initiatives across all states?",
+    "options": ["Paracetamol", "Aspirin", "Pregabalin", "Ibuprofen"],
+    "correctAnswer": "Pregabalin"
+  },
+  {
+    "id": 12,
+    "question": "The primary reason cited for the Centre's decision to tighten control on Pregabalin, a measure applicable nationwide, is:",
+    "options": ["Counterfeit production", "Rising abuse among youth", "Export restrictions", "Patent expiry"],
+    "correctAnswer": "Rising abuse among youth"
+  },
+  {
+    "id": 13,
+    "question": "The Centre's measure to control Pregabalin specifically targets drug abuse within which demographic group across India?",
+    "options": ["Senior citizens", "Working professionals", "Youth", "Pregnant women"],
+    "correctAnswer": "Youth"
+  },
+  {
+    "id": 14,
+    "question": "National policies on drug control, such as the tightening of Pregabalin regulations, directly impact public health and law enforcement efforts in all states, including efforts in Telangana and Andhra Pradesh to combat drug-related issues. This action is an example of:",
+    "options": ["State-specific legislation", "Bilateral international agreements", "Central government's regulatory authority", "Local municipal ordinance"],
+    "correctAnswer": "Central government's regulatory authority"
+  },
+  {
+    "id": 15,
+    "question": "The tightening of control on Pregabalin by the Centre is an example of the government's efforts to address:",
+    "options": ["Pharmaceutical manufacturing standards", "Import-export regulations", "Public health challenges from substance abuse", "Intellectual property rights"],
+    "correctAnswer": "Public health challenges from substance abuse"
+  },
+  {
+    "id": 16,
+    "question": "What is the name of India's indigenous Light Combat Helicopter (LCH) mentioned in the news, designed for high-altitude operations, contributing to national defense capabilities?",
+    "options": ["Dhruv", "Tejas", "Prachand", "Rudra"],
+    "correctAnswer": "Prachand"
+  },
+  {
+    "id": 17,
+    "question": "India is bolstering its defense capabilities with support for which American attack helicopter?",
+    "options": ["Black Hawk", "Cobra", "Apache", "Chinook"],
+    "correctAnswer": "Apache"
+  },
+  {
+    "id": 18,
+    "question": "The US recently approved a deal for Boeing AH-64E Apache attack helicopter support to India, valued at approximately:",
+    "options": ["USD 19.82 million", "USD 198.2 million", "USD 1.982 billion", "USD 19.82 billion"],
+    "correctAnswer": "USD 198.2 million"
+  },
+  {
+    "id": 19,
+    "question": "The acquisition of advanced helicopters like the Apache and the development of indigenous platforms like Prachand aim to enhance India's defense against:",
+    "options": ["Cyber warfare threats", "Evolving regional threats", "Economic sanctions", "Space-based attacks"],
     "correctAnswer": "Evolving regional threats"
   },
   {
+    "id": 20,
+    "question": "India's defense modernization efforts, which include indigenous development and international acquisitions, significantly benefit states like Telangana and Andhra Pradesh through:",
+    "options": ["Increased tourism revenue", "Development of defense manufacturing clusters", "Exclusive agricultural export agreements", "Priority in national infrastructure projects"],
+    "correctAnswer": "Development of defense manufacturing clusters"
+  },
+  {
     "id": 21,
-    "question": "The Centre's tightening of control on Pregabalin due to abuse falls under which broader category of national policy?",
-    "options": ["Economic development", "Environmental protection", "Public health and safety", "Agricultural reform"],
-    "correctAnswer": "Public health and safety"
+    "question": "Which two entities collaborated to publish a report on the 'future of jobs' in the age of AI, a topic highly relevant to technologically advanced regions like Telangana?",
+    "options": ["NITI Aayog and IIT Delhi", "Centre of Policy Research and Governance and AI4India", "TCS and NASSCOM", "Ministry of Electronics & IT and Google India"],
+    "correctAnswer": "Centre of Policy Research and Governance and AI4India"
   },
   {
     "id": 22,
-    "question": "The report by CPRG and AI4India on the 'future of jobs' in the age of AI suggests significant changes in the employment landscape. Which major Indian city, a prominent IT hub in Telangana, would be particularly impacted by these AI trends?",
-    "options": ["Kolkata", "Ahmedabad", "Hyderabad", "Jaipur"],
-    "correctAnswer": "Hyderabad"
+    "question": "The report by CPRG and AI4India primarily focuses on the impact of what technology on employment across India?",
+    "options": ["Biotechnology", "Renewable Energy", "Artificial Intelligence", "Quantum Computing"],
+    "correctAnswer": "Artificial Intelligence"
   },
   {
     "id": 23,
-    "question": "The ongoing modernization of India's air force with new assets like the Apache helicopters aligns with the national goal of strengthening which aspect of its security?",
-    "options": ["Border tourism", "Cultural exchange", "Internal security", "Strategic defense"],
-    "correctAnswer": "Strategic defense"
+    "question": "CPRG (Centre of Policy Research and Governance) was the only Indian non-governmental organisation to host an official side event at which international AI summit?",
+    "options": ["G20 Summit 2023", "Paris AI Action Summit 2025", "COP28", "Davos World Economic Forum"],
+    "correctAnswer": "Paris AI Action Summit 2025"
   },
   {
     "id": 24,
-    "question": "The Chief of Defence Staff's emphasis on defense manufacturing hubs and technological advancements in warfare aligns with which major Indian government initiative promoting domestic production?",
-    "options": ["Swachh Bharat Abhiyan", "Beti Bachao Beti Padhao", "Make in India", "Digital India"],
-    "correctAnswer": "Make in India"
+    "question": "The work of CPRG, an Indian organization, was recognized at which global AI summit in 2024?",
+    "options": ["World AI Congress", "Berlin Tech Summit", "Geneva AI Forum", "Belgrade GPAI Summit"],
+    "correctAnswer": "Belgrade GPAI Summit"
   },
   {
     "id": 25,
-    "question": "Beyond land, sea, and air, what other critical domains did CDS Anil Chauhan mention future wars would span?",
-    "options": ["Outer Space and Deep Sea", "Economic and Cultural", "Cyber and Cognitive", "Social and Political"],
-    "correctAnswer": "Cyber and Cognitive"
+    "question": "With Hyderabad in Telangana being a major hub for technology and AI development, reports like the 'future of jobs' in the age of AI are particularly relevant for understanding:",
+    "options": ["Agricultural reforms in rural areas", "The impact of AI on the local workforce and skill development", "Traditional arts and crafts preservation", "Changes in regional culinary trends"],
+    "correctAnswer": "The impact of AI on the local workforce and skill development"
   }
 ]
