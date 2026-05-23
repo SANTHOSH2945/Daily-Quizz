@@ -2,7 +2,8 @@ name: Generate Daily Current Affairs Quiz
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    # Runs precisely at minute 0 of every 5th hour (e.g., 12:00, 5:00, 10:00, etc.)
+    - cron: '0 */5 * * *'
   workflow_dispatch:
 
 jobs:
@@ -29,7 +30,7 @@ jobs:
         env:
           NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          REGION: "Telangana, India"
+          REGION: "Telangana, Andhra Pradesh, India"
         run: node generate-quiz.js
 
       - name: Commit and Push updated quiz data
@@ -43,7 +44,8 @@ jobs:
           
           git add data/today.json
           if ! git diff-index --quiet HEAD; then
-            git commit -m "Automated update: Today's Quiz [Skip CI]"
+            # Removed [Skip CI] so Vercel builds the fresh today.json file on every push
+            git commit -m "Automated update: Today's Quiz"
             git push origin main --force
           else
             echo "No data changes detected. Skipping push."
