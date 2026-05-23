@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "What two countries have dispatched teams to Iran to mediate a U.S.-Iran cease-fire?",
-    "options": ["Turkey and Saudi Arabia", "Pakistan and Qatar", "China and Russia", "Germany and France"],
+    "question": "Which two countries have dispatched teams to Iran to save a U.S.-Iran cease-fire?",
+    "options": ["China and Russia", "Pakistan and Qatar", "India and Saudi Arabia", "Turkey and Egypt"],
     "correctAnswer": "Pakistan and Qatar"
   },
   {
     "id": 2,
-    "question": "What is the primary threat looming over the U.S.-Iran cease-fire efforts?",
-    "options": ["Economic sanctions", "Resumed war", "Political assassinations", "Cyber attacks"],
+    "question": "According to the headline, what looming threat prompted regional mediators to act regarding the U.S.-Iran situation?",
+    "options": ["Economic collapse", "Political coup", "Resumed war", "Humanitarian crisis"],
     "correctAnswer": "Resumed war"
   },
   {
     "id": 3,
-    "question": "In the West Bank, what kind of victim of Israeli settler violence recently gained widespread attention?",
-    "options": ["A human rights activist", "A Palestinian farmer", "A Palestinian family’s dog", "A journalist"],
+    "question": "What was the 'latest victim' of Israeli settler violence that shocked in the West Bank?",
+    "options": ["A Palestinian child", "A Palestinian family’s dog", "A Palestinian farmer", "A Palestinian elder"],
     "correctAnswer": "A Palestinian family’s dog"
   },
   {
     "id": 4,
-    "question": "What specifically about the incident in the West Bank caused it to shock in a new way and spread widely?",
-    "options": ["A live broadcast", "A government report", "A video of the attack", "An eyewitness account"],
-    "correctAnswer": "A video of the attack"
+    "question": "How did the incident of settler violence in the West Bank gain widespread attention?",
+    "options": ["Through a news report", "Via a viral video", "By an official statement", "Through witness testimonies"],
+    "correctAnswer": "Via a viral video"
   },
   {
     "id": 5,
-    "question": "What are Europeans considering appointing to facilitate talks with Russia?",
-    "options": ["A special ambassador", "An economic advisor", "An envoy to Ukraine peace talks", "A military attaché"],
-    "correctAnswer": "An envoy to Ukraine peace talks"
+    "question": "What is Europe considering appointing to Ukraine peace talks with Russia?",
+    "options": ["A military general", "An economic advisor", "An envoy", "A religious leader"],
+    "correctAnswer": "An envoy"
   },
   {
     "id": 6,
-    "question": "Before appointing an envoy, what do Europeans warn they need to decide regarding peace talks with Russia?",
-    "options": ["Who will fund the talks", "What to ask", "Where to hold the discussions", "Which countries will be involved"],
+    "question": "What is the primary debate among Europeans before appointing someone to talk to Putin?",
+    "options": ["Who should be appointed", "Where the talks should take place", "What to ask", "The funding for the talks"],
     "correctAnswer": "What to ask"
   },
   {
     "id": 7,
-    "question": "With whom are Europeans considering appointing an envoy for peace talks?",
-    "options": ["The United States", "China", "Russia", "Ukraine"],
-    "correctAnswer": "Russia"
+    "question": "Which specific location in South Sudan is identified as facing an Ebola risk?",
+    "options": ["Juba", "Malakal", "Akobo", "Wau"],
+    "correctAnswer": "Akobo"
   },
   {
     "id": 8,
-    "question": "What disease risk is Akobo, South Sudan, reportedly facing?",
-    "options": ["Malaria", "Cholera", "Ebola", "Tuberculosis"],
-    "correctAnswer": "Ebola"
-  },
-  {
-    "id": 9,
-    "question": "What two factors are on the minds of Akobo residents that contribute to the Ebola risk?",
-    "options": ["Poor sanitation and lack of education", "Hunger and conflict", "Political instability and natural disasters", "Economic downturn and climate change"],
+    "question": "What two factors are primarily on the minds of Akobo residents, contributing to the Ebola risk?",
+    "options": ["Education and healthcare", "Hunger and conflict", "Climate change and migration", "Infrastructure and governance"],
     "correctAnswer": "Hunger and conflict"
   },
   {
+    "id": 9,
+    "question": "The headline warns that an Ebola outbreak in Akobo, South Sudan, could have what kind of consequences?",
+    "options": ["Minor", "Manageable", "Localized", "Devastating"],
+    "correctAnswer": "Devastating"
+  },
+  {
     "id": 10,
-    "question": "In which country are Islamophobic, antisemitic, and racist crimes reported to be rising?",
-    "options": ["The United States", "France", "The UK", "Germany"],
-    "correctAnswer": "The UK"
+    "question": "What three types of crimes are reported to be rising in the UK?",
+    "options": ["Cyber, financial, and violent", "Islamophobic, antisemitic, and racist", "Drug-related, property, and theft", "Gang, hate, and domestic"],
+    "correctAnswer": "Islamophobic, antisemitic, and racist"
   },
   {
     "id": 11,
-    "question": "According to experts, what is fueling the rise of Islamophobic, antisemitic, and racist crimes?",
-    "options": ["Economic recession and poverty", "Online disinformation, global instability, and divisive political rhetoric", "Lack of law enforcement and judicial failures", "Increased immigration and cultural clashes"],
-    "correctAnswer": "Online disinformation, global instability, and divisive political rhetoric"
+    "question": "According to experts, what is fueling the rise of Islamophobic, antisemitic, and racist crimes in the UK?",
+    "options": ["Economic recession", "Online disinformation, global instability and divisive political rhetoric", "Lack of police presence", "Immigration policies"],
+    "correctAnswer": "Online disinformation, global instability and divisive political rhetoric"
   },
   {
     "id": 12,
-    "question": "Which types of crimes are specifically mentioned as rising in the UK?",
-    "options": ["Hate crimes against women and children", "Property crimes and vandalism", "Islamophobic, antisemitic and racist crimes", "Drug-related offenses and gang violence"],
-    "correctAnswer": "Islamophobic, antisemitic and racist crimes"
+    "question": "How many troops did President Trump promise to send to Poland?",
+    "options": ["1,000", "5,000", "10,000", "20,000"],
+    "correctAnswer": "5,000"
   },
   {
     "id": 13,
-    "question": "Who promised to send 5,000 troops to Poland, leaving European leaders wary?",
-    "options": ["President Biden", "President Trump", "Chancellor Merkel", "President Macron"],
-    "correctAnswer": "President Trump"
+    "question": "How did European leaders react to President Trump's promise to send troops to Poland?",
+    "options": ["Enthusiastically", "Indifferently", "Reeling/Wary", "With strong opposition"],
+    "correctAnswer": "Reeling/Wary"
   },
   {
     "id": 14,
-    "question": "How did European leaders react to President Trump's promise to send troops to Poland?",
-    "options": ["They expressed enthusiastic support", "They remained wary", "They dismissed the promise outright", "They requested more troops"],
-    "correctAnswer": "They remained wary"
+    "question": "What new requirement does the Taliban decree impose on girls seeking to get out of a marriage?",
+    "options": ["They must obtain their parents' consent", "They must wait until puberty", "They must complete legal studies", "They must pay a fine"],
+    "correctAnswer": "They must wait until puberty"
   },
   {
     "id": 15,
-    "question": "What new decree issued by the Taliban has formalized child marriage in Afghanistan?",
-    "options": ["A decree on education", "A decree on divorce", "A decree on property rights", "A decree on religious observance"],
-    "correctAnswer": "A decree on divorce"
-  },
-  {
-    "id": 16,
-    "question": "According to the new Taliban decree, what must girls wait for before seeking to get out of a marriage?",
-    "options": ["Parental consent", "A court order", "Puberty", "Financial independence"],
-    "correctAnswer": "Puberty"
-  },
-  {
-    "id": 17,
     "question": "For women seeking to escape an abusive husband under the new Afghan law, what is required?",
-    "options": ["A formal police report", "Mediation", "Permission from male relatives", "A lengthy court process"],
+    "options": ["A court order", "International intervention", "Mediation", "Immediate divorce"],
     "correctAnswer": "Mediation"
   },
   {
-    "id": 18,
-    "question": "What kind of 'new elite' is President Vladimir V. Putin reportedly pushing, rewarding those who fought in his war?",
-    "options": ["Business leaders", "Academics and scientists", "War veterans", "Cultural figures"],
-    "correctAnswer": "War veterans"
+    "id": 16,
+    "question": "Which organization warned that the new Taliban decree formalizes child marriage in Afghanistan?",
+    "options": ["NATO", "The World Bank", "The U.N.", "Amnesty International"],
+    "correctAnswer": "The U.N."
   },
   {
-    "id": 19,
-    "question": "Who replaced the popular leader of a region bordering Ukraine, as Putin looks to reward war veterans?",
-    "options": ["A former diplomat", "A military commander", "A young politician", "A religious leader"],
+    "id": 17,
+    "question": "According to the headline, who replaced the popular leader of a region bordering Ukraine?",
+    "options": ["A political rival", "A business tycoon", "A military commander", "A family member"],
     "correctAnswer": "A military commander"
   },
   {
+    "id": 18,
+    "question": "What is President Vladimir V. Putin's motivation for pushing a 'new elite' of war veterans?",
+    "options": ["To demilitarize the government", "To reward those who fought in his war", "To promote economic growth", "To improve international relations"],
+    "correctAnswer": "To reward those who fought in his war"
+  },
+  {
+    "id": 19,
+    "question": "The 'new elite' appointments mentioned in the headline involve replacing leaders in regions bordering which country?",
+    "options": ["Belarus", "Poland", "Ukraine", "Kazakhstan"],
+    "correctAnswer": "Ukraine"
+  },
+  {
     "id": 20,
-    "question": "In which country is a manhunt underway for a Duterte ally evading an I.C.C. warrant?",
-    "options": ["Indonesia", "Vietnam", "Philippines", "Thailand"],
-    "correctAnswer": "Philippines"
+    "question": "Who is the Duterte ally evading an I.C.C. warrant in the Philippines?",
+    "options": ["President Rodrigo Duterte", "Senator Ronald dela Rosa", "A Supreme Court Justice", "A police chief"],
+    "correctAnswer": "Senator Ronald dela Rosa"
   },
   {
     "id": 21,
-    "question": "Who is the fugitive evading an I.C.C. warrant in the Philippines?",
-    "options": ["A former president", "A senator named Ronald dela Rosa", "A military general", "A prominent businessman"],
-    "correctAnswer": "A senator named Ronald dela Rosa"
+    "question": "Which organization issued the warrant that Senator Ronald dela Rosa is evading?",
+    "options": ["The Philippine National Police", "The International Criminal Court (I.C.C.)", "The United Nations Security Council", "Interpol"],
+    "correctAnswer": "The International Criminal Court (I.C.C.)"
   },
   {
     "id": 22,
-    "question": "Where did Senator Ronald dela Rosa seek refuge last week while evading government agents?",
-    "options": ["An embassy", "The country's Senate", "A private residence", "A foreign country"],
+    "question": "Where did the fugitive Senator Ronald dela Rosa seek refuge last week before giving government agents the slip?",
+    "options": ["The Presidential Palace", "A foreign embassy", "The country’s Senate", "A military base"],
     "correctAnswer": "The country’s Senate"
   },
   {
     "id": 23,
-    "question": "Which former royal is currently under police investigation for reports of sexual misconduct?",
-    "options": ["Prince William", "Prince Harry", "Former Prince Andrew", "King Charles III"],
+    "question": "Who is the subject of a police investigation examining reports of sexual misconduct?",
+    "options": ["King Charles III", "Former Prince Andrew", "Prince Harry", "Prince William"],
     "correctAnswer": "Former Prince Andrew"
   },
   {
     "id": 24,
-    "question": "A British police force is assessing a report that a woman was taken to an address in Windsor for sexual purposes in what year?",
-    "options": ["2005", "2010", "2015", "2020"],
-    "correctAnswer": "2010"
+    "question": "What type of reports is a British police force assessing regarding Former Prince Andrew?",
+    "options": ["Financial fraud", "Abuse of power", "Sexual misconduct", "Embezzlement"],
+    "correctAnswer": "Sexual misconduct"
   },
   {
     "id": 25,
-    "question": "What is the current status of charges against Prince Andrew regarding the sexual misconduct reports?",
-    "options": ["He has been formally charged", "He has been convicted", "No charges have been filed", "He has been acquitted"],
+    "question": "What is the current status of the police investigation into Former Prince Andrew as stated in the headline?",
+    "options": ["Charges have been filed", "He has been arrested", "No charges have been filed", "The investigation is closed"],
     "correctAnswer": "No charges have been filed"
   }
 ]
