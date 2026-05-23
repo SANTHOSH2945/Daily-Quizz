@@ -1,152 +1,277 @@
 [
   {
     "id": 1,
-    "question": "Which two countries have dispatched teams to Iran to save a U.S.-Iran cease-fire?",
-    "options": ["China and Russia", "Pakistan and Qatar", "India and Saudi Arabia", "Turkey and Egypt"],
-    "correctAnswer": "Pakistan and Qatar"
+    "question": "What is the name of the newly constructed state-of-the-art Secretariat building in Telangana?",
+    "options": [
+      "Dr. B.R. Ambedkar Telangana State Secretariat",
+      "Kaleshwaram Administrative Block",
+      "Bhagyanagar Secretariat Complex",
+      "Golconda Administrative Hub"
+    ],
+    "correctAnswer": "Dr. B.R. Ambedkar Telangana State Secretariat"
   },
   {
     "id": 2,
-    "question": "According to the headline, what looming threat prompted regional mediators to act regarding the U.S.-Iran situation?",
-    "options": ["Economic collapse", "Political coup", "Resumed war", "Humanitarian crisis"],
-    "correctAnswer": "Resumed war"
+    "question": "Which city did the Andhra Pradesh government propose as the Executive Capital under its three-capital plan?",
+    "options": [
+      "Amaravati",
+      "Kurnool",
+      "Visakhapatnam",
+      "Nellore"
+    ],
+    "correctAnswer": "Visakhapatnam"
   },
   {
     "id": 3,
-    "question": "What was the 'latest victim' of Israeli settler violence that shocked in the West Bank?",
-    "options": ["A Palestinian child", "A Palestinian family’s dog", "A Palestinian farmer", "A Palestinian elder"],
-    "correctAnswer": "A Palestinian family’s dog"
+    "question": "Which flagship scheme in Telangana provides investment support to farmers for crop production?",
+    "options": [
+      "KCR Kit",
+      "Dalit Bandhu",
+      "Rythu Bandhu",
+      "Aasara Pensions"
+    ],
+    "correctAnswer": "Rythu Bandhu"
   },
   {
     "id": 4,
-    "question": "How did the incident of settler violence in the West Bank gain widespread attention?",
-    "options": ["Through a news report", "Via a viral video", "By an official statement", "Through witness testimonies"],
-    "correctAnswer": "Via a viral video"
+    "question": "The multi-purpose Polavaram Project, a major irrigation undertaking, is being constructed on which river in Andhra Pradesh?",
+    "options": [
+      "Krishna River",
+      "Godavari River",
+      "Pennar River",
+      "Tungabhadra River"
+    ],
+    "correctAnswer": "Godavari River"
   },
   {
     "id": 5,
-    "question": "What is Europe considering appointing to Ukraine peace talks with Russia?",
-    "options": ["A military general", "An economic advisor", "An envoy", "A religious leader"],
-    "correctAnswer": "An envoy"
+    "question": "What is the name of the largest startup incubator in Telangana, often cited as India's largest?",
+    "options": [
+      "T-Works",
+      "T-Fiber",
+      "T-Hub",
+      "T-SAT"
+    ],
+    "correctAnswer": "T-Hub"
   },
   {
     "id": 6,
-    "question": "What is the primary debate among Europeans before appointing someone to talk to Putin?",
-    "options": ["Who should be appointed", "Where the talks should take place", "What to ask", "The funding for the talks"],
-    "correctAnswer": "What to ask"
+    "question": "The 'Jagananna Vidya Deevena' scheme in Andhra Pradesh provides financial assistance for which purpose?",
+    "options": [
+      "School Uniforms",
+      "Mid-day Meals",
+      "College Fee Reimbursement",
+      "Digital Devices for Students"
+    ],
+    "correctAnswer": "College Fee Reimbursement"
   },
   {
     "id": 7,
-    "question": "Which specific location in South Sudan is identified as facing an Ebola risk?",
-    "options": ["Juba", "Malakal", "Akobo", "Wau"],
-    "correctAnswer": "Akobo"
+    "question": "Which massive lift irrigation project in Telangana is known as the world's largest multi-stage lift irrigation scheme?",
+    "options": [
+      "Devadula Project",
+      "Palamuru-Rangareddy Lift Irrigation Scheme",
+      "Kaleshwaram Project",
+      "Pranahitha-Chevella Project"
+    ],
+    "correctAnswer": "Kaleshwaram Project"
   },
   {
     "id": 8,
-    "question": "What two factors are primarily on the minds of Akobo residents, contributing to the Ebola risk?",
-    "options": ["Education and healthcare", "Hunger and conflict", "Climate change and migration", "Infrastructure and governance"],
-    "correctAnswer": "Hunger and conflict"
+    "question": "Which of the following is NOT one of the 'Navaratnalu' (nine welfare schemes) implemented by the Andhra Pradesh government?",
+    "options": [
+      "YSR Rythu Bharosa",
+      "Amma Vodi",
+      "Mana Ooru Mana Badi",
+      "YSR Aarogyasri"
+    ],
+    "correctAnswer": "Mana Ooru Mana Badi"
   },
   {
     "id": 9,
-    "question": "The headline warns that an Ebola outbreak in Akobo, South Sudan, could have what kind of consequences?",
-    "options": ["Minor", "Manageable", "Localized", "Devastating"],
-    "correctAnswer": "Devastating"
+    "question": "The Kakatiya Mega Textile Park is a significant industrial project located in which district of Telangana?",
+    "options": [
+      "Rangareddy",
+      "Warangal",
+      "Medak",
+      "Karimnagar"
+    ],
+    "correctAnswer": "Warangal"
   },
   {
     "id": 10,
-    "question": "What three types of crimes are reported to be rising in the UK?",
-    "options": ["Cyber, financial, and violent", "Islamophobic, antisemitic, and racist", "Drug-related, property, and theft", "Gang, hate, and domestic"],
-    "correctAnswer": "Islamophobic, antisemitic, and racist"
+    "question": "Which major port city in Andhra Pradesh is often referred to as the 'Jewel of the East Coast'?",
+    "options": [
+      "Kakinada",
+      "Machilipatnam",
+      "Visakhapatnam",
+      "Krishnapatnam"
+    ],
+    "correctAnswer": "Visakhapatnam"
   },
   {
     "id": 11,
-    "question": "According to experts, what is fueling the rise of Islamophobic, antisemitic, and racist crimes in the UK?",
-    "options": ["Economic recession", "Online disinformation, global instability and divisive political rhetoric", "Lack of police presence", "Immigration policies"],
-    "correctAnswer": "Online disinformation, global instability and divisive political rhetoric"
+    "question": "The renovated Sri Lakshmi Narasimha Swamy Temple, popularly known as Yadadri, is located in which district of Telangana?",
+    "options": [
+      "Nalgonda",
+      "Yadadri Bhuvanagiri",
+      "Siddipet",
+      "Mahabubnagar"
+    ],
+    "correctAnswer": "Yadadri Bhuvanagiri"
   },
   {
     "id": 12,
-    "question": "How many troops did President Trump promise to send to Poland?",
-    "options": ["1,000", "5,000", "10,000", "20,000"],
-    "correctAnswer": "5,000"
+    "question": "The 'YSR Rythu Bharosa' scheme in Andhra Pradesh provides financial assistance to farmers and which other group?",
+    "options": [
+      "Fishermen",
+      "Landless tenants",
+      "Dairy farmers",
+      "Sericulture workers"
+    ],
+    "correctAnswer": "Landless tenants"
   },
   {
     "id": 13,
-    "question": "How did European leaders react to President Trump's promise to send troops to Poland?",
-    "options": ["Enthusiastically", "Indifferently", "Reeling/Wary", "With strong opposition"],
-    "correctAnswer": "Reeling/Wary"
+    "question": "The Strategic Road Development Plan (SRDP) is a major initiative primarily focused on improving road infrastructure in which Telangana city?",
+    "options": [
+      "Warangal",
+      "Hyderabad",
+      "Karimnagar",
+      "Nizamabad"
+    ],
+    "correctAnswer": "Hyderabad"
   },
   {
     "id": 14,
-    "question": "What new requirement does the Taliban decree impose on girls seeking to get out of a marriage?",
-    "options": ["They must obtain their parents' consent", "They must wait until puberty", "They must complete legal studies", "They must pay a fine"],
-    "correctAnswer": "They must wait until puberty"
+    "question": "In April 2022, Andhra Pradesh significantly reorganized its administrative divisions, increasing the total number of districts from 13 to how many?",
+    "options": [
+      "20",
+      "22",
+      "26",
+      "29"
+    ],
+    "correctAnswer": "26"
   },
   {
     "id": 15,
-    "question": "For women seeking to escape an abusive husband under the new Afghan law, what is required?",
-    "options": ["A court order", "International intervention", "Mediation", "Immediate divorce"],
-    "correctAnswer": "Mediation"
+    "question": "Which unique floral festival is celebrated predominantly in Telangana, symbolizing the state's culture and identity?",
+    "options": [
+      "Bonalu",
+      "Dasara",
+      "Bathukamma",
+      "Ugadi"
+    ],
+    "correctAnswer": "Bathukamma"
   },
   {
     "id": 16,
-    "question": "Which organization warned that the new Taliban decree formalizes child marriage in Afghanistan?",
-    "options": ["NATO", "The World Bank", "The U.N.", "Amnesty International"],
-    "correctAnswer": "The U.N."
+    "question": "The famous Tirumala Venkateswara Temple, a major pilgrimage site, is located in which district of Andhra Pradesh?",
+    "options": [
+      "Kadapa",
+      "Chittoor",
+      "Anantapur",
+      "Nellore"
+    ],
+    "correctAnswer": "Chittoor"
   },
   {
     "id": 17,
-    "question": "According to the headline, who replaced the popular leader of a region bordering Ukraine?",
-    "options": ["A political rival", "A business tycoon", "A military commander", "A family member"],
-    "correctAnswer": "A military commander"
+    "question": "The Bhadradri Thermal Power Project is a key power generation facility in Telangana, located in which district?",
+    "options": [
+      "Kothagudem",
+      "Bhupalpally",
+      "Mancherial",
+      "Peddapalli"
+    ],
+    "correctAnswer": "Kothagudem"
   },
   {
     "id": 18,
-    "question": "What is President Vladimir V. Putin's motivation for pushing a 'new elite' of war veterans?",
-    "options": ["To demilitarize the government", "To reward those who fought in his war", "To promote economic growth", "To improve international relations"],
-    "correctAnswer": "To reward those who fought in his war"
+    "question": "The Visakhapatnam-Chennai Industrial Corridor (VCIC) is part of a larger national initiative to boost manufacturing and trade along which coast?",
+    "options": [
+      "West Coast",
+      "East Coast",
+      "Gulf Coast",
+      "Malabar Coast"
+    ],
+    "correctAnswer": "East Coast"
   },
   {
     "id": 19,
-    "question": "The 'new elite' appointments mentioned in the headline involve replacing leaders in regions bordering which country?",
-    "options": ["Belarus", "Poland", "Ukraine", "Kazakhstan"],
-    "correctAnswer": "Ukraine"
+    "question": "Which traditional handloom product, symbolizing Telangana's cultural heritage, recently received a Geographical Indication (GI) tag in 2023?",
+    "options": [
+      "Warangal Dhurries",
+      "Nirmal Toys",
+      "Telangana Tangedu Cheeralu",
+      "Adilabad Dokra"
+    ],
+    "correctAnswer": "Telangana Tangedu Cheeralu"
   },
   {
     "id": 20,
-    "question": "Who is the Duterte ally evading an I.C.C. warrant in the Philippines?",
-    "options": ["President Rodrigo Duterte", "Senator Ronald dela Rosa", "A Supreme Court Justice", "A police chief"],
-    "correctAnswer": "Senator Ronald dela Rosa"
+    "question": "The 'YSR Aarogyasri' scheme in Andhra Pradesh primarily focuses on providing what to its beneficiaries?",
+    "options": [
+      "Pension for elderly",
+      "Cash transfers for unemployed",
+      "Free medical treatment for severe ailments",
+      "Housing for the poor"
+    ],
+    "correctAnswer": "Free medical treatment for severe ailments"
   },
   {
     "id": 21,
-    "question": "Which organization issued the warrant that Senator Ronald dela Rosa is evading?",
-    "options": ["The Philippine National Police", "The International Criminal Court (I.C.C.)", "The United Nations Security Council", "Interpol"],
-    "correctAnswer": "The International Criminal Court (I.C.C.)"
+    "question": "The 'Haritha Haram' program in Telangana is a large-scale initiative focused on which environmental aspect?",
+    "options": [
+      "Water conservation",
+      "Forestation and increasing green cover",
+      "Waste management",
+      "Renewable energy promotion"
+    ],
+    "correctAnswer": "Forestation and increasing green cover"
   },
   {
     "id": 22,
-    "question": "Where did the fugitive Senator Ronald dela Rosa seek refuge last week before giving government agents the slip?",
-    "options": ["The Presidential Palace", "A foreign embassy", "The country’s Senate", "A military base"],
-    "correctAnswer": "The country’s Senate"
+    "question": "The 'Fish Andhra' program launched by the Andhra Pradesh government aims to boost which sector?",
+    "options": [
+      "Dairy farming",
+      "Sericulture",
+      "Aquaculture and fisheries",
+      "Poultry farming"
+    ],
+    "correctAnswer": "Aquaculture and fisheries"
   },
   {
     "id": 23,
-    "question": "Who is the subject of a police investigation examining reports of sexual misconduct?",
-    "options": ["King Charles III", "Former Prince Andrew", "Prince Harry", "Prince William"],
-    "correctAnswer": "Former Prince Andrew"
+    "question": "What is the primary objective of Telangana's 'Dharani' portal?",
+    "options": [
+      "Online education",
+      "Land records management",
+      "Public grievance redressal",
+      "Tourism promotion"
+    ],
+    "correctAnswer": "Land records management"
   },
   {
     "id": 24,
-    "question": "What type of reports is a British police force assessing regarding Former Prince Andrew?",
-    "options": ["Financial fraud", "Abuse of power", "Sexual misconduct", "Embezzlement"],
-    "correctAnswer": "Sexual misconduct"
+    "question": "Which greenfield international airport project is currently under development in the Bhogapuram area of Andhra Pradesh?",
+    "options": [
+      "Kurnool Airport",
+      "Kadapa Airport",
+      "Gannavaram Airport",
+      "Bhogapuram International Airport"
+    ],
+    "correctAnswer": "Bhogapuram International Airport"
   },
   {
     "id": 25,
-    "question": "What is the current status of the police investigation into Former Prince Andrew as stated in the headline?",
-    "options": ["Charges have been filed", "He has been arrested", "No charges have been filed", "The investigation is closed"],
-    "correctAnswer": "No charges have been filed"
+    "question": "'T-Works' is an initiative by the Telangana government primarily focused on promoting what?",
+    "options": [
+      "Women empowerment",
+      "Skill development in handicrafts",
+      "Prototyping and hardware startups",
+      "Rural employment"
+    ],
+    "correctAnswer": "Prototyping and hardware startups"
   }
 ]
