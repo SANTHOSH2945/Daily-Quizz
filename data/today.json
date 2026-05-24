@@ -1,152 +1,277 @@
 [
   {
     "id": 1,
-    "question": "Which national examination's alleged paper leak has led to widespread protests and demands for accountability, significantly impacting students across states like Telangana and Andhra Pradesh?",
-    "options": ["JEE Main", "UPSC Civil Services", "NEET-UG", "CLAT"],
-    "correctAnswer": "NEET-UG"
+    "question": "Who is responsible for conferring the 66 Padma Awards mentioned in the news, an honor that can be bestowed upon distinguished citizens from any Indian state, including Telangana and Andhra Pradesh?",
+    "options": [
+      "Prime Minister of India",
+      "Chief Justice of India",
+      "President of India",
+      "Vice President of India"
+    ],
+    "correctAnswer": "President of India"
   },
   {
     "id": 2,
-    "question": "Rahul Gandhi has demanded the resignation of which Union Minister over the ongoing NEET-UG paper leak controversy, a matter of concern for students in Telangana and Andhra Pradesh?",
-    "options": ["Amit Shah", "Nirmala Sitharaman", "Dharmendra Pradhan", "S. Jaishankar"],
-    "correctAnswer": "Dharmendra Pradhan"
+    "question": "How many Padma Awards were scheduled to be conferred on Monday, as per the news, recognizing achievements across various fields and potentially including individuals from Telangana and Andhra Pradesh?",
+    "options": [
+      "46",
+      "56",
+      "66",
+      "76"
+    ],
+    "correctAnswer": "66"
   },
   {
     "id": 3,
-    "question": "Approximately how many children's future is stated to be at stake due to the NEET-UG 2026 paper leak controversy, affecting aspiring students nationwide including in Telangana and Andhra Pradesh?",
-    "options": ["5 lakh", "10 lakh", "22 lakh", "50 lakh"],
-    "correctAnswer": "22 lakh"
+    "question": "The President of India confers the Padma Awards annually. This national event celebrates individuals for their distinguished service across various fields, including those from states like Telangana and Andhra Pradesh. Which category of awards is being referred to in the headline?",
+    "options": [
+      "Bharat Ratna",
+      "Padma Vibhushan, Padma Bhushan, Padma Shri",
+      "National Film Awards",
+      "Gallantry Awards"
+    ],
+    "correctAnswer": "Padma Vibhushan, Padma Bhushan, Padma Shri"
   },
   {
     "id": 4,
-    "question": "An organized network, motivated by financial gain, is suspected to be behind the unauthorized distribution of confidential materials for which national level entrance examination?",
-    "options": ["JEE Advanced", "NEET-UG 2026", "CAT", "UGC NET"],
-    "correctAnswer": "NEET-UG 2026"
+    "question": "What was the primary demand of the lakhs of tribal people who gathered at the Red Fort, a movement relevant to Scheduled Tribes across India, including those residing in Telangana and Andhra Pradesh?",
+    "options": [
+      "Increase in ST reservations",
+      "Removal of converted Muslims and Christians from the ST list",
+      "Greater funding for tribal welfare schemes",
+      "Recognition of new tribal languages"
+    ],
+    "correctAnswer": "Removal of converted Muslims and Christians from the ST list"
   },
   {
     "id": 5,
-    "question": "What is the name of the accused recently sent to judicial custody in connection with the NEET-UG 2026 exam paper leak case?",
-    "options": ["Ramesh Kumar", "Sanjay Singh", "Shubham Khairnar", "Mohit Gupta"],
-    "correctAnswer": "Shubham Khairnar"
+    "question": "Which organization was identified as organizing the event at the Red Fort where tribals demanded the removal of converted Muslims and Christians from the ST category, impacting ST policies in states like Telangana?",
+    "options": [
+      "Bharat Adivasi Party",
+      "Janajati Suraksha Manch",
+      "Tribal Rights Forum",
+      "Adivasi Kalyan Parishad"
+    ],
+    "correctAnswer": "Janajati Suraksha Manch"
   },
   {
     "id": 6,
-    "question": "Regarding the NEET paper leak, what has the National Testing Agency (NTA) claimed about the extent of the leak?",
-    "options": ["The entire paper was leaked nationwide", "Only some questions were leaked, not the full paper", "No leak occurred at all", "The leak was confined to a single state"],
-    "correctAnswer": "Only some questions were leaked, not the full paper"
+    "question": "The tribal gathering at Red Fort aimed to build support for a constitutional amendment under which Article to de-list converted tribals, a matter of importance for tribal communities in Andhra Pradesh?",
+    "options": [
+      "Article 340",
+      "Article 341",
+      "Article 342",
+      "Article 343"
+    ],
+    "correctAnswer": "Article 342"
   },
   {
     "id": 7,
-    "question": "Which student political body, apart from Rahul Gandhi, also called for the resignation of the Education Minister over the NEET paper leak controversy?",
-    "options": ["ABVP", "SFI", "NSUI", "AISF"],
-    "correctAnswer": "NSUI"
+    "question": "Where did approximately 1.5 lakh tribal people from across India converge to demand changes to the Scheduled Tribe list, a decision that would affect STs in Telangana and Andhra Pradesh?",
+    "options": [
+      "Parliament House",
+      "Jantar Mantar",
+      "India Gate",
+      "Red Fort"
+    ],
+    "correctAnswer": "Red Fort"
   },
   {
     "id": 8,
-    "question": "A 48-week training program for test pilots and flight engineers was recently completed by officers from which Indian defense forces?",
-    "options": ["Indian Army only", "Indian Navy only", "Indian Air Force, Army, and Navy", "Indian Air Force only"],
-    "correctAnswer": "Indian Air Force, Army, and Navy"
+    "question": "Approximately how many tribal people from across India gathered at the Red Fort to press their demands regarding the ST list, a matter with implications for tribal populations in states like Andhra Pradesh?",
+    "options": [
+      "50,000",
+      "75,000",
+      "1 lakh",
+      "1.5 lakh"
+    ],
+    "correctAnswer": "1.5 lakh"
   },
   {
     "id": 9,
-    "question": "How many officers, combining test pilots and flight engineers, recently passed out from the Air Force Test Pilots School (AFTPS)?",
-    "options": ["11", "6", "17", "23"],
-    "correctAnswer": "17"
+    "question": "The demand by tribal communities to remove converted individuals from the ST list, as discussed in the news, is primarily aimed at securing what for the existing tribal communities in India, including those in Telangana and Andhra Pradesh?",
+    "options": [
+      "Religious freedom",
+      "Cultural preservation",
+      "Fair share of reservation benefits",
+      "Political representation"
+    ],
+    "correctAnswer": "Fair share of reservation benefits"
   },
   {
     "id": 10,
-    "question": "Which top official presented awards to outstanding performers at the Air Force Test Pilots School graduation ceremony?",
-    "options": ["Chief of Army Staff", "Chief of Naval Staff", "Chief of Air Staff Air Chief Marshal AP Singh", "Defence Minister Rajnath Singh"],
-    "correctAnswer": "Chief of Air Staff Air Chief Marshal AP Singh"
+    "question": "Which religious groups are specifically mentioned in the demand by tribal communities for removal from the Scheduled Tribe category, a policy change that would impact ST communities in Telangana and Andhra Pradesh?",
+    "options": [
+      "Buddhists and Jains",
+      "Sikhs and Parsis",
+      "Muslims and Christians",
+      "Hindus and Animists"
+    ],
+    "correctAnswer": "Muslims and Christians"
   },
   {
     "id": 11,
-    "question": "After passing out from the Air Force Test Pilots School, the graduating officers will now join which establishment?",
-    "options": ["Indian Space Research Organisation (ISRO)", "Defence Research and Development Organisation (DRDO)", "Aircraft and Systems Testing Establishment", "Hindustan Aeronautics Limited (HAL)"],
-    "correctAnswer": "Aircraft and Systems Testing Establishment"
+    "question": "Which national examination, crucial for students in Telangana and Andhra Pradesh seeking medical admissions, was recently affected by a paper leak scandal?",
+    "options": [
+      "JEE Advanced",
+      "UPSC Civil Services Exam",
+      "NEET-UG 2026",
+      "CAT"
+    ],
+    "correctAnswer": "NEET-UG 2026"
   },
   {
     "id": 12,
-    "question": "Which US Senator recently met with External Affairs Minister S. Jaishankar, reaffirming strong strategic ties between India and the United States?",
-    "options": ["Mitch McConnell", "Chuck Schumer", "Marco Rubio", "Ted Cruz"],
-    "correctAnswer": "Marco Rubio"
+    "question": "A school principal, Manisha Sanjay Havaldar, was arrested in connection with the NEET-UG 2026 paper leak. What was her alleged role, according to the CBI, affecting students in states like Telangana and Andhra Pradesh?",
+    "options": [
+      "Organizing coaching classes for the exam",
+      "Sharing exam questions with students for money",
+      "Creating fake admit cards",
+      "Protesting against the exam"
+    ],
+    "correctAnswer": "Sharing exam questions with students for money"
   },
   {
     "id": 13,
-    "question": "US Senator Marco Rubio highlighted India as one of its most important strategic partners, mentioning cooperation in which broad areas?",
-    "options": ["Agriculture and textiles", "Defense, trade, energy, and technology", "Tourism and entertainment", "Education and healthcare research"],
-    "correctAnswer": "Defense, trade, energy, and technology"
+    "question": "Which central agency is investigating the NEET-UG 2026 paper leak, an incident causing significant distress and financial strain to students and families in states like Telangana and Andhra Pradesh?",
+    "options": [
+      "National Investigation Agency (NIA)",
+      "Enforcement Directorate (ED)",
+      "Central Bureau of Investigation (CBI)",
+      "Intelligence Bureau (IB)"
+    ],
+    "correctAnswer": "Central Bureau of Investigation (CBI)"
   },
   {
     "id": 14,
-    "question": "During a joint press conference, Marco Rubio clarified that US visa reforms were global and not specific to which country?",
-    "options": ["China", "India", "Mexico", "Canada"],
-    "correctAnswer": "India"
+    "question": "The NEET-UG 2026 exam cancellation due to paper leak has had what major financial consequence for many students and families across India, including those in Andhra Pradesh?",
+    "options": [
+      "Reduced university tuition fees",
+      "Increased government scholarships",
+      "Loss of loans, PG rent, and coaching fees",
+      "Refunds for all exam-related expenses"
+    ],
+    "correctAnswer": "Loss of loans, PG rent, and coaching fees"
   },
   {
     "id": 15,
-    "question": "External Affairs Minister S. Jaishankar and US Senator Marco Rubio discussed cooperation within which international grouping, emphasizing shared democratic values?",
-    "options": ["BRICS", "ASEAN", "G7", "Quad"],
-    "correctAnswer": "Quad"
+    "question": "What type of pressure are lakhs of students enduring due to the NEET-UG 2026 paper leak and cancellation, impacting their well-being in states like Telangana?",
+    "options": [
+      "Academic pressure",
+      "Physical pressure",
+      "Mental pressure",
+      "Social pressure"
+    ],
+    "correctAnswer": "Mental pressure"
   },
   {
     "id": 16,
-    "question": "Besides defense and trade, which other crucial sector was highlighted for cooperation between India and the US during recent discussions, along with energy and technology?",
-    "options": ["Automotive manufacturing", "Space exploration", "Cybersecurity", "Healthcare"],
-    "correctAnswer": "Cybersecurity"
+    "question": "The NEET-UG 2026 paper leak has raised serious questions about the integrity of what system in India, directly affecting aspirants from Telangana and Andhra Pradesh and shaking public trust?",
+    "options": [
+      "Medical education curriculum",
+      "Competitive examinations",
+      "University admission policies",
+      "Healthcare infrastructure"
+    ],
+    "correctAnswer": "Competitive examinations"
   },
   {
     "id": 17,
-    "question": "India recently dispatched urgent Ebola relief supplies to which continent/region to combat a rising tide of the outbreak?",
-    "options": ["South America", "Europe", "Africa", "Australia"],
-    "correctAnswer": "Africa"
+    "question": "In connection with the NEET-UG 2026 paper leak, affecting students nationwide including those in Telangana and Andhra Pradesh, in which city was a school principal arrested?",
+    "options": [
+      "Mumbai",
+      "Pune",
+      "Delhi",
+      "Bengaluru"
+    ],
+    "correctAnswer": "Pune"
   },
   {
     "id": 18,
-    "question": "Which organization received the vital medical supplies and protective kits from India for Ebola relief in Africa?",
-    "options": ["World Health Organization (WHO)", "Doctors Without Borders", "Africa Centres for Disease Control and Prevention", "UNICEF"],
-    "correctAnswer": "Africa Centres for Disease Control and Prevention"
+    "question": "Manisha Sanjay Havaldar, a school principal, admitted to sharing questions for money in the NEET-UG 2026 paper leak. Which specific subject's questions did she admit to sharing, as per the CBI?",
+    "options": [
+      "Biology",
+      "Chemistry",
+      "Physics",
+      "Mathematics"
+    ],
+    "correctAnswer": "Physics"
   },
   {
     "id": 19,
-    "question": "Which Chief Minister recently mocked Rahul Gandhi's prediction of the NDA government's collapse as 'daydreaming', comparing it to a popular television serial?",
-    "options": ["Uddhav Thackeray", "Eknath Shinde", "Devendra Fadnavis", "Narendra Modi"],
-    "correctAnswer": "Devendra Fadnavis"
+    "question": "Beyond exam fees, what are some of the additional crushing costs faced by students preparing for exams like NEET-UG, which have been exacerbated by the paper leak for aspirants in Telangana and Andhra Pradesh?",
+    "options": [
+      "Travel expenses, food, and clothing",
+      "Loans, PG rent, and coaching fees",
+      "Internet data plans and stationery",
+      "School tuition and extracurricular activities"
+    ],
+    "correctAnswer": "Loans, PG rent, and coaching fees"
   },
   {
     "id": 20,
-    "question": "The Maharashtra Chief Minister, Devendra Fadnavis, made his remarks while inaugurating what kind of facility in Nagpur, highlighting its potential to boost the manufacturing sector?",
-    "options": ["A new airport terminal", "A logistics park", "A software technology park", "A major hospital complex"],
-    "correctAnswer": "A logistics park"
+    "question": "The news highlights that the NEET-UG paper leak has shaken the credibility of what in India, impacting students from across the nation, including Telangana and Andhra Pradesh?",
+    "options": [
+      "The entire education system",
+      "The medical profession",
+      "The competitive examination system",
+      "The government's ability to conduct exams"
+    ],
+    "correctAnswer": "The competitive examination system"
   },
   {
     "id": 21,
-    "question": "The phrase 'Mungerilal ke haseen sapne' was used by CM Fadnavis to describe whose political predictions?",
-    "options": ["Mallikarjun Kharge's", "Rahul Gandhi's", "Akhilesh Yadav's", "Mamata Banerjee's"],
-    "correctAnswer": "Rahul Gandhi's"
+    "question": "Which national board's post-result services portal experienced widespread technical glitches, affecting students across India, including those in Telangana and Andhra Pradesh, needing expert intervention?",
+    "options": [
+      "ICSE Board",
+      "State Boards (e.g., TS BIE, AP BIE)",
+      "CBSE",
+      "NIOS Board"
+    ],
+    "correctAnswer": "CBSE"
   },
   {
     "id": 22,
-    "question": "China recently expressed thanks to PM Modi for his condolences following a mining blast in which Chinese province?",
-    "options": ["Hubei", "Sichuan", "Shanxi", "Guangdong"],
-    "correctAnswer": "Shanxi"
+    "question": "The Education Ministry directed experts from which two IITs to fix the glitches in the CBSE post-result portal, a move to ensure transparency for students in states like Andhra Pradesh?",
+    "options": [
+      "IIT Delhi and IIT Bombay",
+      "IIT Madras and IIT Kanpur",
+      "IIT Kharagpur and IIT Guwahati",
+      "IIT Hyderabad and IIT Tirupati"
+    ],
+    "correctAnswer": "IIT Madras and IIT Kanpur"
   },
   {
     "id": 23,
-    "question": "How many people were reported killed in the Shanxi mining blast, for which PM Modi offered condolences to China?",
-    "options": ["35", "50", "82", "110"],
-    "correctAnswer": "82"
+    "question": "What was the primary issue reported by students and parents regarding the CBSE post-result portal, prompting intervention from the Education Ministry and IIT experts, affecting those in Telangana and Andhra Pradesh?",
+    "options": [
+      "Incorrect exam schedules",
+      "Confusion regarding re-evaluation fees and technical glitches",
+      "Lack of access to admit cards",
+      "Delay in examination results"
+    ],
+    "correctAnswer": "Confusion regarding re-evaluation fees and technical glitches"
   },
   {
     "id": 24,
-    "question": "The NEET-UG 2026 exam paper leak case involves an 'organized network' driven primarily by what motive?",
-    "options": ["Political sabotage", "Academic rivalry", "Financial gain", "Technological challenge"],
-    "correctAnswer": "Financial gain"
+    "question": "One of the IITs deployed to fix CBSE portal glitches, IIT Madras, is located in which Southern Indian city, making its involvement relevant to the broader South Indian region including Telangana and Andhra Pradesh?",
+    "options": [
+      "Bengaluru",
+      "Hyderabad",
+      "Chennai",
+      "Kochi"
+    ],
+    "correctAnswer": "Chennai"
   },
   {
     "id": 25,
-    "question": "What is the full form of NEET, the national examination currently embroiled in controversy over a paper leak that affects medical aspirants across India, including Telangana and Andhra Pradesh?",
-    "options": ["National Engineering Entrance Test", "National Eligibility-cum-Entrance Test", "National Educational Evaluation Test", "New Examination for Essential Talent"],
-    "correctAnswer": "National Eligibility-cum-Entrance Test"
+    "question": "The deployment of IIT experts to fix CBSE portal glitches aims to ensure what kind of system for students seeking to review their exam papers, benefiting students in Telangana and Andhra Pradesh?",
+    "options": [
+      "An automated and paperless system",
+      "A fast and cost-effective system",
+      "A smooth, reliable, and transparent system",
+      "A localized and personalized system"
+    ],
+    "correctAnswer": "A smooth, reliable, and transparent system"
   }
 ]
