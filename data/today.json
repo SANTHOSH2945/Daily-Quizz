@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "The Centre recently urged a state to fast-track the implementation of PM-JAY. What is the primary objective of PM-JAY in India, a scheme that benefits citizens in states like Telangana and Andhra Pradesh?",
-    "options": ["Promoting digital literacy", "Providing health insurance coverage", "Improving road infrastructure", "Boosting agricultural production"],
-    "correctAnswer": "Providing health insurance coverage"
+    "question": "Which national examination's alleged paper leak has led to widespread protests and demands for accountability, significantly impacting students across states like Telangana and Andhra Pradesh?",
+    "options": ["JEE Main", "UPSC Civil Services", "NEET-UG", "CLAT"],
+    "correctAnswer": "NEET-UG"
   },
   {
     "id": 2,
-    "question": "Ayushman Bharat Pradhan Mantri Jan Arogya Yojana (PM-JAY), a national scheme, aims to provide health coverage to which segment of the Indian population across all states, including Telangana and Andhra Pradesh?",
-    "options": ["Employees of public sector undertakings", "Wealthy individuals for luxury treatments", "Economically vulnerable families", "Non-resident Indians only"],
-    "correctAnswer": "Economically vulnerable families"
+    "question": "Rahul Gandhi has demanded the resignation of which Union Minister over the ongoing NEET-UG paper leak controversy, a matter of concern for students in Telangana and Andhra Pradesh?",
+    "options": ["Amit Shah", "Nirmala Sitharaman", "Dharmendra Pradhan", "S. Jaishankar"],
+    "correctAnswer": "Dharmendra Pradhan"
   },
   {
     "id": 3,
-    "question": "Which ministry is primarily responsible for the implementation of PM-JAY across Indian states, including Telangana and Andhra Pradesh?",
-    "options": ["Ministry of Finance", "Ministry of Health and Family Welfare", "Ministry of Education", "Ministry of Rural Development"],
-    "correctAnswer": "Ministry of Health and Family Welfare"
+    "question": "Approximately how many children's future is stated to be at stake due to the NEET-UG 2026 paper leak controversy, affecting aspiring students nationwide including in Telangana and Andhra Pradesh?",
+    "options": ["5 lakh", "10 lakh", "22 lakh", "50 lakh"],
+    "correctAnswer": "22 lakh"
   },
   {
     "id": 4,
-    "question": "What is the maximum insurance coverage provided per family per year under the PM-JAY scheme in India, available to eligible beneficiaries in Telangana and Andhra Pradesh?",
-    "options": ["₹1 lakh", "₹5 lakh", "₹10 lakh", "₹50,000"],
-    "correctAnswer": "₹5 lakh"
+    "question": "An organized network, motivated by financial gain, is suspected to be behind the unauthorized distribution of confidential materials for which national level entrance examination?",
+    "options": ["JEE Advanced", "NEET-UG 2026", "CAT", "UGC NET"],
+    "correctAnswer": "NEET-UG 2026"
   },
   {
     "id": 5,
-    "question": "The news mentioned a push for fast-tracking PM-JAY. This scheme typically covers what kind of medical expenses for its beneficiaries across India, including those in Telangana and Andhra Pradesh?",
-    "options": ["Elective cosmetic surgeries", "Outpatient consultations only", "Secondary and tertiary care hospitalization", "International travel for medical treatment"],
-    "correctAnswer": "Secondary and tertiary care hospitalization"
+    "question": "What is the name of the accused recently sent to judicial custody in connection with the NEET-UG 2026 exam paper leak case?",
+    "options": ["Ramesh Kumar", "Sanjay Singh", "Shubham Khairnar", "Mohit Gupta"],
+    "correctAnswer": "Shubham Khairnar"
   },
   {
     "id": 6,
-    "question": "Along with PM-JAY, the Centre also urged a state to fast-track HPV vaccination. What does 'HPV' stand for, a health concern in Indian states like Telangana and Andhra Pradesh?",
-    "options": ["Human Papillomavirus", "Highly Potent Vaccine", "Health Protection Virus", "Hepatitis Prevention Virus"],
-    "correctAnswer": "Human Papillomavirus"
+    "question": "Regarding the NEET paper leak, what has the National Testing Agency (NTA) claimed about the extent of the leak?",
+    "options": ["The entire paper was leaked nationwide", "Only some questions were leaked, not the full paper", "No leak occurred at all", "The leak was confined to a single state"],
+    "correctAnswer": "Only some questions were leaked, not the full paper"
   },
   {
     "id": 7,
-    "question": "The HPV vaccine is primarily aimed at preventing which type of cancer, a major public health concern in India for women in all states, including Telangana and Andhra Pradesh?",
-    "options": ["Lung Cancer", "Breast Cancer", "Cervical Cancer", "Prostate Cancer"],
-    "correctAnswer": "Cervical Cancer"
+    "question": "Which student political body, apart from Rahul Gandhi, also called for the resignation of the Education Minister over the NEET paper leak controversy?",
+    "options": ["ABVP", "SFI", "NSUI", "AISF"],
+    "correctAnswer": "NSUI"
   },
   {
     "id": 8,
-    "question": "For which age group is the HPV vaccination typically recommended in India as part of public health initiatives that would apply to Telangana and Andhra Pradesh?",
-    "options": ["Infants aged 0-1 year", "Adolescent girls and young women", "Elderly individuals above 60 years", "All adult males"],
-    "correctAnswer": "Adolescent girls and young women"
+    "question": "A 48-week training program for test pilots and flight engineers was recently completed by officers from which Indian defense forces?",
+    "options": ["Indian Army only", "Indian Navy only", "Indian Air Force, Army, and Navy", "Indian Air Force only"],
+    "correctAnswer": "Indian Air Force, Army, and Navy"
   },
   {
     "id": 9,
-    "question": "Why is a national push for HPV vaccination, as mentioned in the news, significant for states like Telangana and Andhra Pradesh?",
-    "options": ["It's a mandate from the state governments", "It addresses a widespread health issue across India", "It is exclusively for metropolitan cities", "It only applies to specific districts"],
-    "correctAnswer": "It addresses a widespread health issue across India"
+    "question": "How many officers, combining test pilots and flight engineers, recently passed out from the Air Force Test Pilots School (AFTPS)?",
+    "options": ["11", "6", "17", "23"],
+    "correctAnswer": "17"
   },
   {
     "id": 10,
-    "question": "What type of virus is Human Papillomavirus (HPV), for which vaccination is being fast-tracked in India?",
-    "options": ["Bacteriophage", "Retrovirus", "DNA virus", "RNA virus"],
-    "correctAnswer": "DNA virus"
+    "question": "Which top official presented awards to outstanding performers at the Air Force Test Pilots School graduation ceremony?",
+    "options": ["Chief of Army Staff", "Chief of Naval Staff", "Chief of Air Staff Air Chief Marshal AP Singh", "Defence Minister Rajnath Singh"],
+    "correctAnswer": "Chief of Air Staff Air Chief Marshal AP Singh"
   },
   {
     "id": 11,
-    "question": "India issued a travel advisory against three African countries due to an Ebola outbreak. Which of the following was NOT among the countries mentioned in the advisory relevant to Indian citizens, including those from Telangana and Andhra Pradesh?",
-    "options": ["Democratic Republic of Congo", "Uganda", "South Sudan", "Kenya"],
-    "correctAnswer": "Kenya"
+    "question": "After passing out from the Air Force Test Pilots School, the graduating officers will now join which establishment?",
+    "options": ["Indian Space Research Organisation (ISRO)", "Defence Research and Development Organisation (DRDO)", "Aircraft and Systems Testing Establishment", "Hindustan Aeronautics Limited (HAL)"],
+    "correctAnswer": "Aircraft and Systems Testing Establishment"
   },
   {
     "id": 12,
-    "question": "The World Health Organization (WHO) issued alarms regarding the rapid transmission of Ebola. What is the primary mode of transmission for the Ebola virus, a concern for global health?",
-    "options": ["Airborne transmission", "Waterborne transmission", "Direct contact with bodily fluids", "Mosquito bites"],
-    "correctAnswer": "Direct contact with bodily fluids"
+    "question": "Which US Senator recently met with External Affairs Minister S. Jaishankar, reaffirming strong strategic ties between India and the United States?",
+    "options": ["Mitch McConnell", "Chuck Schumer", "Marco Rubio", "Ted Cruz"],
+    "correctAnswer": "Marco Rubio"
   },
   {
     "id": 13,
-    "question": "Which specific strain of the Ebola virus was reported to be documented in Uganda, leading to India's travel advisory?",
-    "options": ["Zaire strain", "Sudan strain", "Bundibugyo strain", "Reston strain"],
-    "correctAnswer": "Bundibugyo strain"
+    "question": "US Senator Marco Rubio highlighted India as one of its most important strategic partners, mentioning cooperation in which broad areas?",
+    "options": ["Agriculture and textiles", "Defense, trade, energy, and technology", "Tourism and entertainment", "Education and healthcare research"],
+    "correctAnswer": "Defense, trade, energy, and technology"
   },
   {
     "id": 14,
-    "question": "India's travel advisories, like the one for Ebola, primarily serve to inform and protect which group of people?",
-    "options": ["International tourists visiting India", "Indian citizens planning international travel", "Foreign diplomats in India", "Airline staff exclusively"],
-    "correctAnswer": "Indian citizens planning international travel"
+    "question": "During a joint press conference, Marco Rubio clarified that US visa reforms were global and not specific to which country?",
+    "options": ["China", "India", "Mexico", "Canada"],
+    "correctAnswer": "India"
   },
   {
     "id": 15,
-    "question": "What is the general recommendation given in a travel advisory against countries experiencing an outbreak like Ebola, applicable to all Indian citizens including those from Telangana and Andhra Pradesh?",
-    "options": ["Rush to visit these countries for humanitarian aid", "Reconsider unnecessary travel plans", "Travel only for recreational purposes", "Engage in extensive wildlife safaris"],
-    "correctAnswer": "Reconsider unnecessary travel plans"
+    "question": "External Affairs Minister S. Jaishankar and US Senator Marco Rubio discussed cooperation within which international grouping, emphasizing shared democratic values?",
+    "options": ["BRICS", "ASEAN", "G7", "Quad"],
+    "correctAnswer": "Quad"
   },
   {
     "id": 16,
-    "question": "Who is the founder of the 'Cockroach Janta Party' mentioned in recent news, whose audience analytics were discussed regarding its reach in India?",
-    "options": ["Kiren Rijiju", "Rajeev Chandrasekhar", "Abhijeet Dipke", "Sukanta Majumdar"],
-    "correctAnswer": "Abhijeet Dipke"
+    "question": "Besides defense and trade, which other crucial sector was highlighted for cooperation between India and the US during recent discussions, along with energy and technology?",
+    "options": ["Automotive manufacturing", "Space exploration", "Cybersecurity", "Healthcare"],
+    "correctAnswer": "Cybersecurity"
   },
   {
     "id": 17,
-    "question": "The Cockroach Janta Party (CJP) founder stated that what percentage of their audience was claimed to be from India, countering allegations of foreign followers?",
-    "options": ["Under 50%", "Approximately 75%", "Over 90%", "Exactly 100%"],
-    "correctAnswer": "Over 90%"
+    "question": "India recently dispatched urgent Ebola relief supplies to which continent/region to combat a rising tide of the outbreak?",
+    "options": ["South America", "Europe", "Africa", "Australia"],
+    "correctAnswer": "Africa"
   },
   {
     "id": 18,
-    "question": "Which national political party's leaders made allegations regarding the Cockroach Janta Party's followers, sparking a debate about online influence in India?",
-    "options": ["Indian National Congress", "Aam Aadmi Party", "Bharatiya Janata Party", "Communist Party of India (Marxist)"],
-    "correctAnswer": "Bharatiya Janata Party"
+    "question": "Which organization received the vital medical supplies and protective kits from India for Ebola relief in Africa?",
+    "options": ["World Health Organization (WHO)", "Doctors Without Borders", "Africa Centres for Disease Control and Prevention", "UNICEF"],
+    "correctAnswer": "Africa Centres for Disease Control and Prevention"
   },
   {
     "id": 19,
-    "question": "What recent action was reported regarding the Cockroach Janta Party's online presence, as stated by its founder?",
-    "options": ["Their website launched new features", "They announced a merger with a larger party", "Their site and web accounts were blocked", "They opened new physical offices"],
-    "correctAnswer": "Their site and web accounts were blocked"
+    "question": "Which Chief Minister recently mocked Rahul Gandhi's prediction of the NDA government's collapse as 'daydreaming', comparing it to a popular television serial?",
+    "options": ["Uddhav Thackeray", "Eknath Shinde", "Devendra Fadnavis", "Narendra Modi"],
+    "correctAnswer": "Devendra Fadnavis"
   },
   {
     "id": 20,
-    "question": "The Cockroach Janta Party gained online traction discussing which broad topics relevant to citizens across India, including those in Telangana and Andhra Pradesh?",
-    "options": ["Fashion trends and celebrity gossip", "Unemployment and policy issues", "International sports events", "Historical architecture"],
-    "correctAnswer": "Unemployment and policy issues"
+    "question": "The Maharashtra Chief Minister, Devendra Fadnavis, made his remarks while inaugurating what kind of facility in Nagpur, highlighting its potential to boost the manufacturing sector?",
+    "options": ["A new airport terminal", "A logistics park", "A software technology park", "A major hospital complex"],
+    "correctAnswer": "A logistics park"
   },
   {
     "id": 21,
-    "question": "How many Indians were reported to have joined the Russian army, according to the Centre's statement to the Supreme Court regarding citizen welfare?",
-    "options": ["Fewer than 100", "Exactly 200", "More than 200", "Over 500"],
-    "correctAnswer": "More than 200"
+    "question": "The phrase 'Mungerilal ke haseen sapne' was used by CM Fadnavis to describe whose political predictions?",
+    "options": ["Mallikarjun Kharge's", "Rahul Gandhi's", "Akhilesh Yadav's", "Mamata Banerjee's"],
+    "correctAnswer": "Rahul Gandhi's"
   },
   {
     "id": 22,
-    "question": "How many Indian citizens were reported dead after joining the Russian army, as per the Centre's statement to the Supreme Court?",
-    "options": ["Less than 10", "Between 20 and 30", "Exactly 49", "Over 100"],
-    "correctAnswer": "Exactly 49"
+    "question": "China recently expressed thanks to PM Modi for his condolences following a mining blast in which Chinese province?",
+    "options": ["Hubei", "Sichuan", "Shanxi", "Guangdong"],
+    "correctAnswer": "Shanxi"
   },
   {
     "id": 23,
-    "question": "The information regarding Indians joining the Russian army and related fatalities was provided by the Centre to which Indian judicial body?",
-    "options": ["Delhi High Court", "Bombay High Court", "Supreme Court of India", "National Green Tribunal"],
-    "correctAnswer": "Supreme Court of India"
+    "question": "How many people were reported killed in the Shanxi mining blast, for which PM Modi offered condolences to China?",
+    "options": ["35", "50", "82", "110"],
+    "correctAnswer": "82"
   },
   {
     "id": 24,
-    "question": "The issue of Indian citizens joining foreign armies, as highlighted by this news, typically falls under the purview of which government policy area for citizens from all states, including Telangana and Andhra Pradesh?",
-    "options": ["Domestic economic policy", "Education reform", "Foreign affairs and citizen welfare", "Environmental protection"],
-    "correctAnswer": "Foreign affairs and citizen welfare"
+    "question": "The NEET-UG 2026 exam paper leak case involves an 'organized network' driven primarily by what motive?",
+    "options": ["Political sabotage", "Academic rivalry", "Financial gain", "Technological challenge"],
+    "correctAnswer": "Financial gain"
   },
   {
     "id": 25,
-    "question": "The High Court recently directed the Centre to crack down on which type of institutions, a concern for students nationwide, including in Telangana and Andhra Pradesh?",
-    "options": ["Underperforming government schools", "Fake education institutions", "Religious seminaries", "Vocational training centers"],
-    "correctAnswer": "Fake education institutions"
+    "question": "What is the full form of NEET, the national examination currently embroiled in controversy over a paper leak that affects medical aspirants across India, including Telangana and Andhra Pradesh?",
+    "options": ["National Engineering Entrance Test", "National Eligibility-cum-Entrance Test", "National Educational Evaluation Test", "New Examination for Essential Talent"],
+    "correctAnswer": "National Eligibility-cum-Entrance Test"
   }
 ]
