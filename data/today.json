@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Which US official recently delivered an invitation from Donald Trump to PM Modi to visit the US?",
-    "options": ["Marco Rubio", "Mike Pompeo", "Antony Blinken", "Jake Sullivan"],
-    "correctAnswer": "Marco Rubio"
+    "question": "Which Indian media house, widely circulated including in states like Telangana and Andhra Pradesh, received multiple honours at the 57th ABBY Awards?",
+    "options": ["The Hindu", "Indian Express", "Times of India", "Deccan Chronicle"],
+    "correctAnswer": "Times of India"
   },
   {
     "id": 2,
-    "question": "The US representative stated that the US would not allow which country to hold the energy market hostage, a concern that impacts India's energy security, including states like Telangana and Andhra Pradesh?",
-    "options": ["Russia", "China", "Iran", "Venezuela"],
-    "correctAnswer": "Iran"
+    "question": "What significant industry award event saw Times of India recognized with multiple honours, an event relevant to media professionals across India, including Telangana and Andhra Pradesh?",
+    "options": ["Pulitzer Prize", "Ramnath Goenka Awards", "ABBY Awards", "Emmy Awards"],
+    "correctAnswer": "ABBY Awards"
   },
   {
     "id": 3,
-    "question": "Who extended the invitation for PM Modi to visit the US, as reported in the news context?",
-    "options": ["Joe Biden", "Donald Trump", "Kamala Harris", "Marco Rubio"],
-    "correctAnswer": "Donald Trump"
+    "question": "Who expressed concern that social media is giving children addictive kicks similar to drugs, a concern pertinent to parents and educators in states like Telangana and Andhra Pradesh?",
+    "options": ["PM Narendra Modi", "Nishikant Dubey", "Rahul Gandhi", "Amit Shah"],
+    "correctAnswer": "Nishikant Dubey"
   },
   {
     "id": 4,
-    "question": "What was a key concern regarding the global energy market expressed by the US representative during his visit to India, a factor that influences national economic stability affecting states like Telangana and Andhra Pradesh?",
-    "options": ["Fluctuating oil prices", "Dependence on renewable energy", "Hostage-taking by a specific nation", "Oversupply of natural gas"],
-    "correctAnswer": "Hostage-taking by a specific nation"
+    "question": "According to a recent statement by Nishikant Dubey, what contemporary issue affecting children nationwide, including in Telangana and Andhra Pradesh, has been likened to the addictive nature of drugs?",
+    "options": ["Gaming addiction", "Online gambling", "Social media usage", "Fast food consumption"],
+    "correctAnswer": "Social media usage"
   },
   {
     "id": 5,
-    "question": "The US representative's discussions with PM Modi on geopolitical issues, including energy security, indirectly influence the economic landscape of Indian states like Telangana and Andhra Pradesh primarily through their impact on:",
-    "options": ["Direct foreign investments in state projects", "Global energy market stability", "State-specific defense contracts", "Bilateral trade agreements exclusive to these states"],
-    "correctAnswer": "Global energy market stability"
+    "question": "The founder of which Indian political party recently reported their site and web accounts being blocked, a situation that could raise concerns about digital freedom across all states, including Telangana and Andhra Pradesh?",
+    "options": ["Aam Aadmi Party", "Bahujan Samaj Party", "Cockroach Janta Party", "Nationalist Congress Party"],
+    "correctAnswer": "Cockroach Janta Party"
   },
   {
     "id": 6,
-    "question": "The Supreme Court of India recently took suo motu cognisance of which specific case?",
-    "options": ["Gyanvapi Mosque case", "Electoral Bonds case", "Twisha Sharma death case", "NEET paper leak case"],
-    "correctAnswer": "Twisha Sharma death case"
+    "question": "How many Indian citizens were reported by the Centre to have joined the Russian army, a matter of national concern that could potentially involve individuals from any state, including Telangana and Andhra Pradesh?",
+    "options": ["120", "150", "217", "300"],
+    "correctAnswer": "217"
   },
   {
     "id": 7,
-    "question": "What legal action did the CJI-led bench of the Supreme Court initiate in the Twisha Sharma death case?",
-    "options": ["Adjudicated the case", "Issued an arrest warrant", "Took suo motu cognisance", "Dismissed the petition"],
-    "correctAnswer": "Took suo motu cognisance"
+    "question": "Out of the Indians who joined the Russian army, how many were reported dead by the Centre to the Supreme Court, a tragic issue affecting families across India, including potentially in Telangana and Andhra Pradesh?",
+    "options": ["25", "49", "60", "75"],
+    "correctAnswer": "49"
   },
   {
     "id": 8,
-    "question": "The term 'suo motu cognisance' refers to the Supreme Court's power to:",
-    "options": ["Accept cases only on appeal", "Initiate proceedings on its own", "Request opinions from lower courts", "Delegate cases to High Courts"],
-    "correctAnswer": "Initiate proceedings on its own"
+    "question": "Which Indian body did the Centre provide information to regarding Indians joining the Russian army and related casualties, impacting citizens from states like Telangana and Andhra Pradesh?",
+    "options": ["Parliament", "President's Office", "Supreme Court", "Ministry of External Affairs"],
+    "correctAnswer": "Supreme Court"
   },
   {
     "id": 9,
-    "question": "Supreme Court decisions, including instances of suo motu cognisance, are binding across all Indian states, ensuring a uniform application of justice in regions like:",
-    "options": ["Kerala and Karnataka", "Tamil Nadu and Odisha", "Telangana and Andhra Pradesh", "Maharashtra and Gujarat"],
-    "correctAnswer": "Telangana and Andhra Pradesh"
+    "question": "The High Court recently directed the Centre to crack down on what fraudulent establishments, a problem that significantly impacts aspiring students and their families in states like Telangana and Andhra Pradesh?",
+    "options": ["Illegal financial schemes", "Fake education institutions", "Unlicensed medical clinics", "Counterfeit goods markets"],
+    "correctAnswer": "Fake education institutions"
   },
   {
     "id": 10,
-    "question": "A CJI-led bench was formed to hear the Twisha Sharma death case. What does 'CJI' stand for in this context?",
-    "options": ["Chief Judicial Inspector", "Central Justice Initiative", "Chief Justice of India", "Criminal Justice Investigator"],
-    "correctAnswer": "Chief Justice of India"
+    "question": "Which judicial authority issued a directive to the Central government to combat the prevalence of fake education institutions across India, a measure welcomed by students and parents in states like Telangana and Andhra Pradesh?",
+    "options": ["Supreme Court", "High Court", "District Courts", "National Green Tribunal"],
+    "correctAnswer": "High Court"
   },
   {
     "id": 11,
-    "question": "Which drug has the Indian Centre tightened control over due to rising abuse among youth, impacting public health initiatives across all states?",
-    "options": ["Paracetamol", "Aspirin", "Pregabalin", "Ibuprofen"],
-    "correctAnswer": "Pregabalin"
+    "question": "How many Indian states currently exhibit a fertility rate above the replacement level, indicating that populous states like Telangana and Andhra Pradesh are not part of this group?",
+    "options": ["6", "8", "10", "12"],
+    "correctAnswer": "6"
   },
   {
     "id": 12,
-    "question": "The primary reason cited for the Centre's decision to tighten control on Pregabalin, a measure applicable nationwide, is:",
-    "options": ["Counterfeit production", "Rising abuse among youth", "Export restrictions", "Patent expiry"],
-    "correctAnswer": "Rising abuse among youth"
+    "question": "What demographic trend do states like Telangana and Andhra Pradesh represent, alongside most other Indian states, given that only 6 states have fertility rates above the replacement level?",
+    "options": ["Rapid population growth", "Declining birth rates", "Stable population", "High infant mortality"],
+    "correctAnswer": "Declining birth rates"
   },
   {
     "id": 13,
-    "question": "The Centre's measure to control Pregabalin specifically targets drug abuse within which demographic group across India?",
-    "options": ["Senior citizens", "Working professionals", "Youth", "Pregnant women"],
-    "correctAnswer": "Youth"
+    "question": "The replacement level fertility rate is approximately 2.1 births per woman. States like Telangana and Andhra Pradesh typically have rates below this, which is often a sign of:",
+    "options": ["Poor healthcare infrastructure", "Advanced social development and family planning", "High rural population", "Lack of educational opportunities for women"],
+    "correctAnswer": "Advanced social development and family planning"
   },
   {
     "id": 14,
-    "question": "National policies on drug control, such as the tightening of Pregabalin regulations, directly impact public health and law enforcement efforts in all states, including efforts in Telangana and Andhra Pradesh to combat drug-related issues. This action is an example of:",
-    "options": ["State-specific legislation", "Bilateral international agreements", "Central government's regulatory authority", "Local municipal ordinance"],
-    "correctAnswer": "Central government's regulatory authority"
+    "question": "What is the long-term implication of most Indian states, including Telangana and Andhra Pradesh, having a fertility rate below the replacement level?",
+    "options": ["Youth bulge", "Ageing population and potential labor shortages", "Increased child dependency ratio", "Exponential population growth"],
+    "correctAnswer": "Ageing population and potential labor shortages"
   },
   {
     "id": 15,
-    "question": "The tightening of control on Pregabalin by the Centre is an example of the government's efforts to address:",
-    "options": ["Pharmaceutical manufacturing standards", "Import-export regulations", "Public health challenges from substance abuse", "Intellectual property rights"],
-    "correctAnswer": "Public health challenges from substance abuse"
+    "question": "The news about only 6 states having fertility rates above replacement level suggests a national success in which area, observed significantly in states like Telangana and Andhra Pradesh?",
+    "options": ["Agricultural productivity", "Population control and family welfare", "Industrialization", "Urban development"],
+    "correctAnswer": "Population control and family welfare"
   },
   {
     "id": 16,
-    "question": "What is the name of India's indigenous Light Combat Helicopter (LCH) mentioned in the news, designed for high-altitude operations, contributing to national defense capabilities?",
-    "options": ["Dhruv", "Tejas", "Prachand", "Rudra"],
-    "correctAnswer": "Prachand"
+    "question": "A group of former bureaucrats addressed a letter to the Chief Justice of India (CJI) concerning remarks made about which category of activists, a group whose work can span environmental issues in states like Telangana and Andhra Pradesh?",
+    "options": ["Women's rights activists", "Human rights activists", "Green litigants", "Animal welfare activists"],
+    "correctAnswer": "Green litigants"
   },
   {
     "id": 17,
-    "question": "India is bolstering its defense capabilities with support for which American attack helicopter?",
-    "options": ["Black Hawk", "Cobra", "Apache", "Chinook"],
-    "correctAnswer": "Apache"
+    "question": "Who received a letter from former bureaucrats regarding remarks on 'green litigants,' an issue that could reflect on the judiciary's perception of environmental advocacy nationwide, including in states like Telangana and Andhra Pradesh?",
+    "options": ["Prime Minister", "Chief Justice of India", "Speaker of Lok Sabha", "President of India"],
+    "correctAnswer": "Chief Justice of India"
   },
   {
     "id": 18,
-    "question": "The US recently approved a deal for Boeing AH-64E Apache attack helicopter support to India, valued at approximately:",
-    "options": ["USD 19.82 million", "USD 198.2 million", "USD 1.982 billion", "USD 19.82 billion"],
-    "correctAnswer": "USD 198.2 million"
+    "question": "Who attributed PM Modi's strength not only to his policies but also to the trust he builds among the populace, a sentiment that resonates with supporters across all Indian states, including Telangana and Andhra Pradesh?",
+    "options": ["Amit Shah", "JP Nadda", "Shivraj Singh Chouhan", "Nirmala Sitharaman"],
+    "correctAnswer": "Shivraj Singh Chouhan"
   },
   {
     "id": 19,
-    "question": "The acquisition of advanced helicopters like the Apache and the development of indigenous platforms like Prachand aim to enhance India's defense against:",
-    "options": ["Cyber warfare threats", "Evolving regional threats", "Economic sanctions", "Space-based attacks"],
-    "correctAnswer": "Evolving regional threats"
+    "question": "According to Shivraj Singh Chouhan, what is a key component of PM Modi's strength, besides his policies, that contributes to his political standing nationwide, including in Telangana and Andhra Pradesh?",
+    "options": ["His foreign tours", "His oratory skills", "The trust he builds", "His cabinet decisions"],
+    "correctAnswer": "The trust he builds"
   },
   {
     "id": 20,
-    "question": "India's defense modernization efforts, which include indigenous development and international acquisitions, significantly benefit states like Telangana and Andhra Pradesh through:",
-    "options": ["Increased tourism revenue", "Development of defense manufacturing clusters", "Exclusive agricultural export agreements", "Priority in national infrastructure projects"],
-    "correctAnswer": "Development of defense manufacturing clusters"
+    "question": "What did PM Modi recently state would be a significant outcome of pacts signed during his 5-nation tour, directly contributing to economic well-being and employment prospects across India, including Telangana and Andhra Pradesh?",
+    "options": ["Cultural exchange programs", "Military cooperation", "Job growth", "Educational partnerships"],
+    "correctAnswer": "Job growth"
   },
   {
     "id": 21,
-    "question": "Which two entities collaborated to publish a report on the 'future of jobs' in the age of AI, a topic highly relevant to technologically advanced regions like Telangana?",
-    "options": ["NITI Aayog and IIT Delhi", "Centre of Policy Research and Governance and AI4India", "TCS and NASSCOM", "Ministry of Electronics & IT and Google India"],
-    "correctAnswer": "Centre of Policy Research and Governance and AI4India"
+    "question": "How many nations were part of PM Modi's recent tour, from which he expects pacts to drive job growth for Indian citizens, including those residing in Telangana and Andhra Pradesh?",
+    "options": ["3", "5", "7", "10"],
+    "correctAnswer": "5"
   },
   {
     "id": 22,
-    "question": "The report by CPRG and AI4India primarily focuses on the impact of what technology on employment across India?",
-    "options": ["Biotechnology", "Renewable Energy", "Artificial Intelligence", "Quantum Computing"],
-    "correctAnswer": "Artificial Intelligence"
+    "question": "PM Modi highlighted his 5-nation tour as a catalyst for which economic factor across India, including in states like Telangana and Andhra Pradesh?",
+    "options": ["Price stability", "Increased exports", "Job growth", "Reduced government spending"],
+    "correctAnswer": "Job growth"
   },
   {
     "id": 23,
-    "question": "CPRG (Centre of Policy Research and Governance) was the only Indian non-governmental organisation to host an official side event at which international AI summit?",
-    "options": ["G20 Summit 2023", "Paris AI Action Summit 2025", "COP28", "Davos World Economic Forum"],
-    "correctAnswer": "Paris AI Action Summit 2025"
+    "question": "The Indian Army recently addressed a 'fake' Press Club video, stating that soldiers featured in it were either dismissed or facing action. What did the Army term the content of this video?",
+    "options": ["Misleading information", "Malicious propaganda", "Anti-national activity", "Defamatory content"],
+    "correctAnswer": "Malicious propaganda"
   },
   {
     "id": 24,
-    "question": "The work of CPRG, an Indian organization, was recognized at which global AI summit in 2024?",
-    "options": ["World AI Congress", "Berlin Tech Summit", "Geneva AI Forum", "Belgrade GPAI Summit"],
-    "correctAnswer": "Belgrade GPAI Summit"
+    "question": "What organization issued a statement regarding a 'fake' Press Club video involving soldiers, asserting it was malicious propaganda, a matter of national security and military discipline relevant across all Indian states?",
+    "options": ["Ministry of Defence", "Indian Army", "Border Security Force", "Central Reserve Police Force"],
+    "correctAnswer": "Indian Army"
   },
   {
     "id": 25,
-    "question": "With Hyderabad in Telangana being a major hub for technology and AI development, reports like the 'future of jobs' in the age of AI are particularly relevant for understanding:",
-    "options": ["Agricultural reforms in rural areas", "The impact of AI on the local workforce and skill development", "Traditional arts and crafts preservation", "Changes in regional culinary trends"],
-    "correctAnswer": "The impact of AI on the local workforce and skill development"
+    "question": "The Indian Army's statement regarding the 'fake' Press Club video indicated that soldiers involved were subject to what disciplinary action, a reminder of military code applicable to all personnel from any state, including Telangana and Andhra Pradesh?",
+    "options": ["Demotion or transfer", "Fine or warning", "Dismissed or facing action", "Suspension or leave without pay"],
+    "correctAnswer": "Dismissed or facing action"
   }
 ]
