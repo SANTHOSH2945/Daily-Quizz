@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Which Indian media house, widely circulated including in states like Telangana and Andhra Pradesh, received multiple honours at the 57th ABBY Awards?",
-    "options": ["The Hindu", "Indian Express", "Times of India", "Deccan Chronicle"],
-    "correctAnswer": "Times of India"
+    "question": "The Centre recently urged a state to fast-track the implementation of PM-JAY. What is the primary objective of PM-JAY in India, a scheme that benefits citizens in states like Telangana and Andhra Pradesh?",
+    "options": ["Promoting digital literacy", "Providing health insurance coverage", "Improving road infrastructure", "Boosting agricultural production"],
+    "correctAnswer": "Providing health insurance coverage"
   },
   {
     "id": 2,
-    "question": "What significant industry award event saw Times of India recognized with multiple honours, an event relevant to media professionals across India, including Telangana and Andhra Pradesh?",
-    "options": ["Pulitzer Prize", "Ramnath Goenka Awards", "ABBY Awards", "Emmy Awards"],
-    "correctAnswer": "ABBY Awards"
+    "question": "Ayushman Bharat Pradhan Mantri Jan Arogya Yojana (PM-JAY), a national scheme, aims to provide health coverage to which segment of the Indian population across all states, including Telangana and Andhra Pradesh?",
+    "options": ["Employees of public sector undertakings", "Wealthy individuals for luxury treatments", "Economically vulnerable families", "Non-resident Indians only"],
+    "correctAnswer": "Economically vulnerable families"
   },
   {
     "id": 3,
-    "question": "Who expressed concern that social media is giving children addictive kicks similar to drugs, a concern pertinent to parents and educators in states like Telangana and Andhra Pradesh?",
-    "options": ["PM Narendra Modi", "Nishikant Dubey", "Rahul Gandhi", "Amit Shah"],
-    "correctAnswer": "Nishikant Dubey"
+    "question": "Which ministry is primarily responsible for the implementation of PM-JAY across Indian states, including Telangana and Andhra Pradesh?",
+    "options": ["Ministry of Finance", "Ministry of Health and Family Welfare", "Ministry of Education", "Ministry of Rural Development"],
+    "correctAnswer": "Ministry of Health and Family Welfare"
   },
   {
     "id": 4,
-    "question": "According to a recent statement by Nishikant Dubey, what contemporary issue affecting children nationwide, including in Telangana and Andhra Pradesh, has been likened to the addictive nature of drugs?",
-    "options": ["Gaming addiction", "Online gambling", "Social media usage", "Fast food consumption"],
-    "correctAnswer": "Social media usage"
+    "question": "What is the maximum insurance coverage provided per family per year under the PM-JAY scheme in India, available to eligible beneficiaries in Telangana and Andhra Pradesh?",
+    "options": ["₹1 lakh", "₹5 lakh", "₹10 lakh", "₹50,000"],
+    "correctAnswer": "₹5 lakh"
   },
   {
     "id": 5,
-    "question": "The founder of which Indian political party recently reported their site and web accounts being blocked, a situation that could raise concerns about digital freedom across all states, including Telangana and Andhra Pradesh?",
-    "options": ["Aam Aadmi Party", "Bahujan Samaj Party", "Cockroach Janta Party", "Nationalist Congress Party"],
-    "correctAnswer": "Cockroach Janta Party"
+    "question": "The news mentioned a push for fast-tracking PM-JAY. This scheme typically covers what kind of medical expenses for its beneficiaries across India, including those in Telangana and Andhra Pradesh?",
+    "options": ["Elective cosmetic surgeries", "Outpatient consultations only", "Secondary and tertiary care hospitalization", "International travel for medical treatment"],
+    "correctAnswer": "Secondary and tertiary care hospitalization"
   },
   {
     "id": 6,
-    "question": "How many Indian citizens were reported by the Centre to have joined the Russian army, a matter of national concern that could potentially involve individuals from any state, including Telangana and Andhra Pradesh?",
-    "options": ["120", "150", "217", "300"],
-    "correctAnswer": "217"
+    "question": "Along with PM-JAY, the Centre also urged a state to fast-track HPV vaccination. What does 'HPV' stand for, a health concern in Indian states like Telangana and Andhra Pradesh?",
+    "options": ["Human Papillomavirus", "Highly Potent Vaccine", "Health Protection Virus", "Hepatitis Prevention Virus"],
+    "correctAnswer": "Human Papillomavirus"
   },
   {
     "id": 7,
-    "question": "Out of the Indians who joined the Russian army, how many were reported dead by the Centre to the Supreme Court, a tragic issue affecting families across India, including potentially in Telangana and Andhra Pradesh?",
-    "options": ["25", "49", "60", "75"],
-    "correctAnswer": "49"
+    "question": "The HPV vaccine is primarily aimed at preventing which type of cancer, a major public health concern in India for women in all states, including Telangana and Andhra Pradesh?",
+    "options": ["Lung Cancer", "Breast Cancer", "Cervical Cancer", "Prostate Cancer"],
+    "correctAnswer": "Cervical Cancer"
   },
   {
     "id": 8,
-    "question": "Which Indian body did the Centre provide information to regarding Indians joining the Russian army and related casualties, impacting citizens from states like Telangana and Andhra Pradesh?",
-    "options": ["Parliament", "President's Office", "Supreme Court", "Ministry of External Affairs"],
-    "correctAnswer": "Supreme Court"
+    "question": "For which age group is the HPV vaccination typically recommended in India as part of public health initiatives that would apply to Telangana and Andhra Pradesh?",
+    "options": ["Infants aged 0-1 year", "Adolescent girls and young women", "Elderly individuals above 60 years", "All adult males"],
+    "correctAnswer": "Adolescent girls and young women"
   },
   {
     "id": 9,
-    "question": "The High Court recently directed the Centre to crack down on what fraudulent establishments, a problem that significantly impacts aspiring students and their families in states like Telangana and Andhra Pradesh?",
-    "options": ["Illegal financial schemes", "Fake education institutions", "Unlicensed medical clinics", "Counterfeit goods markets"],
-    "correctAnswer": "Fake education institutions"
+    "question": "Why is a national push for HPV vaccination, as mentioned in the news, significant for states like Telangana and Andhra Pradesh?",
+    "options": ["It's a mandate from the state governments", "It addresses a widespread health issue across India", "It is exclusively for metropolitan cities", "It only applies to specific districts"],
+    "correctAnswer": "It addresses a widespread health issue across India"
   },
   {
     "id": 10,
-    "question": "Which judicial authority issued a directive to the Central government to combat the prevalence of fake education institutions across India, a measure welcomed by students and parents in states like Telangana and Andhra Pradesh?",
-    "options": ["Supreme Court", "High Court", "District Courts", "National Green Tribunal"],
-    "correctAnswer": "High Court"
+    "question": "What type of virus is Human Papillomavirus (HPV), for which vaccination is being fast-tracked in India?",
+    "options": ["Bacteriophage", "Retrovirus", "DNA virus", "RNA virus"],
+    "correctAnswer": "DNA virus"
   },
   {
     "id": 11,
-    "question": "How many Indian states currently exhibit a fertility rate above the replacement level, indicating that populous states like Telangana and Andhra Pradesh are not part of this group?",
-    "options": ["6", "8", "10", "12"],
-    "correctAnswer": "6"
+    "question": "India issued a travel advisory against three African countries due to an Ebola outbreak. Which of the following was NOT among the countries mentioned in the advisory relevant to Indian citizens, including those from Telangana and Andhra Pradesh?",
+    "options": ["Democratic Republic of Congo", "Uganda", "South Sudan", "Kenya"],
+    "correctAnswer": "Kenya"
   },
   {
     "id": 12,
-    "question": "What demographic trend do states like Telangana and Andhra Pradesh represent, alongside most other Indian states, given that only 6 states have fertility rates above the replacement level?",
-    "options": ["Rapid population growth", "Declining birth rates", "Stable population", "High infant mortality"],
-    "correctAnswer": "Declining birth rates"
+    "question": "The World Health Organization (WHO) issued alarms regarding the rapid transmission of Ebola. What is the primary mode of transmission for the Ebola virus, a concern for global health?",
+    "options": ["Airborne transmission", "Waterborne transmission", "Direct contact with bodily fluids", "Mosquito bites"],
+    "correctAnswer": "Direct contact with bodily fluids"
   },
   {
     "id": 13,
-    "question": "The replacement level fertility rate is approximately 2.1 births per woman. States like Telangana and Andhra Pradesh typically have rates below this, which is often a sign of:",
-    "options": ["Poor healthcare infrastructure", "Advanced social development and family planning", "High rural population", "Lack of educational opportunities for women"],
-    "correctAnswer": "Advanced social development and family planning"
+    "question": "Which specific strain of the Ebola virus was reported to be documented in Uganda, leading to India's travel advisory?",
+    "options": ["Zaire strain", "Sudan strain", "Bundibugyo strain", "Reston strain"],
+    "correctAnswer": "Bundibugyo strain"
   },
   {
     "id": 14,
-    "question": "What is the long-term implication of most Indian states, including Telangana and Andhra Pradesh, having a fertility rate below the replacement level?",
-    "options": ["Youth bulge", "Ageing population and potential labor shortages", "Increased child dependency ratio", "Exponential population growth"],
-    "correctAnswer": "Ageing population and potential labor shortages"
+    "question": "India's travel advisories, like the one for Ebola, primarily serve to inform and protect which group of people?",
+    "options": ["International tourists visiting India", "Indian citizens planning international travel", "Foreign diplomats in India", "Airline staff exclusively"],
+    "correctAnswer": "Indian citizens planning international travel"
   },
   {
     "id": 15,
-    "question": "The news about only 6 states having fertility rates above replacement level suggests a national success in which area, observed significantly in states like Telangana and Andhra Pradesh?",
-    "options": ["Agricultural productivity", "Population control and family welfare", "Industrialization", "Urban development"],
-    "correctAnswer": "Population control and family welfare"
+    "question": "What is the general recommendation given in a travel advisory against countries experiencing an outbreak like Ebola, applicable to all Indian citizens including those from Telangana and Andhra Pradesh?",
+    "options": ["Rush to visit these countries for humanitarian aid", "Reconsider unnecessary travel plans", "Travel only for recreational purposes", "Engage in extensive wildlife safaris"],
+    "correctAnswer": "Reconsider unnecessary travel plans"
   },
   {
     "id": 16,
-    "question": "A group of former bureaucrats addressed a letter to the Chief Justice of India (CJI) concerning remarks made about which category of activists, a group whose work can span environmental issues in states like Telangana and Andhra Pradesh?",
-    "options": ["Women's rights activists", "Human rights activists", "Green litigants", "Animal welfare activists"],
-    "correctAnswer": "Green litigants"
+    "question": "Who is the founder of the 'Cockroach Janta Party' mentioned in recent news, whose audience analytics were discussed regarding its reach in India?",
+    "options": ["Kiren Rijiju", "Rajeev Chandrasekhar", "Abhijeet Dipke", "Sukanta Majumdar"],
+    "correctAnswer": "Abhijeet Dipke"
   },
   {
     "id": 17,
-    "question": "Who received a letter from former bureaucrats regarding remarks on 'green litigants,' an issue that could reflect on the judiciary's perception of environmental advocacy nationwide, including in states like Telangana and Andhra Pradesh?",
-    "options": ["Prime Minister", "Chief Justice of India", "Speaker of Lok Sabha", "President of India"],
-    "correctAnswer": "Chief Justice of India"
+    "question": "The Cockroach Janta Party (CJP) founder stated that what percentage of their audience was claimed to be from India, countering allegations of foreign followers?",
+    "options": ["Under 50%", "Approximately 75%", "Over 90%", "Exactly 100%"],
+    "correctAnswer": "Over 90%"
   },
   {
     "id": 18,
-    "question": "Who attributed PM Modi's strength not only to his policies but also to the trust he builds among the populace, a sentiment that resonates with supporters across all Indian states, including Telangana and Andhra Pradesh?",
-    "options": ["Amit Shah", "JP Nadda", "Shivraj Singh Chouhan", "Nirmala Sitharaman"],
-    "correctAnswer": "Shivraj Singh Chouhan"
+    "question": "Which national political party's leaders made allegations regarding the Cockroach Janta Party's followers, sparking a debate about online influence in India?",
+    "options": ["Indian National Congress", "Aam Aadmi Party", "Bharatiya Janata Party", "Communist Party of India (Marxist)"],
+    "correctAnswer": "Bharatiya Janata Party"
   },
   {
     "id": 19,
-    "question": "According to Shivraj Singh Chouhan, what is a key component of PM Modi's strength, besides his policies, that contributes to his political standing nationwide, including in Telangana and Andhra Pradesh?",
-    "options": ["His foreign tours", "His oratory skills", "The trust he builds", "His cabinet decisions"],
-    "correctAnswer": "The trust he builds"
+    "question": "What recent action was reported regarding the Cockroach Janta Party's online presence, as stated by its founder?",
+    "options": ["Their website launched new features", "They announced a merger with a larger party", "Their site and web accounts were blocked", "They opened new physical offices"],
+    "correctAnswer": "Their site and web accounts were blocked"
   },
   {
     "id": 20,
-    "question": "What did PM Modi recently state would be a significant outcome of pacts signed during his 5-nation tour, directly contributing to economic well-being and employment prospects across India, including Telangana and Andhra Pradesh?",
-    "options": ["Cultural exchange programs", "Military cooperation", "Job growth", "Educational partnerships"],
-    "correctAnswer": "Job growth"
+    "question": "The Cockroach Janta Party gained online traction discussing which broad topics relevant to citizens across India, including those in Telangana and Andhra Pradesh?",
+    "options": ["Fashion trends and celebrity gossip", "Unemployment and policy issues", "International sports events", "Historical architecture"],
+    "correctAnswer": "Unemployment and policy issues"
   },
   {
     "id": 21,
-    "question": "How many nations were part of PM Modi's recent tour, from which he expects pacts to drive job growth for Indian citizens, including those residing in Telangana and Andhra Pradesh?",
-    "options": ["3", "5", "7", "10"],
-    "correctAnswer": "5"
+    "question": "How many Indians were reported to have joined the Russian army, according to the Centre's statement to the Supreme Court regarding citizen welfare?",
+    "options": ["Fewer than 100", "Exactly 200", "More than 200", "Over 500"],
+    "correctAnswer": "More than 200"
   },
   {
     "id": 22,
-    "question": "PM Modi highlighted his 5-nation tour as a catalyst for which economic factor across India, including in states like Telangana and Andhra Pradesh?",
-    "options": ["Price stability", "Increased exports", "Job growth", "Reduced government spending"],
-    "correctAnswer": "Job growth"
+    "question": "How many Indian citizens were reported dead after joining the Russian army, as per the Centre's statement to the Supreme Court?",
+    "options": ["Less than 10", "Between 20 and 30", "Exactly 49", "Over 100"],
+    "correctAnswer": "Exactly 49"
   },
   {
     "id": 23,
-    "question": "The Indian Army recently addressed a 'fake' Press Club video, stating that soldiers featured in it were either dismissed or facing action. What did the Army term the content of this video?",
-    "options": ["Misleading information", "Malicious propaganda", "Anti-national activity", "Defamatory content"],
-    "correctAnswer": "Malicious propaganda"
+    "question": "The information regarding Indians joining the Russian army and related fatalities was provided by the Centre to which Indian judicial body?",
+    "options": ["Delhi High Court", "Bombay High Court", "Supreme Court of India", "National Green Tribunal"],
+    "correctAnswer": "Supreme Court of India"
   },
   {
     "id": 24,
-    "question": "What organization issued a statement regarding a 'fake' Press Club video involving soldiers, asserting it was malicious propaganda, a matter of national security and military discipline relevant across all Indian states?",
-    "options": ["Ministry of Defence", "Indian Army", "Border Security Force", "Central Reserve Police Force"],
-    "correctAnswer": "Indian Army"
+    "question": "The issue of Indian citizens joining foreign armies, as highlighted by this news, typically falls under the purview of which government policy area for citizens from all states, including Telangana and Andhra Pradesh?",
+    "options": ["Domestic economic policy", "Education reform", "Foreign affairs and citizen welfare", "Environmental protection"],
+    "correctAnswer": "Foreign affairs and citizen welfare"
   },
   {
     "id": 25,
-    "question": "The Indian Army's statement regarding the 'fake' Press Club video indicated that soldiers involved were subject to what disciplinary action, a reminder of military code applicable to all personnel from any state, including Telangana and Andhra Pradesh?",
-    "options": ["Demotion or transfer", "Fine or warning", "Dismissed or facing action", "Suspension or leave without pay"],
-    "correctAnswer": "Dismissed or facing action"
+    "question": "The High Court recently directed the Centre to crack down on which type of institutions, a concern for students nationwide, including in Telangana and Andhra Pradesh?",
+    "options": ["Underperforming government schools", "Fake education institutions", "Religious seminaries", "Vocational training centers"],
+    "correctAnswer": "Fake education institutions"
   }
 ]
