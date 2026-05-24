@@ -1,277 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Who is responsible for conferring the 66 Padma Awards mentioned in the news, an honor that can be bestowed upon distinguished citizens from any Indian state, including Telangana and Andhra Pradesh?",
-    "options": [
-      "Prime Minister of India",
-      "Chief Justice of India",
-      "President of India",
-      "Vice President of India"
-    ],
-    "correctAnswer": "President of India"
+    "question": "Who is India's External Affairs Minister who recently held talks with US counterpart Marco Rubio?",
+    "options": ["Subrahmanyam Jaishankar", "Nirmala Sitharaman", "Amit Shah", "Rajnath Singh"],
+    "correctAnswer": "Subrahmanyam Jaishankar"
   },
   {
     "id": 2,
-    "question": "How many Padma Awards were scheduled to be conferred on Monday, as per the news, recognizing achievements across various fields and potentially including individuals from Telangana and Andhra Pradesh?",
-    "options": [
-      "46",
-      "56",
-      "66",
-      "76"
-    ],
-    "correctAnswer": "66"
+    "question": "What primary issues did EAM Jaishankar discuss with US counterpart Marco Rubio?",
+    "options": ["Trade and tourism", "Energy and visa issues", "Defense and space exploration", "Education and cultural exchange"],
+    "correctAnswer": "Energy and visa issues"
   },
   {
     "id": 3,
-    "question": "The President of India confers the Padma Awards annually. This national event celebrates individuals for their distinguished service across various fields, including those from states like Telangana and Andhra Pradesh. Which category of awards is being referred to in the headline?",
-    "options": [
-      "Bharat Ratna",
-      "Padma Vibhushan, Padma Bhushan, Padma Shri",
-      "National Film Awards",
-      "Gallantry Awards"
-    ],
-    "correctAnswer": "Padma Vibhushan, Padma Bhushan, Padma Shri"
+    "question": "With which country's representative did India's EAM recently discuss energy and visa issues?",
+    "options": ["United Kingdom", "Canada", "United States", "Australia"],
+    "correctAnswer": "United States"
   },
   {
     "id": 4,
-    "question": "What was the primary demand of the lakhs of tribal people who gathered at the Red Fort, a movement relevant to Scheduled Tribes across India, including those residing in Telangana and Andhra Pradesh?",
-    "options": [
-      "Increase in ST reservations",
-      "Removal of converted Muslims and Christians from the ST list",
-      "Greater funding for tribal welfare schemes",
-      "Recognition of new tribal languages"
-    ],
-    "correctAnswer": "Removal of converted Muslims and Christians from the ST list"
+    "question": "Who is the US counterpart mentioned in discussions with India's EAM regarding energy and visa issues?",
+    "options": ["Chuck Schumer", "Kamala Harris", "Marco Rubio", "Antony Blinken"],
+    "correctAnswer": "Marco Rubio"
   },
   {
     "id": 5,
-    "question": "Which organization was identified as organizing the event at the Red Fort where tribals demanded the removal of converted Muslims and Christians from the ST category, impacting ST policies in states like Telangana?",
-    "options": [
-      "Bharat Adivasi Party",
-      "Janajati Suraksha Manch",
-      "Tribal Rights Forum",
-      "Adivasi Kalyan Parishad"
-    ],
-    "correctAnswer": "Janajati Suraksha Manch"
+    "question": "The discussions between EAM Jaishankar and Marco Rubio primarily focused on strengthening bilateral ties in which key areas?",
+    "options": ["Agricultural trade and environmental protection", "Healthcare reform and digital cooperation", "Energy security and immigration policy", "Space technology and cybersecurity"],
+    "correctAnswer": "Energy security and immigration policy"
   },
   {
     "id": 6,
-    "question": "The tribal gathering at Red Fort aimed to build support for a constitutional amendment under which Article to de-list converted tribals, a matter of importance for tribal communities in Andhra Pradesh?",
-    "options": [
-      "Article 340",
-      "Article 341",
-      "Article 342",
-      "Article 343"
-    ],
-    "correctAnswer": "Article 342"
+    "question": "Which two countries recently held high-level Army talks to enhance military cooperation?",
+    "options": ["India and France", "India and Germany", "India and Russia", "India and Japan"],
+    "correctAnswer": "India and Russia"
   },
   {
     "id": 7,
-    "question": "Where did approximately 1.5 lakh tribal people from across India converge to demand changes to the Scheduled Tribe list, a decision that would affect STs in Telangana and Andhra Pradesh?",
-    "options": [
-      "Parliament House",
-      "Jantar Mantar",
-      "India Gate",
-      "Red Fort"
-    ],
-    "correctAnswer": "Red Fort"
+    "question": "What was the main objective of the recent high-level Army talks between India and Russia?",
+    "options": ["To discuss trade sanctions", "To bolster military cooperation", "To finalize cultural exchange programs", "To negotiate new air routes"],
+    "correctAnswer": "To bolster military cooperation"
   },
   {
     "id": 8,
-    "question": "Approximately how many tribal people from across India gathered at the Red Fort to press their demands regarding the ST list, a matter with implications for tribal populations in states like Andhra Pradesh?",
-    "options": [
-      "50,000",
-      "75,000",
-      "1 lakh",
-      "1.5 lakh"
-    ],
-    "correctAnswer": "1.5 lakh"
+    "question": "Beyond military cooperation, what broader strategic relationship often characterizes India and Russia's ties?",
+    "options": ["Economic rivalry and competition", "Cultural exchange and tourism focus", "Defense and strategic partnership", "Environmental conservation initiatives"],
+    "correctAnswer": "Defense and strategic partnership"
   },
   {
     "id": 9,
-    "question": "The demand by tribal communities to remove converted individuals from the ST list, as discussed in the news, is primarily aimed at securing what for the existing tribal communities in India, including those in Telangana and Andhra Pradesh?",
-    "options": [
-      "Religious freedom",
-      "Cultural preservation",
-      "Fair share of reservation benefits",
-      "Political representation"
-    ],
-    "correctAnswer": "Fair share of reservation benefits"
+    "question": "Who recently broke the national 100m record, earning recognition as the 'fastest man in India'?",
+    "options": ["Milkha Singh", "Hima Das", "Gurindervir Singh", "Dutee Chand"],
+    "correctAnswer": "Gurindervir Singh"
   },
   {
     "id": 10,
-    "question": "Which religious groups are specifically mentioned in the demand by tribal communities for removal from the Scheduled Tribe category, a policy change that would impact ST communities in Telangana and Andhra Pradesh?",
-    "options": [
-      "Buddhists and Jains",
-      "Sikhs and Parsis",
-      "Muslims and Christians",
-      "Hindus and Animists"
-    ],
-    "correctAnswer": "Muslims and Christians"
+    "question": "Gurindervir Singh, the national 100m record holder, serves in which branch of the Indian armed forces?",
+    "options": ["Indian Army", "Indian Air Force", "Indian Navy", "Indian Coast Guard"],
+    "correctAnswer": "Indian Navy"
   },
   {
     "id": 11,
-    "question": "Which national examination, crucial for students in Telangana and Andhra Pradesh seeking medical admissions, was recently affected by a paper leak scandal?",
-    "options": [
-      "JEE Advanced",
-      "UPSC Civil Services Exam",
-      "NEET-UG 2026",
-      "CAT"
-    ],
-    "correctAnswer": "NEET-UG 2026"
+    "question": "What athletic record did Petty Officer Gurindervir recently break?",
+    "options": ["National long jump record", "National 400m hurdles record", "National 100m record", "National marathon record"],
+    "correctAnswer": "National 100m record"
   },
   {
     "id": 12,
-    "question": "A school principal, Manisha Sanjay Havaldar, was arrested in connection with the NEET-UG 2026 paper leak. What was her alleged role, according to the CBI, affecting students in states like Telangana and Andhra Pradesh?",
-    "options": [
-      "Organizing coaching classes for the exam",
-      "Sharing exam questions with students for money",
-      "Creating fake admit cards",
-      "Protesting against the exam"
-    ],
-    "correctAnswer": "Sharing exam questions with students for money"
+    "question": "What status have the draft rules for the implementation of the VB-G RAM G Act recently attained?",
+    "options": ["Approved by Parliament", "Withdrawn by the government", "Placed in public domain", "Sent for international review"],
+    "correctAnswer": "Placed in public domain"
   },
   {
     "id": 13,
-    "question": "Which central agency is investigating the NEET-UG 2026 paper leak, an incident causing significant distress and financial strain to students and families in states like Telangana and Andhra Pradesh?",
-    "options": [
-      "National Investigation Agency (NIA)",
-      "Enforcement Directorate (ED)",
-      "Central Bureau of Investigation (CBI)",
-      "Intelligence Bureau (IB)"
-    ],
-    "correctAnswer": "Central Bureau of Investigation (CBI)"
+    "question": "The public availability of draft rules for an act generally precedes what stage in its implementation?",
+    "options": ["Initial policy formulation", "Finalization and enforcement", "Judicial review process", "International treaty ratification"],
+    "correctAnswer": "Finalization and enforcement"
   },
   {
     "id": 14,
-    "question": "The NEET-UG 2026 exam cancellation due to paper leak has had what major financial consequence for many students and families across India, including those in Andhra Pradesh?",
-    "options": [
-      "Reduced university tuition fees",
-      "Increased government scholarships",
-      "Loss of loans, PG rent, and coaching fees",
-      "Refunds for all exam-related expenses"
-    ],
-    "correctAnswer": "Loss of loans, PG rent, and coaching fees"
+    "question": "Which national body recently sought the inclusion of 'Intersex', 'Transmen', and 'Transwomen' categories in the upcoming Census?",
+    "options": ["NITI Aayog", "Election Commission of India", "National Human Rights Commission (NHRC)", "Ministry of Women and Child Development"],
+    "correctAnswer": "National Human Rights Commission (NHRC)"
   },
   {
     "id": 15,
-    "question": "What type of pressure are lakhs of students enduring due to the NEET-UG 2026 paper leak and cancellation, impacting their well-being in states like Telangana?",
-    "options": [
-      "Academic pressure",
-      "Physical pressure",
-      "Mental pressure",
-      "Social pressure"
-    ],
-    "correctAnswer": "Mental pressure"
+    "question": "What distinct categories did the NHRC propose for inclusion in the upcoming Census?",
+    "options": ["Migrant workers, elderly, children", "Intersex, Transmen, Transwomen", "Urban, rural, tribal", "Students, professionals, farmers"],
+    "correctAnswer": "Intersex, Transmen, Transwomen"
   },
   {
     "id": 16,
-    "question": "The NEET-UG 2026 paper leak has raised serious questions about the integrity of what system in India, directly affecting aspirants from Telangana and Andhra Pradesh and shaking public trust?",
-    "options": [
-      "Medical education curriculum",
-      "Competitive examinations",
-      "University admission policies",
-      "Healthcare infrastructure"
-    ],
-    "correctAnswer": "Competitive examinations"
+    "question": "The NHRC's recommendation for new census categories aims to improve data collection for which communities?",
+    "options": ["Religious minorities", "Economically weaker sections", "Gender and sexual minorities", "Persons with disabilities"],
+    "correctAnswer": "Gender and sexual minorities"
   },
   {
     "id": 17,
-    "question": "In connection with the NEET-UG 2026 paper leak, affecting students nationwide including those in Telangana and Andhra Pradesh, in which city was a school principal arrested?",
-    "options": [
-      "Mumbai",
-      "Pune",
-      "Delhi",
-      "Bengaluru"
-    ],
-    "correctAnswer": "Pune"
+    "question": "The Census in India, which the NHRC's recommendations relate to, is a nationwide exercise conducted periodically to gather data on what?",
+    "options": ["Economic growth indicators", "Flora and fauna species", "Political party affiliations", "Population demographics"],
+    "correctAnswer": "Population demographics"
   },
   {
     "id": 18,
-    "question": "Manisha Sanjay Havaldar, a school principal, admitted to sharing questions for money in the NEET-UG 2026 paper leak. Which specific subject's questions did she admit to sharing, as per the CBI?",
-    "options": [
-      "Biology",
-      "Chemistry",
-      "Physics",
-      "Mathematics"
-    ],
-    "correctAnswer": "Physics"
+    "question": "The inclusion of new categories in the Census, as recommended by NHRC, would impact data collection across all Indian states, including Telangana and Andhra Pradesh, for which specific aspect?",
+    "options": ["Agricultural output statistics", "Representation of diverse gender identities", "Literacy rates of children", "Employment figures in manufacturing"],
+    "correctAnswer": "Representation of diverse gender identities"
   },
   {
     "id": 19,
-    "question": "Beyond exam fees, what are some of the additional crushing costs faced by students preparing for exams like NEET-UG, which have been exacerbated by the paper leak for aspirants in Telangana and Andhra Pradesh?",
-    "options": [
-      "Travel expenses, food, and clothing",
-      "Loans, PG rent, and coaching fees",
-      "Internet data plans and stationery",
-      "School tuition and extracurricular activities"
-    ],
-    "correctAnswer": "Loans, PG rent, and coaching fees"
+    "question": "Who has been identified as the mastermind behind the Pakistan-based group ‘Tehreek-e-Taliban Hindustan’?",
+    "options": ["Hafiz Saeed", "Masood Azhar", "Shahzad Bhatti", "Zakiur Rehman Lakhvi"],
+    "correctAnswer": "Shahzad Bhatti"
   },
   {
     "id": 20,
-    "question": "The news highlights that the NEET-UG paper leak has shaken the credibility of what in India, impacting students from across the nation, including Telangana and Andhra Pradesh?",
-    "options": [
-      "The entire education system",
-      "The medical profession",
-      "The competitive examination system",
-      "The government's ability to conduct exams"
-    ],
-    "correctAnswer": "The competitive examination system"
+    "question": "The group ‘Tehreek-e-Taliban Hindustan’ is identified as being based in which country?",
+    "options": ["Afghanistan", "Bangladesh", "Pakistan", "Nepal"],
+    "correctAnswer": "Pakistan"
   },
   {
     "id": 21,
-    "question": "Which national board's post-result services portal experienced widespread technical glitches, affecting students across India, including those in Telangana and Andhra Pradesh, needing expert intervention?",
-    "options": [
-      "ICSE Board",
-      "State Boards (e.g., TS BIE, AP BIE)",
-      "CBSE",
-      "NIOS Board"
-    ],
-    "correctAnswer": "CBSE"
+    "question": "What is the name of the organization for which Shahzad Bhatti has been identified as the mastermind?",
+    "options": ["Lashkar-e-Taiba", "Jaish-e-Mohammed", "Harkat-ul-Mujahideen", "Tehreek-e-Taliban Hindustan"],
+    "correctAnswer": "Tehreek-e-Taliban Hindustan"
   },
   {
     "id": 22,
-    "question": "The Education Ministry directed experts from which two IITs to fix the glitches in the CBSE post-result portal, a move to ensure transparency for students in states like Andhra Pradesh?",
-    "options": [
-      "IIT Delhi and IIT Bombay",
-      "IIT Madras and IIT Kanpur",
-      "IIT Kharagpur and IIT Guwahati",
-      "IIT Hyderabad and IIT Tirupati"
-    ],
-    "correctAnswer": "IIT Madras and IIT Kanpur"
+    "question": "Discussions between India's EAM and US counterpart Marco Rubio underscore the importance of which type of bilateral engagement?",
+    "options": ["Cultural exchange programs", "Educational scholarships", "Diplomatic and strategic partnership", "Sporting events collaboration"],
+    "correctAnswer": "Diplomatic and strategic partnership"
   },
   {
     "id": 23,
-    "question": "What was the primary issue reported by students and parents regarding the CBSE post-result portal, prompting intervention from the Education Ministry and IIT experts, affecting those in Telangana and Andhra Pradesh?",
-    "options": [
-      "Incorrect exam schedules",
-      "Confusion regarding re-evaluation fees and technical glitches",
-      "Lack of access to admit cards",
-      "Delay in examination results"
-    ],
-    "correctAnswer": "Confusion regarding re-evaluation fees and technical glitches"
+    "question": "The National Human Rights Commission (NHRC) is primarily concerned with safeguarding what in India?",
+    "options": ["Economic development", "Environmental protection", "Human rights", "Technological innovation"],
+    "correctAnswer": "Human rights"
   },
   {
     "id": 24,
-    "question": "One of the IITs deployed to fix CBSE portal glitches, IIT Madras, is located in which Southern Indian city, making its involvement relevant to the broader South Indian region including Telangana and Andhra Pradesh?",
-    "options": [
-      "Bengaluru",
-      "Hyderabad",
-      "Chennai",
-      "Kochi"
-    ],
-    "correctAnswer": "Chennai"
+    "question": "For which national demographic exercise did the NHRC recently recommend the inclusion of new categories?",
+    "options": ["Annual Budget Survey", "National Sample Survey", "Upcoming Census", "Periodic Labour Force Survey"],
+    "correctAnswer": "Upcoming Census"
   },
   {
     "id": 25,
-    "question": "The deployment of IIT experts to fix CBSE portal glitches aims to ensure what kind of system for students seeking to review their exam papers, benefiting students in Telangana and Andhra Pradesh?",
-    "options": [
-      "An automated and paperless system",
-      "A fast and cost-effective system",
-      "A smooth, reliable, and transparent system",
-      "A localized and personalized system"
-    ],
-    "correctAnswer": "A smooth, reliable, and transparent system"
+    "question": "Gurindervir Singh's achievement in athletics is a national record in which specific event?",
+    "options": ["Long jump", "High jump", "100-meter dash", "Shot put"],
+    "correctAnswer": "100-meter dash"
   }
 ]
