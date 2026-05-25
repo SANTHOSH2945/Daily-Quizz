@@ -30,7 +30,7 @@ jobs:
         env:
           NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          REGION: "Telangana, Andhra Pradesh, India"
+          REGION: "Telangana, Andhra Pradesh, India History, Indian Geography, Mechanical Engineering"
         run: node generate-quiz.js
 
       - name: Commit and Push updated quiz data
