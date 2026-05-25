@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "What kind of disputes, similar to the Cauvery issue between Tamil Nadu and Karnataka, are significant concerns for states like Telangana and Andhra Pradesh?",
-    "options": ["Inter-state river water disputes", "Border demarcation conflicts", "Electricity sharing disputes", "Agricultural land ownership disputes"],
-    "correctAnswer": "Inter-state river water disputes"
+    "question": "Which global health organization has recently warned that the Ebola outbreak is 'outpacing' response efforts, prompting India to review its preparedness, a matter relevant to all Indian states including Telangana and Andhra Pradesh?",
+    "options": ["WHO", "UNICEF", "Doctors Without Borders", "CDC"],
+    "correctAnswer": "WHO"
   },
   {
     "id": 2,
-    "question": "The Mekedatu project, central to a recent inter-state water dispute, is being pursued by which Indian state?",
-    "options": ["Tamil Nadu", "Karnataka", "Kerala", "Puducherry"],
-    "correctAnswer": "Karnataka"
+    "question": "What infectious disease has prompted India to review its national preparedness, as per recent news, ensuring all regions, including Telangana and Andhra Pradesh, are ready?",
+    "options": ["Dengue", "Malaria", "Ebola", "Chikungunya"],
+    "correctAnswer": "Ebola"
   },
   {
     "id": 3,
-    "question": "Inter-state river water disputes in India are primarily resolved through which mechanism?",
-    "options": ["Supreme Court appeals", "Presidential intervention", "Inter-State Water Disputes Tribunals", "Bilateral state agreements only"],
-    "correctAnswer": "Inter-State Water Disputes Tribunals"
+    "question": "India's Finance Minister recently flagged concerns over '3Fs' amid the Gulf conflict, impacting the economy across all states like Telangana and Andhra Pradesh. Who is the current Finance Minister of India?",
+    "options": ["Nirmala Sitharaman", "Piyush Goyal", "Amit Shah", "Rajnath Singh"],
+    "correctAnswer": "Nirmala Sitharaman"
   },
   {
     "id": 4,
-    "question": "Which river system is a major source of inter-state water disputes involving both Andhra Pradesh and Telangana?",
-    "options": ["Godavari River", "Krishna River", "Penna River", "Vamsadhara River"],
-    "correctAnswer": "Krishna River"
+    "question": "What are the '3Fs' that Finance Minister Sitharaman highlighted as concerns for India's economy amid the Gulf conflict, affecting all Indian states?",
+    "options": ["Food, Festivals, Funds", "Fuel, Fertiliser, Forex", "Freight, Finance, Factories", "Farmers, Fishing, Forestry"],
+    "correctAnswer": "Fuel, Fertiliser, Forex"
   },
   {
     "id": 5,
-    "question": "The Cauvery Water Management Authority (CWMA) was established to manage water resources between specific states. What similar body manages some water resources and projects between Telangana and Andhra Pradesh?",
-    "options": ["Godavari River Management Board (GRMB)", "Krishna River Management Board (KRMB)", "Eastern Ghats Development Authority", "Deccan Plateau Water Commission"],
-    "correctAnswer": "Krishna River Management Board (KRMB)"
+    "question": "The Indian economy, including states like Telangana and Andhra Pradesh, faces pressure due to which international conflict, according to Finance Minister Sitharaman?",
+    "options": ["Ukraine-Russia conflict", "South China Sea disputes", "Gulf conflict", "Taiwan Strait tensions"],
+    "correctAnswer": "Gulf conflict"
   },
   {
     "id": 6,
-    "question": "The Supreme Court recently stressed the importance of accessible facilities for girls' education across India. What were the two key provisions emphasized for schools?",
-    "options": ["Mid-day meals and scholarships", "Gender-segregated toilets and sanitary napkins", "Digital classrooms and sports facilities", "Transport subsidies and hostel accommodations"],
-    "correctAnswer": "Gender-segregated toilets and sanitary napkins"
+    "question": "Which economic factor, a key component of the '3Fs', is directly impacted by rising international oil prices due to geopolitical conflicts, affecting all Indian consumers?",
+    "options": ["Food inflation", "Fuel prices", "Fiscal deficit", "Foreign investments"],
+    "correctAnswer": "Fuel prices"
   },
   {
     "id": 7,
-    "question": "In the context of the Supreme Court's directive, a primary reason cited for girls abandoning education in Indian states like Telangana and Andhra Pradesh often includes a lack of which essential amenities?",
-    "options": ["Qualified teachers", "School uniforms", "Functional and gender-segregated sanitation facilities", "Textbooks and stationery"],
-    "correctAnswer": "Functional and gender-segregated sanitation facilities"
+    "question": "Along with fuel prices and forex reserves, what agricultural input's subsidies were a concern flagged by the Finance Minister due to the Gulf conflict, impacting farmers nationwide?",
+    "options": ["Seeds", "Water", "Fertiliser", "Pesticides"],
+    "correctAnswer": "Fertiliser"
   },
   {
     "id": 8,
-    "question": "The Centre was directed to ensure effective implementation of Supreme Court orders regarding school facilities. Which specific infrastructure aspect was highlighted as crucial for girl students' continued education?",
-    "options": ["Computer labs", "Science laboratories", "Functional toilets", "Libraries"],
-    "correctAnswer": "Functional toilets"
+    "question": "The stability of which financial indicator, crucial for international trade and managing imports, was a concern flagged by the Finance Minister as one of the '3Fs', affecting national economic stability?",
+    "options": ["Stock market indices", "Gold reserves", "Forex reserves", "Bank lending rates"],
+    "correctAnswer": "Forex reserves"
   },
   {
     "id": 9,
-    "question": "Providing free sanitary pads in schools, as encouraged by the Supreme Court, is primarily aimed at promoting what for girl students?",
-    "options": ["Better hygiene and reduced absenteeism", "Improved academic performance", "Increased interest in sports", "Greater participation in extracurricular activities"],
-    "correctAnswer": "Better hygiene and reduced absenteeism"
+    "question": "The recent concerns raised by the Finance Minister about the '3Fs' are primarily related to what aspect of India's well-being, vital for states like Telangana and Andhra Pradesh?",
+    "options": ["Social security", "Environmental protection", "Economic stability", "Cultural heritage"],
+    "correctAnswer": "Economic stability"
   },
   {
     "id": 10,
-    "question": "The Supreme Court's emphasis on functional toilets and access to sanitary napkins for girls' education aligns with India's commitment to which global development agenda, relevant to states like Telangana and Andhra Pradesh?",
-    "options": ["Millennium Development Goals (MDGs)", "Sustainable Development Goals (SDGs)", "Paris Agreement on Climate Change", "Kyoto Protocol"],
-    "correctAnswer": "Sustainable Development Goals (SDGs)"
+    "question": "Who recently conferred the prestigious Padma Awards at Rashtrapati Bhavan, acknowledging distinguished service from across India?",
+    "options": ["Prime Minister Narendra Modi", "Vice President Jagdeep Dhankhar", "President Droupadi Murmu", "Chief Justice of India D.Y. Chandrachud"],
+    "correctAnswer": "President Droupadi Murmu"
   },
   {
     "id": 11,
-    "question": "The Padma Shri award, recently conferred upon a musician for his cultural contribution, is one of India's highest civilian honors. Which category of national awards does it belong to?",
-    "options": ["Gallantry Awards", "Sports Awards", "Civilian Awards", "Scientific Awards"],
-    "correctAnswer": "Civilian Awards"
+    "question": "In which iconic building were the recent Padma Awards conferred by the President, a ceremony honoring individuals from various Indian states?",
+    "options": ["Parliament House", "India Gate", "Red Fort", "Rashtrapati Bhavan"],
+    "correctAnswer": "Rashtrapati Bhavan"
   },
   {
     "id": 12,
-    "question": "The Mahabharata, a revered epic mentioned in the news, forms a significant part of India's cultural heritage. Which classical language is it primarily composed in?",
-    "options": ["Hindi", "Pali", "Sanskrit", "Tamil"],
-    "correctAnswer": "Sanskrit"
+    "question": "How many Padma Awards were conferred by President Droupadi Murmu at the recent ceremony, recognizing individuals for their contributions to the nation?",
+    "options": ["33", "66", "99", "131"],
+    "correctAnswer": "66"
   },
   {
     "id": 13,
-    "question": "Padma Shri, along with other Padma Awards, is conferred by which Indian authority?",
-    "options": ["Prime Minister", "Chief Justice of India", "President of India", "Speaker of Lok Sabha"],
-    "correctAnswer": "President of India"
+    "question": "A total of 131 Padma awards have been approved for which upcoming year, as mentioned in the news, indicating future recognition for Indian citizens?",
+    "options": ["2024", "2025", "2026", "2027"],
+    "correctAnswer": "2026"
   },
   {
     "id": 14,
-    "question": "In the context of promoting cultural heritage, how do states like Andhra Pradesh and Telangana often recognize individuals for their contributions to arts and literature?",
-    "options": ["By conferring state-level awards and honors", "By commissioning public murals", "By offering diplomatic postings", "By providing free housing"],
-    "correctAnswer": "By conferring state-level awards and honors"
+    "question": "Which renowned violinist received the Padma Vibhushan at the recent ceremony, an award for exceptional and distinguished service?",
+    "options": ["L. Subramaniam", "N Rajam", "T.N. Krishnan", "Kanya Kumari"],
+    "correctAnswer": "N Rajam"
   },
   {
     "id": 15,
-    "question": "The news highlights a Muslim musician's mastery of the Mahabharata. What does this demonstrate regarding India's cultural fabric, which is also evident in Telangana and Andhra Pradesh?",
-    "options": ["Dominance of a single cultural tradition", "Religious segregation in arts", "Syncretic and inclusive cultural traditions", "Decline of interest in classical epics"],
-    "correctAnswer": "Syncretic and inclusive cultural traditions"
+    "question": "Which veteran actor was posthumously honoured with the Padma Vibhushan at the recent ceremony for his contributions to Indian cinema?",
+    "options": ["Dilip Kumar", "Dev Anand", "Dharmendra", "Rajesh Khanna"],
+    "correctAnswer": "Dharmendra"
   },
   {
     "id": 16,
-    "question": "US Secretary of State Marco Rubio affirmed strong ties between the US and India, highlighting a specific relationship. Who was mentioned as a 'big fan' of India and PM Modi?",
-    "options": ["Joe Biden", "Donald Trump", "Barack Obama", "George W. Bush"],
-    "correctAnswer": "Donald Trump"
+    "question": "Which actor received the Padma Shri at the recent Padma Awards ceremony, recognizing distinguished service in various fields?",
+    "options": ["Shah Rukh Khan", "Prosenjit Chatterjee", "Aamir Khan", "Salman Khan"],
+    "correctAnswer": "Prosenjit Chatterjee"
   },
   {
     "id": 17,
-    "question": "The 'mutual appreciation' between PM Modi and Donald Trump, as discussed in the news, is indicative of the diplomatic relations between India and which country?",
-    "options": ["United Kingdom", "Russia", "United States", "China"],
-    "correctAnswer": "United States"
+    "question": "The Padma Vibhushan, one of the categories of Padma Awards, is the ______ highest civilian award in India.",
+    "options": ["First", "Second", "Third", "Fourth"],
+    "correctAnswer": "Second"
   },
   {
     "id": 18,
-    "question": "What specific form of 'rhetoric' did Senator Rubio push back against concerning India in the US, indicating a strong commitment to bilateral ties?",
-    "options": ["Economic protectionism", "Anti-India sentiments", "Environmental policy critiques", "Immigration criticisms"],
-    "correctAnswer": "Anti-India sentiments"
+    "question": "The Padma Awards recognize distinguished service in various fields. Which of these generally describes the primary purpose of these national awards?",
+    "options": ["To honor political leaders", "To recognize distinguished service", "To promote specific industries", "To award military personnel"],
+    "correctAnswer": "To recognize distinguished service"
   },
   {
     "id": 19,
-    "question": "How do strong India-US diplomatic and economic ties, as discussed in the news, generally benefit Indian states like Telangana and Andhra Pradesh, particularly in their urban centers like Hyderabad?",
-    "options": ["Increased agricultural subsidies", "Growth in the IT and pharmaceutical sectors", "Expansion of heavy industries", "Development of rural tourism"],
-    "correctAnswer": "Growth in the IT and pharmaceutical sectors"
+    "question": "A Muslim musician, recently awarded Padma Shri, is known for reciting a significant number of couplets from which ancient Indian epic, highlighting cultural diversity?",
+    "options": ["Ramayana", "Mahabharat", "Bhagavad Gita", "Puranas"],
+    "correctAnswer": "Mahabharat"
   },
   {
     "id": 20,
-    "question": "Mallikarjun Kharge commented on the 'mutual appreciation' between PM Modi and Donald Trump. What significant political position does Kharge hold in India?",
-    "options": ["Union Cabinet Minister", "President of the Indian National Congress", "Chief Minister of Karnataka", "Speaker of Lok Sabha"],
-    "correctAnswer": "President of the Indian National Congress"
+    "question": "What did the Supreme Court recently emphasize that girls should not give up due to a lack of proper facilities, a directive applicable to states like Telangana and Andhra Pradesh?",
+    "options": ["Sports activities", "Cultural pursuits", "Education", "Vocational training"],
+    "correctAnswer": "Education"
   },
   {
     "id": 21,
-    "question": "Which Article of the Indian Constitution primarily deals with the adjudication of disputes relating to the waters of inter-state rivers or river valleys, a matter of significant concern for states like Telangana and Andhra Pradesh?",
-    "options": ["Article 246", "Article 262", "Article 280", "Article 301"],
-    "correctAnswer": "Article 262"
+    "question": "Which two specific facilities in schools were stressed by the Supreme Court as essential for girls' continued education across India?",
+    "options": ["Libraries and labs", "Playgrounds and canteens", "Functional, gender-segregated toilets and sanitary napkins", "Computer rooms and smartboards"],
+    "correctAnswer": "Functional, gender-segregated toilets and sanitary napkins"
   },
   {
     "id": 22,
-    "question": "What is the status of an inter-state water dispute tribunal's award once notified by the Central Government?",
-    "options": ["Advisory only", "Binding on the parties, like a Supreme Court decree", "Subject to approval by state assemblies", "Open for renegotiation by states"],
-    "correctAnswer": "Binding on the parties, like a Supreme Court decree"
+    "question": "The Supreme Court directed the Centre and states to ensure effective implementation of orders regarding the provision of what for female students in schools, promoting girls' health and attendance?",
+    "options": ["Free textbooks", "Free uniforms", "Free sanitary pads", "Free transportation"],
+    "correctAnswer": "Free sanitary pads"
   },
   {
     "id": 23,
-    "question": "The Supreme Court's emphasis on girls' education and access to basic facilities aligns with which fundamental right guaranteed in the Indian Constitution, crucial for all states including Telangana and Andhra Pradesh?",
-    "options": ["Right to Property", "Right to Freedom of Speech", "Right to Education", "Right to Constitutional Remedies"],
-    "correctAnswer": "Right to Education"
+    "question": "The Supreme Court's directive on girls' education highlighted the importance of 'gender-segregated' versions of which facility in schools across all states?",
+    "options": ["Classrooms", "Laboratories", "Toilets", "Staff rooms"],
+    "correctAnswer": "Toilets"
   },
   {
     "id": 24,
-    "question": "The cultural significance of the Mahabharata is deeply ingrained in various Indian states. Which classical dance form originating from Andhra Pradesh often features narratives and characters from the Mahabharata?",
-    "options": ["Bharatanatyam", "Kathakali", "Kuchipudi", "Odissi"],
-    "correctAnswer": "Kuchipudi"
+    "question": "To whom did the Supreme Court issue directives to ensure the provision of essential facilities for girls' education, thereby impacting policies in states like Telangana and Andhra Pradesh?",
+    "options": ["Private schools and NGOs", "Parents and guardians", "The Centre and States", "Local municipalities and panchayats"],
+    "correctAnswer": "The Centre and States"
   },
   {
     "id": 25,
-    "question": "Beyond political ties, what is a significant area of collaboration between India and the United States that directly impacts technological hubs like Hyderabad in Telangana, fostering economic growth and innovation?",
-    "options": ["Military alliances", "Space exploration", "Information Technology and Pharmaceuticals", "Agricultural subsidies"],
-    "correctAnswer": "Information Technology and Pharmaceuticals"
+    "question": "The Supreme Court's recent emphasis on access to toilets and sanitary napkins aims to prevent girls from abandoning what important activity, essential for their future and national development?",
+    "options": ["Domestic work", "Religious practices", "Higher studies", "School education"],
+    "correctAnswer": "School education"
   }
 ]
