@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Who is India's External Affairs Minister who recently held talks with US counterpart Marco Rubio?",
-    "options": ["Subrahmanyam Jaishankar", "Nirmala Sitharaman", "Amit Shah", "Rajnath Singh"],
-    "correctAnswer": "Subrahmanyam Jaishankar"
+    "question": "Which country's Foreign Minister is visiting India to participate in the Quad Foreign Ministers' Meeting?",
+    "options": ["Japan", "USA", "Australia", "South Korea"],
+    "correctAnswer": "Australia"
   },
   {
     "id": 2,
-    "question": "What primary issues did EAM Jaishankar discuss with US counterpart Marco Rubio?",
-    "options": ["Trade and tourism", "Energy and visa issues", "Defense and space exploration", "Education and cultural exchange"],
-    "correctAnswer": "Energy and visa issues"
+    "question": "What is the name of the Australian Foreign Minister who announced her visit to India for the Quad FMM?",
+    "options": ["Marise Payne", "Julia Gillard", "Penny Wong", "Jacinda Ardern"],
+    "correctAnswer": "Penny Wong"
   },
   {
     "id": 3,
-    "question": "With which country's representative did India's EAM recently discuss energy and visa issues?",
-    "options": ["United Kingdom", "Canada", "United States", "Australia"],
-    "correctAnswer": "United States"
+    "question": "Besides the Quad Foreign Ministers' Meeting, what other bilateral dialogue will the Australian Foreign Minister hold in India?",
+    "options": ["India-Australia Economic Forum", "Australia-India Foreign Ministers' Framework Dialogue", "India-Australia Strategic Security Talks", "Australia-India Trade Summit"],
+    "correctAnswer": "Australia-India Foreign Ministers' Framework Dialogue"
   },
   {
     "id": 4,
-    "question": "Who is the US counterpart mentioned in discussions with India's EAM regarding energy and visa issues?",
-    "options": ["Chuck Schumer", "Kamala Harris", "Marco Rubio", "Antony Blinken"],
-    "correctAnswer": "Marco Rubio"
+    "question": "The upcoming Quad Foreign Ministers' Meeting, which the Australian FM is attending, is being hosted in which country?",
+    "options": ["USA", "Japan", "India", "Australia"],
+    "correctAnswer": "India"
   },
   {
     "id": 5,
-    "question": "The discussions between EAM Jaishankar and Marco Rubio primarily focused on strengthening bilateral ties in which key areas?",
-    "options": ["Agricultural trade and environmental protection", "Healthcare reform and digital cooperation", "Energy security and immigration policy", "Space technology and cybersecurity"],
-    "correctAnswer": "Energy security and immigration policy"
+    "question": "What type of administrative facilities are being planned for illegal immigrants in various districts across India, including potential future locations in states like Telangana and Andhra Pradesh?",
+    "options": ["Refugee Camps", "Transit Homes", "Holding Centres", "Resettlement Colonies"],
+    "correctAnswer": "Holding Centres"
   },
   {
     "id": 6,
-    "question": "Which two countries recently held high-level Army talks to enhance military cooperation?",
-    "options": ["India and France", "India and Germany", "India and Russia", "India and Japan"],
-    "correctAnswer": "India and Russia"
+    "question": "What specific item was reportedly found on the Prime Minister's convoy route in Bengaluru, leading to suspensions of police personnel?",
+    "options": ["Protest Banners", "Explosives", "Drone Parts", "Blocked Roads"],
+    "correctAnswer": "Explosives"
   },
   {
     "id": 7,
-    "question": "What was the main objective of the recent high-level Army talks between India and Russia?",
-    "options": ["To discuss trade sanctions", "To bolster military cooperation", "To finalize cultural exchange programs", "To negotiate new air routes"],
-    "correctAnswer": "To bolster military cooperation"
+    "question": "Among the police personnel suspended over the security lapse on the PM's convoy route in Bengaluru, what specific rank was mentioned?",
+    "options": ["Constable", "Head Constable", "Inspector", "Sub-inspector"],
+    "correctAnswer": "Sub-inspector"
   },
   {
     "id": 8,
-    "question": "Beyond military cooperation, what broader strategic relationship often characterizes India and Russia's ties?",
-    "options": ["Economic rivalry and competition", "Cultural exchange and tourism focus", "Defense and strategic partnership", "Environmental conservation initiatives"],
-    "correctAnswer": "Defense and strategic partnership"
+    "question": "According to a recent study, approximately how many fake AI citations are projected to have entered scientific records by 2025?",
+    "options": ["15,000", "50,000", "1.5 lakh", "5 lakh"],
+    "correctAnswer": "1.5 lakh"
   },
   {
     "id": 9,
-    "question": "Who recently broke the national 100m record, earning recognition as the 'fastest man in India'?",
-    "options": ["Milkha Singh", "Hima Das", "Gurindervir Singh", "Dutee Chand"],
-    "correctAnswer": "Gurindervir Singh"
+    "question": "The study highlighted a concern regarding 'fake citations' generated by what technology, affecting scientific records?",
+    "options": ["Plagiarism Software", "AI (Artificial Intelligence)", "Biometric Systems", "Blockchain Technology"],
+    "correctAnswer": "AI (Artificial Intelligence)"
   },
   {
     "id": 10,
-    "question": "Gurindervir Singh, the national 100m record holder, serves in which branch of the Indian armed forces?",
-    "options": ["Indian Army", "Indian Air Force", "Indian Navy", "Indian Coast Guard"],
-    "correctAnswer": "Indian Navy"
+    "question": "The reported 1.5 lakh fake AI citations are projected to slip into scientific records by which year?",
+    "options": ["2024", "2025", "2026", "2027"],
+    "correctAnswer": "2025"
   },
   {
     "id": 11,
-    "question": "What athletic record did Petty Officer Gurindervir recently break?",
-    "options": ["National long jump record", "National 400m hurdles record", "National 100m record", "National marathon record"],
-    "correctAnswer": "National 100m record"
+    "question": "Which national educational board's portal is currently experiencing glitches that the government is trying to fix?",
+    "options": ["NIOS", "ICSE", "CBSE", "State Boards"],
+    "correctAnswer": "CBSE"
   },
   {
     "id": 12,
-    "question": "What status have the draft rules for the implementation of the VB-G RAM G Act recently attained?",
-    "options": ["Approved by Parliament", "Withdrawn by the government", "Placed in public domain", "Sent for international review"],
-    "correctAnswer": "Placed in public domain"
+    "question": "From which premier technical institutions are experts being brought in to fix glitches in the CBSE portal?",
+    "options": ["NITs", "IIMs", "IITs", "AIIMS"],
+    "correctAnswer": "IITs"
   },
   {
     "id": 13,
-    "question": "The public availability of draft rules for an act generally precedes what stage in its implementation?",
-    "options": ["Initial policy formulation", "Finalization and enforcement", "Judicial review process", "International treaty ratification"],
-    "correctAnswer": "Finalization and enforcement"
+    "question": "Besides IITs, what other type of institutions are providing experts to help resolve issues with the CBSE portal?",
+    "options": ["Private Banks", "Public Sector Banks (PSBs)", "Public Sector Undertakings (PSUs)", "State Universities"],
+    "correctAnswer": "Public Sector Banks (PSBs)"
   },
   {
     "id": 14,
-    "question": "Which national body recently sought the inclusion of 'Intersex', 'Transmen', and 'Transwomen' categories in the upcoming Census?",
-    "options": ["NITI Aayog", "Election Commission of India", "National Human Rights Commission (NHRC)", "Ministry of Women and Child Development"],
-    "correctAnswer": "National Human Rights Commission (NHRC)"
+    "question": "What specific problem is the government addressing in the CBSE portal by bringing in experts?",
+    "options": ["Outdated content", "Security breaches", "Glitches", "User interface redesign"],
+    "correctAnswer": "Glitches"
   },
   {
     "id": 15,
-    "question": "What distinct categories did the NHRC propose for inclusion in the upcoming Census?",
-    "options": ["Migrant workers, elderly, children", "Intersex, Transmen, Transwomen", "Urban, rural, tribal", "Students, professionals, farmers"],
-    "correctAnswer": "Intersex, Transmen, Transwomen"
+    "question": "What substantial amount were investors reportedly duped of by a con woman who misused Sharia law?",
+    "options": ["Rs 600 crore", "Rs 6,000 crore", "Rs 60 crore", "Rs 6 lakh"],
+    "correctAnswer": "Rs 6,000 crore"
   },
   {
     "id": 16,
-    "question": "The NHRC's recommendation for new census categories aims to improve data collection for which communities?",
-    "options": ["Religious minorities", "Economically weaker sections", "Gender and sexual minorities", "Persons with disabilities"],
-    "correctAnswer": "Gender and sexual minorities"
+    "question": "Which legal or religious framework was allegedly misused by a con woman to orchestrate a Rs 6,000 crore fraud?",
+    "options": ["Hindu Law", "Sharia Law", "Christian Canon Law", "Indian Contract Act"],
+    "correctAnswer": "Sharia Law"
   },
   {
     "id": 17,
-    "question": "The Census in India, which the NHRC's recommendations relate to, is a nationwide exercise conducted periodically to gather data on what?",
-    "options": ["Economic growth indicators", "Flora and fauna species", "Political party affiliations", "Population demographics"],
-    "correctAnswer": "Population demographics"
+    "question": "Which former President of the United States recently stated that 'India can always count on me'?",
+    "options": ["Barack Obama", "George W. Bush", "Donald Trump", "Bill Clinton"],
+    "correctAnswer": "Donald Trump"
   },
   {
     "id": 18,
-    "question": "The inclusion of new categories in the Census, as recommended by NHRC, would impact data collection across all Indian states, including Telangana and Andhra Pradesh, for which specific aspect?",
-    "options": ["Agricultural output statistics", "Representation of diverse gender identities", "Literacy rates of children", "Employment figures in manufacturing"],
-    "correctAnswer": "Representation of diverse gender identities"
+    "question": "Which Indian political leader's remark about the government potentially falling was characterized as hinting at a conspiracy by Union Minister Piyush Goyal?",
+    "options": ["Mallikarjun Kharge", "Rahul Gandhi", "Sonia Gandhi", "Priyanka Gandhi Vadra"],
+    "correctAnswer": "Rahul Gandhi"
   },
   {
     "id": 19,
-    "question": "Who has been identified as the mastermind behind the Pakistan-based group ‘Tehreek-e-Taliban Hindustan’?",
-    "options": ["Hafiz Saeed", "Masood Azhar", "Shahzad Bhatti", "Zakiur Rehman Lakhvi"],
-    "correctAnswer": "Shahzad Bhatti"
+    "question": "Which Union Minister suggested that Rahul Gandhi's remark about the government's stability hinted at a conspiracy?",
+    "options": ["Amit Shah", "Nirmala Sitharaman", "S. Jaishankar", "Piyush Goyal"],
+    "correctAnswer": "Piyush Goyal"
   },
   {
     "id": 20,
-    "question": "The group ‘Tehreek-e-Taliban Hindustan’ is identified as being based in which country?",
-    "options": ["Afghanistan", "Bangladesh", "Pakistan", "Nepal"],
-    "correctAnswer": "Pakistan"
+    "question": "According to ex-MP PL Punia, which two major political parties are reported to be 'in sync' in Uttar Pradesh?",
+    "options": ["BJP and BSP", "Congress and SP", "SP and BSP", "Congress and BJP"],
+    "correctAnswer": "Congress and SP"
   },
   {
     "id": 21,
-    "question": "What is the name of the organization for which Shahzad Bhatti has been identified as the mastermind?",
-    "options": ["Lashkar-e-Taiba", "Jaish-e-Mohammed", "Harkat-ul-Mujahideen", "Tehreek-e-Taliban Hindustan"],
-    "correctAnswer": "Tehreek-e-Taliban Hindustan"
+    "question": "Which political party ruled out the AIADMK's entry into the Tamil Nadu government?",
+    "options": ["DMK", "BJP", "Congress", "MDMK"],
+    "correctAnswer": "Congress"
   },
   {
     "id": 22,
-    "question": "Discussions between India's EAM and US counterpart Marco Rubio underscore the importance of which type of bilateral engagement?",
-    "options": ["Cultural exchange programs", "Educational scholarships", "Diplomatic and strategic partnership", "Sporting events collaboration"],
-    "correctAnswer": "Diplomatic and strategic partnership"
+    "question": "The Quad Foreign Ministers' Meeting involves foreign ministers from four countries, including India and Australia. Which of these is NOT a Quad member?",
+    "options": ["USA", "Japan", "UK", "Australia"],
+    "correctAnswer": "UK"
   },
   {
     "id": 23,
-    "question": "The National Human Rights Commission (NHRC) is primarily concerned with safeguarding what in India?",
-    "options": ["Economic development", "Environmental protection", "Human rights", "Technological innovation"],
-    "correctAnswer": "Human rights"
+    "question": "The establishment of 'holding centres' for illegal immigrants is a policy measure implemented by the government for what purpose?",
+    "options": ["To provide employment", "To house asylum seekers permanently", "To facilitate identification and deportation", "To offer citizenship programs"],
+    "correctAnswer": "To facilitate identification and deportation"
   },
   {
     "id": 24,
-    "question": "For which national demographic exercise did the NHRC recently recommend the inclusion of new categories?",
-    "options": ["Annual Budget Survey", "National Sample Survey", "Upcoming Census", "Periodic Labour Force Survey"],
-    "correctAnswer": "Upcoming Census"
+    "question": "The security lapse involving explosives on the Prime Minister's convoy route occurred in which major South Indian city?",
+    "options": ["Hyderabad", "Chennai", "Bengaluru", "Kochi"],
+    "correctAnswer": "Bengaluru"
   },
   {
     "id": 25,
-    "question": "Gurindervir Singh's achievement in athletics is a national record in which specific event?",
-    "options": ["Long jump", "High jump", "100-meter dash", "Shot put"],
-    "correctAnswer": "100-meter dash"
+    "question": "The government's effort to fix glitches in the CBSE portal with experts from IITs and PSBs is aimed at improving the functionality of a system primarily used by whom?",
+    "options": ["Government employees", "Bank customers", "Students and schools across India", "International researchers"],
+    "correctAnswer": "Students and schools across India"
   }
 ]
