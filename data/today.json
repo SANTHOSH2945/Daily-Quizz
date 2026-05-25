@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Which national entrance examination, critical for medical aspirants in Telangana and Andhra Pradesh, has recently been mired in controversy due to alleged paper leaks?",
-    "options": ["JEE Main", "CLAT", "NEET", "UPSC Civil Services"],
-    "correctAnswer": "NEET"
+    "question": "What kind of disputes, similar to the Cauvery issue between Tamil Nadu and Karnataka, are significant concerns for states like Telangana and Andhra Pradesh?",
+    "options": ["Inter-state river water disputes", "Border demarcation conflicts", "Electricity sharing disputes", "Agricultural land ownership disputes"],
+    "correctAnswer": "Inter-state river water disputes"
   },
   {
     "id": 2,
-    "question": "The Supreme Court has criticized which national agency for its repeated failures in preventing paper leaks in competitive examinations like NEET, impacting students from states including Telangana?",
-    "options": ["CBSE", "NTA", "UGC", "AICTE"],
-    "correctAnswer": "NTA"
+    "question": "The Mekedatu project, central to a recent inter-state water dispute, is being pursued by which Indian state?",
+    "options": ["Tamil Nadu", "Karnataka", "Kerala", "Puducherry"],
+    "correctAnswer": "Karnataka"
   },
   {
     "id": 3,
-    "question": "What is the primary concern raised by the Supreme Court regarding the National Testing Agency (NTA) in the context of recent examination irregularities, a matter of grave concern for students in Andhra Pradesh?",
-    "options": ["Lack of regional centers", "High examination fees", "Continual mishaps with paper leaks", "Delayed result declarations"],
-    "correctAnswer": "Continual mishaps with paper leaks"
+    "question": "Inter-state river water disputes in India are primarily resolved through which mechanism?",
+    "options": ["Supreme Court appeals", "Presidential intervention", "Inter-State Water Disputes Tribunals", "Bilateral state agreements only"],
+    "correctAnswer": "Inter-State Water Disputes Tribunals"
   },
   {
     "id": 4,
-    "question": "How do incidents of paper leaks in national exams like NEET affect the academic future and morale of aspiring students from regions like Telangana and Andhra Pradesh?",
-    "options": ["They boost student confidence", "They lead to increased exam registrations", "They cause anxiety, uncertainty, and undermine fair competition", "They simplify the admission process"],
-    "correctAnswer": "They cause anxiety, uncertainty, and undermine fair competition"
+    "question": "Which river system is a major source of inter-state water disputes involving both Andhra Pradesh and Telangana?",
+    "options": ["Godavari River", "Krishna River", "Penna River", "Vamsadhara River"],
+    "correctAnswer": "Krishna River"
   },
   {
     "id": 5,
-    "question": "The Supreme Court issued a notice to the Centre on reform pleas concerning the NEET paper leak row. Which body, besides the NTA, was instructed to deliver a detailed response by the highest court?",
-    "options": ["Ministry of Education", "Medical Council of India", "Central Government", "State Governments"],
-    "correctAnswer": "Central Government"
+    "question": "The Cauvery Water Management Authority (CWMA) was established to manage water resources between specific states. What similar body manages some water resources and projects between Telangana and Andhra Pradesh?",
+    "options": ["Godavari River Management Board (GRMB)", "Krishna River Management Board (KRMB)", "Eastern Ghats Development Authority", "Deccan Plateau Water Commission"],
+    "correctAnswer": "Krishna River Management Board (KRMB)"
   },
   {
     "id": 6,
-    "question": "Recent headlines indicate a significant increase in the prices of which essential commodities, directly impacting household budgets in states like Telangana and Andhra Pradesh?",
-    "options": ["Gold and Silver", "Fuel (Petrol and Diesel)", "Smartphones and Electronics", "Agricultural Seeds"],
-    "correctAnswer": "Fuel (Petrol and Diesel)"
+    "question": "The Supreme Court recently stressed the importance of accessible facilities for girls' education across India. What were the two key provisions emphasized for schools?",
+    "options": ["Mid-day meals and scholarships", "Gender-segregated toilets and sanitary napkins", "Digital classrooms and sports facilities", "Transport subsidies and hostel accommodations"],
+    "correctAnswer": "Gender-segregated toilets and sanitary napkins"
   },
   {
     "id": 7,
-    "question": "Which political party's chief, Mallikarjun Kharge, recently criticized the Modi government for multiple fuel price increases, highlighting the burden on common citizens, including those in Andhra Pradesh and Telangana?",
-    "options": ["BJP", "Aam Aadmi Party", "Congress", "Trinamool Congress"],
-    "correctAnswer": "Congress"
+    "question": "In the context of the Supreme Court's directive, a primary reason cited for girls abandoning education in Indian states like Telangana and Andhra Pradesh often includes a lack of which essential amenities?",
+    "options": ["Qualified teachers", "School uniforms", "Functional and gender-segregated sanitation facilities", "Textbooks and stationery"],
+    "correctAnswer": "Functional and gender-segregated sanitation facilities"
   },
   {
     "id": 8,
-    "question": "According to recent reports mentioned in the news, how many times have fuel prices been hiked in India over a span of 10 days, causing concern for residents in states like Telangana and Andhra Pradesh?",
-    "options": ["Twice", "Three times", "Four times", "Once"],
-    "correctAnswer": "Four times"
+    "question": "The Centre was directed to ensure effective implementation of Supreme Court orders regarding school facilities. Which specific infrastructure aspect was highlighted as crucial for girl students' continued education?",
+    "options": ["Computer labs", "Science laboratories", "Functional toilets", "Libraries"],
+    "correctAnswer": "Functional toilets"
   },
   {
     "id": 9,
-    "question": "The consistent increase in fuel prices has a ripple effect on various sectors. How does this specifically impact the transport and logistics costs for businesses operating in Telangana and Andhra Pradesh?",
-    "options": ["It decreases operational costs", "It has no significant impact", "It leads to higher operational costs and increased consumer prices", "It promotes public transport usage only"],
-    "correctAnswer": "It leads to higher operational costs and increased consumer prices"
+    "question": "Providing free sanitary pads in schools, as encouraged by the Supreme Court, is primarily aimed at promoting what for girl students?",
+    "options": ["Better hygiene and reduced absenteeism", "Improved academic performance", "Increased interest in sports", "Greater participation in extracurricular activities"],
+    "correctAnswer": "Better hygiene and reduced absenteeism"
   },
   {
     "id": 10,
-    "question": "What economic phenomenon, characterized by a general increase in prices and fall in the purchasing value of money, is exacerbated by continuous fuel price hikes, affecting states like Telangana and Andhra Pradesh?",
-    "options": ["Deflation", "Recession", "Inflation", "Stagnation"],
-    "correctAnswer": "Inflation"
+    "question": "The Supreme Court's emphasis on functional toilets and access to sanitary napkins for girls' education aligns with India's commitment to which global development agenda, relevant to states like Telangana and Andhra Pradesh?",
+    "options": ["Millennium Development Goals (MDGs)", "Sustainable Development Goals (SDGs)", "Paris Agreement on Climate Change", "Kyoto Protocol"],
+    "correctAnswer": "Sustainable Development Goals (SDGs)"
   },
   {
     "id": 11,
-    "question": "India has taken a global lead in issuing certificates under the Nagoya Protocol. This protocol relates to the fair and equitable sharing of benefits arising from the utilization of what?",
-    "options": ["Mineral resources", "Genetic resources and associated traditional knowledge", "Water resources", "Renewable energy sources"],
-    "correctAnswer": "Genetic resources and associated traditional knowledge"
+    "question": "The Padma Shri award, recently conferred upon a musician for his cultural contribution, is one of India's highest civilian honors. Which category of national awards does it belong to?",
+    "options": ["Gallantry Awards", "Sports Awards", "Civilian Awards", "Scientific Awards"],
+    "correctAnswer": "Civilian Awards"
   },
   {
     "id": 12,
-    "question": "The Nagoya Protocol, under which India leads global certifications, is a supplementary agreement to which major international convention?",
-    "options": ["Paris Agreement", "Kyoto Protocol", "Convention on Biological Diversity (CBD)", "Ramsar Convention"],
-    "correctAnswer": "Convention on Biological Diversity (CBD)"
+    "question": "The Mahabharata, a revered epic mentioned in the news, forms a significant part of India's cultural heritage. Which classical language is it primarily composed in?",
+    "options": ["Hindi", "Pali", "Sanskrit", "Tamil"],
+    "correctAnswer": "Sanskrit"
   },
   {
     "id": 13,
-    "question": "How can the implementation of the Nagoya Protocol specifically benefit indigenous communities and researchers in states like Andhra Pradesh and Telangana, known for their rich biodiversity and traditional knowledge?",
-    "options": ["By limiting their access to resources", "By ensuring fair benefit-sharing from the use of their traditional knowledge and genetic resources", "By promoting monoculture farming", "By privatizing all genetic resources"],
-    "correctAnswer": "By ensuring fair benefit-sharing from the use of their traditional knowledge and genetic resources"
+    "question": "Padma Shri, along with other Padma Awards, is conferred by which Indian authority?",
+    "options": ["Prime Minister", "Chief Justice of India", "President of India", "Speaker of Lok Sabha"],
+    "correctAnswer": "President of India"
   },
   {
     "id": 14,
-    "question": "Which specific type of knowledge is protected under the Nagoya Protocol, for which India is showing leadership, and which is often found within diverse communities, including those in AP/Telangana?",
-    "options": ["Scientific research patents", "Industrial manufacturing techniques", "Traditional knowledge associated with genetic resources", "Modern agricultural practices"],
-    "correctAnswer": "Traditional knowledge associated with genetic resources"
+    "question": "In the context of promoting cultural heritage, how do states like Andhra Pradesh and Telangana often recognize individuals for their contributions to arts and literature?",
+    "options": ["By conferring state-level awards and honors", "By commissioning public murals", "By offering diplomatic postings", "By providing free housing"],
+    "correctAnswer": "By conferring state-level awards and honors"
   },
   {
     "id": 15,
-    "question": "The 'traditional knowledge' component of the Nagoya Protocol often refers to what kind of wisdom and practices passed down through generations within communities, including those in AP/Telangana, in relation to biological resources?",
-    "options": ["Computer programming skills", "Indigenous practices for sustainable use of biodiversity", "Advanced engineering principles", "Modern medical diagnoses"],
-    "correctAnswer": "Indigenous practices for sustainable use of biodiversity"
+    "question": "The news highlights a Muslim musician's mastery of the Mahabharata. What does this demonstrate regarding India's cultural fabric, which is also evident in Telangana and Andhra Pradesh?",
+    "options": ["Dominance of a single cultural tradition", "Religious segregation in arts", "Syncretic and inclusive cultural traditions", "Decline of interest in classical epics"],
+    "correctAnswer": "Syncretic and inclusive cultural traditions"
   },
   {
     "id": 16,
-    "question": "An incident involving an Air India Express B737 aircraft was recently reported. Air India Express is a subsidiary of which major Indian airline group?",
-    "options": ["IndiGo", "SpiceJet", "Air India", "Vistara"],
-    "correctAnswer": "Air India"
+    "question": "US Secretary of State Marco Rubio affirmed strong ties between the US and India, highlighting a specific relationship. Who was mentioned as a 'big fan' of India and PM Modi?",
+    "options": ["Joe Biden", "Donald Trump", "Barack Obama", "George W. Bush"],
+    "correctAnswer": "Donald Trump"
   },
   {
     "id": 17,
-    "question": "Which major international airport in Telangana serves as a key hub for Indian airlines, including potential Air India Express operations, offering connectivity to and from the state?",
-    "options": ["Rajiv Gandhi International Airport, Hyderabad", "Begumpet Airport, Hyderabad", "Warangal Airport", "Vijayawada International Airport"],
-    "correctAnswer": "Rajiv Gandhi International Airport, Hyderabad"
+    "question": "The 'mutual appreciation' between PM Modi and Donald Trump, as discussed in the news, is indicative of the diplomatic relations between India and which country?",
+    "options": ["United Kingdom", "Russia", "United States", "China"],
+    "correctAnswer": "United States"
   },
   {
     "id": 18,
-    "question": "Similarly, which prominent airport in Andhra Pradesh is crucial for domestic and international air travel and would be influenced by overall developments concerning Indian carriers like Air India Express?",
-    "options": ["Tirupati Airport", "Visakhapatnam International Airport", "Kadapa Airport", "Rajahmundry Airport"],
-    "correctAnswer": "Visakhapatnam International Airport"
+    "question": "What specific form of 'rhetoric' did Senator Rubio push back against concerning India in the US, indicating a strong commitment to bilateral ties?",
+    "options": ["Economic protectionism", "Anti-India sentiments", "Environmental policy critiques", "Immigration criticisms"],
+    "correctAnswer": "Anti-India sentiments"
   },
   {
     "id": 19,
-    "question": "What Indian regulatory body is primarily responsible for investigating aviation incidents involving airlines like Air India Express and ensuring air safety standards across all Indian states?",
-    "options": ["Bureau of Civil Aviation Security (BCAS)", "Airports Authority of India (AAI)", "Directorate General of Civil Aviation (DGCA)", "Ministry of Civil Aviation"],
-    "correctAnswer": "Directorate General of Civil Aviation (DGCA)"
+    "question": "How do strong India-US diplomatic and economic ties, as discussed in the news, generally benefit Indian states like Telangana and Andhra Pradesh, particularly in their urban centers like Hyderabad?",
+    "options": ["Increased agricultural subsidies", "Growth in the IT and pharmaceutical sectors", "Expansion of heavy industries", "Development of rural tourism"],
+    "correctAnswer": "Growth in the IT and pharmaceutical sectors"
   },
   {
     "id": 20,
-    "question": "The safety of Indian airlines, including Air India Express, is paramount for passengers. How does an incident, even if external to India, reflect on the overall aviation safety perception for travelers from states like Telangana and Andhra Pradesh?",
-    "options": ["It has no impact on perception", "It might cause general concern about the safety standards of Indian carriers", "It only affects international travelers", "It makes domestic travel safer"],
-    "correctAnswer": "It might cause general concern about the safety standards of Indian carriers"
+    "question": "Mallikarjun Kharge commented on the 'mutual appreciation' between PM Modi and Donald Trump. What significant political position does Kharge hold in India?",
+    "options": ["Union Cabinet Minister", "President of the Indian National Congress", "Chief Minister of Karnataka", "Speaker of Lok Sabha"],
+    "correctAnswer": "President of the Indian National Congress"
   },
   {
     "id": 21,
-    "question": "The news mentioned remarks made by 'CJI Surya Kant' in the context of a plea. Which judge, as referred to in the headline, made these comments?",
-    "options": ["D.Y. Chandrachud", "Surya Kant", "U.U. Lalit", "N.V. Ramana"],
-    "correctAnswer": "Surya Kant"
+    "question": "Which Article of the Indian Constitution primarily deals with the adjudication of disputes relating to the waters of inter-state rivers or river valleys, a matter of significant concern for states like Telangana and Andhra Pradesh?",
+    "options": ["Article 246", "Article 262", "Article 280", "Article 301"],
+    "correctAnswer": "Article 262"
   },
   {
     "id": 22,
-    "question": "Discussions around a Uniform Civil Code (UCC) are ongoing in India. What is one of the key social objectives a UCC aims to achieve by standardizing personal laws, which could affect communities in Andhra Pradesh and Telangana?",
-    "options": ["To promote religious diversity", "To ensure uniformity and equality in personal matters across all citizens", "To establish a single state religion", "To abolish all personal laws"],
-    "correctAnswer": "To ensure uniformity and equality in personal matters across all citizens"
+    "question": "What is the status of an inter-state water dispute tribunal's award once notified by the Central Government?",
+    "options": ["Advisory only", "Binding on the parties, like a Supreme Court decree", "Subject to approval by state assemblies", "Open for renegotiation by states"],
+    "correctAnswer": "Binding on the parties, like a Supreme Court decree"
   },
   {
     "id": 23,
-    "question": "While Assam introduced a UCC Bill, the concept of a Uniform Civil Code (UCC) is enshrined in which part of the Indian Constitution, guiding the state to work towards it?",
-    "options": ["Fundamental Rights", "Fundamental Duties", "Directive Principles of State Policy", "Preamble"],
-    "correctAnswer": "Directive Principles of State Policy"
+    "question": "The Supreme Court's emphasis on girls' education and access to basic facilities aligns with which fundamental right guaranteed in the Indian Constitution, crucial for all states including Telangana and Andhra Pradesh?",
+    "options": ["Right to Property", "Right to Freedom of Speech", "Right to Education", "Right to Constitutional Remedies"],
+    "correctAnswer": "Right to Education"
   },
   {
     "id": 24,
-    "question": "US Secretary of State Marco Rubio's visit to India involved diplomatic talks. Beyond broader strategic interests, what is a key security concern for India, including states like Telangana and Andhra Pradesh, that frequently arises in discussions involving nations like Pakistan?",
-    "options": ["Cyber warfare threats", "Terrorist groups operating from Pakistani soil", "Maritime piracy in the Indian Ocean", "Economic sanctions by other countries"],
-    "correctAnswer": "Terrorist groups operating from Pakistani soil"
+    "question": "The cultural significance of the Mahabharata is deeply ingrained in various Indian states. Which classical dance form originating from Andhra Pradesh often features narratives and characters from the Mahabharata?",
+    "options": ["Bharatanatyam", "Kathakali", "Kuchipudi", "Odissi"],
+    "correctAnswer": "Kuchipudi"
   },
   {
     "id": 25,
-    "question": "National political leaders, including those from the Congress, frequently comment on economic issues. What is a common point of criticism raised by the opposition against the central government concerning the economic well-being of citizens across states like Telangana and Andhra Pradesh?",
-    "options": ["Excessive focus on agricultural subsidies", "Failure to control inflation and rising prices", "Lack of investment in infrastructure", "Over-regulation of the banking sector"],
-    "correctAnswer": "Failure to control inflation and rising prices"
+    "question": "Beyond political ties, what is a significant area of collaboration between India and the United States that directly impacts technological hubs like Hyderabad in Telangana, fostering economic growth and innovation?",
+    "options": ["Military alliances", "Space exploration", "Information Technology and Pharmaceuticals", "Agricultural subsidies"],
+    "correctAnswer": "Information Technology and Pharmaceuticals"
   }
 ]
