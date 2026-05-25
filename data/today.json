@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Which foreign consulate, located in Hyderabad, recently criticized a U.S. official's Taj Mahal visit?",
-    "options": ["Russian", "Iranian", "Chinese", "British"],
-    "correctAnswer": "Iranian"
+    "question": "The Supreme Court recently slammed which national agency for issues related to the NEET examination, a critical entrance test for students including those from Andhra Pradesh and Telangana?",
+    "options": ["CBSE", "NTA", "UGC", "AICTE"],
+    "correctAnswer": "NTA"
   },
   {
     "id": 2,
-    "question": "The Iran Consulate in Hyderabad criticized which U.S. Secretary of State regarding his Taj Mahal visit?",
-    "options": ["Antony Blinken", "Marco Rubio", "Rex Tillerson", "Mike Pompeo"],
-    "correctAnswer": "Marco Rubio"
+    "question": "What is the primary concern raised by the Supreme Court regarding the NEET examination process, affecting aspirants nationwide?",
+    "options": ["High application fees", "Difficulty of syllabus", "Lack of regional language options", "Past mess and lack of lessons learned"],
+    "correctAnswer": "Past mess and lack of lessons learned"
   },
   {
     "id": 3,
-    "question": "According to the Iran Consulate in Hyderabad, what nationality were the architects who built the Taj Mahal?",
-    "options": ["Indian", "Persian (Iranian)", "Ottoman", "Central Asian"],
-    "correctAnswer": "Persian (Iranian)"
+    "question": "India has re-enacted COVID-time protocols for flyers from Ebola hotspots. Which major international airport in Telangana would be required to implement these health screening measures?",
+    "options": ["Rajiv Gandhi International Airport (Hyderabad)", "Visakhapatnam Airport", "Vijayawada International Airport", "Kadapa Airport"],
+    "correctAnswer": "Rajiv Gandhi International Airport (Hyderabad)"
   },
   {
     "id": 4,
-    "question": "What city in Telangana hosts the foreign consulate that commented on U.S.-Iran relations in the context of a U.S. official's India trip?",
-    "options": ["Warangal", "Vijayawada", "Hyderabad", "Visakhapatnam"],
-    "correctAnswer": "Hyderabad"
+    "question": "Which type of health emergency protocol, previously used during the COVID-19 pandemic, is being re-enacted to prevent the spread of Ebola in India?",
+    "options": ["Mandatory vaccination for all arrivals", "Complete nationwide travel ban", "Self-declaration forms and thermal screening", "Immediate 14-day quarantine for all flyers"],
+    "correctAnswer": "Self-declaration forms and thermal screening"
   },
   {
     "id": 5,
-    "question": "The statement from Iran's Hyderabad Consulate referenced past U.S. threats during what kind of regional conflicts?",
-    "options": ["Economic disputes", "Cultural exchanges", "Military conflicts", "Environmental negotiations"],
-    "correctAnswer": "Military conflicts"
+    "question": "India is moving closer to a mega contract for 114 Rafale jets with which European country?",
+    "options": ["USA", "Russia", "France", "Germany"],
+    "correctAnswer": "France"
   },
   {
     "id": 6,
-    "question": "Iran's Hyderabad Consulate's criticism followed the rejection of the U.S. official's claims related to which market?",
-    "options": ["Arms market", "Energy market", "Technology market", "Agricultural market"],
-    "correctAnswer": "Energy market"
+    "question": "What does 'LoR' stand for in the context of India's defense acquisition deals, such as the one for Rafale jets?",
+    "options": ["List of Requirements", "Letter of Request", "Logistics of Rafale", "Level of Readiness"],
+    "correctAnswer": "Letter of Request"
   },
   {
     "id": 7,
-    "question": "The Hyderabad-based consulate's remarks linked the US official's visit to perceived threats against whose civilization?",
-    "options": ["Indian", "American", "Iranian", "Middle Eastern"],
-    "correctAnswer": "Iranian"
+    "question": "Which political party accused the Congress of having an 'attitude towards opposition' that hinders unity against the RSS-BJP at the national level, a dynamic also observed in states like Andhra Pradesh and Telangana?",
+    "options": ["Aam Aadmi Party (AAP)", "Communist Party of India (Marxist) (CPM)", "Trinamool Congress (TMC)", "Bahujan Samaj Party (BSP)"],
+    "correctAnswer": "Communist Party of India (Marxist) (CPM)"
   },
   {
     "id": 8,
-    "question": "The U.S. official's visit, which drew criticism from Iran's Hyderabad Consulate, was to which iconic Indian monument?",
-    "options": ["Qutub Minar", "Red Fort", "Gateway of India", "Taj Mahal"],
-    "correctAnswer": "Taj Mahal"
+    "question": "The Supreme Court of India stated it would monitor the process of which national examination after expressing concern over past irregularities?",
+    "options": ["JEE Main", "UPSC Civil Services Exam", "NEET", "CAT"],
+    "correctAnswer": "NEET"
   },
   {
     "id": 9,
-    "question": "Which Indian state is home to the city where the Iran Consulate, which issued recent critical remarks, is located?",
-    "options": ["Andhra Pradesh", "Karnataka", "Maharashtra", "Telangana"],
-    "correctAnswer": "Telangana"
+    "question": "Airlines flying to India from Ebola hotspots are now required to ensure passengers complete what specific document before arrival?",
+    "options": ["Visa application forms", "Customs declarations", "Self-declaration forms", "Health insurance proofs"],
+    "correctAnswer": "Self-declaration forms"
   },
   {
     "id": 10,
-    "question": "The Iran Consulate in Hyderabad asserted that the US threatens which civilization while criticizing Marco Rubio's visit?",
-    "options": ["Indian civilization", "Persian civilization", "Mughal civilization", "American civilization"],
-    "correctAnswer": "Persian civilization"
+    "question": "According to the news, a Supreme Court Justice recently brushed aside a plea concerning which unusually named political party?",
+    "options": ["Elephant Janta Party", "Cockroach Janta Party", "Lion Janta Party", "Tiger Janta Party"],
+    "correctAnswer": "Cockroach Janta Party"
   },
   {
     "id": 11,
-    "question": "Which organization recently honored women achievers in agriculture, recognizing their contributions as part of a 'Year of the woman farmer'?",
-    "options": ["FICCI", "NASSCOM", "IFFCO", "CII"],
-    "correctAnswer": "IFFCO"
+    "question": "Symptomatic individuals arriving on flights from Ebola hotspots in India are required to be seated where on the aircraft?",
+    "options": ["Near the cockpit", "In business class", "At the front of the aircraft", "At the rear of the aircraft"],
+    "correctAnswer": "At the rear of the aircraft"
   },
   {
     "id": 12,
-    "question": "What was IFFCO's reported profit (approximately) in its recent 55th Annual General Meeting?",
-    "options": ["Rs 1,500 crore", "Rs 2,500 crore", "Rs 3,500 crore", "Rs 4,585 crore"],
-    "correctAnswer": "Rs 4,585 crore"
+    "question": "The current news indicates India is moving closer to acquiring how many Rafale fighter jets in a new deal with France?",
+    "options": ["36", "50", "114", "200"],
+    "correctAnswer": "114"
   },
   {
     "id": 13,
-    "question": "IFFCO announced a minimum wage of Rs 20,000 for which category of its staff at its recent AGM?",
-    "options": ["Senior management", "Mid-level executives", "Lower-level staff", "Contractual workers"],
-    "correctAnswer": "Lower-level staff"
+    "question": "Which political party condemned the alleged ban on the 'Cockroach Janta Party' and accused the BJP of intolerance?",
+    "options": ["Congress", "BJP", "CPM", "AAP"],
+    "correctAnswer": "CPM"
   },
   {
     "id": 14,
-    "question": "The 'Year of the woman farmer' initiative, launched by IFFCO, primarily aims to recognize contributions in which sector?",
-    "options": ["Manufacturing", "Information Technology", "Agriculture", "Healthcare"],
-    "correctAnswer": "Agriculture"
+    "question": "What is the National Testing Agency (NTA) primarily responsible for in India, a body that faced recent Supreme Court criticism regarding a national examination?",
+    "options": ["Conducting parliamentary elections", "Regulating the banking sector", "Administering national entrance examinations", "Managing railway operations"],
+    "correctAnswer": "Administering national entrance examinations"
   },
   {
     "id": 15,
-    "question": "A recent study suggests India can avert power shortages and cut consumer bills by improving the energy efficiency of which common household appliance?",
-    "options": ["Refrigerators", "Televisions", "Air conditioners", "Washing machines"],
-    "correctAnswer": "Air conditioners"
+    "question": "The new Ebola prevention protocols, mirroring past COVID-19 measures, aim to prevent the spread of the disease in which specific country?",
+    "options": ["Democratic Republic of Congo (DRC)", "Uganda", "India", "France"],
+    "correctAnswer": "India"
   },
   {
     "id": 16,
-    "question": "Over the next decade, doubling AC energy efficiency in India could save consumers up to approximately how much amount?",
-    "options": ["Rs 50,000 crore", "Rs 1 lakh crore", "Rs 2.5 lakh crore", "Rs 5 lakh crore"],
-    "correctAnswer": "Rs 2.5 lakh crore"
+    "question": "The CPM's criticism of the Congress suggests a challenge in forming a united opposition against which two major political entities in India?",
+    "options": ["SP-BSP", "DMK-AIADMK", "RSS-BJP", "TMC-BJD"],
+    "correctAnswer": "RSS-BJP"
   },
   {
     "id": 17,
-    "question": "Improved AC efficiency is projected to significantly reduce which specific aspect of electricity demand in India?",
-    "options": ["Base load demand", "Off-peak demand", "Peak demand", "Industrial demand"],
-    "correctAnswer": "Peak demand"
+    "question": "According to the news headline, which Supreme Court Justice was mentioned in the context of dismissing a plea over a political party's name?",
+    "options": ["Justice D.Y. Chandrachud", "Justice U.U. Lalit", "Justice Surya Kant", "Justice N.V. Ramana"],
+    "correctAnswer": "Justice Surya Kant"
   },
   {
     "id": 18,
-    "question": "Despite potentially higher initial purchase costs, higher efficiency ACs are highlighted for offering what kind of benefits in the long term?",
-    "options": ["Aesthetic appeal", "Substantial long-term savings", "Faster cooling", "Reduced maintenance"],
-    "correctAnswer": "Substantial long-term savings"
+    "question": "Besides self-declaration forms, what other primary screening measure will be conducted for flyers arriving in India from Ebola hotspots?",
+    "options": ["Rapid antigen tests", "Blood tests", "Thermal screening", "X-ray scans"],
+    "correctAnswer": "Thermal screening"
   },
   {
     "id": 19,
-    "question": "India recently reviewed its preparedness regarding a potential outbreak of which infectious disease, following a warning from the WHO?",
-    "options": ["Dengue", "Malaria", "Ebola", "Chikungunya"],
-    "correctAnswer": "Ebola"
+    "question": "The Supreme Court's decision to monitor the NEET process directly affects the academic planning and future prospects of medical aspirants across India, including those from states like Andhra Pradesh and Telangana. What specific aspect is under the SC's watch?",
+    "options": ["Syllabus revision", "Exam fee structure", "Integrity and conduct of the examination", "Number of available seats"],
+    "correctAnswer": "Integrity and conduct of the examination"
   },
   {
     "id": 20,
-    "question": "The World Health Organization (WHO) warned that the outbreak of a particular disease is 'outpacing' global response efforts, prompting India to review its preparedness. Which disease is it?",
-    "options": ["H1N1", "Zika virus", "Ebola", "MERS"],
-    "correctAnswer": "Ebola"
+    "question": "The Letter of Request (LoR) for the 114 Rafale mega contract is ready to be sent to which country, signifying a step closer to the deal?",
+    "options": ["USA", "Russia", "France", "Germany"],
+    "correctAnswer": "France"
   },
   {
     "id": 21,
-    "question": "Finance Minister Sitharaman recently flagged concerns over the '3Fs' impacting India's economy amid the Gulf conflict. What do the '3Fs' primarily refer to?",
-    "options": ["Factories, Finance, Food", "Fuel, Fertiliser, Forex reserves", "Farms, Funds, Foreign trade", "Fares, Freight, Futures"],
-    "correctAnswer": "Fuel, Fertiliser, Forex reserves"
+    "question": "The CPM's condemnation of the 'Cockroach Janta Party' ban highlights their concern over what broader issue regarding the BJP?",
+    "options": ["Economic policies", "Foreign relations", "Alleged intolerance", "Environmental regulations"],
+    "correctAnswer": "Alleged intolerance"
   },
   {
     "id": 22,
-    "question": "The Gulf conflict is causing pressure on India's economy, specifically impacting which three key areas according to Finance Minister Sitharaman?",
-    "options": ["Inflation, employment, exports", "Fuel prices, fertiliser subsidies, forex reserves", "Trade balance, industrial output, banking sector", "Rural income, urban consumption, government spending"],
-    "correctAnswer": "Fuel prices, fertiliser subsidies, forex reserves"
+    "question": "Which disease's potential spread is the Indian government actively trying to prevent through re-enacting travel protocols for international flyers?",
+    "options": ["COVID-19", "Malaria", "Ebola", "Dengue"],
+    "correctAnswer": "Ebola"
   },
   {
     "id": 23,
-    "question": "Which of the following was NOT explicitly mentioned as one of the '3Fs' impacting India's economy due to the Gulf conflict by FM Sitharaman?",
-    "options": ["Fuel prices", "Fertiliser subsidies", "Food security", "Forex reserves"],
-    "correctAnswer": "Food security"
+    "question": "In another significant judicial intervention, the Supreme Court ordered the CBI to take over the investigation of which specific death case, with an FIR re-registered in Bhopal?",
+    "options": ["Sushant Singh Rajput case", "Aarushi Talwar case", "Twisha Sharma death case", "Nirbhaya case"],
+    "correctAnswer": "Twisha Sharma death case"
   },
   {
     "id": 24,
-    "question": "President Droupadi Murmu recently conferred Padma Awards at which official residence in Delhi?",
-    "options": ["Sansad Bhavan", "7, Lok Kalyan Marg", "Rashtrapati Bhavan", "Vigyan Bhavan"],
-    "correctAnswer": "Rashtrapati Bhavan"
+    "question": "Beyond directly reprimanding the NTA, the Supreme Court's action regarding NEET emphasizes the judiciary's role in upholding fairness and transparency in which critical sector across India, including states like Telangana and Andhra Pradesh?",
+    "options": ["Economic policy", "National security", "Education sector", "Industrial development"],
+    "correctAnswer": "Education sector"
   },
   {
     "id": 25,
-    "question": "Which acclaimed actor was honored posthumously with a Padma Vibhushan in the recent Padma Awards ceremony?",
-    "options": ["Dilip Kumar", "Dev Anand", "Dharmendra", "Raj Kapoor"],
-    "correctAnswer": "Dharmendra"
+    "question": "The CPM's statement regarding opposition unity suggests a fragmented political landscape at the national level. Which two major national political parties were specifically mentioned as having friction hindering this unity?",
+    "options": ["BJP and AAP", "Congress and CPM", "Trinamool Congress and Congress", "SP and BSP"],
+    "correctAnswer": "Congress and CPM"
   }
 ]
