@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Which global health organization has recently warned that the Ebola outbreak is 'outpacing' response efforts, prompting India to review its preparedness, a matter relevant to all Indian states including Telangana and Andhra Pradesh?",
-    "options": ["WHO", "UNICEF", "Doctors Without Borders", "CDC"],
-    "correctAnswer": "WHO"
+    "question": "Which foreign consulate, located in Hyderabad, recently criticized a U.S. official's Taj Mahal visit?",
+    "options": ["Russian", "Iranian", "Chinese", "British"],
+    "correctAnswer": "Iranian"
   },
   {
     "id": 2,
-    "question": "What infectious disease has prompted India to review its national preparedness, as per recent news, ensuring all regions, including Telangana and Andhra Pradesh, are ready?",
+    "question": "The Iran Consulate in Hyderabad criticized which U.S. Secretary of State regarding his Taj Mahal visit?",
+    "options": ["Antony Blinken", "Marco Rubio", "Rex Tillerson", "Mike Pompeo"],
+    "correctAnswer": "Marco Rubio"
+  },
+  {
+    "id": 3,
+    "question": "According to the Iran Consulate in Hyderabad, what nationality were the architects who built the Taj Mahal?",
+    "options": ["Indian", "Persian (Iranian)", "Ottoman", "Central Asian"],
+    "correctAnswer": "Persian (Iranian)"
+  },
+  {
+    "id": 4,
+    "question": "What city in Telangana hosts the foreign consulate that commented on U.S.-Iran relations in the context of a U.S. official's India trip?",
+    "options": ["Warangal", "Vijayawada", "Hyderabad", "Visakhapatnam"],
+    "correctAnswer": "Hyderabad"
+  },
+  {
+    "id": 5,
+    "question": "The statement from Iran's Hyderabad Consulate referenced past U.S. threats during what kind of regional conflicts?",
+    "options": ["Economic disputes", "Cultural exchanges", "Military conflicts", "Environmental negotiations"],
+    "correctAnswer": "Military conflicts"
+  },
+  {
+    "id": 6,
+    "question": "Iran's Hyderabad Consulate's criticism followed the rejection of the U.S. official's claims related to which market?",
+    "options": ["Arms market", "Energy market", "Technology market", "Agricultural market"],
+    "correctAnswer": "Energy market"
+  },
+  {
+    "id": 7,
+    "question": "The Hyderabad-based consulate's remarks linked the US official's visit to perceived threats against whose civilization?",
+    "options": ["Indian", "American", "Iranian", "Middle Eastern"],
+    "correctAnswer": "Iranian"
+  },
+  {
+    "id": 8,
+    "question": "The U.S. official's visit, which drew criticism from Iran's Hyderabad Consulate, was to which iconic Indian monument?",
+    "options": ["Qutub Minar", "Red Fort", "Gateway of India", "Taj Mahal"],
+    "correctAnswer": "Taj Mahal"
+  },
+  {
+    "id": 9,
+    "question": "Which Indian state is home to the city where the Iran Consulate, which issued recent critical remarks, is located?",
+    "options": ["Andhra Pradesh", "Karnataka", "Maharashtra", "Telangana"],
+    "correctAnswer": "Telangana"
+  },
+  {
+    "id": 10,
+    "question": "The Iran Consulate in Hyderabad asserted that the US threatens which civilization while criticizing Marco Rubio's visit?",
+    "options": ["Indian civilization", "Persian civilization", "Mughal civilization", "American civilization"],
+    "correctAnswer": "Persian civilization"
+  },
+  {
+    "id": 11,
+    "question": "Which organization recently honored women achievers in agriculture, recognizing their contributions as part of a 'Year of the woman farmer'?",
+    "options": ["FICCI", "NASSCOM", "IFFCO", "CII"],
+    "correctAnswer": "IFFCO"
+  },
+  {
+    "id": 12,
+    "question": "What was IFFCO's reported profit (approximately) in its recent 55th Annual General Meeting?",
+    "options": ["Rs 1,500 crore", "Rs 2,500 crore", "Rs 3,500 crore", "Rs 4,585 crore"],
+    "correctAnswer": "Rs 4,585 crore"
+  },
+  {
+    "id": 13,
+    "question": "IFFCO announced a minimum wage of Rs 20,000 for which category of its staff at its recent AGM?",
+    "options": ["Senior management", "Mid-level executives", "Lower-level staff", "Contractual workers"],
+    "correctAnswer": "Lower-level staff"
+  },
+  {
+    "id": 14,
+    "question": "The 'Year of the woman farmer' initiative, launched by IFFCO, primarily aims to recognize contributions in which sector?",
+    "options": ["Manufacturing", "Information Technology", "Agriculture", "Healthcare"],
+    "correctAnswer": "Agriculture"
+  },
+  {
+    "id": 15,
+    "question": "A recent study suggests India can avert power shortages and cut consumer bills by improving the energy efficiency of which common household appliance?",
+    "options": ["Refrigerators", "Televisions", "Air conditioners", "Washing machines"],
+    "correctAnswer": "Air conditioners"
+  },
+  {
+    "id": 16,
+    "question": "Over the next decade, doubling AC energy efficiency in India could save consumers up to approximately how much amount?",
+    "options": ["Rs 50,000 crore", "Rs 1 lakh crore", "Rs 2.5 lakh crore", "Rs 5 lakh crore"],
+    "correctAnswer": "Rs 2.5 lakh crore"
+  },
+  {
+    "id": 17,
+    "question": "Improved AC efficiency is projected to significantly reduce which specific aspect of electricity demand in India?",
+    "options": ["Base load demand", "Off-peak demand", "Peak demand", "Industrial demand"],
+    "correctAnswer": "Peak demand"
+  },
+  {
+    "id": 18,
+    "question": "Despite potentially higher initial purchase costs, higher efficiency ACs are highlighted for offering what kind of benefits in the long term?",
+    "options": ["Aesthetic appeal", "Substantial long-term savings", "Faster cooling", "Reduced maintenance"],
+    "correctAnswer": "Substantial long-term savings"
+  },
+  {
+    "id": 19,
+    "question": "India recently reviewed its preparedness regarding a potential outbreak of which infectious disease, following a warning from the WHO?",
     "options": ["Dengue", "Malaria", "Ebola", "Chikungunya"],
     "correctAnswer": "Ebola"
   },
   {
-    "id": 3,
-    "question": "India's Finance Minister recently flagged concerns over '3Fs' amid the Gulf conflict, impacting the economy across all states like Telangana and Andhra Pradesh. Who is the current Finance Minister of India?",
-    "options": ["Nirmala Sitharaman", "Piyush Goyal", "Amit Shah", "Rajnath Singh"],
-    "correctAnswer": "Nirmala Sitharaman"
-  },
-  {
-    "id": 4,
-    "question": "What are the '3Fs' that Finance Minister Sitharaman highlighted as concerns for India's economy amid the Gulf conflict, affecting all Indian states?",
-    "options": ["Food, Festivals, Funds", "Fuel, Fertiliser, Forex", "Freight, Finance, Factories", "Farmers, Fishing, Forestry"],
-    "correctAnswer": "Fuel, Fertiliser, Forex"
-  },
-  {
-    "id": 5,
-    "question": "The Indian economy, including states like Telangana and Andhra Pradesh, faces pressure due to which international conflict, according to Finance Minister Sitharaman?",
-    "options": ["Ukraine-Russia conflict", "South China Sea disputes", "Gulf conflict", "Taiwan Strait tensions"],
-    "correctAnswer": "Gulf conflict"
-  },
-  {
-    "id": 6,
-    "question": "Which economic factor, a key component of the '3Fs', is directly impacted by rising international oil prices due to geopolitical conflicts, affecting all Indian consumers?",
-    "options": ["Food inflation", "Fuel prices", "Fiscal deficit", "Foreign investments"],
-    "correctAnswer": "Fuel prices"
-  },
-  {
-    "id": 7,
-    "question": "Along with fuel prices and forex reserves, what agricultural input's subsidies were a concern flagged by the Finance Minister due to the Gulf conflict, impacting farmers nationwide?",
-    "options": ["Seeds", "Water", "Fertiliser", "Pesticides"],
-    "correctAnswer": "Fertiliser"
-  },
-  {
-    "id": 8,
-    "question": "The stability of which financial indicator, crucial for international trade and managing imports, was a concern flagged by the Finance Minister as one of the '3Fs', affecting national economic stability?",
-    "options": ["Stock market indices", "Gold reserves", "Forex reserves", "Bank lending rates"],
-    "correctAnswer": "Forex reserves"
-  },
-  {
-    "id": 9,
-    "question": "The recent concerns raised by the Finance Minister about the '3Fs' are primarily related to what aspect of India's well-being, vital for states like Telangana and Andhra Pradesh?",
-    "options": ["Social security", "Environmental protection", "Economic stability", "Cultural heritage"],
-    "correctAnswer": "Economic stability"
-  },
-  {
-    "id": 10,
-    "question": "Who recently conferred the prestigious Padma Awards at Rashtrapati Bhavan, acknowledging distinguished service from across India?",
-    "options": ["Prime Minister Narendra Modi", "Vice President Jagdeep Dhankhar", "President Droupadi Murmu", "Chief Justice of India D.Y. Chandrachud"],
-    "correctAnswer": "President Droupadi Murmu"
-  },
-  {
-    "id": 11,
-    "question": "In which iconic building were the recent Padma Awards conferred by the President, a ceremony honoring individuals from various Indian states?",
-    "options": ["Parliament House", "India Gate", "Red Fort", "Rashtrapati Bhavan"],
-    "correctAnswer": "Rashtrapati Bhavan"
-  },
-  {
-    "id": 12,
-    "question": "How many Padma Awards were conferred by President Droupadi Murmu at the recent ceremony, recognizing individuals for their contributions to the nation?",
-    "options": ["33", "66", "99", "131"],
-    "correctAnswer": "66"
-  },
-  {
-    "id": 13,
-    "question": "A total of 131 Padma awards have been approved for which upcoming year, as mentioned in the news, indicating future recognition for Indian citizens?",
-    "options": ["2024", "2025", "2026", "2027"],
-    "correctAnswer": "2026"
-  },
-  {
-    "id": 14,
-    "question": "Which renowned violinist received the Padma Vibhushan at the recent ceremony, an award for exceptional and distinguished service?",
-    "options": ["L. Subramaniam", "N Rajam", "T.N. Krishnan", "Kanya Kumari"],
-    "correctAnswer": "N Rajam"
-  },
-  {
-    "id": 15,
-    "question": "Which veteran actor was posthumously honoured with the Padma Vibhushan at the recent ceremony for his contributions to Indian cinema?",
-    "options": ["Dilip Kumar", "Dev Anand", "Dharmendra", "Rajesh Khanna"],
-    "correctAnswer": "Dharmendra"
-  },
-  {
-    "id": 16,
-    "question": "Which actor received the Padma Shri at the recent Padma Awards ceremony, recognizing distinguished service in various fields?",
-    "options": ["Shah Rukh Khan", "Prosenjit Chatterjee", "Aamir Khan", "Salman Khan"],
-    "correctAnswer": "Prosenjit Chatterjee"
-  },
-  {
-    "id": 17,
-    "question": "The Padma Vibhushan, one of the categories of Padma Awards, is the ______ highest civilian award in India.",
-    "options": ["First", "Second", "Third", "Fourth"],
-    "correctAnswer": "Second"
-  },
-  {
-    "id": 18,
-    "question": "The Padma Awards recognize distinguished service in various fields. Which of these generally describes the primary purpose of these national awards?",
-    "options": ["To honor political leaders", "To recognize distinguished service", "To promote specific industries", "To award military personnel"],
-    "correctAnswer": "To recognize distinguished service"
-  },
-  {
-    "id": 19,
-    "question": "A Muslim musician, recently awarded Padma Shri, is known for reciting a significant number of couplets from which ancient Indian epic, highlighting cultural diversity?",
-    "options": ["Ramayana", "Mahabharat", "Bhagavad Gita", "Puranas"],
-    "correctAnswer": "Mahabharat"
-  },
-  {
     "id": 20,
-    "question": "What did the Supreme Court recently emphasize that girls should not give up due to a lack of proper facilities, a directive applicable to states like Telangana and Andhra Pradesh?",
-    "options": ["Sports activities", "Cultural pursuits", "Education", "Vocational training"],
-    "correctAnswer": "Education"
+    "question": "The World Health Organization (WHO) warned that the outbreak of a particular disease is 'outpacing' global response efforts, prompting India to review its preparedness. Which disease is it?",
+    "options": ["H1N1", "Zika virus", "Ebola", "MERS"],
+    "correctAnswer": "Ebola"
   },
   {
     "id": 21,
-    "question": "Which two specific facilities in schools were stressed by the Supreme Court as essential for girls' continued education across India?",
-    "options": ["Libraries and labs", "Playgrounds and canteens", "Functional, gender-segregated toilets and sanitary napkins", "Computer rooms and smartboards"],
-    "correctAnswer": "Functional, gender-segregated toilets and sanitary napkins"
+    "question": "Finance Minister Sitharaman recently flagged concerns over the '3Fs' impacting India's economy amid the Gulf conflict. What do the '3Fs' primarily refer to?",
+    "options": ["Factories, Finance, Food", "Fuel, Fertiliser, Forex reserves", "Farms, Funds, Foreign trade", "Fares, Freight, Futures"],
+    "correctAnswer": "Fuel, Fertiliser, Forex reserves"
   },
   {
     "id": 22,
-    "question": "The Supreme Court directed the Centre and states to ensure effective implementation of orders regarding the provision of what for female students in schools, promoting girls' health and attendance?",
-    "options": ["Free textbooks", "Free uniforms", "Free sanitary pads", "Free transportation"],
-    "correctAnswer": "Free sanitary pads"
+    "question": "The Gulf conflict is causing pressure on India's economy, specifically impacting which three key areas according to Finance Minister Sitharaman?",
+    "options": ["Inflation, employment, exports", "Fuel prices, fertiliser subsidies, forex reserves", "Trade balance, industrial output, banking sector", "Rural income, urban consumption, government spending"],
+    "correctAnswer": "Fuel prices, fertiliser subsidies, forex reserves"
   },
   {
     "id": 23,
-    "question": "The Supreme Court's directive on girls' education highlighted the importance of 'gender-segregated' versions of which facility in schools across all states?",
-    "options": ["Classrooms", "Laboratories", "Toilets", "Staff rooms"],
-    "correctAnswer": "Toilets"
+    "question": "Which of the following was NOT explicitly mentioned as one of the '3Fs' impacting India's economy due to the Gulf conflict by FM Sitharaman?",
+    "options": ["Fuel prices", "Fertiliser subsidies", "Food security", "Forex reserves"],
+    "correctAnswer": "Food security"
   },
   {
     "id": 24,
-    "question": "To whom did the Supreme Court issue directives to ensure the provision of essential facilities for girls' education, thereby impacting policies in states like Telangana and Andhra Pradesh?",
-    "options": ["Private schools and NGOs", "Parents and guardians", "The Centre and States", "Local municipalities and panchayats"],
-    "correctAnswer": "The Centre and States"
+    "question": "President Droupadi Murmu recently conferred Padma Awards at which official residence in Delhi?",
+    "options": ["Sansad Bhavan", "7, Lok Kalyan Marg", "Rashtrapati Bhavan", "Vigyan Bhavan"],
+    "correctAnswer": "Rashtrapati Bhavan"
   },
   {
     "id": 25,
-    "question": "The Supreme Court's recent emphasis on access to toilets and sanitary napkins aims to prevent girls from abandoning what important activity, essential for their future and national development?",
-    "options": ["Domestic work", "Religious practices", "Higher studies", "School education"],
-    "correctAnswer": "School education"
+    "question": "Which acclaimed actor was honored posthumously with a Padma Vibhushan in the recent Padma Awards ceremony?",
+    "options": ["Dilip Kumar", "Dev Anand", "Dharmendra", "Raj Kapoor"],
+    "correctAnswer": "Dharmendra"
   }
 ]
