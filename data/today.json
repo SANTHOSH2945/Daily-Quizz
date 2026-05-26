@@ -1,152 +1,277 @@
 [
   {
     "id": 1,
-    "question": "Which of the following weather phenomena has prompted alerts across several parts of India recently, a concern for states like Telangana and Andhra Pradesh?",
-    "options": ["Cyclone", "Heavy Rainfall", "Heatwave", "Cold Wave"],
-    "correctAnswer": "Heatwave"
+    "question": "What did the Supreme Court of India recently rule regarding the prosecution of in-laws for cruelty under Section 498A IPC?",
+    "options": [
+      "Being mute spectators is sufficient ground for prosecution.",
+      "Being mute spectators is not a sufficient ground for prosecution.",
+      "All in-laws are automatically liable in cruelty cases.",
+      "Only the husband can be prosecuted under Section 498A IPC."
+    ],
+    "correctAnswer": "Being mute spectators is not a sufficient ground for prosecution."
   },
   {
     "id": 2,
-    "question": "In the context of heatwave alerts issued in India, what do 'Red', 'Orange', and 'Yellow' warnings primarily indicate for affected regions, including potentially Telangana and Andhra Pradesh?",
-    "options": ["Severity levels of the heatwave", "Different regions affected", "Phases of government response", "Types of weather phenomena"],
-    "correctAnswer": "Severity levels of the heatwave"
+    "question": "According to a recent SC judgment, what specific role of in-laws might not be sufficient grounds for prosecution under Section 498A IPC?",
+    "options": [
+      "Actively instigating cruelty.",
+      "Conspiring against the daughter-in-law.",
+      "Being mute spectators without active participation.",
+      "Providing financial support to the accused husband."
+    ],
+    "correctAnswer": "Being mute spectators without active participation."
   },
   {
     "id": 3,
-    "question": "While not explicitly mentioned, heatwave alerts are frequently issued for various regions of India. Which types of states, including Telangana and Andhra Pradesh, are particularly vulnerable to severe heatwaves?",
-    "options": ["Himalayan states", "North-eastern states", "Central and Peninsular states", "Coastal states with high rainfall"],
-    "correctAnswer": "Central and Peninsular states"
+    "question": "Which Indian legal provision, concerning cruelty to women by husband or relatives, was the subject of a recent Supreme Court clarification regarding the liability of in-laws?",
+    "options": [
+      "Section 304B IPC (Dowry Death)",
+      "Section 377 IPC (Unnatural Offences)",
+      "Section 498A IPC (Husband or relative of husband of a woman subjecting her to cruelty)",
+      "Section 354 IPC (Assault or criminal force to woman with intent to outrage her modesty)"
+    ],
+    "correctAnswer": "Section 498A IPC (Husband or relative of husband of a woman subjecting her to cruelty)"
   },
   {
     "id": 4,
-    "question": "During a severe heatwave alert, what is a common advisory issued to residents in affected regions, which states like Telangana and Andhra Pradesh would emphasize?",
-    "options": ["Increase outdoor activities", "Stay hydrated and avoid direct sun", "Participate in water sports", "Start crop harvesting immediately"],
-    "correctAnswer": "Stay hydrated and avoid direct sun"
+    "question": "The Supreme Court clarified that passive presence without overt acts does not equate to what, in cases of cruelty against women under Section 498A IPC?",
+    "options": [
+      "Abetment of suicide.",
+      "Active participation in cruelty.",
+      "Marital discord.",
+      "Proof of financial exploitation."
+    ],
+    "correctAnswer": "Active participation in cruelty."
   },
   {
     "id": 5,
-    "question": "What is a significant health risk associated with prolonged heatwaves that states, including Telangana, prepare for?",
-    "options": ["Hypothermia", "Heatstroke and dehydration", "Frostbite", "Malaria outbreaks"],
-    "correctAnswer": "Heatstroke and dehydration"
+    "question": "This recent SC ruling aims to prevent what kind of overreach in prosecuting distant relatives under Section 498A IPC?",
+    "options": [
+      "Dismissing genuine cases of cruelty.",
+      "Automatically implicating all family members without specific evidence of active cruelty.",
+      "Imposing stricter bail conditions for immediate family.",
+      "Limiting the scope of investigation by police."
+    ],
+    "correctAnswer": "Automatically implicating all family members without specific evidence of active cruelty."
   },
   {
     "id": 6,
-    "question": "The recent increase in fuel prices across India directly impacts the economy and daily life. How would this typically affect states like Andhra Pradesh?",
-    "options": ["Decrease in public transport costs", "Reduction in prices of essential goods", "Increase in transportation costs and inflation", "Boost in agricultural exports"],
-    "correctAnswer": "Increase in transportation costs and inflation"
+    "question": "The Supreme Court recently dismissed a plea seeking urgent hearing for the implementation of a nationwide ban on what?",
+    "options": [
+      "Online gambling.",
+      "Cow slaughter.",
+      "Liquor sales.",
+      "Plastic bags."
+    ],
+    "correctAnswer": "Cow slaughter."
   },
   {
     "id": 7,
-    "question": "What has been the recent trend in fuel prices across India, criticized by the opposition, which affects all states including Telangana?",
-    "options": ["Consistent price decrease", "Stable prices with minor fluctuations", "Multiple price hikes in a short period", "Government subsidies leading to lower costs"],
-    "correctAnswer": "Multiple price hikes in a short period"
+    "question": "What was the Supreme Court's decision regarding a plea for urgent hearing on a pan-India cow slaughter ban?",
+    "options": [
+      "It accepted the plea and scheduled an immediate hearing.",
+      "It sought responses from all state governments.",
+      "It dismissed the plea for urgent hearing.",
+      "It referred the matter to the Law Commission."
+    ],
+    "correctAnswer": "It dismissed the plea for urgent hearing."
   },
   {
     "id": 8,
-    "question": "According to the Centre, what is the current status of LPG cylinder supplies in India, indicating improved availability for households including those in Telangana and Andhra Pradesh?",
-    "options": ["Supplies are lagging behind bookings", "Bookings have significantly decreased", "Supplies have exceeded bookings", "LPG supply is restricted to urban areas only"],
-    "correctAnswer": "Supplies have exceeded bookings"
+    "question": "Which national issue related to animal welfare was recently brought before the Supreme Court, only to have its urgent hearing request dismissed?",
+    "options": [
+      "Protection of endangered species.",
+      "Regulation of animal testing.",
+      "A uniform nationwide ban on cow slaughter.",
+      "Mandatory animal vaccination programs."
+    ],
+    "correctAnswer": "A uniform nationwide ban on cow slaughter."
   },
   {
     "id": 9,
-    "question": "Which central government ministry is primarily responsible for the distribution and pricing of LPG cylinders in India, impacting consumers in states like Andhra Pradesh?",
-    "options": ["Ministry of Finance", "Ministry of Home Affairs", "Ministry of Petroleum and Natural Gas", "Ministry of Commerce and Industry"],
-    "correctAnswer": "Ministry of Petroleum and Natural Gas"
+    "question": "This SC decision implies what about the immediate prospects of a uniform nationwide ban on cow slaughter?",
+    "options": [
+      "It is imminent.",
+      "It will be debated in the upcoming parliamentary session.",
+      "It is not a matter for urgent judicial intervention at this time.",
+      "States are mandated to implement it immediately."
+    ],
+    "correctAnswer": "It is not a matter for urgent judicial intervention at this time."
   },
   {
     "id": 10,
-    "question": "The Congress party has criticized recent economic trends, particularly fuel price hikes. What epithet did they use for PM Modi in this context, relevant to national economic discussions affecting states like Telangana?",
-    "options": ["Development Man", "Reform Man", "Inflation Man", "Growth Man"],
-    "correctAnswer": "Inflation Man"
+    "question": "The legal status of cow slaughter in India is primarily determined by whom, given the recent SC decision to dismiss an urgent hearing for a nationwide ban?",
+    "options": [
+      "The Central Government through an executive order.",
+      "State Legislatures, as it falls under the State List.",
+      "The President of India by ordinance.",
+      "The Supreme Court through a definitive judgment."
+    ],
+    "correctAnswer": "State Legislatures, as it falls under the State List."
   },
   {
     "id": 11,
-    "question": "An AIIMS-linked study flagged a silent mental health crisis among which demographic in India, a concern for states like Telangana and Andhra Pradesh?",
-    "options": ["Urban elderly population", "Rural teenage population", "Working professionals in metros", "Children under 10 in tier-2 cities"],
-    "correctAnswer": "Rural teenage population"
+    "question": "A recent study highlighted a one-time gene therapy capable of significantly reducing levels of which type of cholesterol?",
+    "options": [
+      "High-density lipoprotein (HDL) cholesterol.",
+      "Very-low-density lipoprotein (VLDL) cholesterol.",
+      "Low-density lipoprotein (LDL) cholesterol.",
+      "Total cholesterol without distinction."
+    ],
+    "correctAnswer": "Low-density lipoprotein (LDL) cholesterol."
   },
   {
     "id": 12,
-    "question": "What were identified as common factors pushing rural adolescents into depression and hopelessness, according to the AIIMS-linked study, a challenge for states like Andhra Pradesh?",
-    "options": ["Excessive outdoor sports", "Fear of exams, poverty, bullying, and family conflict", "High access to digital entertainment", "Lack of social media engagement"],
-    "correctAnswer": "Fear of exams, poverty, bullying, and family conflict"
+    "question": "What percentage reduction in 'bad cholesterol' (LDL) was reported possible with a new one-time gene therapy in a recent study?",
+    "options": [
+      "Up to 25%",
+      "Up to 40%",
+      "Up to 62%",
+      "Up to 85%"
+    ],
+    "correctAnswer": "Up to 62%"
   },
   {
     "id": 13,
-    "question": "To address the mental health crisis among rural teens, what type of initiative could state governments, including Telangana, implement?",
-    "options": ["Promoting competitive exams", "Increasing academic pressure", "Establishing rural counseling centers and awareness programs", "Reducing access to education"],
-    "correctAnswer": "Establishing rural counseling centers and awareness programs"
+    "question": "The advancement in gene therapy for cholesterol holds significant promise for addressing which major health concern in India and globally?",
+    "options": [
+      "Malaria.",
+      "Tuberculosis.",
+      "Cardiovascular diseases.",
+      "Diabetes mellitus."
+    ],
+    "correctAnswer": "Cardiovascular diseases."
   },
   {
     "id": 14,
-    "question": "How does poverty contribute to the mental health crisis observed among rural teens, an issue relevant to the socio-economic fabric of states like Telangana?",
-    "options": ["By increasing leisure time", "By reducing financial stress", "By limiting access to resources, education, and creating insecurity", "By promoting isolation"],
-    "correctAnswer": "By limiting access to resources, education, and creating insecurity"
+    "question": "This scientific breakthrough, capable of cutting bad cholesterol by up to 62%, is based on what core medical technology?",
+    "options": [
+      "Advanced surgical bypass.",
+      "Long-term oral medication.",
+      "One-time gene therapy.",
+      "Dietary interventions alone."
+    ],
+    "correctAnswer": "One-time gene therapy."
   },
   {
     "id": 15,
-    "question": "The silent mental health crisis among rural youth has broader implications for India. What is a key long-term consequence for states like Andhra Pradesh if left unaddressed?",
-    "options": ["Increased workforce productivity", "Improved community well-being", "Higher rates of social dysfunction and reduced human capital", "Reduced healthcare burden"],
-    "correctAnswer": "Higher rates of social dysfunction and reduced human capital"
+    "question": "Which medical condition, characterized by high levels of LDL cholesterol, might see new treatment avenues opened by the recent gene therapy study?",
+    "options": [
+      "Anemia.",
+      "Hyperlipidemia.",
+      "Hypothyroidism.",
+      "Asthma."
+    ],
+    "correctAnswer": "Hyperlipidemia."
   },
   {
     "id": 16,
-    "question": "What is the name of the 'Made in India' platform used for the robotic gall bladder telesurgery conducted recently?",
-    "options": ["MediBot 2000", "SurgiAssist 5G", "Mizzo Endo 4000", "HealthTech Innova"],
-    "correctAnswer": "Mizzo Endo 4000"
+    "question": "The Supreme Court of India recently stayed a High Court order concerning which aspect of student eligibility for exams?",
+    "options": [
+      "Allowing students with less than 50% attendance to take exams.",
+      "Mandating online exams for all students.",
+      "Introducing new subjects without prior notice.",
+      "Increasing examination fees."
+    ],
+    "correctAnswer": "Allowing students with less than 50% attendance to take exams."
   },
   {
     "id": 17,
-    "question": "Which advanced connectivity technology was crucial in enabling the robotic telesurgery from Thane, potentially paving the way for similar advancements in medical facilities across states like Telangana?",
-    "options": ["3G Network", "Satellite Internet", "5G Network", "Bluetooth Connectivity"],
-    "correctAnswer": "5G Network"
+    "question": "What was the core issue addressed by the Supreme Court when it stayed a High Court's decision regarding students and examinations?",
+    "options": [
+      "Student protests.",
+      "Allegations of exam paper leaks.",
+      "Truancy and attendance requirements.",
+      "The medium of instruction for exams."
+    ],
+    "correctAnswer": "Truancy and attendance requirements."
   },
   {
     "id": 18,
-    "question": "The indigenous development of platforms like Mizzo Endo 4000 for robotic telesurgery signifies what for India's healthcare sector, including its future in states like Andhra Pradesh?",
-    "options": ["Increased reliance on foreign technology", "Decline in medical research", "Self-reliance and advancement in medical technology", "Focus on traditional medicine only"],
-    "correctAnswer": "Self-reliance and advancement in medical technology"
+    "question": "This SC ruling emphasizes the importance of what for students to be eligible for taking examinations in India?",
+    "options": [
+      "Paying all fees on time.",
+      "Maintaining required attendance.",
+      "Achieving high internal assessment scores.",
+      "Participating in extracurricular activities."
+    ],
+    "correctAnswer": "Maintaining required attendance."
   },
   {
     "id": 19,
-    "question": "In which city was India's first robotic gall bladder telesurgery using the Mizzo Endo 4000 platform conducted?",
-    "options": ["Bengaluru", "Thane", "Hyderabad", "Chennai"],
-    "correctAnswer": "Thane"
+    "question": "What potential impact could the SC's decision to stay the HC order on truants have on educational institutions across India?",
+    "options": [
+      "It will lead to a decrease in student enrollment.",
+      "It reinforces the authority of educational institutions to enforce attendance rules.",
+      "It necessitates a complete overhaul of the examination system.",
+      "It encourages students to prioritize extracurriculars over attendance."
+    ],
+    "correctAnswer": "It reinforces the authority of educational institutions to enforce attendance rules."
   },
   {
     "id": 20,
-    "question": "A key benefit of robotic telesurgery, like the one performed in Thane, especially for patients in remote areas (potentially relevant to regions in Telangana and Andhra Pradesh), is:",
-    "options": ["Requiring patients to travel long distances", "Providing precise, minimally invasive surgery from a distance", "Increasing the need for complex infrastructure at every local clinic", "Limiting surgical options to only major cities"],
-    "correctAnswer": "Providing precise, minimally invasive surgery from a distance"
+    "question": "The Supreme Court's intervention in the 'truants taking exams' case reiterates the judiciary's role in upholding what in the education system?",
+    "options": [
+      "Innovation and experimental learning.",
+      "Strict adherence to academic regulations and discipline.",
+      "Student activism and dissent.",
+      "Flexible learning schedules for all."
+    ],
+    "correctAnswer": "Strict adherence to academic regulations and discipline."
   },
   {
     "id": 21,
-    "question": "The recent Quad meeting, where terrorism, maritime security, and energy were discussed, was hosted in which Indian city?",
-    "options": ["Mumbai", "Bengaluru", "Delhi", "Kolkata"],
-    "correctAnswer": "Delhi"
+    "question": "What are some of the key initiatives that recently gave the Quad grouping a boost, as per recent reports?",
+    "options": [
+      "Joint space exploration missions and cultural exchange programs.",
+      "New energy, critical minerals, and maritime initiatives.",
+      "Universal healthcare reforms and agricultural subsidies.",
+      "Bilateral trade agreements and tourism promotions."
+    ],
+    "correctAnswer": "New energy, critical minerals, and maritime initiatives."
   },
   {
     "id": 22,
-    "question": "Beyond maritime security and energy, what other critical issue dominated the talks at the recent Quad meeting held in Delhi, concerning India and its states?",
-    "options": ["Climate change funding", "Global pandemic response", "Terrorism", "Space exploration cooperation"],
-    "correctAnswer": "Terrorism"
+    "question": "Besides condemning attacks on commercial ships, the Quad is bolstering cooperation in which critical sectors?",
+    "options": [
+      "Tourism, fashion, and culinary arts.",
+      "Energy, critical minerals, and maritime domains.",
+      "Textile manufacturing, handicrafts, and folklore.",
+      "Sports, entertainment, and digital gaming."
+    ],
+    "correctAnswer": "Energy, critical minerals, and maritime domains."
   },
   {
     "id": 23,
-    "question": "The Chief Justice of India expressed serious concern over a Public Interest Litigation (PIL) regarding what social issue in India, which could potentially affect vulnerable individuals in any state, including Telangana?",
-    "options": ["Illegal mining operations", "Girls being forcefully employed in massage parlours", "Online gaming regulations", "Road traffic management"],
-    "correctAnswer": "Girls being forcefully employed in massage parlours"
+    "question": "India is a member of the Quad. Which of the following is NOT explicitly mentioned as a new focus area for the Quad in recent news?",
+    "options": [
+      "Energy initiatives.",
+      "Critical minerals.",
+      "Maritime initiatives.",
+      "Space tourism development."
+    ],
+    "correctAnswer": "Space tourism development."
   },
   {
     "id": 24,
-    "question": "Cases involving forced employment, such as those highlighted in the PIL about massage parlours, primarily violate which fundamental rights guaranteed to citizens in India, including those in Andhra Pradesh?",
-    "options": ["Right to property and privacy", "Right to freedom of speech and expression", "Right against exploitation and right to freedom", "Right to religion and cultural rights"],
-    "correctAnswer": "Right against exploitation and right to freedom"
+    "question": "The Quad's maritime initiatives, aimed at enhancing security and cooperation, are particularly relevant for which group of Indian states that have significant coastal areas?",
+    "options": [
+      "Andhra Pradesh, Odisha, West Bengal.",
+      "Punjab, Rajasthan, Haryana.",
+      "Madhya Pradesh, Chhattisgarh, Jharkhand.",
+      "Uttar Pradesh, Bihar, Uttarakhand."
+    ],
+    "correctAnswer": "Andhra Pradesh, Odisha, West Bengal."
   },
   {
     "id": 25,
-    "question": "The Centre is pushing for a woman IFS officer to head a High-Powered Expert Committee (HPEC) related to the definition of environmentally sensitive areas. What general purpose do such committees serve in India, relevant for environmental management in states like Telangana and Andhra Pradesh?",
-    "options": ["To promote industrial expansion without environmental checks", "To manage national parks for tourism only", "To define, protect, and regulate environmentally sensitive regions", "To develop new infrastructure projects exclusively"],
-    "correctAnswer": "To define, protect, and regulate environmentally sensitive regions"
+    "question": "India recently rejected references to Jammu and Kashmir in a joint statement issued by which two countries?",
+    "options": [
+      "USA and UK.",
+      "Russia and China.",
+      "China and Pakistan.",
+      "Japan and Australia."
+    ],
+    "correctAnswer": "China and Pakistan."
   }
 ]
