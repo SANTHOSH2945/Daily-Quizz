@@ -30,14 +30,7 @@ jobs:
         env:
           NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          # Diversified specific sub-topics to prevent the AI from repeating the same major points
-          QUIZ_CATEGORIES: >-
-            Telangana (State Governance, Schemes, Regional Culture, Economy, Environment),
-            India (National Current Affairs, Science & Tech, Sports, Polity, History, Geography)
-          MECH_EXAM_SECTIONS: >-
-            Mechanical Engineering Competitive Exams (Thermodynamics, Fluid Mechanics, SOM, 
-            Manufacturing Engineering, Industrial Safety Standards)
-          MECH_TIME_LIMIT_SECONDS: "60"
+          REGION: "Telangana, Andhra Pradesh, India"
         run: node generate-quiz.js
 
       - name: Commit and Push updated quiz data
@@ -52,7 +45,7 @@ jobs:
           git add data/today.json
           if ! git diff-index --quiet HEAD; then
             # Removed [Skip CI] so Vercel builds the fresh today.json file on every push
-            git commit -m "Automated update: Today's Quiz with Diversified & Mech Sections"
+            git commit -m "Automated update: Today's Quiz"
             git push origin main --force
           else
             echo "No data changes detected. Skipping push."
