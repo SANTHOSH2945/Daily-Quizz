@@ -1,78 +1,84 @@
 const axios = require('axios');
 const fs = require('fs');
-
-// 1. Fetch environment variables from GitHub Actions
-const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
-const quizCategories = process.env.QUIZ_CATEGORIES || "Telangana, India";
-const mechSections = process.env.MECH_EXAM_SECTIONS || "Mechanical Engineering";
-const mechTimeLimit = parseInt(process.env.MECH_TIME_LIMIT_SECONDS || "60", 10);
+const path = require('path');
 
 async function generateQuiz() {
-  const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?key=${GEMINI_API_KEY}`;
-
-  // 2. Build a system prompt that enforces diversity and injects the engineering topics
-  const systemPrompt = `
-    You are a professional quiz generator for competitive exams like TSPSC, UPSC, and Engineering Services (GATE/ESE).
-    
-    Generate a JSON array of 15 unique multiple-choice questions based strictly on these two components:
-    
-    Component 1: General Awareness & Current Affairs
-    - Target Areas: ${quizCategories}
-    - Instruction: Do not focus only on the single biggest news event. Diversify across history, geography, regional governance schemes, and economy.
-    
-    Component 2: Technical Engineering Core
-    - Target Areas: ${mechSections}
-    - Instruction: Provide conceptual and numerical questions suitable for competitive exams.
-    
-    Return ONLY a raw JSON array following this exact schema structure:
-    [
-      {
-        "id": "q1",
-        "category": "Telangana History",
-        "question": "...",
-        "options": ["A", "B", "C", "D"],
-        "correct_answer": "...",
-        "time_limit_seconds": null
-      },
-      {
-        "id": "q11",
-        "category": "Mechanical Engineering",
-        "question": "...",
-        "options": ["A", "B", "C", "D"],
-        "correct_answer": "...",
-        "time_limit_seconds": ${mechTimeLimit}
-      }
-    ]
-  `;
-
   try {
-    const response = await axios.post(url, {
-      contents: [{ parts: [{ text: systemPrompt }] }]
+    // 1. Fetch current regional/national news highlights from an Indian news source RSS feed
+    // Modified to use Times of India - India National News RSS
+    const parserUrl = 'https://api.rss2json.com/v1/api.json?rss_url=https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms';
+    const newsResponse = await axios.get(parserUrl);
+
+    const articles = newsResponse.data.items || [];
+    if (articles.length === 0) throw new Error("No news articles found today.");
+
+    // Intake up to 30 articles to analyze for regional contexts
+    const contextText = articles.slice(0, 30).map((a, i) => `[${i+1}] ${a.title}: ${a.description || ''}`).join('\n');
+
+    // 2. Build the structural quizmaster layout prompt with regional constraints
+    // Modified instructions to strictly target India, Telangana, and Andhra Pradesh
+    const systemPrompt = `
+      You are an expert quiz master specializing in regional Indian current affairs. 
+      Based on the news headlines provided below, generate exactly 25 distinct multiple-choice questions. 
+      
+      CRITICAL CONSTRAINT: You must ONLY generate questions that focus on or relate directly to India, with a strong prioritization and emphasis on the states of Telangana and Andhra Pradesh. Filter out any topics that have no relevance to these specific regions.
+      
+      Return ONLY a valid, raw JSON array matching this exact schema layout with no code blocks, no markdown formatting, and no conversational text:
+      [
+        {
+          "id": 1,
+          "question": "Clear question text based on recent news",
+          "options": ["Option A", "Option B", "Option C", "Option D"],
+          "correctAnswer": "The exact option string that is correct"
+        }
+      ]
+
+      News Context:
+      ${contextText}
+    `;
+
+    // 3. Native Request Endpoint
+    const apiKey = process.env.GEMINI_API_KEY;
+    const apiUrl = `https://generativelanguage.googleapis.com/v1/models/gemini-2.5-flash:generateContent?key=${apiKey}`;
+
+    const aiResponse = await axios.post(apiUrl, {
+      contents: [
+        {
+          parts: [
+            { text: systemPrompt }
+          ]
+        }
+      ]
     });
 
-    // 3. Extract and parse the text content
-    let rawText = response.data.candidates[0].content.parts[0].text;
-    
-    // Clean up markdown block wraps if the model includes them
-    rawText = rawText.replace(/```json|```/g, '').trim();
-    
-    const quizData = JSON.parse(rawText);
+    if (!aiResponse.data.candidates || !aiResponse.data.candidates[0].content) {
+      throw new Error("Empty or invalid object branch structure returned from Gemini API.");
+    }
 
-    // 4. (Optional) Fail-safe: Ensure time limits are explicitly set for Mechanical questions
-    quizData.forEach(question => {
-      if (question.category.toLowerCase().includes('mechanical') || question.category.toLowerCase().includes('engineering')) {
-        question.time_limit_seconds = mechTimeLimit;
-      } else {
-        question.time_limit_seconds = null; // Or a default time for general current affairs (e.g., 30)
-      }
-    });
+    let rawText = aiResponse.data.candidates[0].content.parts[0].text.trim();
 
-    // 5. Save the updated data back for Vercel deployment
-    fs.writeFileSync('data/today.json', JSON.stringify(quizData, null, 2));
-    console.log("Quiz data successfully updated in data/today.json");
+    // Safety Filter: Strip out code block tags if the engine appends markdown wrappers
+    if (rawText.includes('```')) {
+      rawText = rawText.replace(/```json/g, '').replace(/```/g, '').trim();
+    }
+
+    // Verify valid JSON structural alignment
+    JSON.parse(rawText);
+
+    // 4. Save the generated quiz array to the tracking repository folder
+    const dirPath = path.join(__dirname, 'data');
+    if (!fs.existsSync(dirPath)) {
+      fs.mkdirSync(dirPath);
+    }
+
+    fs.writeFileSync(path.join(dirPath, 'today.json'), rawText, 'utf8');
+    console.log("Daily quiz data successfully saved to data/today.json with 25 regional questions!");
 
   } catch (error) {
-    console.error("Error generating quiz:", error.message);
+    console.error("Quiz Generator Error:", error.message);
+    if (error.response && error.response.data) {
+      console.error("API Error Log Details:", JSON.stringify(error.response.data));
+    }
     process.exit(1);
   }
 }
