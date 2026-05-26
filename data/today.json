@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "question": "Which Indian city recently hosted the Quad meeting where terrorism, maritime security, and energy were key discussion points?",
+    "options": ["Mumbai", "Bengaluru", "Delhi", "Chennai"],
+    "correctAnswer": "Delhi"
+  },
+  {
+    "id": 2,
+    "question": "At the recent Quad meeting held in Delhi, which of the following was a dominant topic of discussion alongside terrorism and energy?",
+    "options": ["Space exploration", "Cyber warfare tactics", "Maritime security", "Agricultural trade policies"],
+    "correctAnswer": "Maritime security"
+  },
+  {
+    "id": 3,
+    "question": "The Chief Justice of India recently highlighted a 'very serious matter' concerning the forced employment of girls in which specific establishments?",
+    "options": ["Textile factories", "Construction sites", "Massage parlours", "Agricultural farms"],
+    "correctAnswer": "Massage parlours"
+  },
+  {
+    "id": 4,
+    "question": "The issue of forced employment of girls in massage parlours was brought to the Supreme Court's attention via what legal instrument?",
+    "options": ["Habeas Corpus Petition", "Quo Warranto Petition", "Public Interest Litigation", "Writ of Mandamus"],
+    "correctAnswer": "Public Interest Litigation"
+  },
+  {
+    "id": 5,
+    "question": "Which political party recently slammed the government over the 4th fuel hike in 10 days, calling the PM 'Inflation Man'?",
+    "options": ["Bharatiya Janata Party", "Aam Aadmi Party", "Trinamool Congress", "Congress"],
+    "correctAnswer": "Congress"
+  },
+  {
+    "id": 6,
+    "question": "The term 'Mehengai Manav' was used by the Congress party to criticize the Prime Minister over what economic issue?",
+    "options": ["Rising unemployment rates", "Fuel price hikes", "Agricultural produce prices", "Foreign exchange rates"],
+    "correctAnswer": "Fuel price hikes"
+  },
+  {
+    "id": 7,
+    "question": "India's first robotic gall bladder telesurgery using an indigenous platform was recently conducted at a hospital in which city?",
+    "options": ["Bengaluru", "Thane", "Hyderabad", "Pune"],
+    "correctAnswer": "Thane"
+  },
+  {
+    "id": 8,
+    "question": "What is the name of the indigenous 'Made in India' platform used for the robotic gall bladder telesurgery in Thane?",
+    "options": ["VedaBot 1000", "IndiRobo Medic", "Mizzo Endo 4000", "AuraTech Surgical"],
+    "correctAnswer": "Mizzo Endo 4000"
+  },
+  {
+    "id": 9,
+    "question": "Which advanced network technology was crucial for enabling the remote operation during India's first robotic gall bladder telesurgery?",
+    "options": ["4G LTE", "Satellite internet", "5G network", "Broadband over power line"],
+    "correctAnswer": "5G network"
+  },
+  {
+    "id": 10,
+    "question": "What specific organ was the focus of India's first robotic telesurgery performed at Thane's Tieten Medicity Hospital?",
+    "options": ["Appendix", "Kidney", "Gall bladder", "Heart"],
+    "correctAnswer": "Gall bladder"
+  },
+  {
+    "id": 11,
+    "question": "The robotic telesurgery performed in Thane represents a significant advancement for India in which medical field?",
+    "options": ["Organ transplantation", "Regenerative medicine", "Minimally invasive surgery", "Immunotherapy"],
+    "correctAnswer": "Minimally invasive surgery"
+  },
+  {
+    "id": 12,
+    "question": "An AIIMS-linked study recently identified a silent mental health crisis among which demographic group in rural India?",
+    "options": ["Elderly farmers", "Young children", "Rural teens", "Middle-aged women"],
+    "correctAnswer": "Rural teens"
+  },
+  {
+    "id": 13,
+    "question": "According to a recent AIIMS-linked study, approximately what proportion of rural teens in India are under severe stress?",
+    "options": ["1 in 10", "1 in 6", "1 in 20", "1 in 3"],
+    "correctAnswer": "1 in 6"
+  },
+  {
+    "id": 14,
+    "question": "Which of these was cited as a major factor contributing to severe stress among rural teens in India, according to the AIIMS-linked study?",
+    "options": ["Lack of internet access", "Excessive sports participation", "Fear of exams", "Insufficient dietary intake"],
+    "correctAnswer": "Fear of exams"
+  },
+  {
+    "id": 15,
+    "question": "According to a recent statement from the Centre, the supply of which essential household commodity has surpassed its bookings?",
+    "options": ["Electricity units", "Drinking water", "LPG cylinders", "Rationed grains"],
+    "correctAnswer": "LPG cylinders"
+  },
+  {
+    "id": 16,
+    "question": "The Centre's announcement that LPG cylinder supplies exceeded bookings indicates an improvement in which aspect for consumers across India, including Telangana and Andhra Pradesh?",
+    "options": ["Price stability", "Quality control", "Availability", "Environmental impact"],
+    "correctAnswer": "Availability"
+  },
+  {
+    "id": 17,
+    "question": "The recent Quad meeting in Delhi specifically focused on addressing which critical security concern globally?",
+    "options": ["Cyber espionage", "Space debris management", "Terrorism", "Pandemic preparedness"],
+    "correctAnswer": "Terrorism"
+  },
+  {
+    "id": 18,
+    "question": "India, as a participant in the recent Quad meeting, engaged in discussions concerning the stability and security of which global resource?",
+    "options": ["Water resources", "Mineral deposits", "Energy", "Rare earth elements"],
+    "correctAnswer": "Energy"
+  },
+  {
+    "id": 19,
+    "question": "The Chief Justice of India's statement on forced employment in massage parlours underscores the judiciary's concern for protecting which fundamental right of individuals?",
+    "options": ["Right to property", "Right to privacy", "Right to live with dignity", "Right to education"],
+    "correctAnswer": "Right to live with dignity"
+  },
+  {
+    "id": 20,
+    "question": "The Public Interest Litigation (PIL) bringing attention to the forced employment of girls in massage parlours reflects a national concern about what broader social issue?",
+    "options": ["Child labour", "Human trafficking", "Gender pay gap", "Digital literacy"],
+    "correctAnswer": "Human trafficking"
+  },
+  {
+    "id": 21,
+    "question": "The recent wave of fuel price hikes, criticized by the Congress, directly impacts which major economic factor across Indian states like Telangana and Andhra Pradesh?",
+    "options": ["Agricultural output", "Export volumes", "Transportation costs", "Stock market indices"],
+    "correctAnswer": "Transportation costs"
+  },
+  {
+    "id": 22,
+    "question": "How many days were cited as the period during which four fuel price hikes occurred, leading to strong political opposition from the Congress party?",
+    "options": ["5 days", "10 days", "15 days", "30 days"],
+    "correctAnswer": "10 days"
+  },
+  {
+    "id": 23,
+    "question": "The indigenous Mizzo Endo 4000 platform, used for telesurgery, is an example of India's advancements in which specific manufacturing sector?",
+    "options": ["Automotive engineering", "Aerospace technology", "Medical device manufacturing", "Textile production"],
+    "correctAnswer": "Medical device manufacturing"
+  },
+  {
+    "id": 24,
+    "question": "The success of robotic telesurgery using 5G connectivity is indicative of future trends in healthcare delivery, specifically promoting which type of medical intervention?",
+    "options": ["Community health camps", "Traditional medicine practices", "Remote diagnostics and surgery", "Preventive care initiatives"],
+    "correctAnswer": "Remote diagnostics and surgery"
+  },
+  {
+    "id": 25,
+    "question": "Besides fear of exams, poverty, and bullying, what other family-related issue was identified as a cause of stress among rural teens in the AIIMS-linked study?",
+    "options": ["Lack of parental supervision", "Family conflict", "Strict curfews", "Limited access to entertainment"],
+    "correctAnswer": "Family conflict"
+  }
+]
