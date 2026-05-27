@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "What kind of government body is typically formed in India to examine significant national issues like demographic changes and recommend policy frameworks?",
-    "options": ["A) Judicial Commission", "B) Parliamentary Committee", "C) Expert Panel/Committee", "D) Cabinet Sub-committee"],
-    "correctAnswer": "C) Expert Panel/Committee"
+    "question": "Which national entrance examination is currently under investigation by the CBI for a paper leak, directly impacting students from states like Telangana and Andhra Pradesh?",
+    "options": ["JEE Main", "UGC NET", "NEET", "CLAT"],
+    "correctAnswer": "NEET"
   },
   {
     "id": 2,
-    "question": "The formation of a government panel to examine demographic changes often indicates a concern regarding which of the following issues in Indian states?",
-    "options": ["A) Economic growth", "B) Social welfare", "C) Illegal immigration or population shifts", "D) Climate change impact"],
-    "correctAnswer": "C) Illegal immigration or population shifts"
+    "question": "What is the name of the central agency investigating the recent NEET paper leak?",
+    "options": ["NIA", "ED", "CBI", "IB"],
+    "correctAnswer": "CBI"
   },
   {
     "id": 3,
-    "question": "Recommendations from a government panel addressing demographic changes and illegal residents would primarily aim to achieve what for Indian states?",
-    "options": ["A) Boost tourism", "B) Enhance cultural exchange", "C) Strengthen national security and regulate residency", "D) Promote agricultural development"],
-    "correctAnswer": "C) Strengthen national security and regulate residency"
+    "question": "As per recent reports, how many accused have been arrested by the CBI in connection with the NEET paper leak?",
+    "options": ["Two", "Five", "Ten", "Thirteen"],
+    "correctAnswer": "Two"
   },
   {
     "id": 4,
-    "question": "Which government ministry in India would most likely be involved in setting up a panel to study demographic changes and recommend policies regarding illegal residents?",
-    "options": ["A) Ministry of Finance", "B) Ministry of Home Affairs", "C) Ministry of External Affairs", "D) Ministry of Health and Family Welfare"],
-    "correctAnswer": "B) Ministry of Home Affairs"
+    "question": "What is the total number of individuals detained so far in the NEET paper leak investigation?",
+    "options": ["Eight", "Ten", "Thirteen", "Fifteen"],
+    "correctAnswer": "Thirteen"
   },
   {
     "id": 5,
-    "question": "A comprehensive study on 'demographic changes' in India by a government panel would typically consider factors such as:",
-    "options": ["A) Industrial output and trade balance", "B) Population growth, migration patterns, and age distribution", "C) Forest cover and wildlife population", "D) Literacy rates and school enrollment only"],
-    "correctAnswer": "B) Population growth, migration patterns, and age distribution"
+    "question": "The NEET examination is primarily conducted for admissions into which type of courses?",
+    "options": ["Engineering", "Law", "Medical and Dental", "Management"],
+    "correctAnswer": "Medical and Dental"
   },
   {
     "id": 6,
-    "question": "In India, survivors of acid attacks can seek recognition for what status to avail specific government benefits and support, as highlighted by a recent legal success?",
-    "options": ["A) Victim status", "B) Minority status", "C) Disability status", "D) Senior citizen status"],
-    "correctAnswer": "C) Disability status"
+    "question": "The ongoing investigation into the NEET paper leak primarily addresses concerns about the integrity of which national academic process?",
+    "options": ["Admission to research programs", "Competitive entrance examinations", "University semester exams", "Vocational training assessments"],
+    "correctAnswer": "Competitive entrance examinations"
   },
   {
     "id": 7,
-    "question": "The right to a 'disability review' for an acid attack survivor in India ensures which of the following?",
-    "options": ["A) A re-assessment of their criminal case", "B) Re-evaluation of their physical and psychological impairment for disability certification", "C) Review of financial compensation amounts", "D) A chance to re-attend school"],
-    "correctAnswer": "B) Re-evaluation of their physical and psychological impairment for disability certification"
+    "question": "The CBI's involvement in the NEET paper leak investigation signifies its role in handling which level of crimes in India?",
+    "options": ["Local civic violations", "Minor property disputes", "National-level crimes and corruption", "Petty theft cases"],
+    "correctAnswer": "National-level crimes and corruption"
   },
   {
     "id": 8,
-    "question": "Which legislation in India primarily deals with the rights of persons with disabilities, including those who acquire disabilities due to incidents like acid attacks?",
-    "options": ["A) The Immoral Traffic (Prevention) Act", "B) The Protection of Children from Sexual Offences (POCSO) Act", "C) The Rights of Persons with Disabilities Act, 2016", "D) The Maintenance and Welfare of Parents and Senior Citizens Act"],
-    "correctAnswer": "C) The Rights of Persons with Disabilities Act, 2016"
+    "question": "Who recently issued an advisory urging citizens across India, including those in Telangana and Andhra Pradesh, to take precautions amid an escalating heatwave?",
+    "options": ["Minister of Health", "Prime Minister Narendra Modi", "President of India", "Chief Justice of India"],
+    "correctAnswer": "Prime Minister Narendra Modi"
   },
   {
     "id": 9,
-    "question": "Winning the right to a disability review after an acid attack in India highlights the importance of what aspect of the Indian legal system?",
-    "options": ["A) Swift criminal justice", "B) Access to justice and rehabilitation for victims", "C) Strict punishment for offenders", "D) Prompt medical treatment"],
-    "correctAnswer": "B) Access to justice and rehabilitation for victims"
+    "question": "What is the primary advice given by PM Modi to combat the heatwave conditions?",
+    "options": ["Stay indoors completely", "Use air conditioning constantly", "Stay thoroughly hydrated", "Avoid all outdoor activities"],
+    "correctAnswer": "Stay thoroughly hydrated"
   },
   {
     "id": 10,
-    "question": "The Supreme Court's ruling that 'being mute spectators' is no ground to prosecute in-laws for cruelty likely pertains to which section of the Indian Penal Code?",
-    "options": ["A) Section 302 (Murder)", "B) Section 498A (Cruelty by husband or relatives of husband)", "C) Section 376 (Rape)", "D) Section 420 (Cheating)"],
-    "correctAnswer": "B) Section 498A (Cruelty by husband or relatives of husband)"
+    "question": "Besides humans, which other living beings did PM Modi urge citizens to remember and care for during the heatwave?",
+    "options": ["Trees and plants", "Pets only", "Animals and birds", "Farm animals only"],
+    "correctAnswer": "Animals and birds"
   },
   {
     "id": 11,
-    "question": "This Supreme Court judgment clarifies the legal standard for proving what in cases of marital cruelty in India?",
-    "options": ["A) Intent and active involvement in cruelty", "B) Financial contribution", "C) Emotional support", "D) Property ownership"],
-    "correctAnswer": "A) Intent and active involvement in cruelty"
+    "question": "What are some signs of heat stress that individuals should be alert to, as mentioned in the advisory?",
+    "options": ["Increased appetite and energy", "Dizziness and fatigue", "Sudden chills and shivering", "Enhanced concentration"],
+    "correctAnswer": "Dizziness and fatigue"
   },
   {
     "id": 12,
-    "question": "The term 'cruelty' under Indian law, especially concerning marital relations, typically includes which of the following?",
-    "options": ["A) Minor disagreements", "B) Any willful conduct that drives a woman to commit suicide or causes grave injury/danger to life/health", "C) Simply living together", "D) Occasional arguments without any severe impact"],
-    "correctAnswer": "B) Any willful conduct that drives a woman to commit suicide or causes grave injury/danger to life/health"
+    "question": "The Prime Minister's heatwave advisory is particularly relevant for states like Andhra Pradesh and Telangana due to which common climatic characteristic?",
+    "options": ["Their coastal location", "Their mountainous terrain", "Their susceptibility to severe heatwave conditions", "Their high industrial output"],
+    "correctAnswer": "Their susceptibility to severe heatwave conditions"
   },
   {
     "id": 13,
-    "question": "What is the highest judicial body in India whose interpretations of law, like the one mentioned, are binding on all other courts in the country?",
-    "options": ["A) High Courts", "B) District Courts", "C) Supreme Court", "D) Lok Adalat"],
-    "correctAnswer": "C) Supreme Court"
+    "question": "The advisory emphasizes keeping water on hand at all times for what crucial purpose during a heatwave?",
+    "options": ["For cooking", "For washing clothes", "For staying hydrated", "For gardening"],
+    "correctAnswer": "For staying hydrated"
   },
   {
     "id": 14,
-    "question": "The Supreme Court 'binning a plea for urgent hearing' indicates what about the immediate status of the request?",
-    "options": ["A) It has been accepted for immediate consideration", "B) It has been rejected or deferred", "C) It has been referred to a lower court", "D) It has been passed into law"],
-    "correctAnswer": "B) It has been rejected or deferred"
+    "question": "Which governmental body's 'Special Intensive Revision' (SIR) exercise, impacting electoral rolls across India, was recently upheld by the Supreme Court?",
+    "options": ["Union Public Service Commission", "NITI Aayog", "Election Commission of India", "Comptroller and Auditor General"],
+    "correctAnswer": "Election Commission of India"
   },
   {
     "id": 15,
-    "question": "In India, laws regarding cow slaughter are primarily enacted and enforced by which level of government?",
-    "options": ["A) Central Government", "B) State Governments", "C) Municipal Corporations", "D) Gram Panchayats"],
-    "correctAnswer": "B) State Governments"
+    "question": "What does the acronym 'SIR' refer to in the context of the Election Commission of India's activities upheld by the Supreme Court?",
+    "options": ["State Intelligence Report", "Special Investigation Review", "Special Intensive Revision", "Systematic Information Retrieval"],
+    "correctAnswer": "Special Intensive Revision"
   },
   {
     "id": 16,
-    "question": "The issue of cow slaughter in India often involves a complex interplay of which aspects?",
-    "options": ["A) Only economic factors", "B) Religious sentiments, animal welfare, and economic concerns", "C) International trade agreements", "D) Educational reforms"],
-    "correctAnswer": "B) Religious sentiments, animal welfare, and economic concerns"
+    "question": "Which court delivered the verdict affirming the legality of the ECI's roll revision exercise?",
+    "options": ["High Court of Delhi", "Supreme Court of India", "Patna High Court", "Kolkata High Court"],
+    "correctAnswer": "Supreme Court of India"
   },
   {
     "id": 17,
-    "question": "Gene therapy, as mentioned in a recent study showing promise for reducing cholesterol, targets what at a fundamental level to treat diseases?",
-    "options": ["A) Dietary habits", "B) Physical exercise", "C) Genetic material", "D) Surgical procedures"],
-    "correctAnswer": "C) Genetic material"
+    "question": "One of the key questions considered by the Supreme Court was whether the ECI possessed the authority to conduct which specific exercise?",
+    "options": ["Financial Audits", "Electoral Roll Revision", "Budget Allocations", "Policy Formulation"],
+    "correctAnswer": "Electoral Roll Revision"
   },
   {
     "id": 18,
-    "question": "Reducing 'bad cholesterol' (LDL cholesterol) through therapies like gene therapy is primarily aimed at preventing which major health condition prevalent in India?",
-    "options": ["A) Diabetes", "B) Cancer", "C) Cardiovascular diseases", "D) Respiratory illnesses"],
-    "correctAnswer": "C) Cardiovascular diseases"
+    "question": "Petitions challenging the ECI's SIR exercise argued it went beyond powers granted under Article 326 of which fundamental document?",
+    "options": ["The Indian Penal Code", "The Constitution of India", "The Company's Act", "The Environmental Protection Act"],
+    "correctAnswer": "The Constitution of India"
   },
   {
     "id": 19,
-    "question": "What scientific field is most closely associated with the development and application of gene therapy?",
-    "options": ["A) Astrophysics", "B) Paleontology", "C) Biotechnology and Genetics", "D) Archaeology"],
-    "correctAnswer": "C) Biotechnology and Genetics"
+    "question": "The Supreme Court's ruling on the ECI's SIR exercise impacts electoral processes in which type of administrative units across India, including states like Andhra Pradesh and Telangana?",
+    "options": ["Local Municipalities only", "Union Territories only", "All states and union territories", "Specific northern states only"],
+    "correctAnswer": "All states and union territories"
   },
   {
     "id": 20,
-    "question": "The potential for a '1-time' therapy like gene therapy could significantly impact public health in India by:",
-    "options": ["A) Reducing the need for all medical treatments", "B) Offering a long-term solution to chronic conditions with a single intervention", "C) Increasing the cost of all medications", "D) Promoting unhealthy lifestyles"],
-    "correctAnswer": "B) Offering a long-term solution to chronic conditions with a single intervention"
+    "question": "Which central legislation, alongside the Constitution, was cited in the challenges to the ECI's SIR exercise?",
+    "options": ["The Factories Act, 1948", "The Wildlife Protection Act, 1972", "The Representation of the People Act, 1950", "The Right to Information Act, 2005"],
+    "correctAnswer": "The Representation of the People Act, 1950"
   },
   {
     "id": 21,
-    "question": "What is the constitutional role of a Chief Minister in an Indian state, a position frequently in news for political developments?",
-    "options": ["A) Head of the State", "B) Head of the Government", "C) Head of the Judiciary", "D) Head of the Armed Forces"],
-    "correctAnswer": "B) Head of the Government"
+    "question": "Who was one of the justices leading the Supreme Court Bench that pronounced the verdict on the ECI's SIR exercise?",
+    "options": ["Justice D.Y. Chandrachud", "Justice N.V. Ramana", "Chief Justice of India Surya Kant", "Justice U.U. Lalit"],
+    "correctAnswer": "Chief Justice of India Surya Kant"
   },
   {
     "id": 22,
-    "question": "Which of the following bodies represents the Council of States in the Indian Parliament, to which a Chief Minister might be offered a berth for a national role?",
-    "options": ["A) Lok Sabha", "B) Rajya Sabha", "C) Vidhan Sabha", "D) Zila Parishad"],
-    "correctAnswer": "B) Rajya Sabha"
+    "question": "What significant sustainable transportation innovation, relevant to India's national infrastructure, has been recently unveiled?",
+    "options": ["First electric bullet train", "First hydrogen-powered DEMU train", "First solar-powered cargo ship", "First nuclear-powered submarine"],
+    "correctAnswer": "First hydrogen-powered DEMU train"
   },
   {
     "id": 23,
-    "question": "The grant of 'parole' to a prisoner in India, as seen in recent news, falls under the purview of which aspect of the legal system?",
-    "options": ["A) Judicial review", "B) Executive discretion", "C) Legislative amendment", "D) Public referendum"],
-    "correctAnswer": "B) Executive discretion"
+    "question": "How many coaches are part of India's first hydrogen-powered DEMU train?",
+    "options": ["Eight", "Ten", "Twelve", "Sixteen"],
+    "correctAnswer": "Ten"
   },
   {
     "id": 24,
-    "question": "In the context of Indian politics, what does 'defection' by MLAs or MPs typically refer to?",
-    "options": ["A) Changing their constituency", "B) Joining a new political party after being elected on another party's ticket", "C) Retiring from politics", "D) Winning an election"],
-    "correctAnswer": "B) Joining a new political party after being elected on another party's ticket"
+    "question": "Which central ministry has given its approval for India's first hydrogen train?",
+    "options": ["Ministry of Finance", "Ministry of Road Transport and Highways", "Railway Ministry", "Ministry of Environment, Forest and Climate Change"],
+    "correctAnswer": "Railway Ministry"
   },
   {
     "id": 25,
-    "question": "What is the highest court in the Indian judicial system, whose decisions are final and binding on all other courts across states like Telangana and Andhra Pradesh?",
-    "options": ["A) High Court", "B) District Court", "C) Supreme Court of India", "D) Sessions Court"],
-    "correctAnswer": "C) Supreme Court of India"
+    "question": "What is the approximate cruising speed of India's first hydrogen-powered DEMU train?",
+    "options": ["50 kmph", "75 kmph", "100 kmph", "120 kmph"],
+    "correctAnswer": "75 kmph"
   }
 ]
