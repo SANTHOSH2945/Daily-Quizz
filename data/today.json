@@ -1,277 +1,152 @@
 [
   {
     "id": 1,
-    "question": "What did the Supreme Court of India recently rule regarding the prosecution of in-laws for cruelty under Section 498A IPC?",
-    "options": [
-      "Being mute spectators is sufficient ground for prosecution.",
-      "Being mute spectators is not a sufficient ground for prosecution.",
-      "All in-laws are automatically liable in cruelty cases.",
-      "Only the husband can be prosecuted under Section 498A IPC."
-    ],
-    "correctAnswer": "Being mute spectators is not a sufficient ground for prosecution."
+    "question": "What kind of government body is typically formed in India to examine significant national issues like demographic changes and recommend policy frameworks?",
+    "options": ["A) Judicial Commission", "B) Parliamentary Committee", "C) Expert Panel/Committee", "D) Cabinet Sub-committee"],
+    "correctAnswer": "C) Expert Panel/Committee"
   },
   {
     "id": 2,
-    "question": "According to a recent SC judgment, what specific role of in-laws might not be sufficient grounds for prosecution under Section 498A IPC?",
-    "options": [
-      "Actively instigating cruelty.",
-      "Conspiring against the daughter-in-law.",
-      "Being mute spectators without active participation.",
-      "Providing financial support to the accused husband."
-    ],
-    "correctAnswer": "Being mute spectators without active participation."
+    "question": "The formation of a government panel to examine demographic changes often indicates a concern regarding which of the following issues in Indian states?",
+    "options": ["A) Economic growth", "B) Social welfare", "C) Illegal immigration or population shifts", "D) Climate change impact"],
+    "correctAnswer": "C) Illegal immigration or population shifts"
   },
   {
     "id": 3,
-    "question": "Which Indian legal provision, concerning cruelty to women by husband or relatives, was the subject of a recent Supreme Court clarification regarding the liability of in-laws?",
-    "options": [
-      "Section 304B IPC (Dowry Death)",
-      "Section 377 IPC (Unnatural Offences)",
-      "Section 498A IPC (Husband or relative of husband of a woman subjecting her to cruelty)",
-      "Section 354 IPC (Assault or criminal force to woman with intent to outrage her modesty)"
-    ],
-    "correctAnswer": "Section 498A IPC (Husband or relative of husband of a woman subjecting her to cruelty)"
+    "question": "Recommendations from a government panel addressing demographic changes and illegal residents would primarily aim to achieve what for Indian states?",
+    "options": ["A) Boost tourism", "B) Enhance cultural exchange", "C) Strengthen national security and regulate residency", "D) Promote agricultural development"],
+    "correctAnswer": "C) Strengthen national security and regulate residency"
   },
   {
     "id": 4,
-    "question": "The Supreme Court clarified that passive presence without overt acts does not equate to what, in cases of cruelty against women under Section 498A IPC?",
-    "options": [
-      "Abetment of suicide.",
-      "Active participation in cruelty.",
-      "Marital discord.",
-      "Proof of financial exploitation."
-    ],
-    "correctAnswer": "Active participation in cruelty."
+    "question": "Which government ministry in India would most likely be involved in setting up a panel to study demographic changes and recommend policies regarding illegal residents?",
+    "options": ["A) Ministry of Finance", "B) Ministry of Home Affairs", "C) Ministry of External Affairs", "D) Ministry of Health and Family Welfare"],
+    "correctAnswer": "B) Ministry of Home Affairs"
   },
   {
     "id": 5,
-    "question": "This recent SC ruling aims to prevent what kind of overreach in prosecuting distant relatives under Section 498A IPC?",
-    "options": [
-      "Dismissing genuine cases of cruelty.",
-      "Automatically implicating all family members without specific evidence of active cruelty.",
-      "Imposing stricter bail conditions for immediate family.",
-      "Limiting the scope of investigation by police."
-    ],
-    "correctAnswer": "Automatically implicating all family members without specific evidence of active cruelty."
+    "question": "A comprehensive study on 'demographic changes' in India by a government panel would typically consider factors such as:",
+    "options": ["A) Industrial output and trade balance", "B) Population growth, migration patterns, and age distribution", "C) Forest cover and wildlife population", "D) Literacy rates and school enrollment only"],
+    "correctAnswer": "B) Population growth, migration patterns, and age distribution"
   },
   {
     "id": 6,
-    "question": "The Supreme Court recently dismissed a plea seeking urgent hearing for the implementation of a nationwide ban on what?",
-    "options": [
-      "Online gambling.",
-      "Cow slaughter.",
-      "Liquor sales.",
-      "Plastic bags."
-    ],
-    "correctAnswer": "Cow slaughter."
+    "question": "In India, survivors of acid attacks can seek recognition for what status to avail specific government benefits and support, as highlighted by a recent legal success?",
+    "options": ["A) Victim status", "B) Minority status", "C) Disability status", "D) Senior citizen status"],
+    "correctAnswer": "C) Disability status"
   },
   {
     "id": 7,
-    "question": "What was the Supreme Court's decision regarding a plea for urgent hearing on a pan-India cow slaughter ban?",
-    "options": [
-      "It accepted the plea and scheduled an immediate hearing.",
-      "It sought responses from all state governments.",
-      "It dismissed the plea for urgent hearing.",
-      "It referred the matter to the Law Commission."
-    ],
-    "correctAnswer": "It dismissed the plea for urgent hearing."
+    "question": "The right to a 'disability review' for an acid attack survivor in India ensures which of the following?",
+    "options": ["A) A re-assessment of their criminal case", "B) Re-evaluation of their physical and psychological impairment for disability certification", "C) Review of financial compensation amounts", "D) A chance to re-attend school"],
+    "correctAnswer": "B) Re-evaluation of their physical and psychological impairment for disability certification"
   },
   {
     "id": 8,
-    "question": "Which national issue related to animal welfare was recently brought before the Supreme Court, only to have its urgent hearing request dismissed?",
-    "options": [
-      "Protection of endangered species.",
-      "Regulation of animal testing.",
-      "A uniform nationwide ban on cow slaughter.",
-      "Mandatory animal vaccination programs."
-    ],
-    "correctAnswer": "A uniform nationwide ban on cow slaughter."
+    "question": "Which legislation in India primarily deals with the rights of persons with disabilities, including those who acquire disabilities due to incidents like acid attacks?",
+    "options": ["A) The Immoral Traffic (Prevention) Act", "B) The Protection of Children from Sexual Offences (POCSO) Act", "C) The Rights of Persons with Disabilities Act, 2016", "D) The Maintenance and Welfare of Parents and Senior Citizens Act"],
+    "correctAnswer": "C) The Rights of Persons with Disabilities Act, 2016"
   },
   {
     "id": 9,
-    "question": "This SC decision implies what about the immediate prospects of a uniform nationwide ban on cow slaughter?",
-    "options": [
-      "It is imminent.",
-      "It will be debated in the upcoming parliamentary session.",
-      "It is not a matter for urgent judicial intervention at this time.",
-      "States are mandated to implement it immediately."
-    ],
-    "correctAnswer": "It is not a matter for urgent judicial intervention at this time."
+    "question": "Winning the right to a disability review after an acid attack in India highlights the importance of what aspect of the Indian legal system?",
+    "options": ["A) Swift criminal justice", "B) Access to justice and rehabilitation for victims", "C) Strict punishment for offenders", "D) Prompt medical treatment"],
+    "correctAnswer": "B) Access to justice and rehabilitation for victims"
   },
   {
     "id": 10,
-    "question": "The legal status of cow slaughter in India is primarily determined by whom, given the recent SC decision to dismiss an urgent hearing for a nationwide ban?",
-    "options": [
-      "The Central Government through an executive order.",
-      "State Legislatures, as it falls under the State List.",
-      "The President of India by ordinance.",
-      "The Supreme Court through a definitive judgment."
-    ],
-    "correctAnswer": "State Legislatures, as it falls under the State List."
+    "question": "The Supreme Court's ruling that 'being mute spectators' is no ground to prosecute in-laws for cruelty likely pertains to which section of the Indian Penal Code?",
+    "options": ["A) Section 302 (Murder)", "B) Section 498A (Cruelty by husband or relatives of husband)", "C) Section 376 (Rape)", "D) Section 420 (Cheating)"],
+    "correctAnswer": "B) Section 498A (Cruelty by husband or relatives of husband)"
   },
   {
     "id": 11,
-    "question": "A recent study highlighted a one-time gene therapy capable of significantly reducing levels of which type of cholesterol?",
-    "options": [
-      "High-density lipoprotein (HDL) cholesterol.",
-      "Very-low-density lipoprotein (VLDL) cholesterol.",
-      "Low-density lipoprotein (LDL) cholesterol.",
-      "Total cholesterol without distinction."
-    ],
-    "correctAnswer": "Low-density lipoprotein (LDL) cholesterol."
+    "question": "This Supreme Court judgment clarifies the legal standard for proving what in cases of marital cruelty in India?",
+    "options": ["A) Intent and active involvement in cruelty", "B) Financial contribution", "C) Emotional support", "D) Property ownership"],
+    "correctAnswer": "A) Intent and active involvement in cruelty"
   },
   {
     "id": 12,
-    "question": "What percentage reduction in 'bad cholesterol' (LDL) was reported possible with a new one-time gene therapy in a recent study?",
-    "options": [
-      "Up to 25%",
-      "Up to 40%",
-      "Up to 62%",
-      "Up to 85%"
-    ],
-    "correctAnswer": "Up to 62%"
+    "question": "The term 'cruelty' under Indian law, especially concerning marital relations, typically includes which of the following?",
+    "options": ["A) Minor disagreements", "B) Any willful conduct that drives a woman to commit suicide or causes grave injury/danger to life/health", "C) Simply living together", "D) Occasional arguments without any severe impact"],
+    "correctAnswer": "B) Any willful conduct that drives a woman to commit suicide or causes grave injury/danger to life/health"
   },
   {
     "id": 13,
-    "question": "The advancement in gene therapy for cholesterol holds significant promise for addressing which major health concern in India and globally?",
-    "options": [
-      "Malaria.",
-      "Tuberculosis.",
-      "Cardiovascular diseases.",
-      "Diabetes mellitus."
-    ],
-    "correctAnswer": "Cardiovascular diseases."
+    "question": "What is the highest judicial body in India whose interpretations of law, like the one mentioned, are binding on all other courts in the country?",
+    "options": ["A) High Courts", "B) District Courts", "C) Supreme Court", "D) Lok Adalat"],
+    "correctAnswer": "C) Supreme Court"
   },
   {
     "id": 14,
-    "question": "This scientific breakthrough, capable of cutting bad cholesterol by up to 62%, is based on what core medical technology?",
-    "options": [
-      "Advanced surgical bypass.",
-      "Long-term oral medication.",
-      "One-time gene therapy.",
-      "Dietary interventions alone."
-    ],
-    "correctAnswer": "One-time gene therapy."
+    "question": "The Supreme Court 'binning a plea for urgent hearing' indicates what about the immediate status of the request?",
+    "options": ["A) It has been accepted for immediate consideration", "B) It has been rejected or deferred", "C) It has been referred to a lower court", "D) It has been passed into law"],
+    "correctAnswer": "B) It has been rejected or deferred"
   },
   {
     "id": 15,
-    "question": "Which medical condition, characterized by high levels of LDL cholesterol, might see new treatment avenues opened by the recent gene therapy study?",
-    "options": [
-      "Anemia.",
-      "Hyperlipidemia.",
-      "Hypothyroidism.",
-      "Asthma."
-    ],
-    "correctAnswer": "Hyperlipidemia."
+    "question": "In India, laws regarding cow slaughter are primarily enacted and enforced by which level of government?",
+    "options": ["A) Central Government", "B) State Governments", "C) Municipal Corporations", "D) Gram Panchayats"],
+    "correctAnswer": "B) State Governments"
   },
   {
     "id": 16,
-    "question": "The Supreme Court of India recently stayed a High Court order concerning which aspect of student eligibility for exams?",
-    "options": [
-      "Allowing students with less than 50% attendance to take exams.",
-      "Mandating online exams for all students.",
-      "Introducing new subjects without prior notice.",
-      "Increasing examination fees."
-    ],
-    "correctAnswer": "Allowing students with less than 50% attendance to take exams."
+    "question": "The issue of cow slaughter in India often involves a complex interplay of which aspects?",
+    "options": ["A) Only economic factors", "B) Religious sentiments, animal welfare, and economic concerns", "C) International trade agreements", "D) Educational reforms"],
+    "correctAnswer": "B) Religious sentiments, animal welfare, and economic concerns"
   },
   {
     "id": 17,
-    "question": "What was the core issue addressed by the Supreme Court when it stayed a High Court's decision regarding students and examinations?",
-    "options": [
-      "Student protests.",
-      "Allegations of exam paper leaks.",
-      "Truancy and attendance requirements.",
-      "The medium of instruction for exams."
-    ],
-    "correctAnswer": "Truancy and attendance requirements."
+    "question": "Gene therapy, as mentioned in a recent study showing promise for reducing cholesterol, targets what at a fundamental level to treat diseases?",
+    "options": ["A) Dietary habits", "B) Physical exercise", "C) Genetic material", "D) Surgical procedures"],
+    "correctAnswer": "C) Genetic material"
   },
   {
     "id": 18,
-    "question": "This SC ruling emphasizes the importance of what for students to be eligible for taking examinations in India?",
-    "options": [
-      "Paying all fees on time.",
-      "Maintaining required attendance.",
-      "Achieving high internal assessment scores.",
-      "Participating in extracurricular activities."
-    ],
-    "correctAnswer": "Maintaining required attendance."
+    "question": "Reducing 'bad cholesterol' (LDL cholesterol) through therapies like gene therapy is primarily aimed at preventing which major health condition prevalent in India?",
+    "options": ["A) Diabetes", "B) Cancer", "C) Cardiovascular diseases", "D) Respiratory illnesses"],
+    "correctAnswer": "C) Cardiovascular diseases"
   },
   {
     "id": 19,
-    "question": "What potential impact could the SC's decision to stay the HC order on truants have on educational institutions across India?",
-    "options": [
-      "It will lead to a decrease in student enrollment.",
-      "It reinforces the authority of educational institutions to enforce attendance rules.",
-      "It necessitates a complete overhaul of the examination system.",
-      "It encourages students to prioritize extracurriculars over attendance."
-    ],
-    "correctAnswer": "It reinforces the authority of educational institutions to enforce attendance rules."
+    "question": "What scientific field is most closely associated with the development and application of gene therapy?",
+    "options": ["A) Astrophysics", "B) Paleontology", "C) Biotechnology and Genetics", "D) Archaeology"],
+    "correctAnswer": "C) Biotechnology and Genetics"
   },
   {
     "id": 20,
-    "question": "The Supreme Court's intervention in the 'truants taking exams' case reiterates the judiciary's role in upholding what in the education system?",
-    "options": [
-      "Innovation and experimental learning.",
-      "Strict adherence to academic regulations and discipline.",
-      "Student activism and dissent.",
-      "Flexible learning schedules for all."
-    ],
-    "correctAnswer": "Strict adherence to academic regulations and discipline."
+    "question": "The potential for a '1-time' therapy like gene therapy could significantly impact public health in India by:",
+    "options": ["A) Reducing the need for all medical treatments", "B) Offering a long-term solution to chronic conditions with a single intervention", "C) Increasing the cost of all medications", "D) Promoting unhealthy lifestyles"],
+    "correctAnswer": "B) Offering a long-term solution to chronic conditions with a single intervention"
   },
   {
     "id": 21,
-    "question": "What are some of the key initiatives that recently gave the Quad grouping a boost, as per recent reports?",
-    "options": [
-      "Joint space exploration missions and cultural exchange programs.",
-      "New energy, critical minerals, and maritime initiatives.",
-      "Universal healthcare reforms and agricultural subsidies.",
-      "Bilateral trade agreements and tourism promotions."
-    ],
-    "correctAnswer": "New energy, critical minerals, and maritime initiatives."
+    "question": "What is the constitutional role of a Chief Minister in an Indian state, a position frequently in news for political developments?",
+    "options": ["A) Head of the State", "B) Head of the Government", "C) Head of the Judiciary", "D) Head of the Armed Forces"],
+    "correctAnswer": "B) Head of the Government"
   },
   {
     "id": 22,
-    "question": "Besides condemning attacks on commercial ships, the Quad is bolstering cooperation in which critical sectors?",
-    "options": [
-      "Tourism, fashion, and culinary arts.",
-      "Energy, critical minerals, and maritime domains.",
-      "Textile manufacturing, handicrafts, and folklore.",
-      "Sports, entertainment, and digital gaming."
-    ],
-    "correctAnswer": "Energy, critical minerals, and maritime domains."
+    "question": "Which of the following bodies represents the Council of States in the Indian Parliament, to which a Chief Minister might be offered a berth for a national role?",
+    "options": ["A) Lok Sabha", "B) Rajya Sabha", "C) Vidhan Sabha", "D) Zila Parishad"],
+    "correctAnswer": "B) Rajya Sabha"
   },
   {
     "id": 23,
-    "question": "India is a member of the Quad. Which of the following is NOT explicitly mentioned as a new focus area for the Quad in recent news?",
-    "options": [
-      "Energy initiatives.",
-      "Critical minerals.",
-      "Maritime initiatives.",
-      "Space tourism development."
-    ],
-    "correctAnswer": "Space tourism development."
+    "question": "The grant of 'parole' to a prisoner in India, as seen in recent news, falls under the purview of which aspect of the legal system?",
+    "options": ["A) Judicial review", "B) Executive discretion", "C) Legislative amendment", "D) Public referendum"],
+    "correctAnswer": "B) Executive discretion"
   },
   {
     "id": 24,
-    "question": "The Quad's maritime initiatives, aimed at enhancing security and cooperation, are particularly relevant for which group of Indian states that have significant coastal areas?",
-    "options": [
-      "Andhra Pradesh, Odisha, West Bengal.",
-      "Punjab, Rajasthan, Haryana.",
-      "Madhya Pradesh, Chhattisgarh, Jharkhand.",
-      "Uttar Pradesh, Bihar, Uttarakhand."
-    ],
-    "correctAnswer": "Andhra Pradesh, Odisha, West Bengal."
+    "question": "In the context of Indian politics, what does 'defection' by MLAs or MPs typically refer to?",
+    "options": ["A) Changing their constituency", "B) Joining a new political party after being elected on another party's ticket", "C) Retiring from politics", "D) Winning an election"],
+    "correctAnswer": "B) Joining a new political party after being elected on another party's ticket"
   },
   {
     "id": 25,
-    "question": "India recently rejected references to Jammu and Kashmir in a joint statement issued by which two countries?",
-    "options": [
-      "USA and UK.",
-      "Russia and China.",
-      "China and Pakistan.",
-      "Japan and Australia."
-    ],
-    "correctAnswer": "China and Pakistan."
+    "question": "What is the highest court in the Indian judicial system, whose decisions are final and binding on all other courts across states like Telangana and Andhra Pradesh?",
+    "options": ["A) High Court", "B) District Court", "C) Supreme Court of India", "D) Sessions Court"],
+    "correctAnswer": "C) Supreme Court of India"
   }
 ]
