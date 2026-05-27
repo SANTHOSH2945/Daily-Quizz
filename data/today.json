@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Which national body has agreed to examine the CBSE's three-language formula and sought a comprehensive response from the Centre?",
-    "options": ["Lok Sabha", "Election Commission", "Supreme Court", "NITI Aayog"],
-    "correctAnswer": "Supreme Court"
+    "question": "Ten Indian sailors were recently released after being held in which country?",
+    "options": ["Pakistan", "Somalia", "Iran", "Yemen"],
+    "correctAnswer": "Iran"
   },
   {
     "id": 2,
-    "question": "Former Tamil Nadu BJP chief K Annamalai publicly opposed the CBSE's revised three-language mandate primarily due to concerns about its what?",
-    "options": ["Financial implications", "Abrupt implementation", "Lack of teacher training", "Limited subject choices"],
-    "correctAnswer": "Abrupt implementation"
+    "question": "The Indian sailors released from detention were onboard which oil tanker?",
+    "options": ["MV Golden Star", "MV Harbour Phoenix", "MV Ocean Queen", "MV Sea Breeze"],
+    "correctAnswer": "MV Harbour Phoenix"
   },
   {
     "id": 3,
-    "question": "The controversy over the CBSE's three-language formula in Southern states like Tamil Nadu often revolves around issues of:",
-    "options": ["Economic development", "Linguistic autonomy", "Agricultural policy", "Infrastructure projects"],
-    "correctAnswer": "Linguistic autonomy"
+    "question": "What was the alleged reason for the detention of Indian sailors in Iran, as per the news?",
+    "options": ["Illegal fishing", "Piracy", "Diesel smuggling", "Visa violations"],
+    "correctAnswer": "Diesel smuggling"
   },
   {
     "id": 4,
-    "question": "In which Southern Indian state is the Chief Minister reportedly set to resign, with the Deputy Chief Minister likely to take over?",
-    "options": ["Tamil Nadu", "Kerala", "Karnataka", "Telangana"],
-    "correctAnswer": "Karnataka"
+    "question": "Which Indian entity coordinated efforts for the release of the ten Indian sailors from Iran?",
+    "options": ["Indian Coast Guard", "Ministry of External Affairs", "Indian Navy", "Directorate General of Shipping"],
+    "correctAnswer": "Ministry of External Affairs"
   },
   {
     "id": 5,
-    "question": "Who is the Deputy Chief Minister of Karnataka, expected to assume the role of Chief Minister?",
-    "options": ["Siddaramaiah", "Ashok K Pattan", "D.K. Shivakumar", "S.P. Velumani"],
-    "correctAnswer": "D.K. Shivakumar"
+    "question": "The Indian Navy recently thwarted a suspected piracy attack on a merchant vessel in which region?",
+    "options": ["Bay of Bengal", "Arabian Sea", "Western Indian Ocean", "Gulf of Aden"],
+    "correctAnswer": "Western Indian Ocean"
   },
   {
     "id": 6,
-    "question": "What significant development recently occurred within the AIADMK, a major political party in a Southern Indian state?",
-    "options": ["Merger with another party", "Election of a new General Secretary", "Rival factions withdrawing petitions against each other", "Formation of a new alliance"],
-    "correctAnswer": "Rival factions withdrawing petitions against each other"
+    "question": "What type of vessel was targeted in the suspected piracy attack thwarted by the Indian Navy?",
+    "options": ["Fishing trawler", "Oil tanker", "Naval frigate", "Merchant vessel"],
+    "correctAnswer": "Merchant vessel"
   },
   {
     "id": 7,
-    "question": "Who currently serves as the General Secretary of the AIADMK, according to recent statements?",
-    "options": ["O. Panneerselvam", "T.T.V. Dhinakaran", "Edappadi K. Palaniswami", "S.P. Velumani"],
-    "correctAnswer": "Edappadi K. Palaniswami"
+    "question": "Which Indian armed force is credited with thwarting a recent suspected piracy attack?",
+    "options": ["Indian Army", "Indian Air Force", "Indian Navy", "Indian Coast Guard"],
+    "correctAnswer": "Indian Navy"
   },
   {
     "id": 8,
-    "question": "The meeting between Tamil Nadu CM Vijay and PM Modi is an example of what type of interaction in India's federal structure?",
-    "options": ["Judicial review", "Center-state consultation", "Military cooperation", "Inter-state dispute resolution"],
-    "correctAnswer": "Center-state consultation"
+    "question": "A recent High Court judgment discussed the powers of which Indian agency under the PMLA?",
+    "options": ["Central Bureau of Investigation (CBI)", "National Investigation Agency (NIA)", "Enforcement Directorate (ED)", "Income Tax Department"],
+    "correctAnswer": "Enforcement Directorate (ED)"
   },
   {
     "id": 9,
-    "question": "What term did AIADMK leader S.P. Velumani use to describe the internal situation within the party after rival factions withdrew pleas?",
-    "options": ["Major split", "Leadership crisis", "No split, only differences of opinion", "Complete unity"],
-    "correctAnswer": "No split, only differences of opinion"
+    "question": "PMLA, mentioned in relation to a High Court judgment on ED powers, stands for what?",
+    "options": ["Prevention of Money Laundering Act", "Protection of Monetary Liabilities Act", "Public Management and Legal Act", "Penalties for Misconduct and Legal Actions"],
+    "correctAnswer": "Prevention of Money Laundering Act"
   },
   {
     "id": 10,
-    "question": "K Annamalai's public opposition to the CBSE language mandate is seen as a strategy to assert what in Tamil Nadu?",
-    "options": ["National party dominance", "Regional cultural concerns", "Industrial growth", "Tourism promotion"],
-    "correctAnswer": "Regional cultural concerns"
+    "question": "The Congress party alleged a scam in a contract related to which major Indian examination board?",
+    "options": ["UPSC", "SSC", "CBSE", "ICSE"],
+    "correctAnswer": "CBSE"
   },
   {
     "id": 11,
-    "question": "The Supreme Court seeking a comprehensive response from the Centre regarding the CBSE three-language formula signifies what?",
-    "options": ["Immediate approval of the policy", "Disapproval of the policy", "Judicial scrutiny of policy implementation", "Financial audit of CBSE"],
-    "correctAnswer": "Judicial scrutiny of policy implementation"
+    "question": "The alleged scam by the Congress party concerned a contract for the evaluation of which specific exam?",
+    "options": ["CBSE Class 10 Board Exam", "UPSC Civil Services Prelims", "CBSE Class 12 Board Exam", "NEET-UG"],
+    "correctAnswer": "CBSE Class 12 Board Exam"
   },
   {
     "id": 12,
-    "question": "Which Congress MLA indicated the impending resignation of Karnataka CM Siddaramaiah?",
-    "options": ["D.K. Shivakumar", "Ashok K Pattan", "S.P. Velumani", "K. Annamalai"],
-    "correctAnswer": "Ashok K Pattan"
+    "question": "Which company was reportedly awarded the digital evaluation contract for CBSE, leading to allegations of irregularity?",
+    "options": ["EduTech Solutions", "Coempt Edutech", "Digital Minds", "Global Systems Inc."],
+    "correctAnswer": "Coempt Edutech"
   },
   {
     "id": 13,
-    "question": "The anticipated leadership change in Karnataka, with the Deputy CM taking over, follows directives from which authority?",
-    "options": ["State Cabinet", "Governor", "Party's high command", "Election Commission"],
-    "correctAnswer": "Party's high command"
+    "question": "What was the nature of the allegations made by the Congress party against the CBSE contract?",
+    "options": ["Data breach", "Paper leak", "Irregularities in tendering", "Delay in results"],
+    "correctAnswer": "Irregularities in tendering"
   },
   {
     "id": 14,
-    "question": "The internal turbulence in AIADMK post-election led to discussions on organizational reforms and what other key aspect?",
-    "options": ["International relations", "Leadership structure", "Economic reforms", "Environmental policies"],
-    "correctAnswer": "Leadership structure"
+    "question": "The CBSE recently refuted claims regarding its contract, stating that all which rules were followed?",
+    "options": ["State Financial Rules", "International Procurement Rules", "General Financial Rules", "Digital Procurement Guidelines"],
+    "correctAnswer": "General Financial Rules"
   },
   {
     "id": 15,
-    "question": "Why did K Annamalai urge the withdrawal of the CBSE's revised three-language mandate?",
-    "options": ["It promoted only Hindi", "It was financially unviable", "It was implemented abruptly", "It favored private schools"],
-    "correctAnswer": "It was implemented abruptly"
+    "question": "Which Indian judicial body's verdict on 'SIR' was mentioned as raising more questions than answers by the Congress?",
+    "options": ["High Court", "District Court", "Supreme Court", "National Green Tribunal"],
+    "correctAnswer": "Supreme Court"
   },
   {
     "id": 16,
-    "question": "The CBSE's three-language formula usually mandates study of English, Hindi, and a __________.",
-    "options": ["Foreign language", "Classical language", "Regional language", "Computer language"],
-    "correctAnswer": "Regional language"
+    "question": "For the first time, UPSC released the provisional answer key for which exam in 2026?",
+    "options": ["SSC CGL", "NEET-UG", "Civil Services Preliminary Exam", "IIT JEE Advanced"],
+    "correctAnswer": "Civil Services Preliminary Exam"
   },
   {
     "id": 17,
-    "question": "When a state leader like the Tamil Nadu CM meets central figures like the PM, what is a primary objective from the state's perspective?",
-    "options": ["Discussing international trade", "Securing central funds and addressing state-specific issues", "Negotiating military treaties", "Finalizing national election strategies"],
-    "correctAnswer": "Securing central funds and addressing state-specific issues"
+    "question": "Approximately how many candidates are able to check their scores with the provisional answer key for Civil Services Prelims 2026?",
+    "options": ["Over 3 lakh", "Nearly 5.49 lakh", "About 7.2 lakh", "Less than 1 lakh"],
+    "correctAnswer": "Nearly 5.49 lakh"
   },
   {
     "id": 18,
-    "question": "The Supreme Court's agreement to examine the CBSE three-language formula comes after several _________ were filed.",
-    "options": ["Ordinances", "Petitions", "Bills", "White papers"],
-    "correctAnswer": "Petitions"
+    "question": "Until what date can candidates challenge discrepancies in the UPSC Civil Services Prelims 2026 answer key?",
+    "options": ["April 30th", "May 15th", "May 31st", "June 15th"],
+    "correctAnswer": "May 31st"
   },
   {
     "id": 19,
-    "question": "The celebration by D.K. Shivakumar's supporters across Karnataka reflects what sentiment regarding the anticipated leadership change?",
-    "options": ["Disappointment", "Indifference", "Approval and anticipation", "Protest"],
-    "correctAnswer": "Approval and anticipation"
+    "question": "Which major national entrance exam was recently in news regarding a paper leak and a student's suicide?",
+    "options": ["JEE Main", "CLAT", "NEET", "CAT"],
+    "correctAnswer": "NEET"
   },
   {
     "id": 20,
-    "question": "The news about AIADMK's internal reconciliation suggests a potential stabilization within the party after what event?",
-    "options": ["A major natural disaster", "Post-election internal turbulence", "A change in national government", "An international summit"],
-    "correctAnswer": "Post-election internal turbulence"
+    "question": "The issue of a paper leak was associated with which competitive examination, prompting political attention?",
+    "options": ["UPSC Civil Services", "NEET-UG", "SSC CHSL", "IBPS PO"],
+    "correctAnswer": "NEET-UG"
   },
   {
     "id": 21,
-    "question": "What broad issue in Indian federalism is often highlighted by state leaders pushing back against central education policies?",
-    "options": ["Centralization of power versus state autonomy", "Industrial regulations", "Foreign policy decisions", "Agricultural subsidies"],
-    "correctAnswer": "Centralization of power versus state autonomy"
+    "question": "Which political leader met the family of a NEET aspirant who died by suicide following a paper leak incident?",
+    "options": ["Narendra Modi", "Rahul Gandhi", "Amit Shah", "Mallikarjun Kharge"],
+    "correctAnswer": "Rahul Gandhi"
   },
   {
     "id": 22,
-    "question": "The debates around the three-language formula are often sensitive in non-Hindi speaking states due to concerns about the promotion of which language?",
-    "options": ["English", "Sanskrit", "Hindi", "Regional languages"],
-    "correctAnswer": "Hindi"
+    "question": "What transparency measure was recently adopted by the UPSC for its Civil Services Preliminary exam?",
+    "options": ["Online re-evaluation", "Releasing provisional answer keys", "Live exam broadcast", "Immediate result declaration"],
+    "correctAnswer": "Releasing provisional answer keys"
   },
   {
     "id": 23,
-    "question": "The internal dynamics of political parties in Southern states, as seen in Karnataka and Tamil Nadu, often involve the influence of the party's _________.",
-    "options": ["Youth wing", "High command", "International advisors", "Legal department"],
-    "correctAnswer": "High command"
+    "question": "The Indian Navy's recent action in the Western Indian Ocean aimed to counter what threat to merchant shipping?",
+    "options": ["Smuggling", "Illegal fishing", "Piracy", "Drug trafficking"],
+    "correctAnswer": "Piracy"
   },
   {
     "id": 24,
-    "question": "What is a common role of the Supreme Court of India when examining national policies like the CBSE's language formula?",
-    "options": ["To draft new policies", "To enforce executive orders", "To ensure constitutional validity and fairness", "To provide financial oversight"],
-    "correctAnswer": "To ensure constitutional validity and fairness"
+    "question": "Diplomatic efforts by Indian authorities secured the release of Indian sailors from an oil tanker detained near which port?",
+    "options": ["Chabahar Port", "Bandar Abbas Port", "Jask Port", "Bushehr Port"],
+    "correctAnswer": "Jask Port"
   },
   {
     "id": 25,
-    "question": "In the context of the news, the term 'calibrated political strategy' for a regional leader like Annamalai implies what about his actions?",
-    "options": ["Random and unplanned", "Impulsive and emotional", "Thoughtful and calculated", "Controversial and divisive"],
-    "correctAnswer": "Thoughtful and calculated"
+    "question": "The Central Board of Secondary Education (CBSE) refuted claims about its contract for which purpose?",
+    "options": ["New curriculum development", "Teacher training", "Digital evaluation of answer sheets", "Online exam registration"],
+    "correctAnswer": "Digital evaluation of answer sheets"
   }
 ]
