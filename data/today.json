@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Which national entrance examination is currently under investigation by the CBI for a paper leak, directly impacting students from states like Telangana and Andhra Pradesh?",
-    "options": ["JEE Main", "UGC NET", "NEET", "CLAT"],
-    "correctAnswer": "NEET"
+    "question": "Which national body has agreed to examine the CBSE's three-language formula and sought a comprehensive response from the Centre?",
+    "options": ["Lok Sabha", "Election Commission", "Supreme Court", "NITI Aayog"],
+    "correctAnswer": "Supreme Court"
   },
   {
     "id": 2,
-    "question": "What is the name of the central agency investigating the recent NEET paper leak?",
-    "options": ["NIA", "ED", "CBI", "IB"],
-    "correctAnswer": "CBI"
+    "question": "Former Tamil Nadu BJP chief K Annamalai publicly opposed the CBSE's revised three-language mandate primarily due to concerns about its what?",
+    "options": ["Financial implications", "Abrupt implementation", "Lack of teacher training", "Limited subject choices"],
+    "correctAnswer": "Abrupt implementation"
   },
   {
     "id": 3,
-    "question": "As per recent reports, how many accused have been arrested by the CBI in connection with the NEET paper leak?",
-    "options": ["Two", "Five", "Ten", "Thirteen"],
-    "correctAnswer": "Two"
+    "question": "The controversy over the CBSE's three-language formula in Southern states like Tamil Nadu often revolves around issues of:",
+    "options": ["Economic development", "Linguistic autonomy", "Agricultural policy", "Infrastructure projects"],
+    "correctAnswer": "Linguistic autonomy"
   },
   {
     "id": 4,
-    "question": "What is the total number of individuals detained so far in the NEET paper leak investigation?",
-    "options": ["Eight", "Ten", "Thirteen", "Fifteen"],
-    "correctAnswer": "Thirteen"
+    "question": "In which Southern Indian state is the Chief Minister reportedly set to resign, with the Deputy Chief Minister likely to take over?",
+    "options": ["Tamil Nadu", "Kerala", "Karnataka", "Telangana"],
+    "correctAnswer": "Karnataka"
   },
   {
     "id": 5,
-    "question": "The NEET examination is primarily conducted for admissions into which type of courses?",
-    "options": ["Engineering", "Law", "Medical and Dental", "Management"],
-    "correctAnswer": "Medical and Dental"
+    "question": "Who is the Deputy Chief Minister of Karnataka, expected to assume the role of Chief Minister?",
+    "options": ["Siddaramaiah", "Ashok K Pattan", "D.K. Shivakumar", "S.P. Velumani"],
+    "correctAnswer": "D.K. Shivakumar"
   },
   {
     "id": 6,
-    "question": "The ongoing investigation into the NEET paper leak primarily addresses concerns about the integrity of which national academic process?",
-    "options": ["Admission to research programs", "Competitive entrance examinations", "University semester exams", "Vocational training assessments"],
-    "correctAnswer": "Competitive entrance examinations"
+    "question": "What significant development recently occurred within the AIADMK, a major political party in a Southern Indian state?",
+    "options": ["Merger with another party", "Election of a new General Secretary", "Rival factions withdrawing petitions against each other", "Formation of a new alliance"],
+    "correctAnswer": "Rival factions withdrawing petitions against each other"
   },
   {
     "id": 7,
-    "question": "The CBI's involvement in the NEET paper leak investigation signifies its role in handling which level of crimes in India?",
-    "options": ["Local civic violations", "Minor property disputes", "National-level crimes and corruption", "Petty theft cases"],
-    "correctAnswer": "National-level crimes and corruption"
+    "question": "Who currently serves as the General Secretary of the AIADMK, according to recent statements?",
+    "options": ["O. Panneerselvam", "T.T.V. Dhinakaran", "Edappadi K. Palaniswami", "S.P. Velumani"],
+    "correctAnswer": "Edappadi K. Palaniswami"
   },
   {
     "id": 8,
-    "question": "Who recently issued an advisory urging citizens across India, including those in Telangana and Andhra Pradesh, to take precautions amid an escalating heatwave?",
-    "options": ["Minister of Health", "Prime Minister Narendra Modi", "President of India", "Chief Justice of India"],
-    "correctAnswer": "Prime Minister Narendra Modi"
+    "question": "The meeting between Tamil Nadu CM Vijay and PM Modi is an example of what type of interaction in India's federal structure?",
+    "options": ["Judicial review", "Center-state consultation", "Military cooperation", "Inter-state dispute resolution"],
+    "correctAnswer": "Center-state consultation"
   },
   {
     "id": 9,
-    "question": "What is the primary advice given by PM Modi to combat the heatwave conditions?",
-    "options": ["Stay indoors completely", "Use air conditioning constantly", "Stay thoroughly hydrated", "Avoid all outdoor activities"],
-    "correctAnswer": "Stay thoroughly hydrated"
+    "question": "What term did AIADMK leader S.P. Velumani use to describe the internal situation within the party after rival factions withdrew pleas?",
+    "options": ["Major split", "Leadership crisis", "No split, only differences of opinion", "Complete unity"],
+    "correctAnswer": "No split, only differences of opinion"
   },
   {
     "id": 10,
-    "question": "Besides humans, which other living beings did PM Modi urge citizens to remember and care for during the heatwave?",
-    "options": ["Trees and plants", "Pets only", "Animals and birds", "Farm animals only"],
-    "correctAnswer": "Animals and birds"
+    "question": "K Annamalai's public opposition to the CBSE language mandate is seen as a strategy to assert what in Tamil Nadu?",
+    "options": ["National party dominance", "Regional cultural concerns", "Industrial growth", "Tourism promotion"],
+    "correctAnswer": "Regional cultural concerns"
   },
   {
     "id": 11,
-    "question": "What are some signs of heat stress that individuals should be alert to, as mentioned in the advisory?",
-    "options": ["Increased appetite and energy", "Dizziness and fatigue", "Sudden chills and shivering", "Enhanced concentration"],
-    "correctAnswer": "Dizziness and fatigue"
+    "question": "The Supreme Court seeking a comprehensive response from the Centre regarding the CBSE three-language formula signifies what?",
+    "options": ["Immediate approval of the policy", "Disapproval of the policy", "Judicial scrutiny of policy implementation", "Financial audit of CBSE"],
+    "correctAnswer": "Judicial scrutiny of policy implementation"
   },
   {
     "id": 12,
-    "question": "The Prime Minister's heatwave advisory is particularly relevant for states like Andhra Pradesh and Telangana due to which common climatic characteristic?",
-    "options": ["Their coastal location", "Their mountainous terrain", "Their susceptibility to severe heatwave conditions", "Their high industrial output"],
-    "correctAnswer": "Their susceptibility to severe heatwave conditions"
+    "question": "Which Congress MLA indicated the impending resignation of Karnataka CM Siddaramaiah?",
+    "options": ["D.K. Shivakumar", "Ashok K Pattan", "S.P. Velumani", "K. Annamalai"],
+    "correctAnswer": "Ashok K Pattan"
   },
   {
     "id": 13,
-    "question": "The advisory emphasizes keeping water on hand at all times for what crucial purpose during a heatwave?",
-    "options": ["For cooking", "For washing clothes", "For staying hydrated", "For gardening"],
-    "correctAnswer": "For staying hydrated"
+    "question": "The anticipated leadership change in Karnataka, with the Deputy CM taking over, follows directives from which authority?",
+    "options": ["State Cabinet", "Governor", "Party's high command", "Election Commission"],
+    "correctAnswer": "Party's high command"
   },
   {
     "id": 14,
-    "question": "Which governmental body's 'Special Intensive Revision' (SIR) exercise, impacting electoral rolls across India, was recently upheld by the Supreme Court?",
-    "options": ["Union Public Service Commission", "NITI Aayog", "Election Commission of India", "Comptroller and Auditor General"],
-    "correctAnswer": "Election Commission of India"
+    "question": "The internal turbulence in AIADMK post-election led to discussions on organizational reforms and what other key aspect?",
+    "options": ["International relations", "Leadership structure", "Economic reforms", "Environmental policies"],
+    "correctAnswer": "Leadership structure"
   },
   {
     "id": 15,
-    "question": "What does the acronym 'SIR' refer to in the context of the Election Commission of India's activities upheld by the Supreme Court?",
-    "options": ["State Intelligence Report", "Special Investigation Review", "Special Intensive Revision", "Systematic Information Retrieval"],
-    "correctAnswer": "Special Intensive Revision"
+    "question": "Why did K Annamalai urge the withdrawal of the CBSE's revised three-language mandate?",
+    "options": ["It promoted only Hindi", "It was financially unviable", "It was implemented abruptly", "It favored private schools"],
+    "correctAnswer": "It was implemented abruptly"
   },
   {
     "id": 16,
-    "question": "Which court delivered the verdict affirming the legality of the ECI's roll revision exercise?",
-    "options": ["High Court of Delhi", "Supreme Court of India", "Patna High Court", "Kolkata High Court"],
-    "correctAnswer": "Supreme Court of India"
+    "question": "The CBSE's three-language formula usually mandates study of English, Hindi, and a __________.",
+    "options": ["Foreign language", "Classical language", "Regional language", "Computer language"],
+    "correctAnswer": "Regional language"
   },
   {
     "id": 17,
-    "question": "One of the key questions considered by the Supreme Court was whether the ECI possessed the authority to conduct which specific exercise?",
-    "options": ["Financial Audits", "Electoral Roll Revision", "Budget Allocations", "Policy Formulation"],
-    "correctAnswer": "Electoral Roll Revision"
+    "question": "When a state leader like the Tamil Nadu CM meets central figures like the PM, what is a primary objective from the state's perspective?",
+    "options": ["Discussing international trade", "Securing central funds and addressing state-specific issues", "Negotiating military treaties", "Finalizing national election strategies"],
+    "correctAnswer": "Securing central funds and addressing state-specific issues"
   },
   {
     "id": 18,
-    "question": "Petitions challenging the ECI's SIR exercise argued it went beyond powers granted under Article 326 of which fundamental document?",
-    "options": ["The Indian Penal Code", "The Constitution of India", "The Company's Act", "The Environmental Protection Act"],
-    "correctAnswer": "The Constitution of India"
+    "question": "The Supreme Court's agreement to examine the CBSE three-language formula comes after several _________ were filed.",
+    "options": ["Ordinances", "Petitions", "Bills", "White papers"],
+    "correctAnswer": "Petitions"
   },
   {
     "id": 19,
-    "question": "The Supreme Court's ruling on the ECI's SIR exercise impacts electoral processes in which type of administrative units across India, including states like Andhra Pradesh and Telangana?",
-    "options": ["Local Municipalities only", "Union Territories only", "All states and union territories", "Specific northern states only"],
-    "correctAnswer": "All states and union territories"
+    "question": "The celebration by D.K. Shivakumar's supporters across Karnataka reflects what sentiment regarding the anticipated leadership change?",
+    "options": ["Disappointment", "Indifference", "Approval and anticipation", "Protest"],
+    "correctAnswer": "Approval and anticipation"
   },
   {
     "id": 20,
-    "question": "Which central legislation, alongside the Constitution, was cited in the challenges to the ECI's SIR exercise?",
-    "options": ["The Factories Act, 1948", "The Wildlife Protection Act, 1972", "The Representation of the People Act, 1950", "The Right to Information Act, 2005"],
-    "correctAnswer": "The Representation of the People Act, 1950"
+    "question": "The news about AIADMK's internal reconciliation suggests a potential stabilization within the party after what event?",
+    "options": ["A major natural disaster", "Post-election internal turbulence", "A change in national government", "An international summit"],
+    "correctAnswer": "Post-election internal turbulence"
   },
   {
     "id": 21,
-    "question": "Who was one of the justices leading the Supreme Court Bench that pronounced the verdict on the ECI's SIR exercise?",
-    "options": ["Justice D.Y. Chandrachud", "Justice N.V. Ramana", "Chief Justice of India Surya Kant", "Justice U.U. Lalit"],
-    "correctAnswer": "Chief Justice of India Surya Kant"
+    "question": "What broad issue in Indian federalism is often highlighted by state leaders pushing back against central education policies?",
+    "options": ["Centralization of power versus state autonomy", "Industrial regulations", "Foreign policy decisions", "Agricultural subsidies"],
+    "correctAnswer": "Centralization of power versus state autonomy"
   },
   {
     "id": 22,
-    "question": "What significant sustainable transportation innovation, relevant to India's national infrastructure, has been recently unveiled?",
-    "options": ["First electric bullet train", "First hydrogen-powered DEMU train", "First solar-powered cargo ship", "First nuclear-powered submarine"],
-    "correctAnswer": "First hydrogen-powered DEMU train"
+    "question": "The debates around the three-language formula are often sensitive in non-Hindi speaking states due to concerns about the promotion of which language?",
+    "options": ["English", "Sanskrit", "Hindi", "Regional languages"],
+    "correctAnswer": "Hindi"
   },
   {
     "id": 23,
-    "question": "How many coaches are part of India's first hydrogen-powered DEMU train?",
-    "options": ["Eight", "Ten", "Twelve", "Sixteen"],
-    "correctAnswer": "Ten"
+    "question": "The internal dynamics of political parties in Southern states, as seen in Karnataka and Tamil Nadu, often involve the influence of the party's _________.",
+    "options": ["Youth wing", "High command", "International advisors", "Legal department"],
+    "correctAnswer": "High command"
   },
   {
     "id": 24,
-    "question": "Which central ministry has given its approval for India's first hydrogen train?",
-    "options": ["Ministry of Finance", "Ministry of Road Transport and Highways", "Railway Ministry", "Ministry of Environment, Forest and Climate Change"],
-    "correctAnswer": "Railway Ministry"
+    "question": "What is a common role of the Supreme Court of India when examining national policies like the CBSE's language formula?",
+    "options": ["To draft new policies", "To enforce executive orders", "To ensure constitutional validity and fairness", "To provide financial oversight"],
+    "correctAnswer": "To ensure constitutional validity and fairness"
   },
   {
     "id": 25,
-    "question": "What is the approximate cruising speed of India's first hydrogen-powered DEMU train?",
-    "options": ["50 kmph", "75 kmph", "100 kmph", "120 kmph"],
-    "correctAnswer": "75 kmph"
+    "question": "In the context of the news, the term 'calibrated political strategy' for a regional leader like Annamalai implies what about his actions?",
+    "options": ["Random and unplanned", "Impulsive and emotional", "Thoughtful and calculated", "Controversial and divisive"],
+    "correctAnswer": "Thoughtful and calculated"
   }
 ]
