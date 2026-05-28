@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Ten Indian sailors were recently released after being held in which country?",
-    "options": ["Pakistan", "Somalia", "Iran", "Yemen"],
-    "correctAnswer": "Iran"
+    "question": "What national issue did PM Modi recently address, advising a 'whole-nation approach' and ministerial action?",
+    "options": ["Floods", "Heatwaves", "Earthquakes", "Droughts"],
+    "correctAnswer": "Heatwaves"
   },
   {
     "id": 2,
-    "question": "The Indian sailors released from detention were onboard which oil tanker?",
-    "options": ["MV Golden Star", "MV Harbour Phoenix", "MV Ocean Queen", "MV Sea Breeze"],
-    "correctAnswer": "MV Harbour Phoenix"
+    "question": "Which natural phenomenon did PM Modi provide tips for, emphasizing care and helping others?",
+    "options": ["Monsoon preparedness", "Cold waves", "Heatwaves", "Cyclones"],
+    "correctAnswer": "Heatwaves"
   },
   {
     "id": 3,
-    "question": "What was the alleged reason for the detention of Indian sailors in Iran, as per the news?",
-    "options": ["Illegal fishing", "Piracy", "Diesel smuggling", "Visa violations"],
-    "correctAnswer": "Diesel smuggling"
+    "question": "What approach did PM Modi advocate for combating heatwaves across the country?",
+    "options": ["State-specific measures", "Individual efforts", "Whole-nation approach", "International collaboration"],
+    "correctAnswer": "Whole-nation approach"
   },
   {
     "id": 4,
-    "question": "Which Indian entity coordinated efforts for the release of the ten Indian sailors from Iran?",
-    "options": ["Indian Coast Guard", "Ministry of External Affairs", "Indian Navy", "Directorate General of Shipping"],
-    "correctAnswer": "Ministry of External Affairs"
+    "question": "What sustainable practice did PM Modi recently advise his ministers to adopt?",
+    "options": ["Public transport", "Cycling", "Carpooling", "Electric vehicles"],
+    "correctAnswer": "Carpooling"
   },
   {
     "id": 5,
-    "question": "The Indian Navy recently thwarted a suspected piracy attack on a merchant vessel in which region?",
-    "options": ["Bay of Bengal", "Arabian Sea", "Western Indian Ocean", "Gulf of Aden"],
-    "correctAnswer": "Western Indian Ocean"
+    "question": "What was the implicit message behind PM Modi's advice to ministers regarding carpooling?",
+    "options": ["Reduce traffic", "Practice what you preach", "Encourage personal savings", "Improve punctuality"],
+    "correctAnswer": "Practice what you preach"
   },
   {
     "id": 6,
-    "question": "What type of vessel was targeted in the suspected piracy attack thwarted by the Indian Navy?",
-    "options": ["Fishing trawler", "Oil tanker", "Naval frigate", "Merchant vessel"],
-    "correctAnswer": "Merchant vessel"
+    "question": "According to recent reports, what is the trend regarding the number of girls at birth in India?",
+    "options": ["Steadily decreasing", "Showing no change", "More girls, but still too few", "Significantly increased"],
+    "correctAnswer": "More girls, but still too few"
   },
   {
     "id": 7,
-    "question": "Which Indian armed force is credited with thwarting a recent suspected piracy attack?",
-    "options": ["Indian Army", "Indian Air Force", "Indian Navy", "Indian Coast Guard"],
-    "correctAnswer": "Indian Navy"
+    "question": "Which demographic indicator, though improving, is still a concern in India regarding gender balance?",
+    "options": ["Infant mortality rate", "Female literacy rate", "Sex ratio at birth", "Maternal mortality ratio"],
+    "correctAnswer": "Sex ratio at birth"
   },
   {
     "id": 8,
-    "question": "A recent High Court judgment discussed the powers of which Indian agency under the PMLA?",
-    "options": ["Central Bureau of Investigation (CBI)", "National Investigation Agency (NIA)", "Enforcement Directorate (ED)", "Income Tax Department"],
-    "correctAnswer": "Enforcement Directorate (ED)"
+    "question": "Which infectious disease prompted India to tighten screening measures recently?",
+    "options": ["Dengue", "Malaria", "Ebola", "Zika"],
+    "correctAnswer": "Ebola"
   },
   {
     "id": 9,
-    "question": "PMLA, mentioned in relation to a High Court judgment on ED powers, stands for what?",
-    "options": ["Prevention of Money Laundering Act", "Protection of Monetary Liabilities Act", "Public Management and Legal Act", "Penalties for Misconduct and Legal Actions"],
-    "correctAnswer": "Prevention of Money Laundering Act"
+    "question": "What health measure did India implement following the detection of two suspected Ebola cases?",
+    "options": ["Imposed travel ban", "Started mass vaccination", "Tightened screening", "Declared national emergency"],
+    "correctAnswer": "Tightened screening"
   },
   {
     "id": 10,
-    "question": "The Congress party alleged a scam in a contract related to which major Indian examination board?",
-    "options": ["UPSC", "SSC", "CBSE", "ICSE"],
-    "correctAnswer": "CBSE"
+    "question": "The tightening of screening by India was in response to suspected cases of which virus?",
+    "options": ["Nipah virus", "Hantavirus", "Ebola virus", "Marburg virus"],
+    "correctAnswer": "Ebola virus"
   },
   {
     "id": 11,
-    "question": "The alleged scam by the Congress party concerned a contract for the evaluation of which specific exam?",
-    "options": ["CBSE Class 10 Board Exam", "UPSC Civil Services Prelims", "CBSE Class 12 Board Exam", "NEET-UG"],
-    "correctAnswer": "CBSE Class 12 Board Exam"
+    "question": "How many High Court Chief Justices were recently cleared by the Collegium for elevation to the Supreme Court?",
+    "options": ["2", "3", "4", "5"],
+    "correctAnswer": "4"
   },
   {
     "id": 12,
-    "question": "Which company was reportedly awarded the digital evaluation contract for CBSE, leading to allegations of irregularity?",
-    "options": ["EduTech Solutions", "Coempt Edutech", "Digital Minds", "Global Systems Inc."],
-    "correctAnswer": "Coempt Edutech"
+    "question": "What specific body is responsible for clearing High Court Chief Justices for elevation to the Supreme Court?",
+    "options": ["Parliament", "Ministry of Law", "Judicial Appointments Committee", "Collegium"],
+    "correctAnswer": "Collegium"
   },
   {
     "id": 13,
-    "question": "What was the nature of the allegations made by the Congress party against the CBSE contract?",
-    "options": ["Data breach", "Paper leak", "Irregularities in tendering", "Delay in results"],
-    "correctAnswer": "Irregularities in tendering"
+    "question": "What is a notable aspect of one of the potential elevations to the Supreme Court mentioned in the news?",
+    "options": ["First time a woman from a specific Bar is elevated", "The youngest judge to be elevated", "May be the 2nd woman picked from the Bar", "A judge from a Union Territory"],
+    "correctAnswer": "May be the 2nd woman picked from the Bar"
   },
   {
     "id": 14,
-    "question": "The CBSE recently refuted claims regarding its contract, stating that all which rules were followed?",
-    "options": ["State Financial Rules", "International Procurement Rules", "General Financial Rules", "Digital Procurement Guidelines"],
-    "correctAnswer": "General Financial Rules"
+    "question": "What recent Supreme Court verdict regarding the Election Commission (EC) was in the news?",
+    "options": ["On funding for elections", "Clearing EC on SIR", "On EVM tampering", "On electoral bond transparency"],
+    "correctAnswer": "Clearing EC on SIR"
   },
   {
     "id": 15,
-    "question": "Which Indian judicial body's verdict on 'SIR' was mentioned as raising more questions than answers by the Congress?",
-    "options": ["High Court", "District Court", "Supreme Court", "National Green Tribunal"],
-    "correctAnswer": "Supreme Court"
+    "question": "Which political party criticized the SC verdict on the Election Commission regarding SIR as 'full of contradictions'?",
+    "options": ["BJP", "Aam Aadmi Party", "Congress", "Trinamool Congress"],
+    "correctAnswer": "Congress"
   },
   {
     "id": 16,
-    "question": "For the first time, UPSC released the provisional answer key for which exam in 2026?",
-    "options": ["SSC CGL", "NEET-UG", "Civil Services Preliminary Exam", "IIT JEE Advanced"],
-    "correctAnswer": "Civil Services Preliminary Exam"
+    "question": "Which political party welcomed the SC verdict on the Election Commission regarding SIR, stating that opposition's efforts failed?",
+    "options": ["Congress", "BJP", "CPI(M)", "BSP"],
+    "correctAnswer": "BJP"
   },
   {
     "id": 17,
-    "question": "Approximately how many candidates are able to check their scores with the provisional answer key for Civil Services Prelims 2026?",
-    "options": ["Over 3 lakh", "Nearly 5.49 lakh", "About 7.2 lakh", "Less than 1 lakh"],
-    "correctAnswer": "Nearly 5.49 lakh"
+    "question": "What did the Election Commission promise to send to the 'competent authority' after the SC verdict on SIR?",
+    "options": ["Report on election expenditures", "List of deleted voters", "Guidelines for new elections", "Data on VVPAT usage"],
+    "correctAnswer": "List of deleted voters"
   },
   {
     "id": 18,
-    "question": "Until what date can candidates challenge discrepancies in the UPSC Civil Services Prelims 2026 answer key?",
-    "options": ["April 30th", "May 15th", "May 31st", "June 15th"],
-    "correctAnswer": "May 31st"
+    "question": "What was the outcome of the Supreme Court's recent verdict concerning the Election Commission's actions regarding 'SIR'?",
+    "options": ["EC was censured", "EC's actions were partially approved", "EC was cleared", "Case was deferred"],
+    "correctAnswer": "EC was cleared"
   },
   {
     "id": 19,
-    "question": "Which major national entrance exam was recently in news regarding a paper leak and a student's suicide?",
-    "options": ["JEE Main", "CLAT", "NEET", "CAT"],
-    "correctAnswer": "NEET"
+    "question": "Which electoral technology did the Supreme Court suggest adding 'time-stamps' to?",
+    "options": ["EVMs", "VVPAT slips", "Electoral rolls", "Ballot boxes"],
+    "correctAnswer": "VVPAT slips"
   },
   {
     "id": 20,
-    "question": "The issue of a paper leak was associated with which competitive examination, prompting political attention?",
-    "options": ["UPSC Civil Services", "NEET-UG", "SSC CHSL", "IBPS PO"],
-    "correctAnswer": "NEET-UG"
+    "question": "Who asked the Election Commission to examine the feasibility of adding time-stamps to VVPAT slips?",
+    "options": ["Central Government", "Opposition parties", "Supreme Court", "President of India"],
+    "correctAnswer": "Supreme Court"
   },
   {
     "id": 21,
-    "question": "Which political leader met the family of a NEET aspirant who died by suicide following a paper leak incident?",
-    "options": ["Narendra Modi", "Rahul Gandhi", "Amit Shah", "Mallikarjun Kharge"],
-    "correctAnswer": "Rahul Gandhi"
+    "question": "What specific improvement did the Supreme Court ask the Election Commission to check the feasibility of implementing for VVPAT slips?",
+    "options": ["Color coding", "Barcodes", "Time-stamps", "QR codes"],
+    "correctAnswer": "Time-stamps"
   },
   {
     "id": 22,
-    "question": "What transparency measure was recently adopted by the UPSC for its Civil Services Preliminary exam?",
-    "options": ["Online re-evaluation", "Releasing provisional answer keys", "Live exam broadcast", "Immediate result declaration"],
-    "correctAnswer": "Releasing provisional answer keys"
+    "question": "In the context of electoral transparency, what new feature might be introduced to VVPAT slips?",
+    "options": ["Digital signatures", "Watermarks", "Time-stamps", "Biometric verification"],
+    "correctAnswer": "Time-stamps"
   },
   {
     "id": 23,
-    "question": "The Indian Navy's recent action in the Western Indian Ocean aimed to counter what threat to merchant shipping?",
-    "options": ["Smuggling", "Illegal fishing", "Piracy", "Drug trafficking"],
-    "correctAnswer": "Piracy"
+    "question": "What governmental body was directed by the Supreme Court to assess the feasibility of time-stamps on VVPAT slips?",
+    "options": ["Ministry of Home Affairs", "Election Commission", "Parliament", "UIDAI"],
+    "correctAnswer": "Election Commission"
   },
   {
     "id": 24,
-    "question": "Diplomatic efforts by Indian authorities secured the release of Indian sailors from an oil tanker detained near which port?",
-    "options": ["Chabahar Port", "Bandar Abbas Port", "Jask Port", "Bushehr Port"],
-    "correctAnswer": "Jask Port"
+    "question": "The Supreme Court's recommendation for time-stamps on VVPAT slips aims to enhance which aspect of elections?",
+    "options": ["Voter turnout", "Candidate registration", "Electoral transparency", "Polling station security"],
+    "correctAnswer": "Electoral transparency"
   },
   {
     "id": 25,
-    "question": "The Central Board of Secondary Education (CBSE) refuted claims about its contract for which purpose?",
-    "options": ["New curriculum development", "Teacher training", "Digital evaluation of answer sheets", "Online exam registration"],
-    "correctAnswer": "Digital evaluation of answer sheets"
+    "question": "Apart from clearing the EC on SIR, what other instruction did the Supreme Court give the EC regarding electoral processes?",
+    "options": ["To use only ballot papers", "To count all VVPAT slips", "To check feasibility of time-stamps on VVPAT slips", "To implement online voting"],
+    "correctAnswer": "To check feasibility of time-stamps on VVPAT slips"
   }
 ]
