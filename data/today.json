@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "What national issue did PM Modi recently address, advising a 'whole-nation approach' and ministerial action?",
-    "options": ["Floods", "Heatwaves", "Earthquakes", "Droughts"],
-    "correctAnswer": "Heatwaves"
+    "question": "What fundamental right did the Supreme Court of India recently declare regarding trauma care, ordering a nationwide overhaul of emergency response?",
+    "options": ["Right to Education", "Right to Information", "Right to Trauma Care", "Right to Privacy"],
+    "correctAnswer": "Right to Trauma Care"
   },
   {
     "id": 2,
-    "question": "Which natural phenomenon did PM Modi provide tips for, emphasizing care and helping others?",
-    "options": ["Monsoon preparedness", "Cold waves", "Heatwaves", "Cyclones"],
-    "correctAnswer": "Heatwaves"
+    "question": "The Supreme Court's order for a nationwide overhaul of emergency response will impact the healthcare systems of which states?",
+    "options": ["Only metropolitan cities", "Only North-Eastern states", "Telangana and Andhra Pradesh specifically", "All Indian states"],
+    "correctAnswer": "All Indian states"
   },
   {
     "id": 3,
-    "question": "What approach did PM Modi advocate for combating heatwaves across the country?",
-    "options": ["State-specific measures", "Individual efforts", "Whole-nation approach", "International collaboration"],
-    "correctAnswer": "Whole-nation approach"
+    "question": "What is the primary objective behind the Supreme Court's directive for a nationwide overhaul of India's emergency response system?",
+    "options": ["To reduce the number of hospitals", "To ensure uniform and accessible emergency medical treatment across the country", "To privatize all emergency services", "To centralize all healthcare decisions in Delhi"],
+    "correctAnswer": "To ensure uniform and accessible emergency medical treatment across the country"
   },
   {
     "id": 4,
-    "question": "What sustainable practice did PM Modi recently advise his ministers to adopt?",
-    "options": ["Public transport", "Cycling", "Carpooling", "Electric vehicles"],
-    "correctAnswer": "Carpooling"
+    "question": "Which constitutional body recently mandated improved trauma care services across India, benefiting citizens in states like Andhra Pradesh?",
+    "options": ["The Indian Parliament", "The Ministry of Health and Family Welfare", "The Supreme Court of India", "NITI Aayog"],
+    "correctAnswer": "The Supreme Court of India"
   },
   {
     "id": 5,
-    "question": "What was the implicit message behind PM Modi's advice to ministers regarding carpooling?",
-    "options": ["Reduce traffic", "Practice what you preach", "Encourage personal savings", "Improve punctuality"],
-    "correctAnswer": "Practice what you preach"
+    "question": "How is the recent Supreme Court ruling on trauma care expected to affect states like Andhra Pradesh and Telangana?",
+    "options": ["It will lead to the closure of state-run hospitals.", "It mandates an upgrade and standardization of their emergency medical services.", "It only applies to Union Territories, not states.", "It allows them to opt out of the national emergency response system."],
+    "correctAnswer": "It mandates an upgrade and standardization of their emergency medical services."
   },
   {
     "id": 6,
-    "question": "According to recent reports, what is the trend regarding the number of girls at birth in India?",
-    "options": ["Steadily decreasing", "Showing no change", "More girls, but still too few", "Significantly increased"],
-    "correctAnswer": "More girls, but still too few"
+    "question": "Who is the Union Education Minister who recently addressed concerns over CBSE Class 12 evaluation discrepancies?",
+    "options": ["Piyush Goyal", "Dharmendra Pradhan", "Amit Shah", "Nirmala Sitharaman"],
+    "correctAnswer": "Dharmendra Pradhan"
   },
   {
     "id": 7,
-    "question": "Which demographic indicator, though improving, is still a concern in India regarding gender balance?",
-    "options": ["Infant mortality rate", "Female literacy rate", "Sex ratio at birth", "Maternal mortality ratio"],
-    "correctAnswer": "Sex ratio at birth"
+    "question": "Concerns over CBSE Class 12 evaluation discrepancies would directly affect students in which of the following regions?",
+    "options": ["Only Delhi schools", "Only government schools", "Students in Telangana and Andhra Pradesh attending CBSE schools", "Only private international schools"],
+    "correctAnswer": "Students in Telangana and Andhra Pradesh attending CBSE schools"
   },
   {
     "id": 8,
-    "question": "Which infectious disease prompted India to tighten screening measures recently?",
-    "options": ["Dengue", "Malaria", "Ebola", "Zika"],
-    "correctAnswer": "Ebola"
+    "question": "What did Union Education Minister Dharmendra Pradhan assure regarding the government's stance on the CBSE evaluation system amidst discrepancy claims?",
+    "options": ["A complete shift to a manual grading system.", "Commitment to student well-being and transparency in the digital evaluation system.", "Discontinuation of Class 12 exams.", "Delegation of all evaluation to private bodies without oversight."],
+    "correctAnswer": "Commitment to student well-being and transparency in the digital evaluation system."
   },
   {
     "id": 9,
-    "question": "What health measure did India implement following the detection of two suspected Ebola cases?",
-    "options": ["Imposed travel ban", "Started mass vaccination", "Tightened screening", "Declared national emergency"],
-    "correctAnswer": "Tightened screening"
+    "question": "Which examination board's Class 12 evaluation process was recently scrutinized due to alleged discrepancies, impacting students across India?",
+    "options": ["ICSE", "State Board of Secondary Education, Telangana", "CBSE", "IB Board"],
+    "correctAnswer": "CBSE"
   },
   {
     "id": 10,
-    "question": "The tightening of screening by India was in response to suspected cases of which virus?",
-    "options": ["Nipah virus", "Hantavirus", "Ebola virus", "Marburg virus"],
-    "correctAnswer": "Ebola virus"
+    "question": "The digital evaluation system used by CBSE, as mentioned in the news, is intended to ensure what in the examination process?",
+    "options": ["Faster result declaration only", "More subjective marking by evaluators", "Reduced human intervention and increased transparency", "Elimination of all re-evaluation requests"],
+    "correctAnswer": "Reduced human intervention and increased transparency"
   },
   {
     "id": 11,
-    "question": "How many High Court Chief Justices were recently cleared by the Collegium for elevation to the Supreme Court?",
-    "options": ["2", "3", "4", "5"],
-    "correctAnswer": "4"
+    "question": "According to recent reports, what has been the trend in government health spending in India over the past decade?",
+    "options": ["It has halved.", "It has remained constant.", "It has tripled.", "It has slightly increased by 10%."],
+    "correctAnswer": "It has tripled."
   },
   {
     "id": 12,
-    "question": "What specific body is responsible for clearing High Court Chief Justices for elevation to the Supreme Court?",
-    "options": ["Parliament", "Ministry of Law", "Judicial Appointments Committee", "Collegium"],
-    "correctAnswer": "Collegium"
+    "question": "What positive outcome has been observed concerning household medical burden in India, alongside increased government health spending?",
+    "options": ["It has significantly increased.", "It has remained the same.", "It has fallen.", "It is only applicable to urban households."],
+    "correctAnswer": "It has fallen."
   },
   {
     "id": 13,
-    "question": "What is a notable aspect of one of the potential elevations to the Supreme Court mentioned in the news?",
-    "options": ["First time a woman from a specific Bar is elevated", "The youngest judge to be elevated", "May be the 2nd woman picked from the Bar", "A judge from a Union Territory"],
-    "correctAnswer": "May be the 2nd woman picked from the Bar"
+    "question": "Increased government health spending and reduced household medical burden are trends observed at what level in India, benefiting states like Andhra Pradesh and Telangana?",
+    "options": ["Only in specific North Indian states", "Primarily in metropolitan cities", "Nationwide, impacting states like Andhra Pradesh and Telangana", "Only for private sector healthcare"],
+    "correctAnswer": "Nationwide, impacting states like Andhra Pradesh and Telangana"
   },
   {
     "id": 14,
-    "question": "What recent Supreme Court verdict regarding the Election Commission (EC) was in the news?",
-    "options": ["On funding for elections", "Clearing EC on SIR", "On EVM tampering", "On electoral bond transparency"],
-    "correctAnswer": "Clearing EC on SIR"
+    "question": "Which sector's increased financial commitment is credited with the decrease in household medical burden across India?",
+    "options": ["Private insurance companies", "Non-governmental organizations (NGOs)", "Government", "International aid agencies"],
+    "correctAnswer": "Government"
   },
   {
     "id": 15,
-    "question": "Which political party criticized the SC verdict on the Election Commission regarding SIR as 'full of contradictions'?",
-    "options": ["BJP", "Aam Aadmi Party", "Congress", "Trinamool Congress"],
-    "correctAnswer": "Congress"
+    "question": "A decrease in household medical burden due to government spending implies what for citizens in states like Telangana?",
+    "options": ["They are paying more out-of-pocket for healthcare.", "They have better access to affordable healthcare services.", "Healthcare services are becoming exclusive to the wealthy.", "State governments are reducing their healthcare budgets."],
+    "correctAnswer": "They have better access to affordable healthcare services."
   },
   {
     "id": 16,
-    "question": "Which political party welcomed the SC verdict on the Election Commission regarding SIR, stating that opposition's efforts failed?",
-    "options": ["Congress", "BJP", "CPI(M)", "BSP"],
-    "correctAnswer": "BJP"
+    "question": "Which Indian state was specifically mentioned as hitting 48.2°C during a recent record heatwave, as India bakes under extreme temperatures?",
+    "options": ["Gujarat", "Rajasthan", "Karnataka", "West Bengal"],
+    "correctAnswer": "Rajasthan"
   },
   {
     "id": 17,
-    "question": "What did the Election Commission promise to send to the 'competent authority' after the SC verdict on SIR?",
-    "options": ["Report on election expenditures", "List of deleted voters", "Guidelines for new elections", "Data on VVPAT usage"],
-    "correctAnswer": "List of deleted voters"
+    "question": "The UN analysis mentioned in the news warns of a high likelihood of breaching which critical global temperature limit by 2030?",
+    "options": ["0.5°C", "1.0°C", "1.5°C", "2.0°C"],
+    "correctAnswer": "1.5°C"
   },
   {
     "id": 18,
-    "question": "What was the outcome of the Supreme Court's recent verdict concerning the Election Commission's actions regarding 'SIR'?",
-    "options": ["EC was censured", "EC's actions were partially approved", "EC was cleared", "Case was deferred"],
-    "correctAnswer": "EC was cleared"
+    "question": "Indian states, including parts of Andhra Pradesh and Telangana, are currently experiencing what climate phenomenon?",
+    "options": ["Excessive rainfall and floods", "Extreme cold waves", "An extreme heat wave", "Moderate weather conditions"],
+    "correctAnswer": "An extreme heat wave"
   },
   {
     "id": 19,
-    "question": "Which electoral technology did the Supreme Court suggest adding 'time-stamps' to?",
-    "options": ["EVMs", "VVPAT slips", "Electoral rolls", "Ballot boxes"],
-    "correctAnswer": "VVPAT slips"
+    "question": "What percentage likelihood does a UN analysis state for breaching the 1.5°C temperature limit by 2030, highlighting global climate concerns?",
+    "options": ["25%", "50%", "75%", "90%"],
+    "correctAnswer": "75%"
   },
   {
     "id": 20,
-    "question": "Who asked the Election Commission to examine the feasibility of adding time-stamps to VVPAT slips?",
-    "options": ["Central Government", "Opposition parties", "Supreme Court", "President of India"],
-    "correctAnswer": "Supreme Court"
+    "question": "The extreme heat waves affecting India, including southern states, highlight the urgency of addressing which global crisis?",
+    "options": ["Economic recession", "Water scarcity", "Climate change", "Refugee crisis"],
+    "correctAnswer": "Climate change"
   },
   {
     "id": 21,
-    "question": "What specific improvement did the Supreme Court ask the Election Commission to check the feasibility of implementing for VVPAT slips?",
-    "options": ["Color coding", "Barcodes", "Time-stamps", "QR codes"],
-    "correctAnswer": "Time-stamps"
+    "question": "What festival did PM Modi recently greet the nation on, extending prayers for everyone's success and good health?",
+    "options": ["Diwali", "Eid ul-Adha", "Christmas", "Holi"],
+    "correctAnswer": "Eid ul-Adha"
   },
   {
     "id": 22,
-    "question": "In the context of electoral transparency, what new feature might be introduced to VVPAT slips?",
-    "options": ["Digital signatures", "Watermarks", "Time-stamps", "Biometric verification"],
-    "correctAnswer": "Time-stamps"
+    "question": "Eid ul-Adha is a significant festival celebrated by a large number of citizens across India, including in which of the following states?",
+    "options": ["Only Punjab", "Only Haryana", "Telangana and Andhra Pradesh", "Only Odisha"],
+    "correctAnswer": "Telangana and Andhra Pradesh"
   },
   {
     "id": 23,
-    "question": "What governmental body was directed by the Supreme Court to assess the feasibility of time-stamps on VVPAT slips?",
-    "options": ["Ministry of Home Affairs", "Election Commission", "Parliament", "UIDAI"],
-    "correctAnswer": "Election Commission"
+    "question": "The Prime Minister's message on national festivals like Eid ul-Adha typically promotes which values across the diverse Indian populace?",
+    "options": ["Regionalism and division", "Unity, peace, and well-being", "Economic prosperity only", "Political debate"],
+    "correctAnswer": "Unity, peace, and well-being"
   },
   {
     "id": 24,
-    "question": "The Supreme Court's recommendation for time-stamps on VVPAT slips aims to enhance which aspect of elections?",
-    "options": ["Voter turnout", "Candidate registration", "Electoral transparency", "Polling station security"],
-    "correctAnswer": "Electoral transparency"
+    "question": "The Supreme Court's mandate for an overhaul of emergency response systems requires state governments, including those of Telangana and Andhra Pradesh, to focus on improving which aspect of public services?",
+    "options": ["Public transportation networks", "Financial regulatory frameworks", "Healthcare infrastructure and responsiveness", "Agricultural subsidies"],
+    "correctAnswer": "Healthcare infrastructure and responsiveness"
   },
   {
     "id": 25,
-    "question": "Apart from clearing the EC on SIR, what other instruction did the Supreme Court give the EC regarding electoral processes?",
-    "options": ["To use only ballot papers", "To count all VVPAT slips", "To check feasibility of time-stamps on VVPAT slips", "To implement online voting"],
-    "correctAnswer": "To check feasibility of time-stamps on VVPAT slips"
+    "question": "What does the term 'household medical burden' generally refer to, the reduction of which is a positive sign for states like Andhra Pradesh?",
+    "options": ["The number of doctors in a household.", "The financial strain on families due to medical expenses.", "The burden of paperwork for medical insurance.", "The physical effort required to visit hospitals."],
+    "correctAnswer": "The financial strain on families due to medical expenses."
   }
 ]
