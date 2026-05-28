@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "What fundamental right did the Supreme Court of India recently declare regarding trauma care, ordering a nationwide overhaul of emergency response?",
-    "options": ["Right to Education", "Right to Information", "Right to Trauma Care", "Right to Privacy"],
-    "correctAnswer": "Right to Trauma Care"
+    "question": "What agency is involved in the Twisha Sharma death probe mentioned in the news?",
+    "options": ["NIA", "ED", "CBI", "SIT"],
+    "correctAnswer": "CBI"
   },
   {
     "id": 2,
-    "question": "The Supreme Court's order for a nationwide overhaul of emergency response will impact the healthcare systems of which states?",
-    "options": ["Only metropolitan cities", "Only North-Eastern states", "Telangana and Andhra Pradesh specifically", "All Indian states"],
-    "correctAnswer": "All Indian states"
+    "question": "The news refers to the 'Sada suhagan' trap, relating to what social issue in India?",
+    "options": ["Child marriage", "Dowry deaths", "Human trafficking", "Gender-based violence in public spaces"],
+    "correctAnswer": "Dowry deaths"
   },
   {
     "id": 3,
-    "question": "What is the primary objective behind the Supreme Court's directive for a nationwide overhaul of India's emergency response system?",
-    "options": ["To reduce the number of hospitals", "To ensure uniform and accessible emergency medical treatment across the country", "To privatize all emergency services", "To centralize all healthcare decisions in Delhi"],
-    "correctAnswer": "To ensure uniform and accessible emergency medical treatment across the country"
+    "question": "What legal action did the CBI take against Twisha Sharma’s mother-in-law, as per the news?",
+    "options": ["Issued a summons", "Filed an FIR", "Detained after anticipatory bail cancellation", "Sentenced to jail"],
+    "correctAnswer": "Detained after anticipatory bail cancellation"
   },
   {
     "id": 4,
-    "question": "Which constitutional body recently mandated improved trauma care services across India, benefiting citizens in states like Andhra Pradesh?",
-    "options": ["The Indian Parliament", "The Ministry of Health and Family Welfare", "The Supreme Court of India", "NITI Aayog"],
-    "correctAnswer": "The Supreme Court of India"
+    "question": "The 'Sada suhagan' trap, highlighted in the news, refers to the societal pressure and context surrounding which type of tragic incidents?",
+    "options": ["Suicides among farmers", "Industrial accidents", "Marital abuse and dowry-related deaths", "Road fatalities"],
+    "correctAnswer": "Marital abuse and dowry-related deaths"
   },
   {
     "id": 5,
-    "question": "How is the recent Supreme Court ruling on trauma care expected to affect states like Andhra Pradesh and Telangana?",
-    "options": ["It will lead to the closure of state-run hospitals.", "It mandates an upgrade and standardization of their emergency medical services.", "It only applies to Union Territories, not states.", "It allows them to opt out of the national emergency response system."],
-    "correctAnswer": "It mandates an upgrade and standardization of their emergency medical services."
+    "question": "In the context of the Twisha Sharma death probe, what broader issue is being addressed concerning women's marital rights and safety?",
+    "options": ["Property inheritance laws", "Workplace harassment", "The ability of women to leave abusive marriages", "Access to education"],
+    "correctAnswer": "The ability of women to leave abusive marriages"
   },
   {
     "id": 6,
-    "question": "Who is the Union Education Minister who recently addressed concerns over CBSE Class 12 evaluation discrepancies?",
-    "options": ["Piyush Goyal", "Dharmendra Pradhan", "Amit Shah", "Nirmala Sitharaman"],
-    "correctAnswer": "Dharmendra Pradhan"
+    "question": "Which country reportedly halted Indian mango imports due to quarantine concerns?",
+    "options": ["USA", "Japan", "Germany", "Australia"],
+    "correctAnswer": "Japan"
   },
   {
     "id": 7,
-    "question": "Concerns over CBSE Class 12 evaluation discrepancies would directly affect students in which of the following regions?",
-    "options": ["Only Delhi schools", "Only government schools", "Students in Telangana and Andhra Pradesh attending CBSE schools", "Only private international schools"],
-    "correctAnswer": "Students in Telangana and Andhra Pradesh attending CBSE schools"
+    "question": "Which major mango variety, often exported from India, is prominently cultivated in Andhra Pradesh?",
+    "options": ["Alphonso", "Kesar", "Banganapalli", "Dasheri"],
+    "correctAnswer": "Banganapalli"
   },
   {
     "id": 8,
-    "question": "What did Union Education Minister Dharmendra Pradhan assure regarding the government's stance on the CBSE evaluation system amidst discrepancy claims?",
-    "options": ["A complete shift to a manual grading system.", "Commitment to student well-being and transparency in the digital evaluation system.", "Discontinuation of Class 12 exams.", "Delegation of all evaluation to private bodies without oversight."],
-    "correctAnswer": "Commitment to student well-being and transparency in the digital evaluation system."
+    "question": "What was the specific reason cited by Japan for halting Indian mango imports?",
+    "options": ["High prices", "Quality control issues", "Quarantine concerns", "Trade disputes"],
+    "correctAnswer": "Quarantine concerns"
   },
   {
     "id": 9,
-    "question": "Which examination board's Class 12 evaluation process was recently scrutinized due to alleged discrepancies, impacting students across India?",
-    "options": ["ICSE", "State Board of Secondary Education, Telangana", "CBSE", "IB Board"],
-    "correctAnswer": "CBSE"
+    "question": "Telangana is a significant producer of mangoes. Which of these varieties is commonly grown in the state, alongside Banganapalli?",
+    "options": ["Langra", "Himayat", "Chausa", "Badami"],
+    "correctAnswer": "Himayat"
   },
   {
     "id": 10,
-    "question": "The digital evaluation system used by CBSE, as mentioned in the news, is intended to ensure what in the examination process?",
-    "options": ["Faster result declaration only", "More subjective marking by evaluators", "Reduced human intervention and increased transparency", "Elimination of all re-evaluation requests"],
-    "correctAnswer": "Reduced human intervention and increased transparency"
+    "question": "The halt in Indian mango imports by Japan primarily impacts which sector of India's economy?",
+    "options": ["Manufacturing", "Information Technology", "Agriculture and Exports", "Tourism"],
+    "correctAnswer": "Agriculture and Exports"
   },
   {
     "id": 11,
-    "question": "According to recent reports, what has been the trend in government health spending in India over the past decade?",
-    "options": ["It has halved.", "It has remained constant.", "It has tripled.", "It has slightly increased by 10%."],
-    "correctAnswer": "It has tripled."
+    "question": "Which regulatory body recently tightened food safety rules for products like besan, seafood, and seed oils in India?",
+    "options": ["BIS", "AGMARK", "FSSAI", "CCI"],
+    "correctAnswer": "FSSAI"
   },
   {
     "id": 12,
-    "question": "What positive outcome has been observed concerning household medical burden in India, alongside increased government health spending?",
-    "options": ["It has significantly increased.", "It has remained the same.", "It has fallen.", "It is only applicable to urban households."],
-    "correctAnswer": "It has fallen."
+    "question": "Andhra Pradesh, with its extensive coastline, is a significant producer and exporter of which food product that recently saw tightened FSSAI regulations?",
+    "options": ["Besan", "Seed oils", "Seafood", "Dairy products"],
+    "correctAnswer": "Seafood"
   },
   {
     "id": 13,
-    "question": "Increased government health spending and reduced household medical burden are trends observed at what level in India, benefiting states like Andhra Pradesh and Telangana?",
-    "options": ["Only in specific North Indian states", "Primarily in metropolitan cities", "Nationwide, impacting states like Andhra Pradesh and Telangana", "Only for private sector healthcare"],
-    "correctAnswer": "Nationwide, impacting states like Andhra Pradesh and Telangana"
+    "question": "FSSAI, the central authority for food safety, stands for what?",
+    "options": ["Food Standard Safety Authority of India", "Food Safety and Standards Authority of India", "Federal System for Safe Agriculture in India", "Food Security and Supply Association of India"],
+    "correctAnswer": "Food Safety and Standards Authority of India"
   },
   {
     "id": 14,
-    "question": "Which sector's increased financial commitment is credited with the decrease in household medical burden across India?",
-    "options": ["Private insurance companies", "Non-governmental organizations (NGOs)", "Government", "International aid agencies"],
-    "correctAnswer": "Government"
+    "question": "Besides seafood and seed oils, what other common Indian kitchen ingredient had its safety rules tightened by FSSAI?",
+    "options": ["Rice", "Wheat flour", "Besan", "Sugar"],
+    "correctAnswer": "Besan"
   },
   {
     "id": 15,
-    "question": "A decrease in household medical burden due to government spending implies what for citizens in states like Telangana?",
-    "options": ["They are paying more out-of-pocket for healthcare.", "They have better access to affordable healthcare services.", "Healthcare services are becoming exclusive to the wealthy.", "State governments are reducing their healthcare budgets."],
-    "correctAnswer": "They have better access to affordable healthcare services."
+    "question": "The FSSAI's tightened regulations on food items like seed oils and seafood are primarily aimed at what?",
+    "options": ["Increasing export tariffs", "Promoting local production", "Enhancing consumer safety and product quality", "Reducing food waste"],
+    "correctAnswer": "Enhancing consumer safety and product quality"
   },
   {
     "id": 16,
-    "question": "Which Indian state was specifically mentioned as hitting 48.2°C during a recent record heatwave, as India bakes under extreme temperatures?",
-    "options": ["Gujarat", "Rajasthan", "Karnataka", "West Bengal"],
-    "correctAnswer": "Rajasthan"
+    "question": "The Centre recently ordered a wider crackdown on what type of drugs across India?",
+    "options": ["Generic drugs", "Over-the-counter drugs", "Spurious drugs", "Ayurvedic medicines"],
+    "correctAnswer": "Spurious drugs"
   },
   {
     "id": 17,
-    "question": "The UN analysis mentioned in the news warns of a high likelihood of breaching which critical global temperature limit by 2030?",
-    "options": ["0.5°C", "1.0°C", "1.5°C", "2.0°C"],
-    "correctAnswer": "1.5°C"
+    "question": "The Centre's crackdown on spurious drugs is specifically targeting markets in which geographical areas?",
+    "options": ["Urban metropolitan areas", "Export-oriented zones", "Rural markets", "Industrial clusters"],
+    "correctAnswer": "Rural markets"
   },
   {
     "id": 18,
-    "question": "Indian states, including parts of Andhra Pradesh and Telangana, are currently experiencing what climate phenomenon?",
-    "options": ["Excessive rainfall and floods", "Extreme cold waves", "An extreme heat wave", "Moderate weather conditions"],
-    "correctAnswer": "An extreme heat wave"
+    "question": "What is the main objective behind the wider crackdown on spurious drugs by the Indian government?",
+    "options": ["To boost pharmaceutical exports", "To ensure public health and safety", "To reduce drug prices", "To promote traditional medicine"],
+    "correctAnswer": "To ensure public health and safety"
   },
   {
     "id": 19,
-    "question": "What percentage likelihood does a UN analysis state for breaching the 1.5°C temperature limit by 2030, highlighting global climate concerns?",
-    "options": ["25%", "50%", "75%", "90%"],
-    "correctAnswer": "75%"
+    "question": "States like Telangana and Andhra Pradesh would benefit from the national crackdown on spurious drugs primarily by:",
+    "options": ["Attracting foreign investment in pharma", "Ensuring the health and safety of their citizens", "Increasing revenue from drug sales", "Streamlining drug approval processes"],
+    "correctAnswer": "Ensuring the health and safety of their citizens"
   },
   {
     "id": 20,
-    "question": "The extreme heat waves affecting India, including southern states, highlight the urgency of addressing which global crisis?",
-    "options": ["Economic recession", "Water scarcity", "Climate change", "Refugee crisis"],
-    "correctAnswer": "Climate change"
+    "question": "What type of regulatory framework is being reinforced by the Centre's order for a wider crackdown on spurious drugs?",
+    "options": ["Environmental regulations", "Financial regulations", "Pharmaceutical quality control and safety regulations", "Labour laws"],
+    "correctAnswer": "Pharmaceutical quality control and safety regulations"
   },
   {
     "id": 21,
-    "question": "What festival did PM Modi recently greet the nation on, extending prayers for everyone's success and good health?",
-    "options": ["Diwali", "Eid ul-Adha", "Christmas", "Holi"],
-    "correctAnswer": "Eid ul-Adha"
+    "question": "Which Indian conglomerate recently acquired Israel's Port of Haifa, as per the news?",
+    "options": ["Reliance Industries", "Tata Group", "Adani Group", "Mahindra Group"],
+    "correctAnswer": "Adani Group"
   },
   {
     "id": 22,
-    "question": "Eid ul-Adha is a significant festival celebrated by a large number of citizens across India, including in which of the following states?",
-    "options": ["Only Punjab", "Only Haryana", "Telangana and Andhra Pradesh", "Only Odisha"],
-    "correctAnswer": "Telangana and Andhra Pradesh"
+    "question": "The acquisition of Haifa Port is considered critical for India's participation in which ambitious international connectivity project?",
+    "options": ["Belt and Road Initiative", "Indo-Pacific Economic Framework", "India-Middle East-Europe Economic Corridor", "Trans-Pacific Partnership"],
+    "correctAnswer": "India-Middle East-Europe Economic Corridor"
   },
   {
     "id": 23,
-    "question": "The Prime Minister's message on national festivals like Eid ul-Adha typically promotes which values across the diverse Indian populace?",
-    "options": ["Regionalism and division", "Unity, peace, and well-being", "Economic prosperity only", "Political debate"],
-    "correctAnswer": "Unity, peace, and well-being"
+    "question": "How does the improved trade connectivity through ports like Haifa potentially benefit industries in landlocked Telangana?",
+    "options": ["By directly connecting its waterways", "By reducing transportation costs for exports and imports via major Indian ports", "By attracting direct foreign tourism", "By increasing local agricultural output"],
+    "correctAnswer": "By reducing transportation costs for exports and imports via major Indian ports"
   },
   {
     "id": 24,
-    "question": "The Supreme Court's mandate for an overhaul of emergency response systems requires state governments, including those of Telangana and Andhra Pradesh, to focus on improving which aspect of public services?",
-    "options": ["Public transportation networks", "Financial regulatory frameworks", "Healthcare infrastructure and responsiveness", "Agricultural subsidies"],
-    "correctAnswer": "Healthcare infrastructure and responsiveness"
+    "question": "India's strategic foothold in the Middle East, bolstered by the Haifa Port acquisition, is vital for which aspect of its national interest?",
+    "options": ["Cultural exchange programs", "Trade and strategic ambitions", "Military base establishment", "Space exploration partnerships"],
+    "correctAnswer": "Trade and strategic ambitions"
   },
   {
     "id": 25,
-    "question": "What does the term 'household medical burden' generally refer to, the reduction of which is a positive sign for states like Andhra Pradesh?",
-    "options": ["The number of doctors in a household.", "The financial strain on families due to medical expenses.", "The burden of paperwork for medical insurance.", "The physical effort required to visit hospitals."],
-    "correctAnswer": "The financial strain on families due to medical expenses."
+    "question": "Which major port city in Andhra Pradesh serves as a key gateway for trade on India's East Coast, complementing the focus on international connectivity?",
+    "options": ["Kakinada", "Machilipatnam", "Visakhapatnam", "Krishnapatnam"],
+    "correctAnswer": "Visakhapatnam"
   }
 ]
