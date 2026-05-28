@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "According to a recent report, which Indian organization may be utilized to transport question papers for the NEET retest?",
-    "options": ["Indian Air Force (IAF)", "Indian Railways", "India Post", "Border Security Force (BSF)"],
-    "correctAnswer": "Indian Air Force (IAF)"
+    "question": "What is the integrated emergency helpline number mandated by the Supreme Court for all states, including Telangana and Andhra Pradesh?",
+    "options": ["100", "108", "112", "101"],
+    "correctAnswer": "112"
   },
   {
     "id": 2,
-    "question": "The NEET exam, for which a retest was discussed, is primarily an entrance test for which type of courses in India?",
-    "options": ["Engineering", "Medical", "Law", "Management"],
-    "correctAnswer": "Medical"
+    "question": "Which body has directed the integration of all emergency helplines into '112' within three months across India?",
+    "options": ["Union Home Ministry", "NITI Aayog", "Supreme Court", "Parliament"],
+    "correctAnswer": "Supreme Court"
   },
   {
     "id": 3,
-    "question": "While not explicitly detailed in the provided context, the need for a 'retest' for a national examination like NEET usually arises due to what reason?",
-    "options": ["Lack of student participation", "Severe weather conditions", "Paper leaks or irregularities", "Changes in syllabus"],
-    "correctAnswer": "Paper leaks or irregularities"
+    "question": "What is the deadline set by the Supreme Court for the complete integration of emergency helplines into '112' nationwide?",
+    "options": ["One month", "Three months", "Six months", "One year"],
+    "correctAnswer": "Three months"
   },
   {
     "id": 4,
-    "question": "What does the acronym NEET stand for in the context of medical entrance examinations in India?",
-    "options": ["National Engineering and Eligibility Test", "National Educational Entrance Test", "National Eligibility cum Entrance Test", "National Examination for Engineering & Technology"],
-    "correctAnswer": "National Eligibility cum Entrance Test"
+    "question": "The '112' emergency helpline aims to integrate which of the following existing services?",
+    "options": ["Police", "Fire", "Ambulance", "All of the above"],
+    "correctAnswer": "All of the above"
   },
   {
     "id": 5,
-    "question": "Which national agency is primarily responsible for conducting examinations like NEET in India?",
-    "options": ["UPSC", "SSC", "NTA", "AICTE"],
-    "correctAnswer": "NTA"
+    "question": "What is the primary objective behind the Supreme Court's directive to integrate emergency helplines into '112' for a unified response?",
+    "options": ["To reduce government expenditure", "To centralize communication", "To ensure faster and unified emergency response", "To create new job opportunities"],
+    "correctAnswer": "To ensure faster and unified emergency response"
   },
   {
     "id": 6,
-    "question": "Which Union Minister stated that a panel would examine the need for a new law regarding 'artificial' demographic change?",
-    "options": ["Nitin Gadkari", "Amit Shah", "Nirmala Sitharaman", "S. Jaishankar"],
-    "correctAnswer": "Amit Shah"
+    "question": "Before the nationwide integration to '112', which existing helpline was primarily used for police emergencies in states like Telangana and Andhra Pradesh?",
+    "options": ["100", "108", "101", "102"],
+    "correctAnswer": "100"
   },
   {
     "id": 7,
-    "question": "Who is reported to head the high-level committee tasked with examining 'artificial' demographic shifts due to illegal immigration?",
-    "options": ["Justice R.F. Nariman", "Justice Prakash Prabhakar Naoleker", "Justice D.Y. Chandrachud", "Justice U.U. Lalit"],
-    "correctAnswer": "Justice Prakash Prabhakar Naoleker"
+    "question": "What kind of consumers are being warned by the government against purchasing fuel from retail pumps, causing artificial shortages across India?",
+    "options": ["Commercial vehicle owners", "Private car owners", "Industrial consumers", "Agricultural consumers"],
+    "correctAnswer": "Industrial consumers"
   },
   {
     "id": 8,
-    "question": "What is the primary concern that the panel on 'artificial' demographic change is tasked with examining?",
-    "options": ["Urbanization trends", "Internal migration patterns", "Illegal immigration", "Population growth rates"],
-    "correctAnswer": "Illegal immigration"
+    "question": "The government warning aims to prevent artificial shortages of which specific fuel due to diversion by industrial consumers from retail pumps?",
+    "options": ["Petrol", "Diesel", "CNG", "LPG"],
+    "correctAnswer": "Diesel"
   },
   {
     "id": 9,
-    "question": "How long has the panel examining 'artificial' demographic changes been given to submit its report?",
-    "options": ["Six months", "One year", "Two years", "Three months"],
-    "correctAnswer": "One year"
+    "question": "What is the main reason cited for industrial consumers diverting fuel purchases to retail outlets, impacting states like Andhra Pradesh and Telangana?",
+    "options": ["Convenience", "Better quality fuel", "Price differences", "Lack of bulk supply options"],
+    "correctAnswer": "Price differences"
   },
   {
     "id": 10,
-    "question": "What is one potential outcome the panel on 'artificial' demographic changes will assess the need for?",
-    "options": ["New economic policy", "New law", "Educational reforms", "Environmental regulations"],
-    "correctAnswer": "New law"
+    "question": "What action are state governments, including Andhra Pradesh and Telangana, urged to take against violations of fuel purchase norms by industrial consumers?",
+    "options": ["Issue public advisories", "Form special squads", "Increase fuel prices", "Grant subsidies"],
+    "correctAnswer": "Form special squads"
   },
   {
     "id": 11,
-    "question": "Which Indian regulatory body recently tightened food safety rules for products like besan, seafood, and seed oils?",
-    "options": ["BIS (Bureau of Indian Standards)", "FSSAI (Food Safety and Standards Authority of India)", "AGMARK (Agricultural Mark)", "EIC (Export Inspection Council)"],
-    "correctAnswer": "FSSAI (Food Safety and Standards Authority of India)"
+    "question": "How does the government aim to ensure uninterrupted fuel availability for ordinary citizens in the context of industrial diversion?",
+    "options": ["By increasing imports", "By setting up more retail pumps", "By cracking down on violations and hoarders", "By rationing fuel"],
+    "correctAnswer": "By cracking down on violations and hoarders"
   },
   {
     "id": 12,
-    "question": "What does FSSAI stand for in the context of food safety in India?",
-    "options": ["Food Security and Sanitation Act of India", "Food Standards and Safety Association of India", "Food Safety and Standards Authority of India", "Federal System for Safe Agriculture in India"],
-    "correctAnswer": "Food Safety and Standards Authority of India"
+    "question": "The government's warning implies that despite diversions by industrial consumers, the overall supply of diesel in the country is considered:",
+    "options": ["Scanty", "Limited", "Ample", "Intermittent"],
+    "correctAnswer": "Ample"
   },
   {
     "id": 13,
-    "question": "What is the primary objective of the FSSAI in India?",
-    "options": ["To promote agricultural exports", "To ensure food safety and quality standards", "To regulate food pricing", "To provide food subsidies"],
-    "correctAnswer": "To ensure food safety and quality standards"
+    "question": "Which examination's retest question papers are reportedly being considered for transport using IAF aircraft to ensure security?",
+    "options": ["JEE Advanced", "UPSC Civil Services", "NEET", "CAT"],
+    "correctAnswer": "NEET"
   },
   {
     "id": 14,
-    "question": "According to recent news, for which specific category of food did FSSAI recently tighten safety rules?",
-    "options": ["Dairy products", "Fresh fruits and vegetables", "Processed snacks", "Besan, seafood, and seed oils"],
-    "correctAnswer": "Besan, seafood, and seed oils"
+    "question": "What is the proposed method of transport for the NEET retest question papers to enhance security and efficiency across all examination centers?",
+    "options": ["Road convoys", "Rail network", "IAF aircraft", "Courier services"],
+    "correctAnswer": "IAF aircraft"
   },
   {
     "id": 15,
-    "question": "Under which Union Ministry does the Food Safety and Standards Authority of India (FSSAI) primarily operate?",
-    "options": ["Ministry of Agriculture & Farmers Welfare", "Ministry of Commerce & Industry", "Ministry of Health and Family Welfare", "Ministry of Consumer Affairs, Food & Public Distribution"],
-    "correctAnswer": "Ministry of Health and Family Welfare"
+    "question": "What is the likely primary reason for considering IAF aircraft for transporting NEET retest papers?",
+    "options": ["To reduce cost", "To provide employment for IAF personnel", "To ensure security and timely delivery", "To test new aviation routes"],
+    "correctAnswer": "To ensure security and timely delivery"
   },
   {
     "id": 16,
-    "question": "A caste census, a topic of political discussion in India, primarily aims to collect data for what purpose?",
-    "options": ["Determining electoral constituencies", "Assessing national security risks", "Understanding socio-economic and educational backwardness", "Forecasting climate patterns"],
-    "correctAnswer": "Understanding socio-economic and educational backwardness"
+    "question": "Students from which states, including Telangana and Andhra Pradesh, will be affected by the logistical arrangements for the NEET retest?",
+    "options": ["Only northern states", "Only southern states", "All states across India", "Only metropolitan cities"],
+    "correctAnswer": "All states across India"
   },
   {
     "id": 17,
-    "question": "Which major political party's national push for caste data was mentioned in the context of a state-level report?",
-    "options": ["Bharatiya Janata Party (BJP)", "Indian National Congress", "Aam Aadmi Party (AAP)", "Bahujan Samaj Party (BSP)"],
-    "correctAnswer": "Indian National Congress"
+    "question": "Which central agency is primarily responsible for conducting the NEET examination?",
+    "options": ["CBSE", "UGC", "NTA", "AICTE"],
+    "correctAnswer": "NTA"
   },
   {
     "id": 18,
-    "question": "What kind of social data does a comprehensive caste census typically aim to collect in India?",
-    "options": ["Only religious affiliations", "Demographic, socio-economic, and educational status of various castes", "Only political affiliations", "Data on migratory birds"],
-    "correctAnswer": "Demographic, socio-economic, and educational status of various castes"
+    "question": "The decision to use IAF aircraft for NEET retest logistics indicates a high level of concern regarding what aspect of the examination?",
+    "options": ["Environmental impact", "Financial expenditure", "Examination integrity", "Public perception"],
+    "correctAnswer": "Examination integrity"
   },
   {
     "id": 19,
-    "question": "Rajya Sabha, one of the two houses of the Indian Parliament, is also known by what other name?",
-    "options": ["House of the People", "Council of States", "Lower House", "State Assembly"],
-    "correctAnswer": "Council of States"
+    "question": "A high-level committee has been tasked to examine \"artificial\" demographic shifts caused by what phenomenon in India?",
+    "options": ["Natural population growth", "Urban migration", "Illegal immigration", "Internal displacement"],
+    "correctAnswer": "Illegal immigration"
   },
   {
     "id": 20,
-    "question": "How are members of the Rajya Sabha generally elected in India?",
-    "options": ["Directly by the people through universal adult suffrage", "Indirectly by the elected members of state legislative assemblies", "Nominated by the President of India based on merit", "Elected by district-level councils"],
-    "correctAnswer": "Indirectly by the elected members of state legislative assemblies"
+    "question": "Who is heading the panel tasked with examining \"artificial\" demographic changes and the need for a new law in India?",
+    "options": ["Justice R. F. Nariman", "Justice Prakash Prabhakar Naoleker", "Justice D. Y. Chandrachud", "Justice U. U. Lalit"],
+    "correctAnswer": "Justice Prakash Prabhakar Naoleker"
   },
   {
     "id": 21,
-    "question": "What is the maximum prescribed strength of the Rajya Sabha, the Upper House of the Indian Parliament?",
-    "options": ["245 members", "250 members", "545 members", "550 members"],
-    "correctAnswer": "250 members"
+    "question": "What is the stated timeframe for the panel on \"artificial\" demographic changes, headed by Justice Prakash Prabhakar Naoleker, to submit its report?",
+    "options": ["Three months", "Six months", "One year", "Two years"],
+    "correctAnswer": "One year"
   },
   {
     "id": 22,
-    "question": "Which central investigative agency is often involved in high-profile criminal probes across India, such as the Twisha death investigation mentioned in the news?",
-    "options": ["RAW (Research and Analysis Wing)", "NIA (National Investigation Agency)", "CBI (Central Bureau of Investigation)", "IB (Intelligence Bureau)"],
-    "correctAnswer": "CBI (Central Bureau of Investigation)"
+    "question": "Union Home Minister Amit Shah stated that the panel would assess the need for what, in addition to examining demographic shifts?",
+    "options": ["A new census", "A new law", "A new economic policy", "A new educational framework"],
+    "correctAnswer": "A new law"
   },
   {
     "id": 23,
-    "question": "Which primary legislation in India deals with the prohibition of giving or taking dowry and related offenses?",
-    "options": ["Protection of Women from Domestic Violence Act", "Hindu Marriage Act", "Dowry Prohibition Act", "Indian Penal Code (IPC)"],
-    "correctAnswer": "Dowry Prohibition Act"
+    "question": "The issue of \"artificial\" demographic change is a matter of concern for national security and policy, potentially affecting which regions of India?",
+    "options": ["Only border states", "Only coastal states", "All states of India", "Only North-Eastern states"],
+    "correctAnswer": "All states of India"
   },
   {
     "id": 24,
-    "question": "The term 'Sada suhagan trap,' mentioned in a news headline, is associated with what pervasive social issue in India?",
-    "options": ["Challenges faced by women in career progression", "Pressures and expectations on women within marriage, often related to dowry or abuse", "Difficulties in obtaining marriage certificates", "Issues related to women's property rights after divorce"],
-    "correctAnswer": "Pressures and expectations on women within marriage, often related to dowry or abuse"
+    "question": "Which Union Minister announced the formation of the panel to examine \"artificial\" demographic changes?",
+    "options": ["Rajnath Singh", "Nirmala Sitharaman", "Amit Shah", "S. Jaishankar"],
+    "correctAnswer": "Amit Shah"
   },
   {
     "id": 25,
-    "question": "In the context of India's defense forces, what does the acronym IAF stand for?",
-    "options": ["Indian Army Force", "Indian Aviation Force", "Indian Air Force", "Internal Armed Forces"],
-    "correctAnswer": "Indian Air Force"
+    "question": "The panel's work on demographic changes could potentially influence policy in states like Telangana and Andhra Pradesh by addressing concerns related to:",
+    "options": ["Voter ID registrations", "Urban planning", "Influx of non-local populations", "Agricultural practices"],
+    "correctAnswer": "Influx of non-local populations"
   }
 ]
