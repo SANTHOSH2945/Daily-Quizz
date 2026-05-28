@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "What agency is involved in the Twisha Sharma death probe mentioned in the news?",
-    "options": ["NIA", "ED", "CBI", "SIT"],
-    "correctAnswer": "CBI"
+    "question": "According to a recent report, which Indian organization may be utilized to transport question papers for the NEET retest?",
+    "options": ["Indian Air Force (IAF)", "Indian Railways", "India Post", "Border Security Force (BSF)"],
+    "correctAnswer": "Indian Air Force (IAF)"
   },
   {
     "id": 2,
-    "question": "The news refers to the 'Sada suhagan' trap, relating to what social issue in India?",
-    "options": ["Child marriage", "Dowry deaths", "Human trafficking", "Gender-based violence in public spaces"],
-    "correctAnswer": "Dowry deaths"
+    "question": "The NEET exam, for which a retest was discussed, is primarily an entrance test for which type of courses in India?",
+    "options": ["Engineering", "Medical", "Law", "Management"],
+    "correctAnswer": "Medical"
   },
   {
     "id": 3,
-    "question": "What legal action did the CBI take against Twisha Sharma’s mother-in-law, as per the news?",
-    "options": ["Issued a summons", "Filed an FIR", "Detained after anticipatory bail cancellation", "Sentenced to jail"],
-    "correctAnswer": "Detained after anticipatory bail cancellation"
+    "question": "While not explicitly detailed in the provided context, the need for a 'retest' for a national examination like NEET usually arises due to what reason?",
+    "options": ["Lack of student participation", "Severe weather conditions", "Paper leaks or irregularities", "Changes in syllabus"],
+    "correctAnswer": "Paper leaks or irregularities"
   },
   {
     "id": 4,
-    "question": "The 'Sada suhagan' trap, highlighted in the news, refers to the societal pressure and context surrounding which type of tragic incidents?",
-    "options": ["Suicides among farmers", "Industrial accidents", "Marital abuse and dowry-related deaths", "Road fatalities"],
-    "correctAnswer": "Marital abuse and dowry-related deaths"
+    "question": "What does the acronym NEET stand for in the context of medical entrance examinations in India?",
+    "options": ["National Engineering and Eligibility Test", "National Educational Entrance Test", "National Eligibility cum Entrance Test", "National Examination for Engineering & Technology"],
+    "correctAnswer": "National Eligibility cum Entrance Test"
   },
   {
     "id": 5,
-    "question": "In the context of the Twisha Sharma death probe, what broader issue is being addressed concerning women's marital rights and safety?",
-    "options": ["Property inheritance laws", "Workplace harassment", "The ability of women to leave abusive marriages", "Access to education"],
-    "correctAnswer": "The ability of women to leave abusive marriages"
+    "question": "Which national agency is primarily responsible for conducting examinations like NEET in India?",
+    "options": ["UPSC", "SSC", "NTA", "AICTE"],
+    "correctAnswer": "NTA"
   },
   {
     "id": 6,
-    "question": "Which country reportedly halted Indian mango imports due to quarantine concerns?",
-    "options": ["USA", "Japan", "Germany", "Australia"],
-    "correctAnswer": "Japan"
+    "question": "Which Union Minister stated that a panel would examine the need for a new law regarding 'artificial' demographic change?",
+    "options": ["Nitin Gadkari", "Amit Shah", "Nirmala Sitharaman", "S. Jaishankar"],
+    "correctAnswer": "Amit Shah"
   },
   {
     "id": 7,
-    "question": "Which major mango variety, often exported from India, is prominently cultivated in Andhra Pradesh?",
-    "options": ["Alphonso", "Kesar", "Banganapalli", "Dasheri"],
-    "correctAnswer": "Banganapalli"
+    "question": "Who is reported to head the high-level committee tasked with examining 'artificial' demographic shifts due to illegal immigration?",
+    "options": ["Justice R.F. Nariman", "Justice Prakash Prabhakar Naoleker", "Justice D.Y. Chandrachud", "Justice U.U. Lalit"],
+    "correctAnswer": "Justice Prakash Prabhakar Naoleker"
   },
   {
     "id": 8,
-    "question": "What was the specific reason cited by Japan for halting Indian mango imports?",
-    "options": ["High prices", "Quality control issues", "Quarantine concerns", "Trade disputes"],
-    "correctAnswer": "Quarantine concerns"
+    "question": "What is the primary concern that the panel on 'artificial' demographic change is tasked with examining?",
+    "options": ["Urbanization trends", "Internal migration patterns", "Illegal immigration", "Population growth rates"],
+    "correctAnswer": "Illegal immigration"
   },
   {
     "id": 9,
-    "question": "Telangana is a significant producer of mangoes. Which of these varieties is commonly grown in the state, alongside Banganapalli?",
-    "options": ["Langra", "Himayat", "Chausa", "Badami"],
-    "correctAnswer": "Himayat"
+    "question": "How long has the panel examining 'artificial' demographic changes been given to submit its report?",
+    "options": ["Six months", "One year", "Two years", "Three months"],
+    "correctAnswer": "One year"
   },
   {
     "id": 10,
-    "question": "The halt in Indian mango imports by Japan primarily impacts which sector of India's economy?",
-    "options": ["Manufacturing", "Information Technology", "Agriculture and Exports", "Tourism"],
-    "correctAnswer": "Agriculture and Exports"
+    "question": "What is one potential outcome the panel on 'artificial' demographic changes will assess the need for?",
+    "options": ["New economic policy", "New law", "Educational reforms", "Environmental regulations"],
+    "correctAnswer": "New law"
   },
   {
     "id": 11,
-    "question": "Which regulatory body recently tightened food safety rules for products like besan, seafood, and seed oils in India?",
-    "options": ["BIS", "AGMARK", "FSSAI", "CCI"],
-    "correctAnswer": "FSSAI"
+    "question": "Which Indian regulatory body recently tightened food safety rules for products like besan, seafood, and seed oils?",
+    "options": ["BIS (Bureau of Indian Standards)", "FSSAI (Food Safety and Standards Authority of India)", "AGMARK (Agricultural Mark)", "EIC (Export Inspection Council)"],
+    "correctAnswer": "FSSAI (Food Safety and Standards Authority of India)"
   },
   {
     "id": 12,
-    "question": "Andhra Pradesh, with its extensive coastline, is a significant producer and exporter of which food product that recently saw tightened FSSAI regulations?",
-    "options": ["Besan", "Seed oils", "Seafood", "Dairy products"],
-    "correctAnswer": "Seafood"
-  },
-  {
-    "id": 13,
-    "question": "FSSAI, the central authority for food safety, stands for what?",
-    "options": ["Food Standard Safety Authority of India", "Food Safety and Standards Authority of India", "Federal System for Safe Agriculture in India", "Food Security and Supply Association of India"],
+    "question": "What does FSSAI stand for in the context of food safety in India?",
+    "options": ["Food Security and Sanitation Act of India", "Food Standards and Safety Association of India", "Food Safety and Standards Authority of India", "Federal System for Safe Agriculture in India"],
     "correctAnswer": "Food Safety and Standards Authority of India"
   },
   {
+    "id": 13,
+    "question": "What is the primary objective of the FSSAI in India?",
+    "options": ["To promote agricultural exports", "To ensure food safety and quality standards", "To regulate food pricing", "To provide food subsidies"],
+    "correctAnswer": "To ensure food safety and quality standards"
+  },
+  {
     "id": 14,
-    "question": "Besides seafood and seed oils, what other common Indian kitchen ingredient had its safety rules tightened by FSSAI?",
-    "options": ["Rice", "Wheat flour", "Besan", "Sugar"],
-    "correctAnswer": "Besan"
+    "question": "According to recent news, for which specific category of food did FSSAI recently tighten safety rules?",
+    "options": ["Dairy products", "Fresh fruits and vegetables", "Processed snacks", "Besan, seafood, and seed oils"],
+    "correctAnswer": "Besan, seafood, and seed oils"
   },
   {
     "id": 15,
-    "question": "The FSSAI's tightened regulations on food items like seed oils and seafood are primarily aimed at what?",
-    "options": ["Increasing export tariffs", "Promoting local production", "Enhancing consumer safety and product quality", "Reducing food waste"],
-    "correctAnswer": "Enhancing consumer safety and product quality"
+    "question": "Under which Union Ministry does the Food Safety and Standards Authority of India (FSSAI) primarily operate?",
+    "options": ["Ministry of Agriculture & Farmers Welfare", "Ministry of Commerce & Industry", "Ministry of Health and Family Welfare", "Ministry of Consumer Affairs, Food & Public Distribution"],
+    "correctAnswer": "Ministry of Health and Family Welfare"
   },
   {
     "id": 16,
-    "question": "The Centre recently ordered a wider crackdown on what type of drugs across India?",
-    "options": ["Generic drugs", "Over-the-counter drugs", "Spurious drugs", "Ayurvedic medicines"],
-    "correctAnswer": "Spurious drugs"
+    "question": "A caste census, a topic of political discussion in India, primarily aims to collect data for what purpose?",
+    "options": ["Determining electoral constituencies", "Assessing national security risks", "Understanding socio-economic and educational backwardness", "Forecasting climate patterns"],
+    "correctAnswer": "Understanding socio-economic and educational backwardness"
   },
   {
     "id": 17,
-    "question": "The Centre's crackdown on spurious drugs is specifically targeting markets in which geographical areas?",
-    "options": ["Urban metropolitan areas", "Export-oriented zones", "Rural markets", "Industrial clusters"],
-    "correctAnswer": "Rural markets"
+    "question": "Which major political party's national push for caste data was mentioned in the context of a state-level report?",
+    "options": ["Bharatiya Janata Party (BJP)", "Indian National Congress", "Aam Aadmi Party (AAP)", "Bahujan Samaj Party (BSP)"],
+    "correctAnswer": "Indian National Congress"
   },
   {
     "id": 18,
-    "question": "What is the main objective behind the wider crackdown on spurious drugs by the Indian government?",
-    "options": ["To boost pharmaceutical exports", "To ensure public health and safety", "To reduce drug prices", "To promote traditional medicine"],
-    "correctAnswer": "To ensure public health and safety"
+    "question": "What kind of social data does a comprehensive caste census typically aim to collect in India?",
+    "options": ["Only religious affiliations", "Demographic, socio-economic, and educational status of various castes", "Only political affiliations", "Data on migratory birds"],
+    "correctAnswer": "Demographic, socio-economic, and educational status of various castes"
   },
   {
     "id": 19,
-    "question": "States like Telangana and Andhra Pradesh would benefit from the national crackdown on spurious drugs primarily by:",
-    "options": ["Attracting foreign investment in pharma", "Ensuring the health and safety of their citizens", "Increasing revenue from drug sales", "Streamlining drug approval processes"],
-    "correctAnswer": "Ensuring the health and safety of their citizens"
+    "question": "Rajya Sabha, one of the two houses of the Indian Parliament, is also known by what other name?",
+    "options": ["House of the People", "Council of States", "Lower House", "State Assembly"],
+    "correctAnswer": "Council of States"
   },
   {
     "id": 20,
-    "question": "What type of regulatory framework is being reinforced by the Centre's order for a wider crackdown on spurious drugs?",
-    "options": ["Environmental regulations", "Financial regulations", "Pharmaceutical quality control and safety regulations", "Labour laws"],
-    "correctAnswer": "Pharmaceutical quality control and safety regulations"
+    "question": "How are members of the Rajya Sabha generally elected in India?",
+    "options": ["Directly by the people through universal adult suffrage", "Indirectly by the elected members of state legislative assemblies", "Nominated by the President of India based on merit", "Elected by district-level councils"],
+    "correctAnswer": "Indirectly by the elected members of state legislative assemblies"
   },
   {
     "id": 21,
-    "question": "Which Indian conglomerate recently acquired Israel's Port of Haifa, as per the news?",
-    "options": ["Reliance Industries", "Tata Group", "Adani Group", "Mahindra Group"],
-    "correctAnswer": "Adani Group"
+    "question": "What is the maximum prescribed strength of the Rajya Sabha, the Upper House of the Indian Parliament?",
+    "options": ["245 members", "250 members", "545 members", "550 members"],
+    "correctAnswer": "250 members"
   },
   {
     "id": 22,
-    "question": "The acquisition of Haifa Port is considered critical for India's participation in which ambitious international connectivity project?",
-    "options": ["Belt and Road Initiative", "Indo-Pacific Economic Framework", "India-Middle East-Europe Economic Corridor", "Trans-Pacific Partnership"],
-    "correctAnswer": "India-Middle East-Europe Economic Corridor"
+    "question": "Which central investigative agency is often involved in high-profile criminal probes across India, such as the Twisha death investigation mentioned in the news?",
+    "options": ["RAW (Research and Analysis Wing)", "NIA (National Investigation Agency)", "CBI (Central Bureau of Investigation)", "IB (Intelligence Bureau)"],
+    "correctAnswer": "CBI (Central Bureau of Investigation)"
   },
   {
     "id": 23,
-    "question": "How does the improved trade connectivity through ports like Haifa potentially benefit industries in landlocked Telangana?",
-    "options": ["By directly connecting its waterways", "By reducing transportation costs for exports and imports via major Indian ports", "By attracting direct foreign tourism", "By increasing local agricultural output"],
-    "correctAnswer": "By reducing transportation costs for exports and imports via major Indian ports"
+    "question": "Which primary legislation in India deals with the prohibition of giving or taking dowry and related offenses?",
+    "options": ["Protection of Women from Domestic Violence Act", "Hindu Marriage Act", "Dowry Prohibition Act", "Indian Penal Code (IPC)"],
+    "correctAnswer": "Dowry Prohibition Act"
   },
   {
     "id": 24,
-    "question": "India's strategic foothold in the Middle East, bolstered by the Haifa Port acquisition, is vital for which aspect of its national interest?",
-    "options": ["Cultural exchange programs", "Trade and strategic ambitions", "Military base establishment", "Space exploration partnerships"],
-    "correctAnswer": "Trade and strategic ambitions"
+    "question": "The term 'Sada suhagan trap,' mentioned in a news headline, is associated with what pervasive social issue in India?",
+    "options": ["Challenges faced by women in career progression", "Pressures and expectations on women within marriage, often related to dowry or abuse", "Difficulties in obtaining marriage certificates", "Issues related to women's property rights after divorce"],
+    "correctAnswer": "Pressures and expectations on women within marriage, often related to dowry or abuse"
   },
   {
     "id": 25,
-    "question": "Which major port city in Andhra Pradesh serves as a key gateway for trade on India's East Coast, complementing the focus on international connectivity?",
-    "options": ["Kakinada", "Machilipatnam", "Visakhapatnam", "Krishnapatnam"],
-    "correctAnswer": "Visakhapatnam"
+    "question": "In the context of India's defense forces, what does the acronym IAF stand for?",
+    "options": ["Indian Army Force", "Indian Aviation Force", "Indian Air Force", "Internal Armed Forces"],
+    "correctAnswer": "Indian Air Force"
   }
 ]
