@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "What constitutional article did the Supreme Court invoke to issue directions to High Courts regarding judgment delays?",
-    "options": ["Article 32", "Article 142", "Article 226", "Article 356"],
-    "correctAnswer": "Article 142"
+    "question": "What meteorological phenomenon is linked to the forecast of low rainfall in India for 2026?",
+    "options": ["El Nino", "La Nina", "Monsoon Depression", "Cyclone"],
+    "correctAnswer": "El Nino"
   },
   {
     "id": 2,
-    "question": "According to the Supreme Court's new directions, what is the maximum period within which reserved judgments must now be pronounced by High Courts?",
-    "options": ["One month", "Three months", "Six months", "One year"],
-    "correctAnswer": "Three months"
+    "question": "According to the IMD forecast, what percentage of average rainfall is expected in India?",
+    "options": ["80%", "90%", "100%", "110%"],
+    "correctAnswer": "90%"
   },
   {
     "id": 3,
-    "question": "Within what timeframe must bail orders be delivered by High Courts, as per the recent Supreme Court directives?",
-    "options": ["Within 72 hours", "Within one week", "Same or next day", "Within 15 days"],
-    "correctAnswer": "Same or next day"
+    "question": "Which regions of India are specifically mentioned as potentially struggling with insufficient moisture due to the dry monsoon forecast?",
+    "options": ["Northeast India", "Central, South Peninsular, and Northwest India", "Western India", "Eastern Coastal India"],
+    "correctAnswer": "Central, South Peninsular, and Northwest India"
   },
   {
     "id": 4,
-    "question": "How quickly must all judgments be uploaded online after pronouncement, according to the Supreme Court's recent directions?",
-    "options": ["Within 12 hours", "Within 24 hours", "Within 48 hours", "Within 7 days"],
-    "correctAnswer": "Within 24 hours"
+    "question": "When are heatwave advisories expected to begin for several states across India?",
+    "options": ["May", "June", "July", "August"],
+    "correctAnswer": "June"
   },
   {
     "id": 5,
-    "question": "The Supreme Court issued directions to High Courts to prevent delays in which specific judicial process, a measure that applies to the High Courts of Telangana and Andhra Pradesh?",
-    "options": ["Case filing", "Witness summons", "Judgment delivery", "Appeal processing"],
-    "correctAnswer": "Judgment delivery"
+    "question": "What is the projected severity of rainfall in India for 2026, according to the news?",
+    "options": ["Highest in a decade", "Average", "11-year low", "Above average"],
+    "correctAnswer": "11-year low"
   },
   {
     "id": 6,
-    "question": "Which major national political party recently saw its Chief Minister in Karnataka resign, leading to significant internal discussions?",
-    "options": ["Bharatiya Janata Party (BJP)", "Indian National Congress", "Janata Dal (Secular)", "Aam Aadmi Party (AAP)"],
-    "correctAnswer": "Indian National Congress"
+    "question": "Which part of India is expected to receive adequate rains despite the overall dry monsoon forecast?",
+    "options": ["Central India", "South Peninsular India", "Northeast India", "Northwest India"],
+    "correctAnswer": "Northeast India"
   },
   {
     "id": 7,
-    "question": "Who resigned as the Chief Minister of Karnataka, prompting discussions within the Congress party about a new power arrangement?",
-    "options": ["BS Yeddyurappa", "Basavaraj Bommai", "HD Kumaraswamy", "Siddaramaiah"],
-    "correctAnswer": "Siddaramaiah"
+    "question": "What kind of advisories are 11 states expected to face starting June?",
+    "options": ["Flood advisories", "Cold wave advisories", "Heatwave advisories", "Cyclone advisories"],
+    "correctAnswer": "Heatwave advisories"
   },
   {
     "id": 8,
-    "question": "Who is named as a key figure in the Congress party's leadership discussions following the Karnataka CM's resignation, potentially for a new leadership role?",
-    "options": ["Priyanka Gandhi Vadra", "Mallikarjun Kharge", "DK Shivakumar", "KC Venugopal"],
-    "correctAnswer": "DK Shivakumar"
+    "question": "The IMD's forecast of 90% of average rainfall is stirring concern due to the onset of which weather pattern?",
+    "options": ["Westerly Disturbances", "Indian Ocean Dipole", "El Nino", "Arctic Oscillation"],
+    "correctAnswer": "El Nino"
   },
   {
     "id": 9,
-    "question": "According to the news, which high-profile Congress leaders did Siddaramaiah and Shivakumar meet in Delhi regarding the new cabinet and power arrangement in Karnataka?",
-    "options": ["P Chidambaram and Kapil Sibal", "Sharad Pawar and Mamata Banerjee", "Rahul Gandhi and Sonia Gandhi", "Ghulam Nabi Azad and Anand Sharma"],
-    "correctAnswer": "Rahul Gandhi and Sonia Gandhi"
+    "question": "How many states are expected to face heatwave advisories starting June?",
+    "options": ["5", "8", "11", "15"],
+    "correctAnswer": "11"
   },
   {
     "id": 10,
-    "question": "What position did Thaawarchand Gehlot hold in Karnataka that allowed him to accept Siddaramaiah's resignation as CM?",
-    "options": ["Chief Secretary", "Speaker of Assembly", "Governor", "Leader of Opposition"],
-    "correctAnswer": "Governor"
+    "question": "The news indicates that rainfall in India may see an 11-year low in which year?",
+    "options": ["2024", "2025", "2026", "2027"],
+    "correctAnswer": "2026"
   },
   {
     "id": 11,
-    "question": "The recent political developments in Karnataka involved discussions about the composition of the new cabinet and what other key nominations?",
-    "options": ["Chief Justice appointments", "Rajya Sabha nominations", "Ambassadorial postings", "State Election Commission members"],
-    "correctAnswer": "Rajya Sabha nominations"
+    "question": "Which national examination is currently under scrutiny due to paper leak issues?",
+    "options": ["JEE Advanced", "UPSC Civil Services", "NEET UG", "CAT"],
+    "correctAnswer": "NEET UG"
   },
   {
     "id": 12,
-    "question": "In which city were the high-level Congress party discussions held regarding Karnataka's new government formation, involving Siddaramaiah and Shivakumar?",
-    "options": ["Bengaluru", "Hyderabad", "Delhi", "Chennai"],
-    "correctAnswer": "Delhi"
+    "question": "Who is reportedly personally monitoring the NEET UG re-examination process?",
+    "options": ["Union Education Minister", "Chief Justice of India", "Prime Minister Modi", "NTA Director General"],
+    "correctAnswer": "Prime Minister Modi"
   },
   {
     "id": 13,
-    "question": "The Congress party's internal discussions in Karnataka, following the CM's resignation, were reportedly centered on what specific 'arrangement'?",
-    "options": ["Coalition formation", "Electoral alliances", "New power arrangement", "Party manifesto revision"],
-    "correctAnswer": "New power arrangement"
+    "question": "What new mechanisms did the Centre inform the Supreme Court about to secure the re-examination?",
+    "options": ["Online-only exams", "Randomized question papers", "Enhanced security mechanisms", "Reduced syllabus"],
+    "correctAnswer": "Enhanced security mechanisms"
   },
   {
     "id": 14,
-    "question": "Who did DK Shivakumar refer to as a 'pillar of strength' in an emotional note after the recent political changes in Karnataka?",
-    "options": ["Mallikarjun Kharge", "Rahul Gandhi", "Sonia Gandhi", "Siddaramaiah"],
-    "correctAnswer": "Siddaramaiah"
+    "question": "Which agency has implemented extensive reforms to prevent future irregularities in NEET?",
+    "options": ["CBSE", "UGC", "NTA", "AICTE"],
+    "correctAnswer": "NTA"
   },
   {
     "id": 15,
-    "question": "The news implies that the challenge for the Congress in Karnataka 'may not be over yet'. What kind of challenge is suggested?",
-    "options": ["Economic recovery", "Inter-state border disputes", "Leadership stability and power-sharing", "Agricultural crisis"],
-    "correctAnswer": "Leadership stability and power-sharing"
+    "question": "What is one of the enhanced security measures implemented by the NTA for examinations?",
+    "options": ["Biometric scanning", "Enhanced CCTV surveillance", "Mandatory online proctoring", "Metal detectors at every desk"],
+    "correctAnswer": "Enhanced CCTV surveillance"
   },
   {
     "id": 16,
-    "question": "After Siddaramaiah's resignation, which official body in Karnataka was dissolved by the Governor?",
-    "options": ["The State Legislative Council", "The State Planning Board", "The Cabinet", "The Public Service Commission"],
-    "correctAnswer": "The Cabinet"
+    "question": "The Supreme Court emphasized the need to make the NEET exam 'fool-proof' to avoid disappointing whom?",
+    "options": ["Exam invigilators", "Coaching institutes", "Youngsters/students", "Government officials"],
+    "correctAnswer": "Youngsters/students"
   },
   {
     "id": 17,
-    "question": "The crucial meetings regarding Karnataka's political future were held at Sonia Gandhi's residence, located at which famous address?",
-    "options": ["7 Race Course Road", "10 Janpath", "12 Tughlaq Lane", "24 Akbar Road"],
-    "correctAnswer": "10 Janpath"
+    "question": "What type of analysis has the NTA implemented as part of its reforms to ensure fairness?",
+    "options": ["Statistical analysis", "Forensic analysis", "Psychometric analysis", "Demographic analysis"],
+    "correctAnswer": "Forensic analysis"
   },
   {
     "id": 18,
-    "question": "According to party sources, what role was Siddaramaiah expected to play after his resignation as CM of Karnataka?",
-    "options": ["Taking a sabbatical from politics", "Leading the opposition", "Conveying his views on the new power arrangement", "Becoming a Rajya Sabha MP"],
-    "correctAnswer": "Conveying his views on the new power arrangement"
+    "question": "On what date was the re-examination for NEET UG mentioned as happening in the news?",
+    "options": ["June 15", "June 21", "July 1", "July 7"],
+    "correctAnswer": "June 21"
   },
   {
     "id": 19,
-    "question": "Who is the current President of the Indian National Congress party, mentioned in the context of high-level meetings concerning Karnataka's leadership?",
-    "options": ["Rahul Gandhi", "Sonia Gandhi", "Mallikarjun Kharge", "Priyanka Gandhi Vadra"],
-    "correctAnswer": "Mallikarjun Kharge"
+    "question": "What did the Supreme Court call the situation regarding the NEET paper leak, highlighting its impact on students?",
+    "options": ["Challenging", "Traumatic", "Unfortunate", "Manageable"],
+    "correctAnswer": "Traumatic"
   },
   {
     "id": 20,
-    "question": "Which two prominent members of the Gandhi family were involved in the discussions regarding the Congress party's leadership in Karnataka?",
-    "options": ["Varun Gandhi and Maneka Gandhi", "Sanjay Gandhi and Indira Gandhi", "Rahul Gandhi and Sonia Gandhi", "Feroze Gandhi and Rajiv Gandhi"],
-    "correctAnswer": "Rahul Gandhi and Sonia Gandhi"
+    "question": "The NTA's reforms aim to prevent future 'irregularities' in examinations and ensure what for students?",
+    "options": ["Easier questions", "Higher scores", "Fairness", "Quicker results"],
+    "correctAnswer": "Fairness"
   },
   {
     "id": 21,
-    "question": "What is the primary objective behind the Supreme Court invoking Article 142 to issue directions to all High Courts across India, including those in Andhra Pradesh and Telangana?",
-    "options": ["To increase the number of judges", "To streamline judicial appointments", "To reduce judicial delays", "To promote alternative dispute resolution"],
-    "correctAnswer": "To reduce judicial delays"
+    "question": "Which central agency is conducting searches in relation to a Pakistan-linked terror plot?",
+    "options": ["CBI", "RAW", "NIA", "IB"],
+    "correctAnswer": "NIA"
   },
   {
     "id": 22,
-    "question": "The Supreme Court's directions regarding expedited judgment delivery and online uploading apply to which specific level of courts in India?",
-    "options": ["District Courts", "Magistrate Courts", "High Courts", "Tribunals"],
-    "correctAnswer": "High Courts"
+    "question": "What method was used by the alleged Pakistani operative to procure arms, ammunition, and IEDs?",
+    "options": ["Sea route", "Road transport", "Drone drops", "Human couriers"],
+    "correctAnswer": "Drone drops"
   },
   {
     "id": 23,
-    "question": "The resignation of Siddaramaiah as CM of Karnataka was officially accepted by which state constitutional authority?",
-    "options": ["The Chief Justice of Karnataka High Court", "The Speaker of the Legislative Assembly", "The Governor of Karnataka", "The Chief Secretary of the State"],
-    "correctAnswer": "The Governor of Karnataka"
+    "question": "What specific items were procured via drone drops in the terror conspiracy case?",
+    "options": ["Drugs and cash", "Arms, ammunition, and IEDs", "Fake currency and documents", "Electronic gadgets and data"],
+    "correctAnswer": "Arms, ammunition, and IEDs"
   },
   {
     "id": 24,
-    "question": "What specific aspect of governance was a primary subject of discussion during the Congress party's meetings in Delhi concerning the future government of Karnataka?",
-    "options": ["State budget allocations", "Cabinet composition", "Public policy reforms", "Inter-state water disputes"],
-    "correctAnswer": "Cabinet composition"
+    "question": "What was the suspected ultimate goal of the terror plot involving drone-delivered arms?",
+    "options": ["Smuggling operations", "Espionage activities", "Planned blasts in Indian cities", "Cross-border trade"],
+    "correctAnswer": "Planned blasts in Indian cities"
   },
   {
     "id": 25,
-    "question": "The news refers to DK Shivakumar's 'moment' arriving in Karnataka politics following Siddaramaiah's resignation. What does this likely signify for Shivakumar?",
-    "options": ["His retirement from active politics", "A potential for a higher leadership role within the state", "A shift to national party politics", "Becoming a Member of Parliament"],
-    "correctAnswer": "A potential for a higher leadership role within the state"
+    "question": "How many states were mentioned in the news as being involved in the NIA's search operations for this terror conspiracy?",
+    "options": ["2", "3", "4", "5"],
+    "correctAnswer": "4"
   }
 ]
