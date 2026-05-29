@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "What meteorological phenomenon is linked to the forecast of low rainfall in India for 2026?",
-    "options": ["El Nino", "La Nina", "Monsoon Depression", "Cyclone"],
-    "correctAnswer": "El Nino"
+    "question": "Who recently received additional charge as the Chairman of DRDO, a significant defense organization with centers in Telangana and Andhra Pradesh?",
+    "options": ["Samir Kamat", "Rajesh Kumar Singh", "Ajay Kumar", "G. Satheesh Reddy"],
+    "correctAnswer": "Rajesh Kumar Singh"
   },
   {
     "id": 2,
-    "question": "According to the IMD forecast, what percentage of average rainfall is expected in India?",
-    "options": ["80%", "90%", "100%", "110%"],
-    "correctAnswer": "90%"
+    "question": "What national defense organization, known for its research facilities in Hyderabad and Visakhapatnam, recently saw its Defense Secretary given additional charge of its chairmanship?",
+    "options": ["ISRO", "DRDO", "HAL", "BHEL"],
+    "correctAnswer": "DRDO"
   },
   {
     "id": 3,
-    "question": "Which regions of India are specifically mentioned as potentially struggling with insufficient moisture due to the dry monsoon forecast?",
-    "options": ["Northeast India", "Central, South Peninsular, and Northwest India", "Western India", "Eastern Coastal India"],
-    "correctAnswer": "Central, South Peninsular, and Northwest India"
+    "question": "Which major city in Telangana hosts a prominent DRDO missile complex and several other defense research laboratories?",
+    "options": ["Warangal", "Karimnagar", "Hyderabad", "Nizamabad"],
+    "correctAnswer": "Hyderabad"
   },
   {
     "id": 4,
-    "question": "When are heatwave advisories expected to begin for several states across India?",
-    "options": ["May", "June", "July", "August"],
-    "correctAnswer": "June"
+    "question": "Samir Kamat, the former Chairman of DRDO, recently retired. Who was given the additional charge to succeed him?",
+    "options": ["Ajit Doval", "Rajnath Singh", "Rajesh Kumar Singh", "V.K. Saraswat"],
+    "correctAnswer": "Rajesh Kumar Singh"
   },
   {
     "id": 5,
-    "question": "What is the projected severity of rainfall in India for 2026, according to the news?",
-    "options": ["Highest in a decade", "Average", "11-year low", "Above average"],
-    "correctAnswer": "11-year low"
+    "question": "In which coastal city of Andhra Pradesh does DRDO maintain significant facilities, including those focused on naval science and technology?",
+    "options": ["Vijayawada", "Tirupati", "Nellore", "Visakhapatnam"],
+    "correctAnswer": "Visakhapatnam"
   },
   {
     "id": 6,
-    "question": "Which part of India is expected to receive adequate rains despite the overall dry monsoon forecast?",
-    "options": ["Central India", "South Peninsular India", "Northeast India", "Northwest India"],
-    "correctAnswer": "Northeast India"
+    "question": "The primary function of DRDO, an organization with strong presence in Telugu states, is centered around what?",
+    "options": ["Space exploration", "Civilian infrastructure development", "Defense research and development", "Agricultural innovation"],
+    "correctAnswer": "Defense research and development"
   },
   {
     "id": 7,
-    "question": "What kind of advisories are 11 states expected to face starting June?",
-    "options": ["Flood advisories", "Cold wave advisories", "Heatwave advisories", "Cyclone advisories"],
-    "correctAnswer": "Heatwave advisories"
+    "question": "Rajesh Kumar Singh's additional charge as DRDO Chairman is seen as crucial for advancing India's defense capabilities. What is his primary role in the government apart from this additional charge?",
+    "options": ["Finance Secretary", "Home Secretary", "Defense Secretary", "Foreign Secretary"],
+    "correctAnswer": "Defense Secretary"
   },
   {
     "id": 8,
-    "question": "The IMD's forecast of 90% of average rainfall is stirring concern due to the onset of which weather pattern?",
-    "options": ["Westerly Disturbances", "Indian Ocean Dipole", "El Nino", "Arctic Oscillation"],
-    "correctAnswer": "El Nino"
+    "question": "The news about the DRDO chairmanship is significant for states like Telangana and Andhra Pradesh due to the presence of multiple DRDO labs. What kind of specialized research is often conducted at these facilities in the region?",
+    "options": ["Textile manufacturing", "Renewable energy systems", "Advanced avionics and missile technology", "Dairy farming techniques"],
+    "correctAnswer": "Advanced avionics and missile technology"
   },
   {
     "id": 9,
-    "question": "How many states are expected to face heatwave advisories starting June?",
-    "options": ["5", "8", "11", "15"],
-    "correctAnswer": "11"
+    "question": "Which national education board, widely followed by students in Telangana and Andhra Pradesh, recently faced issues with its Online System of Manual Evaluation (OSM)?",
+    "options": ["ICSE", "NIOS", "CBSE", "State Boards of Education"],
+    "correctAnswer": "CBSE"
   },
   {
     "id": 10,
-    "question": "The news indicates that rainfall in India may see an 11-year low in which year?",
-    "options": ["2024", "2025", "2026", "2027"],
-    "correctAnswer": "2026"
+    "question": "Approximately how many answer-sheet mix-ups were detected in the recent CBSE OSM evaluation system row, affecting students nationwide including those from Telugu states?",
+    "options": ["Around 5", "Around 10", "Around 20", "Around 50"],
+    "correctAnswer": "Around 20"
   },
   {
     "id": 11,
-    "question": "Which national examination is currently under scrutiny due to paper leak issues?",
-    "options": ["JEE Advanced", "UPSC Civil Services", "NEET UG", "CAT"],
-    "correctAnswer": "NEET UG"
+    "question": "The CBSE's digital evaluation system faced problems, leading to a significant number of answer sheets requiring manual re-evaluation. Approximately how many copies were manually evaluated due to these glitches?",
+    "options": ["Over 1,300", "Over 13,000", "Over 130,000", "Over 1.3 million"],
+    "correctAnswer": "Over 13,000"
   },
   {
     "id": 12,
-    "question": "Who is reportedly personally monitoring the NEET UG re-examination process?",
-    "options": ["Union Education Minister", "Chief Justice of India", "Prime Minister Modi", "NTA Director General"],
-    "correctAnswer": "Prime Minister Modi"
+    "question": "What was a key consequence of the technical glitches and answer-sheet mix-ups in the CBSE's new evaluation system?",
+    "options": ["Cancellation of exams", "Delay in result declaration", "Delay in the post-result verification portal", "Re-evaluation of all answer sheets"],
+    "correctAnswer": "Delay in the post-result verification portal"
   },
   {
     "id": 13,
-    "question": "What new mechanisms did the Centre inform the Supreme Court about to secure the re-examination?",
-    "options": ["Online-only exams", "Randomized question papers", "Enhanced security mechanisms", "Reduced syllabus"],
-    "correctAnswer": "Enhanced security mechanisms"
+    "question": "The \"OSM\" in the CBSE OSM row refers to what aspect of their evaluation process?",
+    "options": ["Official Study Material", "Online System of Manual Evaluation", "Open Source Module", "Optimal Scoring Method"],
+    "correctAnswer": "Online System of Manual Evaluation"
   },
   {
     "id": 14,
-    "question": "Which agency has implemented extensive reforms to prevent future irregularities in NEET?",
-    "options": ["CBSE", "UGC", "NTA", "AICTE"],
-    "correctAnswer": "NTA"
+    "question": "The reported issues with CBSE's evaluation system, which caused concern among students and parents across India, including Telangana and Andhra Pradesh, primarily stemmed from problems with:",
+    "options": ["Question paper leaks", "Poor scanning and digital evaluation accuracy", "Lack of examiners", "Syllabus changes"],
+    "correctAnswer": "Poor scanning and digital evaluation accuracy"
   },
   {
     "id": 15,
-    "question": "What is one of the enhanced security measures implemented by the NTA for examinations?",
-    "options": ["Biometric scanning", "Enhanced CCTV surveillance", "Mandatory online proctoring", "Metal detectors at every desk"],
-    "correctAnswer": "Enhanced CCTV surveillance"
+    "question": "Prime Minister Modi and Pope Leo XIV share a common stance on AI governance. What ethical principle do they collectively emphasize for AI development, which is particularly relevant for tech hubs like Hyderabad?",
+    "options": ["Efficiency above all", "Profit maximization", "Ethics before efficiency", "Data collection priority"],
+    "correctAnswer": "Ethics before efficiency"
   },
   {
     "id": 16,
-    "question": "The Supreme Court emphasized the need to make the NEET exam 'fool-proof' to avoid disappointing whom?",
-    "options": ["Exam invigilators", "Coaching institutes", "Youngsters/students", "Government officials"],
-    "correctAnswer": "Youngsters/students"
+    "question": "The shared vision of PM Modi and Pope Leo XIV regarding AI underscores a global consensus for what type of AI development?",
+    "options": ["Autonomous, unchecked AI", "Algorithm-driven, data-centric AI", "Human-centric and accountable AI", "AI purely for economic growth"],
+    "correctAnswer": "Human-centric and accountable AI"
   },
   {
     "id": 17,
-    "question": "What type of analysis has the NTA implemented as part of its reforms to ensure fairness?",
-    "options": ["Statistical analysis", "Forensic analysis", "Psychometric analysis", "Demographic analysis"],
-    "correctAnswer": "Forensic analysis"
+    "question": "Hyderabad in Telangana is a leading center for AI innovation in India. PM Modi's push for ethical AI frameworks directly influences which aspect of the state's burgeoning technology sector?",
+    "options": ["Hardware manufacturing", "Software export regulations", "AI research, development, and deployment practices", "Digital marketing strategies"],
+    "correctAnswer": "AI research, development, and deployment practices"
   },
   {
     "id": 18,
-    "question": "On what date was the re-examination for NEET UG mentioned as happening in the news?",
-    "options": ["June 15", "June 21", "July 1", "July 7"],
-    "correctAnswer": "June 21"
+    "question": "The CBI recently filed charges against 16 individuals, including 5 senior executives, in a case involving which prominent Indian business conglomerate?",
+    "options": ["Tata Group", "Mahindra Group", "Reliance ADAG", "Adani Group"],
+    "correctAnswer": "Reliance ADAG"
   },
   {
     "id": 19,
-    "question": "What did the Supreme Court call the situation regarding the NEET paper leak, highlighting its impact on students?",
-    "options": ["Challenging", "Traumatic", "Unfortunate", "Manageable"],
-    "correctAnswer": "Traumatic"
+    "question": "The ongoing CBI investigation, while national, highlights the importance of corporate governance and legal compliance for businesses operating across all Indian states, including Telangana and Andhra Pradesh. How many senior executives were named in the recent charges related to the Reliance ADAG case?",
+    "options": ["3", "5", "7", "10"],
+    "correctAnswer": "5"
   },
   {
     "id": 20,
-    "question": "The NTA's reforms aim to prevent future 'irregularities' in examinations and ensure what for students?",
-    "options": ["Easier questions", "Higher scores", "Fairness", "Quicker results"],
-    "correctAnswer": "Fairness"
+    "question": "The CBI case involving Reliance ADAG primarily focuses on allegations related to what?",
+    "options": ["Environmental violations", "Anti-trust practices", "Financial irregularities/corruption", "Labor law breaches"],
+    "correctAnswer": "Financial irregularities/corruption"
   },
   {
     "id": 21,
-    "question": "Which central agency is conducting searches in relation to a Pakistan-linked terror plot?",
-    "options": ["CBI", "RAW", "NIA", "IB"],
-    "correctAnswer": "NIA"
+    "question": "The Supreme Court recently expressed concern over a rise in the misuse of certain laws by women. What was the core issue highlighted by the court regarding this misuse?",
+    "options": ["Misuse to evade taxes", "Misuse to gain political power", "Misuse to obtain lucrative financial settlements", "Misuse to secure government jobs"],
+    "correctAnswer": "Misuse to obtain lucrative financial settlements"
   },
   {
     "id": 22,
-    "question": "What method was used by the alleged Pakistani operative to procure arms, ammunition, and IEDs?",
-    "options": ["Sea route", "Road transport", "Drone drops", "Human couriers"],
-    "correctAnswer": "Drone drops"
+    "question": "The Supreme Court's observation that \"Overwhelming Number Of False Cases Overshadowing Genuine Ones\" pertains to the misuse of which category of laws?",
+    "options": ["Land acquisition laws", "Intellectual property laws", "Laws designed for women's protection", "Cybercrime laws"],
+    "correctAnswer": "Laws designed for women's protection"
   },
   {
     "id": 23,
-    "question": "What specific items were procured via drone drops in the terror conspiracy case?",
-    "options": ["Drugs and cash", "Arms, ammunition, and IEDs", "Fake currency and documents", "Electronic gadgets and data"],
-    "correctAnswer": "Arms, ammunition, and IEDs"
+    "question": "The Supreme Court's concerns about legal misuse have implications for the judicial system across all states, including Telangana and Andhra Pradesh. What effect does the rise in false cases have on genuine cases, according to the SC?",
+    "options": ["It expedites genuine cases", "It makes genuine cases harder to prove", "It overshadows genuine cases", "It has no impact on genuine cases"],
+    "correctAnswer": "It overshadows genuine cases"
   },
   {
     "id": 24,
-    "question": "What was the suspected ultimate goal of the terror plot involving drone-delivered arms?",
-    "options": ["Smuggling operations", "Espionage activities", "Planned blasts in Indian cities", "Cross-border trade"],
-    "correctAnswer": "Planned blasts in Indian cities"
+    "question": "The NIA recently conducted raids across four states to dismantle an arms and IED smuggling network. Such national security operations are vital for maintaining peace across India, including Telangana and Andhra Pradesh, by targeting what?",
+    "options": ["Illegal wildlife trade", "Drug trafficking cartels", "Arms and IED smuggling networks", "Counterfeit currency rings"],
+    "correctAnswer": "Arms and IED smuggling networks"
   },
   {
     "id": 25,
-    "question": "How many states were mentioned in the news as being involved in the NIA's search operations for this terror conspiracy?",
-    "options": ["2", "3", "4", "5"],
-    "correctAnswer": "4"
+    "question": "The National Investigation Agency (NIA) is actively working to curb security threats across the country. The recent raids targeted which specific type of criminal activity?",
+    "options": ["Cyber fraud", "Human trafficking", "Arms and IED smuggling", "Online gambling"],
+    "correctAnswer": "Arms and IED smuggling"
   }
 ]
