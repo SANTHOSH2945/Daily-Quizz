@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "What is the integrated emergency helpline number mandated by the Supreme Court for all states, including Telangana and Andhra Pradesh?",
-    "options": ["100", "108", "112", "101"],
-    "correctAnswer": "112"
+    "question": "What constitutional article did the Supreme Court invoke to issue directions to High Courts regarding judgment delays?",
+    "options": ["Article 32", "Article 142", "Article 226", "Article 356"],
+    "correctAnswer": "Article 142"
   },
   {
     "id": 2,
-    "question": "Which body has directed the integration of all emergency helplines into '112' within three months across India?",
-    "options": ["Union Home Ministry", "NITI Aayog", "Supreme Court", "Parliament"],
-    "correctAnswer": "Supreme Court"
-  },
-  {
-    "id": 3,
-    "question": "What is the deadline set by the Supreme Court for the complete integration of emergency helplines into '112' nationwide?",
+    "question": "According to the Supreme Court's new directions, what is the maximum period within which reserved judgments must now be pronounced by High Courts?",
     "options": ["One month", "Three months", "Six months", "One year"],
     "correctAnswer": "Three months"
   },
   {
+    "id": 3,
+    "question": "Within what timeframe must bail orders be delivered by High Courts, as per the recent Supreme Court directives?",
+    "options": ["Within 72 hours", "Within one week", "Same or next day", "Within 15 days"],
+    "correctAnswer": "Same or next day"
+  },
+  {
     "id": 4,
-    "question": "The '112' emergency helpline aims to integrate which of the following existing services?",
-    "options": ["Police", "Fire", "Ambulance", "All of the above"],
-    "correctAnswer": "All of the above"
+    "question": "How quickly must all judgments be uploaded online after pronouncement, according to the Supreme Court's recent directions?",
+    "options": ["Within 12 hours", "Within 24 hours", "Within 48 hours", "Within 7 days"],
+    "correctAnswer": "Within 24 hours"
   },
   {
     "id": 5,
-    "question": "What is the primary objective behind the Supreme Court's directive to integrate emergency helplines into '112' for a unified response?",
-    "options": ["To reduce government expenditure", "To centralize communication", "To ensure faster and unified emergency response", "To create new job opportunities"],
-    "correctAnswer": "To ensure faster and unified emergency response"
+    "question": "The Supreme Court issued directions to High Courts to prevent delays in which specific judicial process, a measure that applies to the High Courts of Telangana and Andhra Pradesh?",
+    "options": ["Case filing", "Witness summons", "Judgment delivery", "Appeal processing"],
+    "correctAnswer": "Judgment delivery"
   },
   {
     "id": 6,
-    "question": "Before the nationwide integration to '112', which existing helpline was primarily used for police emergencies in states like Telangana and Andhra Pradesh?",
-    "options": ["100", "108", "101", "102"],
-    "correctAnswer": "100"
+    "question": "Which major national political party recently saw its Chief Minister in Karnataka resign, leading to significant internal discussions?",
+    "options": ["Bharatiya Janata Party (BJP)", "Indian National Congress", "Janata Dal (Secular)", "Aam Aadmi Party (AAP)"],
+    "correctAnswer": "Indian National Congress"
   },
   {
     "id": 7,
-    "question": "What kind of consumers are being warned by the government against purchasing fuel from retail pumps, causing artificial shortages across India?",
-    "options": ["Commercial vehicle owners", "Private car owners", "Industrial consumers", "Agricultural consumers"],
-    "correctAnswer": "Industrial consumers"
+    "question": "Who resigned as the Chief Minister of Karnataka, prompting discussions within the Congress party about a new power arrangement?",
+    "options": ["BS Yeddyurappa", "Basavaraj Bommai", "HD Kumaraswamy", "Siddaramaiah"],
+    "correctAnswer": "Siddaramaiah"
   },
   {
     "id": 8,
-    "question": "The government warning aims to prevent artificial shortages of which specific fuel due to diversion by industrial consumers from retail pumps?",
-    "options": ["Petrol", "Diesel", "CNG", "LPG"],
-    "correctAnswer": "Diesel"
+    "question": "Who is named as a key figure in the Congress party's leadership discussions following the Karnataka CM's resignation, potentially for a new leadership role?",
+    "options": ["Priyanka Gandhi Vadra", "Mallikarjun Kharge", "DK Shivakumar", "KC Venugopal"],
+    "correctAnswer": "DK Shivakumar"
   },
   {
     "id": 9,
-    "question": "What is the main reason cited for industrial consumers diverting fuel purchases to retail outlets, impacting states like Andhra Pradesh and Telangana?",
-    "options": ["Convenience", "Better quality fuel", "Price differences", "Lack of bulk supply options"],
-    "correctAnswer": "Price differences"
+    "question": "According to the news, which high-profile Congress leaders did Siddaramaiah and Shivakumar meet in Delhi regarding the new cabinet and power arrangement in Karnataka?",
+    "options": ["P Chidambaram and Kapil Sibal", "Sharad Pawar and Mamata Banerjee", "Rahul Gandhi and Sonia Gandhi", "Ghulam Nabi Azad and Anand Sharma"],
+    "correctAnswer": "Rahul Gandhi and Sonia Gandhi"
   },
   {
     "id": 10,
-    "question": "What action are state governments, including Andhra Pradesh and Telangana, urged to take against violations of fuel purchase norms by industrial consumers?",
-    "options": ["Issue public advisories", "Form special squads", "Increase fuel prices", "Grant subsidies"],
-    "correctAnswer": "Form special squads"
+    "question": "What position did Thaawarchand Gehlot hold in Karnataka that allowed him to accept Siddaramaiah's resignation as CM?",
+    "options": ["Chief Secretary", "Speaker of Assembly", "Governor", "Leader of Opposition"],
+    "correctAnswer": "Governor"
   },
   {
     "id": 11,
-    "question": "How does the government aim to ensure uninterrupted fuel availability for ordinary citizens in the context of industrial diversion?",
-    "options": ["By increasing imports", "By setting up more retail pumps", "By cracking down on violations and hoarders", "By rationing fuel"],
-    "correctAnswer": "By cracking down on violations and hoarders"
+    "question": "The recent political developments in Karnataka involved discussions about the composition of the new cabinet and what other key nominations?",
+    "options": ["Chief Justice appointments", "Rajya Sabha nominations", "Ambassadorial postings", "State Election Commission members"],
+    "correctAnswer": "Rajya Sabha nominations"
   },
   {
     "id": 12,
-    "question": "The government's warning implies that despite diversions by industrial consumers, the overall supply of diesel in the country is considered:",
-    "options": ["Scanty", "Limited", "Ample", "Intermittent"],
-    "correctAnswer": "Ample"
+    "question": "In which city were the high-level Congress party discussions held regarding Karnataka's new government formation, involving Siddaramaiah and Shivakumar?",
+    "options": ["Bengaluru", "Hyderabad", "Delhi", "Chennai"],
+    "correctAnswer": "Delhi"
   },
   {
     "id": 13,
-    "question": "Which examination's retest question papers are reportedly being considered for transport using IAF aircraft to ensure security?",
-    "options": ["JEE Advanced", "UPSC Civil Services", "NEET", "CAT"],
-    "correctAnswer": "NEET"
+    "question": "The Congress party's internal discussions in Karnataka, following the CM's resignation, were reportedly centered on what specific 'arrangement'?",
+    "options": ["Coalition formation", "Electoral alliances", "New power arrangement", "Party manifesto revision"],
+    "correctAnswer": "New power arrangement"
   },
   {
     "id": 14,
-    "question": "What is the proposed method of transport for the NEET retest question papers to enhance security and efficiency across all examination centers?",
-    "options": ["Road convoys", "Rail network", "IAF aircraft", "Courier services"],
-    "correctAnswer": "IAF aircraft"
+    "question": "Who did DK Shivakumar refer to as a 'pillar of strength' in an emotional note after the recent political changes in Karnataka?",
+    "options": ["Mallikarjun Kharge", "Rahul Gandhi", "Sonia Gandhi", "Siddaramaiah"],
+    "correctAnswer": "Siddaramaiah"
   },
   {
     "id": 15,
-    "question": "What is the likely primary reason for considering IAF aircraft for transporting NEET retest papers?",
-    "options": ["To reduce cost", "To provide employment for IAF personnel", "To ensure security and timely delivery", "To test new aviation routes"],
-    "correctAnswer": "To ensure security and timely delivery"
+    "question": "The news implies that the challenge for the Congress in Karnataka 'may not be over yet'. What kind of challenge is suggested?",
+    "options": ["Economic recovery", "Inter-state border disputes", "Leadership stability and power-sharing", "Agricultural crisis"],
+    "correctAnswer": "Leadership stability and power-sharing"
   },
   {
     "id": 16,
-    "question": "Students from which states, including Telangana and Andhra Pradesh, will be affected by the logistical arrangements for the NEET retest?",
-    "options": ["Only northern states", "Only southern states", "All states across India", "Only metropolitan cities"],
-    "correctAnswer": "All states across India"
+    "question": "After Siddaramaiah's resignation, which official body in Karnataka was dissolved by the Governor?",
+    "options": ["The State Legislative Council", "The State Planning Board", "The Cabinet", "The Public Service Commission"],
+    "correctAnswer": "The Cabinet"
   },
   {
     "id": 17,
-    "question": "Which central agency is primarily responsible for conducting the NEET examination?",
-    "options": ["CBSE", "UGC", "NTA", "AICTE"],
-    "correctAnswer": "NTA"
+    "question": "The crucial meetings regarding Karnataka's political future were held at Sonia Gandhi's residence, located at which famous address?",
+    "options": ["7 Race Course Road", "10 Janpath", "12 Tughlaq Lane", "24 Akbar Road"],
+    "correctAnswer": "10 Janpath"
   },
   {
     "id": 18,
-    "question": "The decision to use IAF aircraft for NEET retest logistics indicates a high level of concern regarding what aspect of the examination?",
-    "options": ["Environmental impact", "Financial expenditure", "Examination integrity", "Public perception"],
-    "correctAnswer": "Examination integrity"
+    "question": "According to party sources, what role was Siddaramaiah expected to play after his resignation as CM of Karnataka?",
+    "options": ["Taking a sabbatical from politics", "Leading the opposition", "Conveying his views on the new power arrangement", "Becoming a Rajya Sabha MP"],
+    "correctAnswer": "Conveying his views on the new power arrangement"
   },
   {
     "id": 19,
-    "question": "A high-level committee has been tasked to examine \"artificial\" demographic shifts caused by what phenomenon in India?",
-    "options": ["Natural population growth", "Urban migration", "Illegal immigration", "Internal displacement"],
-    "correctAnswer": "Illegal immigration"
+    "question": "Who is the current President of the Indian National Congress party, mentioned in the context of high-level meetings concerning Karnataka's leadership?",
+    "options": ["Rahul Gandhi", "Sonia Gandhi", "Mallikarjun Kharge", "Priyanka Gandhi Vadra"],
+    "correctAnswer": "Mallikarjun Kharge"
   },
   {
     "id": 20,
-    "question": "Who is heading the panel tasked with examining \"artificial\" demographic changes and the need for a new law in India?",
-    "options": ["Justice R. F. Nariman", "Justice Prakash Prabhakar Naoleker", "Justice D. Y. Chandrachud", "Justice U. U. Lalit"],
-    "correctAnswer": "Justice Prakash Prabhakar Naoleker"
+    "question": "Which two prominent members of the Gandhi family were involved in the discussions regarding the Congress party's leadership in Karnataka?",
+    "options": ["Varun Gandhi and Maneka Gandhi", "Sanjay Gandhi and Indira Gandhi", "Rahul Gandhi and Sonia Gandhi", "Feroze Gandhi and Rajiv Gandhi"],
+    "correctAnswer": "Rahul Gandhi and Sonia Gandhi"
   },
   {
     "id": 21,
-    "question": "What is the stated timeframe for the panel on \"artificial\" demographic changes, headed by Justice Prakash Prabhakar Naoleker, to submit its report?",
-    "options": ["Three months", "Six months", "One year", "Two years"],
-    "correctAnswer": "One year"
+    "question": "What is the primary objective behind the Supreme Court invoking Article 142 to issue directions to all High Courts across India, including those in Andhra Pradesh and Telangana?",
+    "options": ["To increase the number of judges", "To streamline judicial appointments", "To reduce judicial delays", "To promote alternative dispute resolution"],
+    "correctAnswer": "To reduce judicial delays"
   },
   {
     "id": 22,
-    "question": "Union Home Minister Amit Shah stated that the panel would assess the need for what, in addition to examining demographic shifts?",
-    "options": ["A new census", "A new law", "A new economic policy", "A new educational framework"],
-    "correctAnswer": "A new law"
+    "question": "The Supreme Court's directions regarding expedited judgment delivery and online uploading apply to which specific level of courts in India?",
+    "options": ["District Courts", "Magistrate Courts", "High Courts", "Tribunals"],
+    "correctAnswer": "High Courts"
   },
   {
     "id": 23,
-    "question": "The issue of \"artificial\" demographic change is a matter of concern for national security and policy, potentially affecting which regions of India?",
-    "options": ["Only border states", "Only coastal states", "All states of India", "Only North-Eastern states"],
-    "correctAnswer": "All states of India"
+    "question": "The resignation of Siddaramaiah as CM of Karnataka was officially accepted by which state constitutional authority?",
+    "options": ["The Chief Justice of Karnataka High Court", "The Speaker of the Legislative Assembly", "The Governor of Karnataka", "The Chief Secretary of the State"],
+    "correctAnswer": "The Governor of Karnataka"
   },
   {
     "id": 24,
-    "question": "Which Union Minister announced the formation of the panel to examine \"artificial\" demographic changes?",
-    "options": ["Rajnath Singh", "Nirmala Sitharaman", "Amit Shah", "S. Jaishankar"],
-    "correctAnswer": "Amit Shah"
+    "question": "What specific aspect of governance was a primary subject of discussion during the Congress party's meetings in Delhi concerning the future government of Karnataka?",
+    "options": ["State budget allocations", "Cabinet composition", "Public policy reforms", "Inter-state water disputes"],
+    "correctAnswer": "Cabinet composition"
   },
   {
     "id": 25,
-    "question": "The panel's work on demographic changes could potentially influence policy in states like Telangana and Andhra Pradesh by addressing concerns related to:",
-    "options": ["Voter ID registrations", "Urban planning", "Influx of non-local populations", "Agricultural practices"],
-    "correctAnswer": "Influx of non-local populations"
+    "question": "The news refers to DK Shivakumar's 'moment' arriving in Karnataka politics following Siddaramaiah's resignation. What does this likely signify for Shivakumar?",
+    "options": ["His retirement from active politics", "A potential for a higher leadership role within the state", "A shift to national party politics", "Becoming a Member of Parliament"],
+    "correctAnswer": "A potential for a higher leadership role within the state"
   }
 ]
