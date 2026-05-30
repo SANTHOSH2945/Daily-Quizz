@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Which prominent politician from Telangana criticized what he termed a 'double standard' regarding religious practices, citing Article 25 of the Constitution?",
-    "options": ["K. Chandrashekar Rao", "N. Chandrababu Naidu", "Asaduddin Owaisi", "Y. S. Jagan Mohan Reddy"],
-    "correctAnswer": "Asaduddin Owaisi"
+    "question": "Which state in India recently announced the establishment of a large number of new medical colleges, aiming to significantly enhance medical education infrastructure?",
+    "options": ["Telangana", "Karnataka", "Kerala", "Odisha"],
+    "correctAnswer": "Telangana"
   },
   {
     "id": 2,
-    "question": "Rahul Gandhi recently criticized Prime Minister Modi over the paper leak of which national examination, leading to the Centre gearing up for a retest?",
-    "options": ["JEE Main", "UPSC Civil Services", "NEET UG", "CLAT"],
-    "correctAnswer": "NEET UG"
+    "question": "Regarding state-level entrance examinations, what is the primary common entrance test for engineering, agriculture, and medical (pharmacy and veterinary) courses in Telangana?",
+    "options": ["TS POLYCET", "TS ECET", "TS EAMCET", "TS LAWCET"],
+    "correctAnswer": "TS EAMCET"
   },
   {
     "id": 3,
-    "question": "According to recent news, what new health challenge is surging in India despite nutrition gains, representing a significant concern?",
-    "options": ["Malaria and Dengue", "Obesity and Diabetes", "Tuberculosis and Leprosy", "Malnutrition and Anemia"],
-    "correctAnswer": "Obesity and Diabetes"
+    "question": "Mirroring the focus on educational institutions, which university in Andhra Pradesh is prominently known for its technological education and engineering programs?",
+    "options": ["Andhra University", "Sri Venkateswara University", "JNTU Kakinada", "Acharya Nagarjuna University"],
+    "correctAnswer": "JNTU Kakinada"
   },
   {
     "id": 4,
-    "question": "Which two Indian agencies recently joined hands to counter drone threats at the country's airports?",
-    "options": ["Border Security Force (BSF) and Central Reserve Police Force (CRPF)", "Central Industrial Security Force (CISF) and Army", "National Disaster Response Force (NDRF) and State Disaster Response Force (SDRF)", "Research and Analysis Wing (RAW) and Intelligence Bureau (IB)"],
-    "correctAnswer": "Central Industrial Security Force (CISF) and Army"
+    "question": "To support higher education and ensure access for students, which flagship scheme by the Andhra Pradesh government provides financial assistance for tuition fees?",
+    "options": ["Amma Vodi", "Jagananna Vidya Deevena", "Cheyutha", "Aasara"],
+    "correctAnswer": "Jagananna Vidya Deevena"
   },
   {
     "id": 5,
-    "question": "The US Defence Secretary Pete Hegseth recently lauded India's military modernization and strategic importance in which specific region?",
-    "options": ["Middle East", "Indo-Pacific", "Arctic", "Atlantic"],
-    "correctAnswer": "Indo-Pacific"
+    "question": "In line with digital initiatives impacting education, which project in Telangana aims to provide high-speed internet connectivity across the state, including for educational institutions?",
+    "options": ["T-Hub", "T-SAT", "T-Fiber", "T-Wallet"],
+    "correctAnswer": "T-Fiber"
   },
   {
     "id": 6,
-    "question": "Which specific munition was mentioned for co-production initiatives between the US and India to enhance collective readiness?",
-    "options": ["Akash Missiles", "Javelin munitions", "BrahMos Missiles", "Pinaka Rockets"],
-    "correctAnswer": "Javelin munitions"
+    "question": "Addressing food safety concerns, which major city in Telangana serves as a significant hub for food processing and also houses regional offices related to food standards and quality?",
+    "options": ["Warangal", "Hyderabad", "Karimnagar", "Nalgonda"],
+    "correctAnswer": "Hyderabad"
   },
   {
     "id": 7,
-    "question": "India recently rushed to evacuate 13 Indian-flagged vessels from which volatile strait due to a deepening Gulf crisis?",
-    "options": ["Strait of Malacca", "Strait of Hormuz", "Bering Strait", "Strait of Gibraltar"],
-    "correctAnswer": "Strait of Hormuz"
+    "question": "In the context of Indian Railways, which major railway station in Andhra Pradesh is one of the busiest in the country and a crucial junction connecting various regions?",
+    "options": ["Visakhapatnam Junction", "Guntur Junction", "Tirupati Main", "Vijayawada Junction"],
+    "correctAnswer": "Vijayawada Junction"
   },
   {
     "id": 8,
-    "question": "Which Ministry's Director was quoted regarding India's priority operation to evacuate ships from the Strait of Hormuz?",
-    "options": ["Ministry of External Affairs", "Ministry of Defence", "Ministry of Ports, Shipping and Waterways", "Ministry of Home Affairs"],
-    "correctAnswer": "Ministry of Ports, Shipping and Waterways"
+    "question": "To ensure hygiene and food quality on trains operating through states like Telangana and Andhra Pradesh, what is a primary measure taken by IRCTC?",
+    "options": ["Allowing passengers to bring their own food only", "Providing only packaged food items", "Regular inspections of pantry cars", "Completely outsourcing all catering services"],
+    "correctAnswer": "Regular inspections of pantry cars"
   },
   {
     "id": 9,
-    "question": "Among the 13 Indian-flagged vessels evacuated from the Strait of Hormuz, what type of tanker was specifically mentioned as one of them?",
-    "options": ["Chemical tanker", "Crude oil tanker", "Oil product tanker", "LPG tanker"],
-    "correctAnswer": "LPG tanker"
+    "question": "Which central body is primarily responsible for setting and enforcing food safety standards across all states in India, including Telangana and Andhra Pradesh?",
+    "options": ["Bureau of Indian Standards (BIS)", "Ministry of Consumer Affairs", "Food Safety and Standards Authority of India (FSSAI)", "Indian Council of Medical Research (ICMR)"],
+    "correctAnswer": "Food Safety and Standards Authority of India (FSSAI)"
   },
   {
     "id": 10,
-    "question": "Who did Rahul Gandhi accuse of personally supervising the integrity of the NEET UG exam amidst the paper leak controversy?",
-    "options": ["The Education Minister", "The NTA Director", "Prime Minister Modi", "The Supreme Court Chief Justice"],
-    "correctAnswer": "Prime Minister Modi"
+    "question": "A significant port city in Andhra Pradesh, crucial for both maritime trade and a major railway terminal in the region, is:",
+    "options": ["Kakinada", "Machilipatnam", "Visakhapatnam", "Krishnapatnam"],
+    "correctAnswer": "Visakhapatnam"
   },
   {
     "id": 11,
-    "question": "Following the NEET UG paper leak controversy, what action did the NTA detail to the Supreme Court to prevent future irregularities?",
-    "options": ["Cancelling the exam permanently", "Implementing extensive security reforms and new safeguards", "Handing over the case to the CBI", "Increasing exam fees"],
-    "correctAnswer": "Implementing extensive security reforms and new safeguards"
+    "question": "Following the recent state assembly elections in late 2023, which political party formed the government in Telangana?",
+    "options": ["Bharat Rashtra Samithi (BRS)", "Indian National Congress", "Bharatiya Janata Party (BJP)", "All India Majlis-e-Ittehadul Muslimeen (AIMIM)"],
+    "correctAnswer": "Indian National Congress"
   },
   {
     "id": 12,
-    "question": "RSS Prachar Pramukh Sunil Ambekar emphasized that open debate and differing views are normal in what kind of society?",
-    "options": ["Autocratic society", "Monarchy", "Democratic society", "Theocratic society"],
-    "correctAnswer": "Democratic society"
+    "question": "Who is the current Chief Minister of Andhra Pradesh?",
+    "options": ["N. Chandrababu Naidu", "K. Chandrashekar Rao", "Y. S. Jagan Mohan Reddy", "Pawan Kalyan"],
+    "correctAnswer": "Y. S. Jagan Mohan Reddy"
   },
   {
     "id": 13,
-    "question": "What did RSS Prachar Pramukh Sunil Ambekar state regarding Gen Z's overall sentiment towards India?",
-    "options": ["They are indifferent", "They have tremendous faith in India", "They are highly critical", "They are disillusioned"],
-    "correctAnswer": "They have tremendous faith in India"
+    "question": "The electoral process, including voter surveys and roll revisions (as seen in Odisha), is overseen by which constitutional body responsible for conducting elections in Telangana and Andhra Pradesh?",
+    "options": ["State Election Commission", "Election Commission of India", "NITI Aayog", "Ministry of Home Affairs"],
+    "correctAnswer": "Election Commission of India"
   },
   {
     "id": 14,
-    "question": "In Moscow, India and Russia recently reviewed cooperation in which two key areas as National Security Advisor Doval met Patrushev?",
-    "options": ["Agriculture and Education", "Space and Information Technology", "Defence and Maritime", "Tourism and Culture"],
-    "correctAnswer": "Defence and Maritime"
+    "question": "Which prominent welfare scheme recently launched by the Telangana government provides financial assistance to women heads of households?",
+    "options": ["Rythu Bandhu", "Kanti Velugu", "Mahalakshmi Scheme", "Dalit Bandhu"],
+    "correctAnswer": "Mahalakshmi Scheme"
   },
   {
     "id": 15,
-    "question": "Who represented India in the recent meeting with Patrushev in Moscow to review defence and maritime cooperation?",
-    "options": ["External Affairs Minister S. Jaishankar", "Defence Minister Rajnath Singh", "National Security Advisor Ajit Doval", "Finance Minister Nirmala Sitharaman"],
-    "correctAnswer": "National Security Advisor Ajit Doval"
+    "question": "The Andhra Pradesh Reorganisation Act of 2014 led to the formation of Telangana. What was the common capital city for both states for a period after bifurcation?",
+    "options": ["Amaravati", "Visakhapatnam", "Hyderabad", "Vijayawada"],
+    "correctAnswer": "Hyderabad"
   },
   {
     "id": 16,
-    "question": "According to recent news, what kind of pitches are AI giants making in India?",
-    "options": ["Cultural exchange pitches", "Aggressive investment pitches", "Academic research pitches", "Philanthropic aid pitches"],
-    "correctAnswer": "Aggressive investment pitches"
+    "question": "Which political party currently serves as the main opposition in the Andhra Pradesh Legislative Assembly?",
+    "options": ["Jana Sena Party", "Bharatiya Janata Party (BJP)", "Indian National Congress", "Telugu Desam Party (TDP)"],
+    "correctAnswer": "Telugu Desam Party (TDP)"
   },
   {
     "id": 17,
-    "question": "Which article of the Indian Constitution was cited by AIMIM chief Asaduddin Owaisi in his criticism regarding religious practices, emphasizing equal application of restrictions?",
-    "options": ["Article 14", "Article 19", "Article 25", "Article 32"],
-    "correctAnswer": "Article 25"
+    "question": "Reflecting changes in state governance, who recently assumed office as the Governor of Telangana?",
+    "options": ["E. S. L. Narasimhan", "Tamilisai Soundararajan", "C. P. Radhakrishnan", "Biswabhusan Harichandan"],
+    "correctAnswer": "C. P. Radhakrishnan"
   },
   {
     "id": 18,
-    "question": "What is the name of the US Defence Secretary who recently lauded India's military modernization and strategic importance?",
-    "options": ["Lloyd Austin", "Pete Hegseth", "James Mattis", "Mark Esper"],
-    "correctAnswer": "Pete Hegseth"
+    "question": "Andhra Pradesh has proposed a multi-capital system. As per the current government's proposal, which city is intended to be the executive capital of the state?",
+    "options": ["Amaravati", "Kurnool", "Visakhapatnam", "Guntur"],
+    "correctAnswer": "Visakhapatnam"
   },
   {
     "id": 19,
-    "question": "The US is pursuing co-production initiatives with India, such as for Javelin munitions, primarily to enhance what?",
-    "options": ["Economic ties", "Collective readiness", "Cultural exchange", "Technological research"],
-    "correctAnswer": "Collective readiness"
+    "question": "In the recently concluded Telangana Assembly elections of 2023, what was the total number of assembly constituencies for which elections were held?",
+    "options": ["105", "119", "125", "150"],
+    "correctAnswer": "119"
   },
   {
     "id": 20,
-    "question": "What was the explicit 'priority' stated by Opesh Kumar Sharma, Director at the Ministry of Ports, Shipping and Waterways, regarding Indian ships in the Strait of Hormuz?",
-    "options": ["To increase trade routes", "To get our ships out", "To monitor maritime traffic", "To deliver humanitarian aid"],
-    "correctAnswer": "To get our ships out"
+    "question": "To enhance public grievance redressal and improve governance in Andhra Pradesh, which integrated public grievance redressal system is widely utilized by citizens?",
+    "options": ["MeeSeva", "e-Pragati", "Spandana", "APOnline"],
+    "correctAnswer": "Spandana"
   },
   {
     "id": 21,
-    "question": "Which body, while hearing the NEET UG paper leak case, expressed significant concern for students?",
-    "options": ["The National Testing Agency (NTA)", "The Ministry of Education", "The apex court", "The CBI"],
-    "correctAnswer": "The apex court"
+    "question": "Among India's rich cultural heritage sites, which UNESCO World Heritage site is located in Telangana, recognized for its unique Kakatiyan architecture?",
+    "options": ["Golconda Fort", "Charminar", "Ramappa Temple", "Thousand Pillar Temple"],
+    "correctAnswer": "Ramappa Temple"
   },
   {
     "id": 22,
-    "question": "According to RSS Prachar Pramukh Sunil Ambekar, what attributes allow India's institutions and political parties to handle discussions independently?",
-    "options": ["A weak media and limited public discourse", "An unaware populace and controlled elections", "Transparent elections, free media, and active public discourse", "A restricted internet and centralized decision-making"],
-    "correctAnswer": "Transparent elections, free media, and active public discourse"
+    "question": "Andhra Pradesh is a prominent destination for religious tourism. Which famous temple town is home to the revered Sri Venkateswara Swamy Temple?",
+    "options": ["Srisailam", "Vijayawada", "Tirupati", "Annavaram"],
+    "correctAnswer": "Tirupati"
   },
   {
     "id": 23,
-    "question": "What specific aspect of maritime cooperation, besides shipbuilding and defence collaboration, was discussed by Doval and Patrushev for operations in polar waters?",
-    "options": ["Underwater archaeology", "Training of sailors", "Deep-sea mining", "Marine biology research"],
-    "correctAnswer": "Training of sailors"
+    "question": "Hyderabad, the capital of Telangana, is globally recognized for its iconic monument, symbolizing the city's rich history and architectural grandeur. What is this monument?",
+    "options": ["Falaknuma Palace", "Golconda Fort", "Mecca Masjid", "Charminar"],
+    "correctAnswer": "Charminar"
   },
   {
     "id": 24,
-    "question": "US Defence Secretary Pete Hegseth praised India's growing industrial capacity for what specific type of operations?",
-    "options": ["Humanitarian aid operations", "High-end military operations", "Space exploration operations", "Environmental conservation operations"],
-    "correctAnswer": "High-end military operations"
+    "question": "Beyond famous Indian landmarks, Andhra Pradesh holds historical significance for ancient Buddhist sites. Which site was a major center for Buddhist learning and art during the Satavahana period?",
+    "options": ["Lepakshi", "Amaravati", "Mangalagiri", "Dharmavaram"],
+    "correctAnswer": "Amaravati"
   },
   {
     "id": 25,
-    "question": "Who is the Director at the Ministry of Ports, Shipping and Waterways quoted in the news regarding the evacuation of Indian-flagged vessels?",
-    "options": ["Ajit Doval", "Sunil Ambekar", "Opesh Kumar Sharma", "Pete Hegseth"],
-    "correctAnswer": "Opesh Kumar Sharma"
+    "question": "To promote cultural heritage and arts, both Telangana and Andhra Pradesh support classical dance forms. Which classical dance style is native to Andhra Pradesh?",
+    "options": ["Bharatanatyam", "Kathakali", "Kuchipudi", "Odissi"],
+    "correctAnswer": "Kuchipudi"
   }
 ]
