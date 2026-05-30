@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Which state in India recently announced the establishment of a large number of new medical colleges, aiming to significantly enhance medical education infrastructure?",
-    "options": ["Telangana", "Karnataka", "Kerala", "Odisha"],
-    "correctAnswer": "Telangana"
+    "question": "Who was unanimously elected as the Congress Legislature Party (CLP) leader in Karnataka, according to recent news?",
+    "options": ["Siddaramaiah", "Rahul Gandhi", "DK Shivakumar", "Mallikarjun Kharge"],
+    "correctAnswer": "DK Shivakumar"
   },
   {
     "id": 2,
-    "question": "Regarding state-level entrance examinations, what is the primary common entrance test for engineering, agriculture, and medical (pharmacy and veterinary) courses in Telangana?",
-    "options": ["TS POLYCET", "TS ECET", "TS EAMCET", "TS LAWCET"],
-    "correctAnswer": "TS EAMCET"
+    "question": "Which state recently saw DK Shivakumar stake his claim to form the government?",
+    "options": ["Telangana", "Andhra Pradesh", "Karnataka", "Kerala"],
+    "correctAnswer": "Karnataka"
   },
   {
     "id": 3,
-    "question": "Mirroring the focus on educational institutions, which university in Andhra Pradesh is prominently known for its technological education and engineering programs?",
-    "options": ["Andhra University", "Sri Venkateswara University", "JNTU Kakinada", "Acharya Nagarjuna University"],
-    "correctAnswer": "JNTU Kakinada"
+    "question": "According to the provided news, on what specific date was DK Shivakumar expected to be sworn in as Chief Minister?",
+    "options": ["June 1st", "June 3rd", "May 30th", "June 5th"],
+    "correctAnswer": "June 3rd"
   },
   {
     "id": 4,
-    "question": "To support higher education and ensure access for students, which flagship scheme by the Andhra Pradesh government provides financial assistance for tuition fees?",
-    "options": ["Amma Vodi", "Jagananna Vidya Deevena", "Cheyutha", "Aasara"],
-    "correctAnswer": "Jagananna Vidya Deevena"
-  },
-  {
-    "id": 5,
-    "question": "In line with digital initiatives impacting education, which project in Telangana aims to provide high-speed internet connectivity across the state, including for educational institutions?",
-    "options": ["T-Hub", "T-SAT", "T-Fiber", "T-Wallet"],
-    "correctAnswer": "T-Fiber"
-  },
-  {
-    "id": 6,
-    "question": "Addressing food safety concerns, which major city in Telangana serves as a significant hub for food processing and also houses regional offices related to food standards and quality?",
-    "options": ["Warangal", "Hyderabad", "Karimnagar", "Nalgonda"],
-    "correctAnswer": "Hyderabad"
-  },
-  {
-    "id": 7,
-    "question": "In the context of Indian Railways, which major railway station in Andhra Pradesh is one of the busiest in the country and a crucial junction connecting various regions?",
-    "options": ["Visakhapatnam Junction", "Guntur Junction", "Tirupati Main", "Vijayawada Junction"],
-    "correctAnswer": "Vijayawada Junction"
-  },
-  {
-    "id": 8,
-    "question": "To ensure hygiene and food quality on trains operating through states like Telangana and Andhra Pradesh, what is a primary measure taken by IRCTC?",
-    "options": ["Allowing passengers to bring their own food only", "Providing only packaged food items", "Regular inspections of pantry cars", "Completely outsourcing all catering services"],
-    "correctAnswer": "Regular inspections of pantry cars"
-  },
-  {
-    "id": 9,
-    "question": "Which central body is primarily responsible for setting and enforcing food safety standards across all states in India, including Telangana and Andhra Pradesh?",
-    "options": ["Bureau of Indian Standards (BIS)", "Ministry of Consumer Affairs", "Food Safety and Standards Authority of India (FSSAI)", "Indian Council of Medical Research (ICMR)"],
-    "correctAnswer": "Food Safety and Standards Authority of India (FSSAI)"
-  },
-  {
-    "id": 10,
-    "question": "A significant port city in Andhra Pradesh, crucial for both maritime trade and a major railway terminal in the region, is:",
-    "options": ["Kakinada", "Machilipatnam", "Visakhapatnam", "Krishnapatnam"],
-    "correctAnswer": "Visakhapatnam"
-  },
-  {
-    "id": 11,
-    "question": "Following the recent state assembly elections in late 2023, which political party formed the government in Telangana?",
-    "options": ["Bharat Rashtra Samithi (BRS)", "Indian National Congress", "Bharatiya Janata Party (BJP)", "All India Majlis-e-Ittehadul Muslimeen (AIMIM)"],
+    "question": "Which political party did DK Shivakumar represent when he was elected CLP leader in Karnataka?",
+    "options": ["Bharatiya Janata Party (BJP)", "Janata Dal (Secular) (JDS)", "Indian National Congress", "Aam Aadmi Party (AAP)"],
     "correctAnswer": "Indian National Congress"
   },
   {
+    "id": 5,
+    "question": "What was DK Shivakumar's initial reaction upon being elected as the CLP leader in Karnataka, as stated in the news?",
+    "options": ["Confident", "Humbled", "Determined", "Excited"],
+    "correctAnswer": "Humbled"
+  },
+  {
+    "id": 6,
+    "question": "What key position was DK Shivakumar elected to, which empowered him to stake claim to form the government in Karnataka?",
+    "options": ["Speaker of Assembly", "Deputy Chief Minister", "Congress Legislature Party leader", "State Party President"],
+    "correctAnswer": "Congress Legislature Party leader"
+  },
+  {
+    "id": 7,
+    "question": "To whom did DK Shivakumar formally stake his claim to form the government in Karnataka?",
+    "options": ["The President of India", "The Prime Minister", "The Governor of Karnataka", "The Chief Election Commissioner"],
+    "correctAnswer": "The Governor of Karnataka"
+  },
+  {
+    "id": 8,
+    "question": "The news implies that the Congress party was forming what kind of government in Karnataka?",
+    "options": ["Coalition government", "Minority government", "Care-taker government", "Majority government"],
+    "correctAnswer": "Majority government"
+  },
+  {
+    "id": 9,
+    "question": "In the CLP meeting in Karnataka, whose name was also proposed and seconded, according to the news, despite DK Shivakumar's election?",
+    "options": ["Siddaramaiah", "Priyanka Gandhi", "Sonia Gandhi", "M. Kharge"],
+    "correctAnswer": "Siddaramaiah"
+  },
+  {
+    "id": 10,
+    "question": "DK Shivakumar expressed his commitment to serving which entity with dedication after his election?",
+    "options": ["His party", "The nation", "The state of Karnataka", "His constituency"],
+    "correctAnswer": "The state of Karnataka"
+  },
+  {
+    "id": 11,
+    "question": "What does the abbreviation 'CLP' stand for in the context of the Karnataka political news?",
+    "options": ["Chief Legal Party", "Congress Legislative Power", "Congress Legislature Party", "Central Leadership Panel"],
+    "correctAnswer": "Congress Legislature Party"
+  },
+  {
     "id": 12,
-    "question": "Who is the current Chief Minister of Andhra Pradesh?",
-    "options": ["N. Chandrababu Naidu", "K. Chandrashekar Rao", "Y. S. Jagan Mohan Reddy", "Pawan Kalyan"],
-    "correctAnswer": "Y. S. Jagan Mohan Reddy"
+    "question": "The news states that DK Shivakumar's election as CLP leader was characterized by what nature of decision?",
+    "options": ["Majority vote", "Narrow victory", "Unanimous decision", "Party High Command directive"],
+    "correctAnswer": "Unanimous decision"
   },
   {
     "id": 13,
-    "question": "The electoral process, including voter surveys and roll revisions (as seen in Odisha), is overseen by which constitutional body responsible for conducting elections in Telangana and Andhra Pradesh?",
-    "options": ["State Election Commission", "Election Commission of India", "NITI Aayog", "Ministry of Home Affairs"],
-    "correctAnswer": "Election Commission of India"
+    "question": "The formation of a new Congress government is a significant political development in which prominent South Indian state?",
+    "options": ["Tamil Nadu", "Kerala", "Karnataka", "Goa"],
+    "correctAnswer": "Karnataka"
   },
   {
     "id": 14,
-    "question": "Which prominent welfare scheme recently launched by the Telangana government provides financial assistance to women heads of households?",
-    "options": ["Rythu Bandhu", "Kanti Velugu", "Mahalakshmi Scheme", "Dalit Bandhu"],
-    "correctAnswer": "Mahalakshmi Scheme"
+    "question": "The news about DK Shivakumar's election and government formation pertains to the aftermath of which type of elections in Karnataka?",
+    "options": ["Lok Sabha Elections", "Rajya Sabha Elections", "State Assembly Elections", "Local Body Elections"],
+    "correctAnswer": "State Assembly Elections"
   },
   {
     "id": 15,
-    "question": "The Andhra Pradesh Reorganisation Act of 2014 led to the formation of Telangana. What was the common capital city for both states for a period after bifurcation?",
-    "options": ["Amaravati", "Visakhapatnam", "Hyderabad", "Vijayawada"],
-    "correctAnswer": "Hyderabad"
+    "question": "What was the primary formal action taken by DK Shivakumar immediately after being elected CLP leader?",
+    "options": ["Announcing cabinet ministers", "Meeting the President", "Staking claim to form the government", "Starting public rallies"],
+    "correctAnswer": "Staking claim to form the government"
   },
   {
     "id": 16,
-    "question": "Which political party currently serves as the main opposition in the Andhra Pradesh Legislative Assembly?",
-    "options": ["Jana Sena Party", "Bharatiya Janata Party (BJP)", "Indian National Congress", "Telugu Desam Party (TDP)"],
-    "correctAnswer": "Telugu Desam Party (TDP)"
+    "question": "In the context of the Karnataka elections, which political party secured a majority leading to the formation of its government?",
+    "options": ["BJP", "Janata Dal (Secular)", "Congress", "Aam Aadmi Party"],
+    "correctAnswer": "Congress"
   },
   {
     "id": 17,
-    "question": "Reflecting changes in state governance, who recently assumed office as the Governor of Telangana?",
-    "options": ["E. S. L. Narasimhan", "Tamilisai Soundararajan", "C. P. Radhakrishnan", "Biswabhusan Harichandan"],
-    "correctAnswer": "C. P. Radhakrishnan"
+    "question": "The news highlights the conclusion of the Congress Legislature Party meeting where a key leadership decision was made for which state?",
+    "options": ["Maharashtra", "Gujarat", "Karnataka", "Rajasthan"],
+    "correctAnswer": "Karnataka"
   },
   {
     "id": 18,
-    "question": "Andhra Pradesh has proposed a multi-capital system. As per the current government's proposal, which city is intended to be the executive capital of the state?",
-    "options": ["Amaravati", "Kurnool", "Visakhapatnam", "Guntur"],
-    "correctAnswer": "Visakhapatnam"
+    "question": "What prominent role was DK Shivakumar slated to assume on June 3rd, according to the provided news?",
+    "options": ["Speaker", "Chief Minister", "Leader of Opposition", "Union Minister"],
+    "correctAnswer": "Chief Minister"
   },
   {
     "id": 19,
-    "question": "In the recently concluded Telangana Assembly elections of 2023, what was the total number of assembly constituencies for which elections were held?",
-    "options": ["105", "119", "125", "150"],
-    "correctAnswer": "119"
+    "question": "The act of 'staking claim to form the government' typically involves an elected leader meeting which constitutional head of the state?",
+    "options": ["Chief Justice", "Chief Secretary", "Director General of Police", "Governor"],
+    "correctAnswer": "Governor"
   },
   {
     "id": 20,
-    "question": "To enhance public grievance redressal and improve governance in Andhra Pradesh, which integrated public grievance redressal system is widely utilized by citizens?",
-    "options": ["MeeSeva", "e-Pragati", "Spandana", "APOnline"],
-    "correctAnswer": "Spandana"
+    "question": "Which one of India's major national political parties recently formed the government in the state of Karnataka?",
+    "options": ["Bahujan Samaj Party", "Communist Party of India (Marxist)", "Indian National Congress", "Nationalist Congress Party"],
+    "correctAnswer": "Indian National Congress"
   },
   {
     "id": 21,
-    "question": "Among India's rich cultural heritage sites, which UNESCO World Heritage site is located in Telangana, recognized for its unique Kakatiyan architecture?",
-    "options": ["Golconda Fort", "Charminar", "Ramappa Temple", "Thousand Pillar Temple"],
-    "correctAnswer": "Ramappa Temple"
+    "question": "The news about DK Shivakumar's actions implies a successful electoral outcome for which party in the Karnataka Assembly elections?",
+    "options": ["BJP", "JDS", "Congress", "AIMIM"],
+    "correctAnswer": "Congress"
   },
   {
     "id": 22,
-    "question": "Andhra Pradesh is a prominent destination for religious tourism. Which famous temple town is home to the revered Sri Venkateswara Swamy Temple?",
-    "options": ["Srisailam", "Vijayawada", "Tirupati", "Annavaram"],
-    "correctAnswer": "Tirupati"
+    "question": "DK Shivakumar's statement about serving 'with dedication' was directed towards the welfare of the people of which state?",
+    "options": ["Tamil Nadu", "Andhra Pradesh", "Karnataka", "Telangana"],
+    "correctAnswer": "Karnataka"
   },
   {
     "id": 23,
-    "question": "Hyderabad, the capital of Telangana, is globally recognized for its iconic monument, symbolizing the city's rich history and architectural grandeur. What is this monument?",
-    "options": ["Falaknuma Palace", "Golconda Fort", "Mecca Masjid", "Charminar"],
-    "correctAnswer": "Charminar"
+    "question": "The political developments surrounding DK Shivakumar's new role took place after the results of which state's general elections?",
+    "options": ["Uttar Pradesh", "Bihar", "Karnataka", "West Bengal"],
+    "correctAnswer": "Karnataka"
   },
   {
     "id": 24,
-    "question": "Beyond famous Indian landmarks, Andhra Pradesh holds historical significance for ancient Buddhist sites. Which site was a major center for Buddhist learning and art during the Satavahana period?",
-    "options": ["Lepakshi", "Amaravati", "Mangalagiri", "Dharmavaram"],
-    "correctAnswer": "Amaravati"
+    "question": "What was the main outcome of the Congress Legislature Party meeting as reported in the news regarding Karnataka?",
+    "options": ["Election of a new Speaker", "Formation of an alliance", "Election of the CLP leader", "Vote of no confidence"],
+    "correctAnswer": "Election of the CLP leader"
   },
   {
     "id": 25,
-    "question": "To promote cultural heritage and arts, both Telangana and Andhra Pradesh support classical dance forms. Which classical dance style is native to Andhra Pradesh?",
-    "options": ["Bharatanatyam", "Kathakali", "Kuchipudi", "Odissi"],
-    "correctAnswer": "Kuchipudi"
+    "question": "In the context of Indian state politics, what does 'staking claim to form the government' primarily signify?",
+    "options": ["Demanding a recount of votes", "Announcing the dissolution of the assembly", "Formally notifying the Governor of having majority support", "Protesting election results"],
+    "correctAnswer": "Formally notifying the Governor of having majority support"
   }
 ]
