@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Who recently received additional charge as the Chairman of DRDO, a significant defense organization with centers in Telangana and Andhra Pradesh?",
-    "options": ["Samir Kamat", "Rajesh Kumar Singh", "Ajay Kumar", "G. Satheesh Reddy"],
-    "correctAnswer": "Rajesh Kumar Singh"
+    "question": "Which initiative aims to make educational institutions in states like Telangana and Andhra Pradesh tobacco-free?",
+    "options": ["Swachh Vidyalaya Abhiyan", "Tobacco-Free India Campaign", "Tobacco-Free Educational Institutions (TFEI) compliance app", "National Health Mission"],
+    "correctAnswer": "Tobacco-Free Educational Institutions (TFEI) compliance app"
   },
   {
     "id": 2,
-    "question": "What national defense organization, known for its research facilities in Hyderabad and Visakhapatnam, recently saw its Defense Secretary given additional charge of its chairmanship?",
-    "options": ["ISRO", "DRDO", "HAL", "BHEL"],
-    "correctAnswer": "DRDO"
+    "question": "What kind of tool is being introduced to ensure compliance with tobacco-free norms in Indian schools and colleges, including those in AP and Telangana?",
+    "options": ["A new legislation", "A mobile application", "A dedicated task force", "A public awareness campaign"],
+    "correctAnswer": "A mobile application"
   },
   {
     "id": 3,
-    "question": "Which major city in Telangana hosts a prominent DRDO missile complex and several other defense research laboratories?",
-    "options": ["Warangal", "Karimnagar", "Hyderabad", "Nizamabad"],
-    "correctAnswer": "Hyderabad"
+    "question": "What is the primary objective of the new compliance app for schools and colleges across India, affecting states like AP and Telangana?",
+    "options": ["To track student attendance", "To monitor tobacco-free zones", "To facilitate online admissions", "To manage school finances"],
+    "correctAnswer": "To monitor tobacco-free zones"
   },
   {
     "id": 4,
-    "question": "Samir Kamat, the former Chairman of DRDO, recently retired. Who was given the additional charge to succeed him?",
-    "options": ["Ajit Doval", "Rajnath Singh", "Rajesh Kumar Singh", "V.K. Saraswat"],
-    "correctAnswer": "Rajesh Kumar Singh"
+    "question": "According to recent data mentioned in the news, what percentage of deliveries in private hospitals across India, including states like Andhra Pradesh and Telangana, are through C-section?",
+    "options": ["25%", "54%", "70%", "88%"],
+    "correctAnswer": "54%"
   },
   {
     "id": 5,
-    "question": "In which coastal city of Andhra Pradesh does DRDO maintain significant facilities, including those focused on naval science and technology?",
-    "options": ["Vijayawada", "Tirupati", "Nellore", "Visakhapatnam"],
-    "correctAnswer": "Visakhapatnam"
+    "question": "The Family Health Survey highlighted a high rate of C-sections in private hospitals. Which state was specifically mentioned for having a figure as high as 88%?",
+    "options": ["Kerala", "Andhra Pradesh", "West Bengal", "Telangana"],
+    "correctAnswer": "West Bengal"
   },
   {
     "id": 6,
-    "question": "The primary function of DRDO, an organization with strong presence in Telugu states, is centered around what?",
-    "options": ["Space exploration", "Civilian infrastructure development", "Defense research and development", "Agricultural innovation"],
-    "correctAnswer": "Defense research and development"
+    "question": "What type of survey recently revealed insights into delivery methods in Indian hospitals, affecting healthcare trends in states like AP and Telangana?",
+    "options": ["National Family Health Survey (NFHS)", "Annual Health Survey (AHS)", "Sample Registration System (SRS)", "District Level Household Survey (DLHS)"],
+    "correctAnswer": "National Family Health Survey (NFHS)"
   },
   {
     "id": 7,
-    "question": "Rajesh Kumar Singh's additional charge as DRDO Chairman is seen as crucial for advancing India's defense capabilities. What is his primary role in the government apart from this additional charge?",
-    "options": ["Finance Secretary", "Home Secretary", "Defense Secretary", "Foreign Secretary"],
-    "correctAnswer": "Defense Secretary"
+    "question": "From which year will CBSE schools in India, including those in Telangana and Andhra Pradesh, see scanned answer sheets being uploaded?",
+    "options": ["2025", "2026", "2027", "2028"],
+    "correctAnswer": "2027"
   },
   {
     "id": 8,
-    "question": "The news about the DRDO chairmanship is significant for states like Telangana and Andhra Pradesh due to the presence of multiple DRDO labs. What kind of specialized research is often conducted at these facilities in the region?",
-    "options": ["Textile manufacturing", "Renewable energy systems", "Advanced avionics and missile technology", "Dairy farming techniques"],
-    "correctAnswer": "Advanced avionics and missile technology"
+    "question": "Which educational board announced its plan to upload scanned answer sheets starting from 2027, impacting students in AP and Telangana?",
+    "options": ["State Board of Secondary Education", "Indian Certificate of Secondary Education (ICSE)", "National Institute of Open Schooling (NIOS)", "Central Board of Secondary Education (CBSE)"],
+    "correctAnswer": "Central Board of Secondary Education (CBSE)"
   },
   {
     "id": 9,
-    "question": "Which national education board, widely followed by students in Telangana and Andhra Pradesh, recently faced issues with its Online System of Manual Evaluation (OSM)?",
-    "options": ["ICSE", "NIOS", "CBSE", "State Boards of Education"],
-    "correctAnswer": "CBSE"
+    "question": "What new measure is CBSE implementing from 2027 regarding answer sheets, a change that will affect students in states like AP and Telangana?",
+    "options": ["Providing physical copies to students", "Uploading scanned answer sheets online", "Disposing of answer sheets immediately", "Implementing a re-evaluation only system"],
+    "correctAnswer": "Uploading scanned answer sheets online"
   },
   {
     "id": 10,
-    "question": "Approximately how many answer-sheet mix-ups were detected in the recent CBSE OSM evaluation system row, affecting students nationwide including those from Telugu states?",
-    "options": ["Around 5", "Around 10", "Around 20", "Around 50"],
-    "correctAnswer": "Around 20"
+    "question": "The Supreme Court recently commented on the NEET paper leak, emphasizing the need to fix responsibility. Which national entrance examination was the focus of this comment, affecting students from AP and Telangana?",
+    "options": ["JEE Main", "NEET", "CLAT", "UPSC Civil Services Exam"],
+    "correctAnswer": "NEET"
   },
   {
     "id": 11,
-    "question": "The CBSE's digital evaluation system faced problems, leading to a significant number of answer sheets requiring manual re-evaluation. Approximately how many copies were manually evaluated due to these glitches?",
-    "options": ["Over 1,300", "Over 13,000", "Over 130,000", "Over 1.3 million"],
-    "correctAnswer": "Over 13,000"
+    "question": "The Supreme Court suggested that which national body should learn from UPSC regarding holding exams, in the context of recent paper leaks impacting students nationwide, including AP and Telangana?",
+    "options": ["Central Board of Secondary Education (CBSE)", "National Testing Agency (NTA)", "University Grants Commission (UGC)", "All India Council for Technical Education (AICTE)"],
+    "correctAnswer": "National Testing Agency (NTA)"
   },
   {
     "id": 12,
-    "question": "What was a key consequence of the technical glitches and answer-sheet mix-ups in the CBSE's new evaluation system?",
-    "options": ["Cancellation of exams", "Delay in result declaration", "Delay in the post-result verification portal", "Re-evaluation of all answer sheets"],
-    "correctAnswer": "Delay in the post-result verification portal"
+    "question": "What type of incident in the NEET examination prompted the Supreme Court to call for accountability?",
+    "options": ["Delays in result declaration", "Irregularities in question patterns", "Paper leak", "High examination fees"],
+    "correctAnswer": "Paper leak"
   },
   {
     "id": 13,
-    "question": "The \"OSM\" in the CBSE OSM row refers to what aspect of their evaluation process?",
-    "options": ["Official Study Material", "Online System of Manual Evaluation", "Open Source Module", "Optimal Scoring Method"],
-    "correctAnswer": "Online System of Manual Evaluation"
+    "question": "The Supreme Court recently made a decision regarding a fresh probe into animal transfers at a facility. What is the highest judicial body in India that makes such rulings, impacting law nationwide and applicable to states like AP and Telangana?",
+    "options": ["High Courts", "District Courts", "Supreme Court", "National Green Tribunal"],
+    "correctAnswer": "Supreme Court"
   },
   {
     "id": 14,
-    "question": "The reported issues with CBSE's evaluation system, which caused concern among students and parents across India, including Telangana and Andhra Pradesh, primarily stemmed from problems with:",
-    "options": ["Question paper leaks", "Poor scanning and digital evaluation accuracy", "Lack of examiners", "Syllabus changes"],
-    "correctAnswer": "Poor scanning and digital evaluation accuracy"
+    "question": "According to recent data from 2024, what percentage of births in India were first-borns, reflecting demographic trends impacting states like AP and Telangana?",
+    "options": ["33%", "50%", "66%", "80%"],
+    "correctAnswer": "66%"
   },
   {
     "id": 15,
-    "question": "Prime Minister Modi and Pope Leo XIV share a common stance on AI governance. What ethical principle do they collectively emphasize for AI development, which is particularly relevant for tech hubs like Hyderabad?",
-    "options": ["Efficiency above all", "Profit maximization", "Ethics before efficiency", "Data collection priority"],
-    "correctAnswer": "Ethics before efficiency"
+    "question": "Recent data on birth spacing in India indicates that for the majority, the gap between births is now approximately how many months? (This trend applies to states like AP and Telangana).",
+    "options": ["12 months", "24 months", "36 months", "48 months"],
+    "correctAnswer": "36 months"
   },
   {
     "id": 16,
-    "question": "The shared vision of PM Modi and Pope Leo XIV regarding AI underscores a global consensus for what type of AI development?",
-    "options": ["Autonomous, unchecked AI", "Algorithm-driven, data-centric AI", "Human-centric and accountable AI", "AI purely for economic growth"],
-    "correctAnswer": "Human-centric and accountable AI"
+    "question": "Which Indian state was mentioned in the news as topping the charts for specific birth-related statistics in 2024, particularly regarding birth spacing?",
+    "options": ["Telangana", "Kerala", "Andhra Pradesh", "Tamil Nadu"],
+    "correctAnswer": "Kerala"
   },
   {
     "id": 17,
-    "question": "Hyderabad in Telangana is a leading center for AI innovation in India. PM Modi's push for ethical AI frameworks directly influences which aspect of the state's burgeoning technology sector?",
-    "options": ["Hardware manufacturing", "Software export regulations", "AI research, development, and deployment practices", "Digital marketing strategies"],
-    "correctAnswer": "AI research, development, and deployment practices"
+    "question": "The Supreme Court mandated a time limit for High Courts, including the High Courts of Telangana and Andhra Pradesh, to pronounce judgments after reserving verdicts. What is this time limit?",
+    "options": ["1 month", "3 months", "6 months", "12 months"],
+    "correctAnswer": "3 months"
   },
   {
     "id": 18,
-    "question": "The CBI recently filed charges against 16 individuals, including 5 senior executives, in a case involving which prominent Indian business conglomerate?",
-    "options": ["Tata Group", "Mahindra Group", "Reliance ADAG", "Adani Group"],
-    "correctAnswer": "Reliance ADAG"
+    "question": "Which judicial body recently issued a directive to High Courts across India, including those in Telangana and Andhra Pradesh, regarding the promptness of judgment pronouncement?",
+    "options": ["Parliament", "President of India", "Supreme Court", "Ministry of Law and Justice"],
+    "correctAnswer": "Supreme Court"
   },
   {
     "id": 19,
-    "question": "The ongoing CBI investigation, while national, highlights the importance of corporate governance and legal compliance for businesses operating across all Indian states, including Telangana and Andhra Pradesh. How many senior executives were named in the recent charges related to the Reliance ADAG case?",
-    "options": ["3", "5", "7", "10"],
-    "correctAnswer": "5"
+    "question": "What new directive affects the High Courts of Telangana and Andhra Pradesh regarding the timeline for delivering judgments after conclusion of arguments?",
+    "options": ["Judgments must be translated into regional languages.", "Judgments must be delivered within a specific timeframe.", "Judgments must be peer-reviewed before pronouncement.", "Judgments can only be delivered in open court."],
+    "correctAnswer": "Judgments must be delivered within a specific timeframe."
   },
   {
     "id": 20,
-    "question": "The CBI case involving Reliance ADAG primarily focuses on allegations related to what?",
-    "options": ["Environmental violations", "Anti-trust practices", "Financial irregularities/corruption", "Labor law breaches"],
-    "correctAnswer": "Financial irregularities/corruption"
+    "question": "Which agency's chief vowed to bring a logical end to the NEET probe, a matter of concern for students in AP and Telangana?",
+    "options": ["Enforcement Directorate (ED)", "National Investigation Agency (NIA)", "Central Bureau of Investigation (CBI)", "Intelligence Bureau (IB)"],
+    "correctAnswer": "Central Bureau of Investigation (CBI)"
   },
   {
     "id": 21,
-    "question": "The Supreme Court recently expressed concern over a rise in the misuse of certain laws by women. What was the core issue highlighted by the court regarding this misuse?",
-    "options": ["Misuse to evade taxes", "Misuse to gain political power", "Misuse to obtain lucrative financial settlements", "Misuse to secure government jobs"],
-    "correctAnswer": "Misuse to obtain lucrative financial settlements"
+    "question": "What solution did the National Testing Agency (NTA) propose to curb future paper leaks in exams like NEET, which are taken by students from states like AP and Telangana?",
+    "options": ["Increasing security at physical examination centers", "Implementing a computer-based test format", "Reducing the number of examination centers", "Conducting exams in multiple shifts"],
+    "correctAnswer": "Implementing a computer-based test format"
   },
   {
     "id": 22,
-    "question": "The Supreme Court's observation that \"Overwhelming Number Of False Cases Overshadowing Genuine Ones\" pertains to the misuse of which category of laws?",
-    "options": ["Land acquisition laws", "Intellectual property laws", "Laws designed for women's protection", "Cybercrime laws"],
-    "correctAnswer": "Laws designed for women's protection"
+    "question": "What specific type of examination format is NTA advocating to prevent paper leaks in national tests like NEET, a change that would impact students from Telangana and Andhra Pradesh?",
+    "options": ["Pen and paper tests", "Optical Mark Recognition (OMR) sheets", "Computer-based tests", "Verbal interviews"],
+    "correctAnswer": "Computer-based tests"
   },
   {
     "id": 23,
-    "question": "The Supreme Court's concerns about legal misuse have implications for the judicial system across all states, including Telangana and Andhra Pradesh. What effect does the rise in false cases have on genuine cases, according to the SC?",
-    "options": ["It expedites genuine cases", "It makes genuine cases harder to prove", "It overshadows genuine cases", "It has no impact on genuine cases"],
-    "correctAnswer": "It overshadows genuine cases"
+    "question": "According to the IMD's downgraded forecast, what is the estimated chance of a deficient monsoon in India, which would significantly impact agriculture in states like Andhra Pradesh and Telangana?",
+    "options": ["20%", "40%", "60%", "80%"],
+    "correctAnswer": "60%"
   },
   {
     "id": 24,
-    "question": "The NIA recently conducted raids across four states to dismantle an arms and IED smuggling network. Such national security operations are vital for maintaining peace across India, including Telangana and Andhra Pradesh, by targeting what?",
-    "options": ["Illegal wildlife trade", "Drug trafficking cartels", "Arms and IED smuggling networks", "Counterfeit currency rings"],
-    "correctAnswer": "Arms and IED smuggling networks"
+    "question": "What phenomenon is primarily cited by IMD for the downgraded monsoon rain forecast, impacting states reliant on agriculture like AP and Telangana?",
+    "options": ["La Niña", "Arctic Oscillation", "El Niño", "Indian Ocean Dipole"],
+    "correctAnswer": "El Niño"
   },
   {
     "id": 25,
-    "question": "The National Investigation Agency (NIA) is actively working to curb security threats across the country. The recent raids targeted which specific type of criminal activity?",
-    "options": ["Cyber fraud", "Human trafficking", "Arms and IED smuggling", "Online gambling"],
-    "correctAnswer": "Arms and IED smuggling"
+    "question": "The India Meteorological Department (IMD) recently downgraded the monsoon rain forecast to what percentage of long-period average, impacting states like AP and Telangana?",
+    "options": ["80%", "90%", "95%", "100%"],
+    "correctAnswer": "90%"
   }
 ]
