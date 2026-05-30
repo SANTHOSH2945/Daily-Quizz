@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Which initiative aims to make educational institutions in states like Telangana and Andhra Pradesh tobacco-free?",
-    "options": ["Swachh Vidyalaya Abhiyan", "Tobacco-Free India Campaign", "Tobacco-Free Educational Institutions (TFEI) compliance app", "National Health Mission"],
-    "correctAnswer": "Tobacco-Free Educational Institutions (TFEI) compliance app"
+    "question": "Which prominent politician from Telangana criticized what he termed a 'double standard' regarding religious practices, citing Article 25 of the Constitution?",
+    "options": ["K. Chandrashekar Rao", "N. Chandrababu Naidu", "Asaduddin Owaisi", "Y. S. Jagan Mohan Reddy"],
+    "correctAnswer": "Asaduddin Owaisi"
   },
   {
     "id": 2,
-    "question": "What kind of tool is being introduced to ensure compliance with tobacco-free norms in Indian schools and colleges, including those in AP and Telangana?",
-    "options": ["A new legislation", "A mobile application", "A dedicated task force", "A public awareness campaign"],
-    "correctAnswer": "A mobile application"
+    "question": "Rahul Gandhi recently criticized Prime Minister Modi over the paper leak of which national examination, leading to the Centre gearing up for a retest?",
+    "options": ["JEE Main", "UPSC Civil Services", "NEET UG", "CLAT"],
+    "correctAnswer": "NEET UG"
   },
   {
     "id": 3,
-    "question": "What is the primary objective of the new compliance app for schools and colleges across India, affecting states like AP and Telangana?",
-    "options": ["To track student attendance", "To monitor tobacco-free zones", "To facilitate online admissions", "To manage school finances"],
-    "correctAnswer": "To monitor tobacco-free zones"
+    "question": "According to recent news, what new health challenge is surging in India despite nutrition gains, representing a significant concern?",
+    "options": ["Malaria and Dengue", "Obesity and Diabetes", "Tuberculosis and Leprosy", "Malnutrition and Anemia"],
+    "correctAnswer": "Obesity and Diabetes"
   },
   {
     "id": 4,
-    "question": "According to recent data mentioned in the news, what percentage of deliveries in private hospitals across India, including states like Andhra Pradesh and Telangana, are through C-section?",
-    "options": ["25%", "54%", "70%", "88%"],
-    "correctAnswer": "54%"
+    "question": "Which two Indian agencies recently joined hands to counter drone threats at the country's airports?",
+    "options": ["Border Security Force (BSF) and Central Reserve Police Force (CRPF)", "Central Industrial Security Force (CISF) and Army", "National Disaster Response Force (NDRF) and State Disaster Response Force (SDRF)", "Research and Analysis Wing (RAW) and Intelligence Bureau (IB)"],
+    "correctAnswer": "Central Industrial Security Force (CISF) and Army"
   },
   {
     "id": 5,
-    "question": "The Family Health Survey highlighted a high rate of C-sections in private hospitals. Which state was specifically mentioned for having a figure as high as 88%?",
-    "options": ["Kerala", "Andhra Pradesh", "West Bengal", "Telangana"],
-    "correctAnswer": "West Bengal"
+    "question": "The US Defence Secretary Pete Hegseth recently lauded India's military modernization and strategic importance in which specific region?",
+    "options": ["Middle East", "Indo-Pacific", "Arctic", "Atlantic"],
+    "correctAnswer": "Indo-Pacific"
   },
   {
     "id": 6,
-    "question": "What type of survey recently revealed insights into delivery methods in Indian hospitals, affecting healthcare trends in states like AP and Telangana?",
-    "options": ["National Family Health Survey (NFHS)", "Annual Health Survey (AHS)", "Sample Registration System (SRS)", "District Level Household Survey (DLHS)"],
-    "correctAnswer": "National Family Health Survey (NFHS)"
+    "question": "Which specific munition was mentioned for co-production initiatives between the US and India to enhance collective readiness?",
+    "options": ["Akash Missiles", "Javelin munitions", "BrahMos Missiles", "Pinaka Rockets"],
+    "correctAnswer": "Javelin munitions"
   },
   {
     "id": 7,
-    "question": "From which year will CBSE schools in India, including those in Telangana and Andhra Pradesh, see scanned answer sheets being uploaded?",
-    "options": ["2025", "2026", "2027", "2028"],
-    "correctAnswer": "2027"
+    "question": "India recently rushed to evacuate 13 Indian-flagged vessels from which volatile strait due to a deepening Gulf crisis?",
+    "options": ["Strait of Malacca", "Strait of Hormuz", "Bering Strait", "Strait of Gibraltar"],
+    "correctAnswer": "Strait of Hormuz"
   },
   {
     "id": 8,
-    "question": "Which educational board announced its plan to upload scanned answer sheets starting from 2027, impacting students in AP and Telangana?",
-    "options": ["State Board of Secondary Education", "Indian Certificate of Secondary Education (ICSE)", "National Institute of Open Schooling (NIOS)", "Central Board of Secondary Education (CBSE)"],
-    "correctAnswer": "Central Board of Secondary Education (CBSE)"
+    "question": "Which Ministry's Director was quoted regarding India's priority operation to evacuate ships from the Strait of Hormuz?",
+    "options": ["Ministry of External Affairs", "Ministry of Defence", "Ministry of Ports, Shipping and Waterways", "Ministry of Home Affairs"],
+    "correctAnswer": "Ministry of Ports, Shipping and Waterways"
   },
   {
     "id": 9,
-    "question": "What new measure is CBSE implementing from 2027 regarding answer sheets, a change that will affect students in states like AP and Telangana?",
-    "options": ["Providing physical copies to students", "Uploading scanned answer sheets online", "Disposing of answer sheets immediately", "Implementing a re-evaluation only system"],
-    "correctAnswer": "Uploading scanned answer sheets online"
+    "question": "Among the 13 Indian-flagged vessels evacuated from the Strait of Hormuz, what type of tanker was specifically mentioned as one of them?",
+    "options": ["Chemical tanker", "Crude oil tanker", "Oil product tanker", "LPG tanker"],
+    "correctAnswer": "LPG tanker"
   },
   {
     "id": 10,
-    "question": "The Supreme Court recently commented on the NEET paper leak, emphasizing the need to fix responsibility. Which national entrance examination was the focus of this comment, affecting students from AP and Telangana?",
-    "options": ["JEE Main", "NEET", "CLAT", "UPSC Civil Services Exam"],
-    "correctAnswer": "NEET"
+    "question": "Who did Rahul Gandhi accuse of personally supervising the integrity of the NEET UG exam amidst the paper leak controversy?",
+    "options": ["The Education Minister", "The NTA Director", "Prime Minister Modi", "The Supreme Court Chief Justice"],
+    "correctAnswer": "Prime Minister Modi"
   },
   {
     "id": 11,
-    "question": "The Supreme Court suggested that which national body should learn from UPSC regarding holding exams, in the context of recent paper leaks impacting students nationwide, including AP and Telangana?",
-    "options": ["Central Board of Secondary Education (CBSE)", "National Testing Agency (NTA)", "University Grants Commission (UGC)", "All India Council for Technical Education (AICTE)"],
-    "correctAnswer": "National Testing Agency (NTA)"
+    "question": "Following the NEET UG paper leak controversy, what action did the NTA detail to the Supreme Court to prevent future irregularities?",
+    "options": ["Cancelling the exam permanently", "Implementing extensive security reforms and new safeguards", "Handing over the case to the CBI", "Increasing exam fees"],
+    "correctAnswer": "Implementing extensive security reforms and new safeguards"
   },
   {
     "id": 12,
-    "question": "What type of incident in the NEET examination prompted the Supreme Court to call for accountability?",
-    "options": ["Delays in result declaration", "Irregularities in question patterns", "Paper leak", "High examination fees"],
-    "correctAnswer": "Paper leak"
+    "question": "RSS Prachar Pramukh Sunil Ambekar emphasized that open debate and differing views are normal in what kind of society?",
+    "options": ["Autocratic society", "Monarchy", "Democratic society", "Theocratic society"],
+    "correctAnswer": "Democratic society"
   },
   {
     "id": 13,
-    "question": "The Supreme Court recently made a decision regarding a fresh probe into animal transfers at a facility. What is the highest judicial body in India that makes such rulings, impacting law nationwide and applicable to states like AP and Telangana?",
-    "options": ["High Courts", "District Courts", "Supreme Court", "National Green Tribunal"],
-    "correctAnswer": "Supreme Court"
+    "question": "What did RSS Prachar Pramukh Sunil Ambekar state regarding Gen Z's overall sentiment towards India?",
+    "options": ["They are indifferent", "They have tremendous faith in India", "They are highly critical", "They are disillusioned"],
+    "correctAnswer": "They have tremendous faith in India"
   },
   {
     "id": 14,
-    "question": "According to recent data from 2024, what percentage of births in India were first-borns, reflecting demographic trends impacting states like AP and Telangana?",
-    "options": ["33%", "50%", "66%", "80%"],
-    "correctAnswer": "66%"
+    "question": "In Moscow, India and Russia recently reviewed cooperation in which two key areas as National Security Advisor Doval met Patrushev?",
+    "options": ["Agriculture and Education", "Space and Information Technology", "Defence and Maritime", "Tourism and Culture"],
+    "correctAnswer": "Defence and Maritime"
   },
   {
     "id": 15,
-    "question": "Recent data on birth spacing in India indicates that for the majority, the gap between births is now approximately how many months? (This trend applies to states like AP and Telangana).",
-    "options": ["12 months", "24 months", "36 months", "48 months"],
-    "correctAnswer": "36 months"
+    "question": "Who represented India in the recent meeting with Patrushev in Moscow to review defence and maritime cooperation?",
+    "options": ["External Affairs Minister S. Jaishankar", "Defence Minister Rajnath Singh", "National Security Advisor Ajit Doval", "Finance Minister Nirmala Sitharaman"],
+    "correctAnswer": "National Security Advisor Ajit Doval"
   },
   {
     "id": 16,
-    "question": "Which Indian state was mentioned in the news as topping the charts for specific birth-related statistics in 2024, particularly regarding birth spacing?",
-    "options": ["Telangana", "Kerala", "Andhra Pradesh", "Tamil Nadu"],
-    "correctAnswer": "Kerala"
+    "question": "According to recent news, what kind of pitches are AI giants making in India?",
+    "options": ["Cultural exchange pitches", "Aggressive investment pitches", "Academic research pitches", "Philanthropic aid pitches"],
+    "correctAnswer": "Aggressive investment pitches"
   },
   {
     "id": 17,
-    "question": "The Supreme Court mandated a time limit for High Courts, including the High Courts of Telangana and Andhra Pradesh, to pronounce judgments after reserving verdicts. What is this time limit?",
-    "options": ["1 month", "3 months", "6 months", "12 months"],
-    "correctAnswer": "3 months"
+    "question": "Which article of the Indian Constitution was cited by AIMIM chief Asaduddin Owaisi in his criticism regarding religious practices, emphasizing equal application of restrictions?",
+    "options": ["Article 14", "Article 19", "Article 25", "Article 32"],
+    "correctAnswer": "Article 25"
   },
   {
     "id": 18,
-    "question": "Which judicial body recently issued a directive to High Courts across India, including those in Telangana and Andhra Pradesh, regarding the promptness of judgment pronouncement?",
-    "options": ["Parliament", "President of India", "Supreme Court", "Ministry of Law and Justice"],
-    "correctAnswer": "Supreme Court"
+    "question": "What is the name of the US Defence Secretary who recently lauded India's military modernization and strategic importance?",
+    "options": ["Lloyd Austin", "Pete Hegseth", "James Mattis", "Mark Esper"],
+    "correctAnswer": "Pete Hegseth"
   },
   {
     "id": 19,
-    "question": "What new directive affects the High Courts of Telangana and Andhra Pradesh regarding the timeline for delivering judgments after conclusion of arguments?",
-    "options": ["Judgments must be translated into regional languages.", "Judgments must be delivered within a specific timeframe.", "Judgments must be peer-reviewed before pronouncement.", "Judgments can only be delivered in open court."],
-    "correctAnswer": "Judgments must be delivered within a specific timeframe."
+    "question": "The US is pursuing co-production initiatives with India, such as for Javelin munitions, primarily to enhance what?",
+    "options": ["Economic ties", "Collective readiness", "Cultural exchange", "Technological research"],
+    "correctAnswer": "Collective readiness"
   },
   {
     "id": 20,
-    "question": "Which agency's chief vowed to bring a logical end to the NEET probe, a matter of concern for students in AP and Telangana?",
-    "options": ["Enforcement Directorate (ED)", "National Investigation Agency (NIA)", "Central Bureau of Investigation (CBI)", "Intelligence Bureau (IB)"],
-    "correctAnswer": "Central Bureau of Investigation (CBI)"
+    "question": "What was the explicit 'priority' stated by Opesh Kumar Sharma, Director at the Ministry of Ports, Shipping and Waterways, regarding Indian ships in the Strait of Hormuz?",
+    "options": ["To increase trade routes", "To get our ships out", "To monitor maritime traffic", "To deliver humanitarian aid"],
+    "correctAnswer": "To get our ships out"
   },
   {
     "id": 21,
-    "question": "What solution did the National Testing Agency (NTA) propose to curb future paper leaks in exams like NEET, which are taken by students from states like AP and Telangana?",
-    "options": ["Increasing security at physical examination centers", "Implementing a computer-based test format", "Reducing the number of examination centers", "Conducting exams in multiple shifts"],
-    "correctAnswer": "Implementing a computer-based test format"
+    "question": "Which body, while hearing the NEET UG paper leak case, expressed significant concern for students?",
+    "options": ["The National Testing Agency (NTA)", "The Ministry of Education", "The apex court", "The CBI"],
+    "correctAnswer": "The apex court"
   },
   {
     "id": 22,
-    "question": "What specific type of examination format is NTA advocating to prevent paper leaks in national tests like NEET, a change that would impact students from Telangana and Andhra Pradesh?",
-    "options": ["Pen and paper tests", "Optical Mark Recognition (OMR) sheets", "Computer-based tests", "Verbal interviews"],
-    "correctAnswer": "Computer-based tests"
+    "question": "According to RSS Prachar Pramukh Sunil Ambekar, what attributes allow India's institutions and political parties to handle discussions independently?",
+    "options": ["A weak media and limited public discourse", "An unaware populace and controlled elections", "Transparent elections, free media, and active public discourse", "A restricted internet and centralized decision-making"],
+    "correctAnswer": "Transparent elections, free media, and active public discourse"
   },
   {
     "id": 23,
-    "question": "According to the IMD's downgraded forecast, what is the estimated chance of a deficient monsoon in India, which would significantly impact agriculture in states like Andhra Pradesh and Telangana?",
-    "options": ["20%", "40%", "60%", "80%"],
-    "correctAnswer": "60%"
+    "question": "What specific aspect of maritime cooperation, besides shipbuilding and defence collaboration, was discussed by Doval and Patrushev for operations in polar waters?",
+    "options": ["Underwater archaeology", "Training of sailors", "Deep-sea mining", "Marine biology research"],
+    "correctAnswer": "Training of sailors"
   },
   {
     "id": 24,
-    "question": "What phenomenon is primarily cited by IMD for the downgraded monsoon rain forecast, impacting states reliant on agriculture like AP and Telangana?",
-    "options": ["La Niña", "Arctic Oscillation", "El Niño", "Indian Ocean Dipole"],
-    "correctAnswer": "El Niño"
+    "question": "US Defence Secretary Pete Hegseth praised India's growing industrial capacity for what specific type of operations?",
+    "options": ["Humanitarian aid operations", "High-end military operations", "Space exploration operations", "Environmental conservation operations"],
+    "correctAnswer": "High-end military operations"
   },
   {
     "id": 25,
-    "question": "The India Meteorological Department (IMD) recently downgraded the monsoon rain forecast to what percentage of long-period average, impacting states like AP and Telangana?",
-    "options": ["80%", "90%", "95%", "100%"],
-    "correctAnswer": "90%"
+    "question": "Who is the Director at the Ministry of Ports, Shipping and Waterways quoted in the news regarding the evacuation of Indian-flagged vessels?",
+    "options": ["Ajit Doval", "Sunil Ambekar", "Opesh Kumar Sharma", "Pete Hegseth"],
+    "correctAnswer": "Opesh Kumar Sharma"
   }
 ]
