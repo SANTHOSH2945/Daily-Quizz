@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Who was unanimously elected as the Congress Legislature Party (CLP) leader in Karnataka, according to recent news?",
-    "options": ["Siddaramaiah", "Rahul Gandhi", "DK Shivakumar", "Mallikarjun Kharge"],
-    "correctAnswer": "DK Shivakumar"
+    "question": "The National Medical Commission (NMC) has proposed a maximum time limit for completing the MBBS course in India. What is this proposed duration?",
+    "options": ["7 years", "8 years", "9 years", "10 years"],
+    "correctAnswer": "10 years"
   },
   {
     "id": 2,
-    "question": "Which state recently saw DK Shivakumar stake his claim to form the government?",
-    "options": ["Telangana", "Andhra Pradesh", "Karnataka", "Kerala"],
-    "correctAnswer": "Karnataka"
+    "question": "According to the NMC's draft amendment for MBBS regulations, how many attempts are retained for students in the first year of the program?",
+    "options": ["Two", "Three", "Four", "Five"],
+    "correctAnswer": "Four"
   },
   {
     "id": 3,
-    "question": "According to the provided news, on what specific date was DK Shivakumar expected to be sworn in as Chief Minister?",
-    "options": ["June 1st", "June 3rd", "May 30th", "June 5th"],
-    "correctAnswer": "June 3rd"
+    "question": "Which regulatory body in India, overseeing medical education and practice across states including Telangana and Andhra Pradesh, recently proposed a time limit for MBBS completion?",
+    "options": ["Medical Council of India (MCI)", "University Grants Commission (UGC)", "National Medical Commission (NMC)", "All India Council for Technical Education (AICTE)"],
+    "correctAnswer": "National Medical Commission (NMC)"
   },
   {
     "id": 4,
-    "question": "Which political party did DK Shivakumar represent when he was elected CLP leader in Karnataka?",
-    "options": ["Bharatiya Janata Party (BJP)", "Janata Dal (Secular) (JDS)", "Indian National Congress", "Aam Aadmi Party (AAP)"],
-    "correctAnswer": "Indian National Congress"
+    "question": "The proposed 10-year time limit for MBBS completion would apply to medical students across India. This initiative by the NMC aims to streamline which aspect of medical education?",
+    "options": ["Curriculum content", "Admission process", "Course duration and progression", "Internship guidelines"],
+    "correctAnswer": "Course duration and progression"
   },
   {
     "id": 5,
-    "question": "What was DK Shivakumar's initial reaction upon being elected as the CLP leader in Karnataka, as stated in the news?",
-    "options": ["Confident", "Humbled", "Determined", "Excited"],
-    "correctAnswer": "Humbled"
+    "question": "The draft amendment by the National Medical Commission addresses limitations on attempts and overall duration for which professional course in India?",
+    "options": ["BDS", "B.Tech", "MBBS", "B.Sc Nursing"],
+    "correctAnswer": "MBBS"
   },
   {
     "id": 6,
-    "question": "What key position was DK Shivakumar elected to, which empowered him to stake claim to form the government in Karnataka?",
-    "options": ["Speaker of Assembly", "Deputy Chief Minister", "Congress Legislature Party leader", "State Party President"],
-    "correctAnswer": "Congress Legislature Party leader"
+    "question": "What key regulatory change impacting MBBS students in institutions throughout India, including Telangana and Andhra Pradesh, has been proposed by the NMC?",
+    "options": ["Introduction of a new entrance exam", "Cap on tuition fees", "A 10-year limit for course completion", "Mandatory rural service after graduation"],
+    "correctAnswer": "A 10-year limit for course completion"
   },
   {
     "id": 7,
-    "question": "To whom did DK Shivakumar formally stake his claim to form the government in Karnataka?",
-    "options": ["The President of India", "The Prime Minister", "The Governor of Karnataka", "The Chief Election Commissioner"],
-    "correctAnswer": "The Governor of Karnataka"
+    "question": "The National Medical Commission's draft amendment mentions a cap on attempts specifically for which part of the MBBS program?",
+    "options": ["Final year", "Second year", "First year", "Pre-final year"],
+    "correctAnswer": "First year"
   },
   {
     "id": 8,
-    "question": "The news implies that the Congress party was forming what kind of government in Karnataka?",
-    "options": ["Coalition government", "Minority government", "Care-taker government", "Majority government"],
-    "correctAnswer": "Majority government"
+    "question": "Which of the following is a primary objective behind the NMC's proposal to introduce a time limit for MBBS completion, impacting medical colleges in states like Telangana and Andhra Pradesh?",
+    "options": ["To increase the number of medical seats", "To ensure timely completion and quality of medical graduates", "To reduce the cost of medical education", "To promote foreign medical degrees"],
+    "correctAnswer": "To ensure timely completion and quality of medical graduates"
   },
   {
     "id": 9,
-    "question": "In the CLP meeting in Karnataka, whose name was also proposed and seconded, according to the news, despite DK Shivakumar's election?",
-    "options": ["Siddaramaiah", "Priyanka Gandhi", "Sonia Gandhi", "M. Kharge"],
-    "correctAnswer": "Siddaramaiah"
+    "question": "The proposed 10-year limit for MBBS completion is a significant policy update from the NMC. This regulation would be uniformly applied to all medical institutions under its purview, which include those in which two major South Indian states?",
+    "options": ["Kerala and Tamil Nadu", "Karnataka and Goa", "Telangana and Andhra Pradesh", "Odisha and West Bengal"],
+    "correctAnswer": "Telangana and Andhra Pradesh"
   },
   {
     "id": 10,
-    "question": "DK Shivakumar expressed his commitment to serving which entity with dedication after his election?",
-    "options": ["His party", "The nation", "The state of Karnataka", "His constituency"],
-    "correctAnswer": "The state of Karnataka"
+    "question": "The National Medical Commission (NMC) is the apex body for medical education in India. Its recent proposal for MBBS duration guidelines is part of its mandate to ensure standardized quality in which field?",
+    "options": ["Engineering Education", "Medical Education", "Legal Education", "Agricultural Education"],
+    "correctAnswer": "Medical Education"
   },
   {
     "id": 11,
-    "question": "What does the abbreviation 'CLP' stand for in the context of the Karnataka political news?",
-    "options": ["Chief Legal Party", "Congress Legislative Power", "Congress Legislature Party", "Central Leadership Panel"],
-    "correctAnswer": "Congress Legislature Party"
+    "question": "As per recent news, how many crore Indians have reportedly received digital health IDs under the ABHA initiative?",
+    "options": ["50 crore", "75 crore", "90 crore", "100 crore"],
+    "correctAnswer": "90 crore"
   },
   {
     "id": 12,
-    "question": "The news states that DK Shivakumar's election as CLP leader was characterized by what nature of decision?",
-    "options": ["Majority vote", "Narrow victory", "Unanimous decision", "Party High Command directive"],
-    "correctAnswer": "Unanimous decision"
+    "question": "ABHA, the digital health ID system that recently crossed a major milestone, stands for what?",
+    "options": ["Ayushman Bharat Health Account", "All India Health Access", "Andhra Bharat Health Alliance", "Advanced Biomedical Health Analytics"],
+    "correctAnswer": "Ayushman Bharat Health Account"
   },
   {
     "id": 13,
-    "question": "The formation of a new Congress government is a significant political development in which prominent South Indian state?",
-    "options": ["Tamil Nadu", "Kerala", "Karnataka", "Goa"],
-    "correctAnswer": "Karnataka"
+    "question": "The issuance of 90 crore digital health IDs is a major milestone for which national digital health initiative in India, serving citizens including those in Telangana and Andhra Pradesh?",
+    "options": ["Swachh Bharat Abhiyan", "Digital India", "Ayushman Bharat Digital Mission", "National Health Mission"],
+    "correctAnswer": "Ayushman Bharat Digital Mission"
   },
   {
     "id": 14,
-    "question": "The news about DK Shivakumar's election and government formation pertains to the aftermath of which type of elections in Karnataka?",
-    "options": ["Lok Sabha Elections", "Rajya Sabha Elections", "State Assembly Elections", "Local Body Elections"],
-    "correctAnswer": "State Assembly Elections"
+    "question": "What is the primary benefit of the ABHA digital health ID for individuals in India, including those residing in Telangana and Andhra Pradesh?",
+    "options": ["Free medical treatment", "Digital access to personal health records", "Discount on medicines", "Access to government job schemes"],
+    "correctAnswer": "Digital access to personal health records"
   },
   {
     "id": 15,
-    "question": "What was the primary formal action taken by DK Shivakumar immediately after being elected CLP leader?",
-    "options": ["Announcing cabinet ministers", "Meeting the President", "Staking claim to form the government", "Starting public rallies"],
-    "correctAnswer": "Staking claim to form the government"
+    "question": "The ABHA initiative is part of India's larger vision to create a comprehensive digital ecosystem for which sector?",
+    "options": ["Education", "Agriculture", "Finance", "Healthcare"],
+    "correctAnswer": "Healthcare"
   },
   {
     "id": 16,
-    "question": "In the context of the Karnataka elections, which political party secured a majority leading to the formation of its government?",
-    "options": ["BJP", "Janata Dal (Secular)", "Congress", "Aam Aadmi Party"],
-    "correctAnswer": "Congress"
+    "question": "The news highlights a significant achievement in the number of digital health IDs issued. This signifies the growing adoption of digital solutions in public services across all states, including Telangana and Andhra Pradesh, under which national program?",
+    "options": ["Make in India", "Skill India", "Digital India", "Clean India"],
+    "correctAnswer": "Digital India"
   },
   {
     "id": 17,
-    "question": "The news highlights the conclusion of the Congress Legislature Party meeting where a key leadership decision was made for which state?",
-    "options": ["Maharashtra", "Gujarat", "Karnataka", "Rajasthan"],
-    "correctAnswer": "Karnataka"
+    "question": "Which specific milestone was recently achieved by the ABHA digital health ID program?",
+    "options": ["Launch in all districts", "Integration with all hospitals", "90 crore IDs issued", "Universal health coverage achieved"],
+    "correctAnswer": "90 crore IDs issued"
   },
   {
     "id": 18,
-    "question": "What prominent role was DK Shivakumar slated to assume on June 3rd, according to the provided news?",
-    "options": ["Speaker", "Chief Minister", "Leader of Opposition", "Union Minister"],
-    "correctAnswer": "Chief Minister"
+    "question": "For a resident of Hyderabad, Telangana, obtaining an ABHA ID primarily facilitates what?",
+    "options": ["Faster passport processing", "Seamless access to digital health services nationwide", "Reduced income tax", "Priority in government housing schemes"],
+    "correctAnswer": "Seamless access to digital health services nationwide"
   },
   {
     "id": 19,
-    "question": "The act of 'staking claim to form the government' typically involves an elected leader meeting which constitutional head of the state?",
-    "options": ["Chief Justice", "Chief Secretary", "Director General of Police", "Governor"],
-    "correctAnswer": "Governor"
+    "question": "The success of the ABHA digital health ID program in reaching 90 crore Indians demonstrates the government's commitment to which long-term goal in healthcare?",
+    "options": ["Privatization of healthcare", "Digital transformation of healthcare delivery", "Focus on traditional medicine only", "Decentralization of health infrastructure"],
+    "correctAnswer": "Digital transformation of healthcare delivery"
   },
   {
     "id": 20,
-    "question": "Which one of India's major national political parties recently formed the government in the state of Karnataka?",
-    "options": ["Bahujan Samaj Party", "Communist Party of India (Marxist)", "Indian National Congress", "Nationalist Congress Party"],
-    "correctAnswer": "Indian National Congress"
+    "question": "The ABHA digital health ID is a unique identifier provided to individuals for accessing and sharing their health records digitally. This system is a core component of the efforts to improve healthcare accessibility and efficiency in states like Telangana and Andhra Pradesh, and is overseen by which central ministry?",
+    "options": ["Ministry of Finance", "Ministry of Health and Family Welfare", "Ministry of Home Affairs", "Ministry of Education"],
+    "correctAnswer": "Ministry of Health and Family Welfare"
   },
   {
     "id": 21,
-    "question": "The news about DK Shivakumar's actions implies a successful electoral outcome for which party in the Karnataka Assembly elections?",
-    "options": ["BJP", "JDS", "Congress", "AIMIM"],
-    "correctAnswer": "Congress"
+    "question": "India recently confirmed testing an advanced Agni missile equipped with which specific technology, distinct from the Agni-6 misrepresentation?",
+    "options": ["Stealth technology", "Anti-satellite capability", "MIRV technology", "Hypersonic glide vehicle"],
+    "correctAnswer": "MIRV technology"
   },
   {
     "id": 22,
-    "question": "DK Shivakumar's statement about serving 'with dedication' was directed towards the welfare of the people of which state?",
-    "options": ["Tamil Nadu", "Andhra Pradesh", "Karnataka", "Telangana"],
-    "correctAnswer": "Karnataka"
+    "question": "The Agni series of missiles forms a crucial part of India's strategic defense capabilities. These missiles are primarily developed by which organization, with significant research and development facilities including those in Telangana?",
+    "options": ["Indian Space Research Organisation (ISRO)", "Hindustan Aeronautics Limited (HAL)", "Defence Research and Development Organisation (DRDO)", "Bharat Dynamics Limited (BDL)"],
+    "correctAnswer": "Defence Research and Development Organisation (DRDO)"
   },
   {
     "id": 23,
-    "question": "The political developments surrounding DK Shivakumar's new role took place after the results of which state's general elections?",
-    "options": ["Uttar Pradesh", "Bihar", "Karnataka", "West Bengal"],
-    "correctAnswer": "Karnataka"
+    "question": "What does MIRV technology, confirmed in India's advanced Agni missile test, enable a single missile to do?",
+    "options": ["Fly at supersonic speeds", "Carry multiple warheads to different targets", "Operate underwater", "Be undetectable by radar"],
+    "correctAnswer": "Carry multiple warheads to different targets"
   },
   {
     "id": 24,
-    "question": "What was the main outcome of the Congress Legislature Party meeting as reported in the news regarding Karnataka?",
-    "options": ["Election of a new Speaker", "Formation of an alliance", "Election of the CLP leader", "Vote of no confidence"],
-    "correctAnswer": "Election of the CLP leader"
+    "question": "The recent news surrounding India's Agni missile technology highlights its focus on enhancing which aspect of its defense arsenal?",
+    "options": ["Naval warfare", "Aerial surveillance", "Strategic deterrence", "Cyber security"],
+    "correctAnswer": "Strategic deterrence"
   },
   {
     "id": 25,
-    "question": "In the context of Indian state politics, what does 'staking claim to form the government' primarily signify?",
-    "options": ["Demanding a recount of votes", "Announcing the dissolution of the assembly", "Formally notifying the Governor of having majority support", "Protesting election results"],
-    "correctAnswer": "Formally notifying the Governor of having majority support"
+    "question": "Which city, a major hub for defense research and development in Telangana, plays a significant role in India's advanced missile programs like the Agni series?",
+    "options": ["Visakhapatnam", "Chennai", "Bengaluru", "Hyderabad"],
+    "correctAnswer": "Hyderabad"
   }
 ]
